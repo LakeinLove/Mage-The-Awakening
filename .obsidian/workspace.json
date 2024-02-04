@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Game Lore/Supernal Realms/Arcadia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Game Lore/Supernal Realms/Arcadia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Game Lore/Supernal Realms/Arcadia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md"
+                "file": "Game Lore/Supernal Realms/Arcadia.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "2fea08332ccb4ce7",
   "lastOpenFiles": [
-    "Game Lore/Attributes/Composure.md",
+    "Game Lore/Magic/Arcana/Death.md",
     "Character Creation/A Brief History Lesson of Questionable Truth.md",
+    "Game Lore/Attributes/Composure.md",
     "Character Creation/The Modern World.md",
     "Character Creation/Awakening.md",
     "Game Lore/Magic/The Paths/Thyrsus.md",
@@ -157,7 +158,6 @@
     "Game Lore/Magic/The Paths/Moros.md",
     "Game Lore/Magic/The Paths/Mastigos.md",
     "Game Lore/Magic/The Paths/Acanthus.md",
-    "Game Lore/Magic/Arcana/Death.md",
     "Game Lore/Magic/Arcana/Time.md",
     "Game Lore/Magic/Watchtowers/Watchtower of Lunargent Thorn.md",
     "Game Lore/Magic/Watchtowers/Watchtower of the Golden Key.md",

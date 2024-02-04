@@ -1,3 +1,8 @@
+---
+aliases:
+  - Fae Realm
+---
+
 Arcadia is the nascent plane of the [[Watchtower of Lunargent Thorn]] and mages of the path of [[Acanthus]].
 
 It is a realm of enchantment, a glamour of intense beauty or horrific ugliness coats every entity in its supernal visage. There are extremes of every kind, but rarely any compromise, and absolutely no moderation.
