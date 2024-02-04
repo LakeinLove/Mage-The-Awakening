@@ -4,17 +4,21 @@ The Higher Realm, a place of magic, spirit, and the immaterial, and The Lower Re
 Souls would manifest in the realm above, and in order to learn about the world itself they would descend to bodies made of flesh and bone, shedding their celestial raiment and become mortal.
 These Souls would live as a mortal, grow, and eventually die, whereupon the soul would regain its divinity and return to the Realm Supernal to process and learn from the experience, improving itself and the worlds as a whole. Eventually, it would dive again, to live, to experience, and taking a small amount of its wisdom with it each time, as a reward to help the world below.
 
-This resulted in people eventually becoming capable of spiritual sojourns to the celestial realm with some frequency, an act of mastery no doubt, but one that could be attained by any who worked toward it. Connecting their souls to the Higher Realm and gaining a limited yet singular ability to change reality to match their will. Thus, magic was grasped.
+This resulted in people eventually becoming capable of spiritual sojourns to the celestial realm with some frequency, an act of mastery no doubt, but one that could be attained by any who worked toward it. Connecting their souls to the Higher Realm and gaining a limited yet singular ability to change reality to match their will. Magic.
 
 The First Great City eventually emerged, a place of particularly strong Supernal Resonance where masses of enlightened individuals gathered to study, share, and further their knowledge of this beautiful art.
 
-Sadly, the lower realm was host to the corruption inherent in ignorance, and eventually the selfish desires present only in this realm began to overwhelm the sense given from their ancient souls.
-The First Mage War was sparked from growing hostilities, as those who wished to claim more power in this world fought against those who wished to respect the cycle that we all experience.
-The ones who began the dissent were those who found the ideas of immortality and omnipotence, the denial of all one is, to be horrific. They could not bare to see their colleagues and family seek to become gods over the masses rather than bring the gifts they had attained to them.
+Sadly, the lower realm while host to curiosity and wonder, the home of the corruption inherent in ignorance, and eventually the selfish desires present only in this realm began to overwhelm the sense given from their ancient souls.
+The Exarchs, mages who were not content in attaining knowledge and understanding of the world and themselves, sought to ascend themselves above others and claim the power of dominion over reality for themselves.
+It did not start suddenly, but as the desire for growth and self-improvement turned into the desire to shed the fundamental elements of existence, so did the hostility towards the unascended. Factions within the city formed, divided between the Exarchs as a single unified front, and the other factions who believed in preserving what it means to be human, while one uplifts themselves.
 
-Their defeat was narrow, but not wanting to spill more blood in a vain attempt at curbing this egomaniacal trend emerging in the First City, the dissenters accepted their exile as they fled, hoping to educate others to not succumb to hubris.
+These differences grew, and as the Exarchs were the most populous faction, in the end their ideas began to push forward in the city. Research of Immortality, Omnipotence, and greater forms of subjugation of those without magic eventually pushed the dissenting groups into action. They rebelled, sparking the First Mage War as those who wished to preserve what it means to be people, to guide and help the unascended just as they themselves were helped were forced into action against those who would deny all but their own wills. 
 
-The victors, those who would later be known as Exarchs, began their ultimate spell: The Celestial Ladder.
+The fighting was fierce, vicious combat erupted across the city as families warred with families, daughters against sons. It was a close and devastating fight, as the world was rent asunder by the power the mages turned upon their opponents. The result became clear fairly early, and due to some wise commanding by the more iconoclastic among the dissenters they managed to retreat before the Exarchs had the chance to slaughter them as the fight continued.
+
+The retreat was swift as the defeated mages spread across the world to teach others of the hubris of the First City. They were divided, defeated, but not eliminated, and could still help to uplift those mortals into enlightenment.
+
+The victors, those who would later be known as Exarchs, began to work their ultimate spell: The Celestial Ladder. A spell requiring every resource and mage in the city, and it is rumoured it took nearly 30 years of continuous casting to manifest.
 A literal stairway to the Supernal Realm, a path to true godhood and control of the world ruptured the delicate balance between the realms as it split a heretical skein through the narrow Abyss and allowed the Exarchs to begin their reign in the thrones Supernal.
 
 At their apotheosis, mages across the world felt the imbalance as mortal beings entered the higher realms, destabilizing the world and threatening to impose a warped order upon the lower realm.

@@ -21,9 +21,9 @@ These dreams features are all interpretive, every element and aspect filtered th
 ### Mystery Play
 The Mystery Play is a "waking dream" where the seeker experiences the real world as a dream. People and places become stranger, taking roles as if in a dream. A server at Hungry Jacks appearing to be a radiant angel, bearing the ambrosia of the gods; a $1 slushie.
 
-For the Seeker, this becomes real, the ambrosia is truly divine, the cats in the alley truly giant alien bugs seeking to devour them, but only the Seeker can see this.The entire world becomes possibility, every action, every thing communicates deepest truths about the universe and the Seeker's relation to it.
+For the Seeker, this becomes real, the ambrosia is truly divine, the cats in the alley giant alien bugs seeking to devour them, but only the Seeker can see this. The entire world becomes possibility, every action, every thing communicates deepest truths about the universe and the Seeker's relation to it.
 
-This overlaid world is the Seeker's very soul, a part of their long-lost being that has been kept from them for so long. In the real world, they look like they're having the most insane trip of their lives. This reality is SO visceral in its verisimilitude that it is indistinguishable from normal, waking consciousness.
+This overlaid world is the Seeker's very soul, a part of their long-lost being that has been kept from them for so long. In the real world, they look like they're having the most insane trip of their lives. This reality is SO visceral in its verisimilitude that it is indistinguishable from the normal, waking consciousness.
 
 ---
 ## Watchtower Initiation

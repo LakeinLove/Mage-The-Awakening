@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/The Modern World.md",
+                "file": "Game Lore/Magic/The Paths/Thyrsus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/The Modern World.md",
+                "file": "Game Lore/Magic/The Paths/Thyrsus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/The Modern World.md",
+                "file": "Game Lore/Magic/The Paths/Thyrsus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/The Modern World.md"
+                "file": "Game Lore/Magic/The Paths/Thyrsus.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "2fea08332ccb4ce7",
   "lastOpenFiles": [
-    "Character Creation/Awakening.md",
-    "Character Creation/A Brief History Lesson of Questionable Truth.md",
-    "Game Lore/Supernal Realms/Arcadia.md",
-    "Game Lore/Magic/Arcana/Death.md",
-    "Game Lore/Attributes/Composure.md",
-    "Character Creation/The Modern World.md",
-    "Game Lore/Magic/The Paths/Thyrsus.md",
+    "Character Creation/~syncthing~A Brief History Lesson of Questionable Truth.md.tmp",
     "Game Lore/Magic/The Paths/Obrimos.md",
     "Game Lore/Magic/The Paths/Moros.md",
     "Game Lore/Magic/The Paths/Mastigos.md",
     "Game Lore/Magic/The Paths/Acanthus.md",
-    "Game Lore/Magic/Arcana/Time.md",
     "Game Lore/Magic/Watchtowers/Watchtower of Lunargent Thorn.md",
     "Game Lore/Magic/Watchtowers/Watchtower of the Golden Key.md",
-    "Game Lore/Magic/Watchtowers/Watchtower of the Iron Gauntlet.md",
-    "Game Lore/Magic/Watchtowers/Watchtower of the Stone Book.md",
-    "Game Lore/Magic/Watchtowers/Watchtower of Lead Coin.md",
-    "Game Lore/Supernal Realms/Stygia.md",
-    "Storyteller Guide",
-    "Game Lore/Supernal Realms/Primal Wild.md",
-    "Game Lore/Magic/Arcana/Fate.md",
-    "Character Creation/Session 0 Goals.md",
-    "Game Lore/Magic/Arcana/Spirit.md",
+    "Character Creation/Awakening.md",
+    "Game Lore/Magic/The Paths/Thyrsus.md",
+    "Game Lore/Supernal Realms/Arcadia.md",
     "Game Lore/Supernal Realms/Pandemonium.md",
+    "Game Lore/Supernal Realms/Stygia.md",
+    "Game Lore/Supernal Realms/Primal Wild.md",
     "Game Lore/Supernal Realms/Aether.md",
-    "Game Lore/The Soul.md",
+    "Game Lore/Magic/Watchtowers/Watchtower of the Stone Book.md",
+    "Game Lore/Magic/Watchtowers/Watchtower of the Iron Gauntlet.md",
+    "Game Lore/Magic/Watchtowers/Watchtower of Lead Coin.md",
+    "Game Lore/Magic/Arcana/Death.md",
+    "Game Lore/Magic/Arcana/Fate.md",
+    "Game Lore/Magic/Arcana/Forces.md",
+    "Game Lore/Magic/Arcana/Life.md",
+    "Game Lore/Magic/Arcana/Matter.md",
+    "Game Lore/Magic/Arcana/Mind.md",
+    "Game Lore/Magic/Arcana/Prime.md",
     "Game Lore/Magic/Arcana/Space.md",
+    "Game Lore/Magic/Arcana/Spirit.md",
+    "Storyteller Guide",
     "Game Lore/Attributes",
     "Game Lore/Magic/Arcana",
     "Game Lore/Supernal Realms",
