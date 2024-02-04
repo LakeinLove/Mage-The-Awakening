@@ -13,7 +13,7 @@ A distracted populace is a Sleeping populace, to let people explore the world an
 Capitalism, Imperialism, Slavery, Greed, Racial "science" and Horror are all tools of control, none invented by the Seers, but all used and kept in good standing by them.
 It takes little stoking of humanity to bring out the worst in us, like an owner can abuse a dog to become a monster that bites all who try to help.
 
-However, despite their atrocities and control, humans are beautiful. We love, we cherish, we are kind and loyal and sweet. We hate and fear just like we cry and smile.
+However, despite their insidious control, humans are beautiful. We love, we cherish, we are kind and loyal and sweet. We hate and fear just like we cry and smile.
 We. Are. Varied.
 
 We cannot be held down, not all of us and not even by the will of gods. Thus, we Awaken, regaining the sight we should have always had, and returning to a tiny sliver of our true selves.
