@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Character Creation/The Modern World.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Character Creation/The Modern World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md",
+                "file": "Character Creation/The Modern World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Creation/A Brief History Lesson of Questionable Truth.md"
+                "file": "Character Creation/The Modern World.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "2fea08332ccb4ce7",
   "lastOpenFiles": [
+    "Character Creation/Awakening.md",
+    "Character Creation/A Brief History Lesson of Questionable Truth.md",
     "Game Lore/Supernal Realms/Arcadia.md",
     "Game Lore/Magic/Arcana/Death.md",
-    "Character Creation/A Brief History Lesson of Questionable Truth.md",
     "Game Lore/Attributes/Composure.md",
     "Character Creation/The Modern World.md",
-    "Character Creation/Awakening.md",
     "Game Lore/Magic/The Paths/Thyrsus.md",
     "Game Lore/Magic/The Paths/Obrimos.md",
     "Game Lore/Magic/The Paths/Moros.md",
