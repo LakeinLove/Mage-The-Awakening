@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Game Lore/Magic/Practices/Disciple/Practice of Weaving.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Game Lore/Magic/Practices/Disciple/Practice of Weaving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Game Lore/Magic/Practices/Disciple/Practice of Weaving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md"
+                "file": "Game Lore/Magic/Practices/Disciple/Practice of Weaving.md"
               }
             }
           }
@@ -149,13 +149,19 @@
   },
   "active": "2fea08332ccb4ce7",
   "lastOpenFiles": [
+    "Game Lore/Magic/Practices/Disciple/Practice of Fraying.md",
+    "Game Lore/Magic/Practices/Disciple/Practice of Perfecting.md",
+    "Game Lore/Magic/Practices/Disciple/Practice of Weaving.md",
+    "Game Lore/Magic/Practices/The 13 Practices.md",
+    "Fraying.md",
+    "Practice of Patterning.md",
+    "Game Lore/Magic/Practices/Disciple",
+    "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md",
     "Game Lore/Magic/Practices/Apprentice/Practice of Ruling.md",
     "Game Lore/Magic/Practices/Initiate/Practice of Unveiling.md",
     "Game Lore/Magic/Practices/Initiate/Practice of Knowing.md",
     "Game Lore/Magic/Practices/Initiate/Practice of Compelling.md",
     "Game Lore/Magic/Practices/Apprentice/Practice of Shielding.md",
-    "Game Lore/Magic/Practices/Apprentice/Practice of Veiling.md",
-    "Game Lore/Magic/Practices/The 13 Practices.md",
     "Game Lore/Magic/Practices/Apprentice",
     "Game Lore/Magic/Practices/Initiate",
     "Game Lore/Magic/Arcana/Death.md",
@@ -175,15 +181,9 @@
     "Game Lore/Magic/The Paths/Mastigos.md",
     "Game Lore/Magic/The Paths/Acanthus.md",
     "Game Lore/Magic/Watchtowers/Watchtower of Lunargent Thorn.md",
-    "Game Lore/Magic/Watchtowers/Watchtower of the Golden Key.md",
-    "Character Creation/Awakening.md",
-    "Game Lore/Supernal Realms/Arcadia.md",
-    "Game Lore/Supernal Realms/Pandemonium.md",
-    "Game Lore/Supernal Realms/Stygia.md",
     "Storyteller Guide",
     "Game Lore/Attributes",
     "Game Lore/Magic/Arcana",
-    "Game Lore/Supernal Realms",
-    "Game Lore/Magic/The Paths"
+    "Game Lore/Supernal Realms"
   ]
 }
