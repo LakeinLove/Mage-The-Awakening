@@ -1,4 +1,10 @@
-Aether is the plane home to the [[Watchtower of the Golden Key]] and final destination of the Path of the [[Obrimos]].
+---
+tags:
+  - Supernal
+---
+Aether is the planar home to the [[Watchtower of the Golden Key]] and final destination of the Path of the [[Obrimos]].
+
+The Ruling Arcana of Aether are [[Forces]] and [[Prime]].
 
 Only those truly elect may bask in the radiance of Aether, guarded by the Hosts with their swords of flame and righteousness. Lightning spears though the sky, as the Flame Supernal tests the mettle of everyone who wishes to weird its power. 
 
