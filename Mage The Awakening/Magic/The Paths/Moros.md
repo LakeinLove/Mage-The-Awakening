@@ -1,27 +1,56 @@
-Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]
+---
+tags:
+  - Path
+aliases:
+  - Alchemists
+  - Alchemist
+  - Necromancer
+  - Necromancers
+---
+## Quick Reference
+Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]  
+Ruling Arcana: [[Death]] and [[Matter]]  
+Inferior Arcanum: [[Spirit]]  
+Favoured Resistance Attribute: [[Composure]]  
+## Ruling Arcana
+[[Death]] and [[Matter]].   
+They’re the slow, quiet Arcana of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
 
-Ruling Arcana: [[Death]] and [[Matter]]
-Inferior Arcanum: [[Spirit]]
-Favoured Resistance Attribute: [[Composure]]
-Nimbus: "Haunting", Often images of a blurry figure or deeper shadows indicate casting, with things looking decayed or rotten under closer inspection. With more power, people can hear whispers of long-forgotten voices and a chill seeping through the world.
+[[Death]] is the Arcanum of destructive change: the power to speed, slow, or shift the details of inevitable doom. Bodies shift from [[Life]] to [[Matter]]. Light scatters to the corners of the cosmos, allowing darkness to flourish. Although a soul’s components include every subtle Arcanum, [[Death]] is the loose thread that, once pulled, removes it from its living home or unravels it into its parts. Mages know that ghosts aren’t souls, but Necromancers point out that doesn’t mean they aren’t people. 
 
-The Path of Doom, the path of transition and transformation, that rules over death and matter themselves. The tarot card of "Death" is their mark, and they are always associated with conceptual ideas that fill the minds of others in their presence.
+[[Matter]] is the world’s skeleton. [[Forces]] shape it and [[Life]] puts flesh on its bones. It releases energy and accepts corpses into its embrace. The world constantly performs the Great Work Alchemists pursue, perfecting itself and, at the peak, falling apart to be rebuilt. Contemporary Moros also think of [[Matter]] in mechanical metaphors. Every speck of dust is part of a cosmic machine whose parts adapt to the tasks given it
+## Inferior Arcanum
+[[Spirit]]  
+Moros know that despite outward appearances, inert things dance with activity. 
 
-A Moros Necromancer is so much more than simple death, as death is merely the moment of transition from one form to another in a greater whole. They can use alchemy to surpass any normal limits of supply and demand, and their knowledge of detritivores and ecological recycling is only really challenged by the [[Thyrsus]]. 
+Alchemists know that spirits exist, and that the world has a living Shadow, but feel little need for them. [[Death]] provides its own invisible kingdoms, and [[Matter]] moves even in the absence of will.
 
-Knowing death is ever coming, the Moros often bemoan wasting time and quickly use their skills of alchemy to transmute any of their needs out of mundane materials, able to create real, permanent gold from random objects and useless knickknacks.
+## Symbols and Myths
+Death and the World. The gods of death, prosperity, and craft. The signs and symbols of alchemy and descendants, such as chemistry and engineering.
 
-The transitory boundaries that so fascinate them often include things like when a lake becomes a river, where day becomes night, and where ignorance becomes knowledge, which often results in them being incredibly knowledgeable about even the most esoteric things.
+Moros embrace the Death signifactor because they understand that the skeletal rider doesn’t just cut down its enemies, but guides them through radical change. Death takes the Leaden Coin as payment, and points the unburdened soul to new existence.
 
-As commanders of death itself they wield all that conceptually belongs to it, including shadows, darkness, cold, and even animative forces. A Moros mage can raise the dead, preserve anything, cloak themselves in darkness and embrace shadows in all their forms. A Moros utilising death is a terrifying sight to behold, as masters of this Arcana often have a deep understanding of the end of all things. It should never be forgotten that entropy also falls under their command, and once one has felt all of the light, heat, and sound dissipate from a space they will never doubt the terror of an angry Moros.
+Alchemists relinquish their fear of loss and embrace their imperfections — their personal, rotting nigredo — as the morass from which creative power emerges. The Path’s Mystery card of the World embraces all things, assigning the elements their functions. It represents the Alchemist’s Great Work. Even the [[Lie]] contains the secrets of self-perfection, written in substances and souls as they organize themselves into novel, powerful forms that culminate in the rubedo: the crown, the rose, the philosopher’s stone. 
 
-Their matter abilities are often more easily understood, but no less feared and admired. The ability to change any matter into another, to break cohesion between things, to have access to any material one could ever need? Truly it is a power worthy of the shepherds of change themselves.
+Moros have always honoured the gods of death, alchemy, and industry, especially when they exist in one person. Hermes is a psychopomp, alchemist, and god of commerce. Hades rules the Underworld and wealth plucked from the dark earth. Anubis measures a soul’s weight in sin and guards tomb wealth. Moros gods are usually lonely, set apart from the pantheon by their duties, but they aggressively guard their domains. The lords of Death prefer one-way journeys to their realms. To cross against the current, a Necromancer must honour their laws and behave with appropriate decorum.
 
-## Appearance
-The Moros tend to be rather reverent people, ones who know what values and things are to be held dear, and what are simply passing thoughts, ready to change any moment. They value rituals and culture, especially around death, as often it is the most dramatic change that occurs, which leads to them dressing in whatever colours their culture deems appropriate for mourning.
-This being said, often Necromancers also find joy in the ever-transitory nature of reality and wear bright cheerful colours just to change it up on their peers.
-They often appear wise and contemplative, and are sparkling conversationalists around any esoteric or complicated and nuanced topic.
+Closely linked to practical trades, Moros magic extends from artisanal expertise and scientific insight. Most are well-versed in their cultures’ alchemical and funerary traditions. Alchemists keep laboratories filled with ancient and modern instruments, from antique athanor furnaces to gas chromatographs. They use myrrh, corpse-eating beetles, and modern embalming procedures. Ceremonies acknowledge Death’s supremacy, but eventually shift to practical craftsmanship.
 
-## Common Backgrounds
-All mages who awaken as Necromancers almost always have an uncommon connection to death, the dead, and massive change. Survivors of war and genocide, philosophers, environmental scientists, doctors, soldiers, and serial killers often line the ranks of the Moros. The Moros also share the company of plutocrats, suppliers, and those who provide for large numbers of people.
+## Alchemists in the Orders
+[[Adamantine Arrow]]:  
+They can’t be bribed. They don’t run from death. Steel breaks in their hands, and their dead soldiers rise. Moros Arrows go about their duties with a chill implacability. They’re relentless warriors but avoid rash adventures. Awakening dulls their pride, preventing rash applications of violence, but inhibits their loyalty because they don’t want to fall in thrall to someone else’s ego.
 
+[[Free Council]]:  
+Can you ignore modern chemistry? Modern death? The world’s full of materials ancient alchemists never dreamed of: steel-hard ceramics and nanoparticles. Modern doctors know death as a process that migrates from cell to cell instead of a curtain that falls on the last heartbeat. New knowledge creates new problems, too. Wealth offers more temptations than ever, and death stretches out when machines force hearts to beat. It’s time to turn these new ways into new magic and comfort [[Sleepers]] bewildered by contemporary challenges.
+
+[[Guardians of the Veil]]:  
+Not even murder can hide a secret. Ghosts talk, and death’s keening echoes in a killer’s footsteps. Yes, there are Necromancer assassins, but Moros know that killing is a crude tool of last resort. Kill, and the mystery of death attracts investigators for generations. Bribe, and you not only win a life of silence, but build a conspiracy with the recipient. When you fear neither death nor lust for riches, you not only become an incorruptible keeper of secrets, but capable of using murder and wealth with utmost precision.
+
+[[Mysterium]]:  
+They say magic is alive, but this is only true in the loosest sense, for it includes death and base matter. Magic is a form of directed change that the layperson associates with life, but numinous energies conceal the deep truths of stone and souls. Moros investigate them in tombs and Atlantean redoubts, and are typically less interested in living Masters and questions about who deserves to learn the Art.
+
+[[Silver Ladder]]:  
+How do you foster human potential when you know that every prodigy will die, and their accomplishments will fade with the ages? You foster a lineage, with temples and artifacts to remind it of its obligations. Make change your tool, not your enemy. They’ll pass on their knowledge, adapt the past to the future and grow stronger, closer to Imperium with every new Awakening. Don’t plan for next year’s revolution, but your empire.
+
+[[Seers of the Throne]]:  
+Seer Executors use the Path’s insights to perfect the materialism that counterparts in other Orders avoid. The doctrines of the Chancellor, Exarch of Matter, tell them that wealth is a god ever-devoured by scarcity. Executors balance deity and devil, setting the fortunes of individuals and nations. As Exarch of Death, the Psychopomp condemns souls to Fallen incarnations or teases anguished ghosts from them. Seer Moros trade in souls and ghosts as commodities like any other. By keeping them from the Supernal Realms, the Psychopomp intends them to be used thus.

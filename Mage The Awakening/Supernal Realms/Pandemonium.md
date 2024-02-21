@@ -2,6 +2,11 @@
 tags:
   - Supernal
 ---
+- Supernal Realm of [[Mind]] and [[Space]]
+- Nascent plane of the [[Watchtower of the Iron Gauntlet]]
+- Destination of the path of [[Mastigos]]
+- Abode of [[Demons]]
+
 Housing the [[Watchtower of the Iron Gauntlet]], and final resting point for the path of the [[Mastigos]], Pandemonium is a plane of chaos and madness.
 
 The Ruling Arcana of Pandemonium are [[Space]] and [[Mind]].

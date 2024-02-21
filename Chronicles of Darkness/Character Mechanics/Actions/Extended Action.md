@@ -1,3 +1,8 @@
+---
+tags:
+  - Action
+---
+
 An Extended Action is unique among actions, used to complete complex tasks.
 
 - Roll your dice pool multiple times.

@@ -11,3 +11,4 @@ Wits represents quick thinking and improvisation. A character with a high Wits r
 **Attribute Tasks:** 
 Perception (Wits + [[Composure]], [[Reflexive Action]])
 Catching a Dropped Object (Wits + [[Dexterity]], [[Instant Action]])
+

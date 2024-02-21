@@ -4,7 +4,10 @@ aliases:
 tags:
   - Supernal
 ---
-Arcadia is the nascent plane of the [[Watchtower of Lunargent Thorn]] and mages of the path of [[Acanthus]].
+- Supernal Realm of [[Fate]] and [[Time]]
+- Nascent plane of the [[Watchtower of Lunargent Thorn]]
+- Destination of the path of [[Acanthus]]
+- Abode of the [[Fae]]
 
 The Ruling Arcana of Arcadia are [[Fate]] and [[Time]].
 

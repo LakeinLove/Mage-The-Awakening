@@ -9,33 +9,15 @@ aliases:
 - Skills are, like [[Attribute|Attributes]], divided into Mental, Physical, and Social categories.
 - They are things that are learned and gained, not [[Attribute|Attributes]] that represent more innate power.
 ---
-## Mental
-_(-3 unskilled)_
-- [[Academics]]
-- [[Computer]]
-- [[Crafts]]
-- [[Investigation]]
-- [[Medicine]]
-- [[Occult]]
-- [[Politics]]
-- [[Science]]
-## Physical
-_(-1 unskilled)_
-- [[Athletics]]
-- [[Brawl]]
-- [[Drive]]
-- [[Firearms]]
-- [[Larceny]]
-- [[Stealth]]
-- [[Survival]]
-- [[Weaponry]]
-## Social
-_(-1 unskilled)_
-- [[Animal Ken]]
-- [[Empathy]]
-- [[Expression]]
-- [[Intimidation]]
-- [[Persuasion]]
-- [[Socialise]]
-- [[Streetwise]]
-- [[Subterfuge]]
+## All Skills
+| Mental | Physical | Social |
+| ---- | ---- | ---- |
+| _(-1 unskilled)_ | _(-1 unskilled)_ | _(-3 unskilled)_ |
+| [[Academics]]<br> | [[Athletics]] | [[Animal Ken]] |
+| [[Computer]] | [[Brawl]] | [[Empathy]] |
+| [[Crafts]] | [[Drive]] | [[Expression]] |
+| [[Investigation]] | [[Firearms]] | [[Intimidation]] |
+| [[Medicine]] | [[Larceny]] | [[Persuasion]] |
+| [[Occult]] | [[Stealth]] | [[Socialise]] |
+| [[Politics]] | [[Survival]] | [[Streetwise]] |
+| [[Science]] | [[Weaponry]] | [[Subterfuge]] |

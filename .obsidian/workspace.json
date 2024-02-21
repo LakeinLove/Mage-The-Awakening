@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c857f283f510aed",
+        "id": "58fc64eaa331973e",
         "type": "tabs",
         "children": [
           {
-            "id": "949c3f64acb7f865",
+            "id": "3b2054d33b0a7d75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Occult.md",
+                "file": "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Occult.md",
+                "file": "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Occult.md",
+                "file": "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Occult.md"
+                "file": "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,43 +147,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "949c3f64acb7f865",
+  "active": "3b2054d33b0a7d75",
   "lastOpenFiles": [
-    "Chronicles of Darkness/Character Mechanics/Skills/Medicine.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Skill.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Untrained Skill.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Academics.md",
-    "Chronicles of Darkness/Character Mechanics/Attributes/Dexterity.md",
-    "Chronicles of Darkness/Character Mechanics/Attributes/Composure.md",
-    "Chronicles of Darkness/Character Mechanics/Attributes/Attribute.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Crafts.md",
-    "Chronicles of Darkness/Character Mechanics/Attributes/Intelligence.md",
-    "Chronicles of Darkness/Character Mechanics/Actions/Instant Action.md",
-    "Chronicles of Darkness/Character Mechanics/Actions/Contested Action.md",
-    "Mage The Awakening/Supernal Realms/Aether.md",
-    "Mage The Awakening/Supernal Realms/Primal Wild.md",
+    "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+    "Mage The Awakening/Magic/The Paths/Moros.md",
+    "Mage The Awakening/Magic/The Paths/Mastigos.md",
     "Mage The Awakening/Supernal Realms/Pandemonium.md",
-    "Mage The Awakening/Supernal Realms/Arcadia.md",
     "Mage The Awakening/Magic/The Paths/Acanthus.md",
-    "Mage The Awakening/Magic/Practices/Disciple/Practice of Weaving.md",
-    "Mage The Awakening/Magic/Practices/Disciple/Practice of Perfecting.md",
-    "Mage The Awakening/Magic/Practices/Disciple/Practice of Fraying.md",
-    "Templates/Skills Template.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Occult.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Investigation.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Computer.md",
+    "Mage The Awakening/The Factions/Orders/Silver Ladder.md",
+    "Chronicles of Darkness/Character Mechanics/Attributes/Intelligence.md",
+    "Mage The Awakening/The Factions/Orders/Seers of the Throne.md",
+    "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
+    "Mage The Awakening/The Factions/Orders/Mysterium.md",
+    "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
+    "Character Creation/Awakening.md",
+    "Character Creation/A Brief History Lesson of Questionable Truth.md",
+    "Mage The Awakening/The Factions/Orders/Guardians of the Veil.md",
+    "Mage The Awakening/The Factions/Orders/Free Council.md",
+    "Mage The Awakening/Magic/The Paths/Obrimos.md",
+    "Mage The Awakening/Peoples/Awakened.md",
+    "Mage The Awakening/Peoples/Sleepers.md",
+    "Sleeper.md",
+    "Mage The Awakening/Supernal Realms/Aether.md",
     "Mage The Awakening/Magic/Arcana/Arcanum.md",
+    "Mage The Awakening/Supernal Realms/Arcadia.md",
+    "Mage The Awakening/Supernal Realms/Stygia.md",
+    "Mage The Awakening/Supernal Realms/Primal Wild.md",
+    "Mage The Awakening/Magic/Concepts/Awakening",
+    "Mage The Awakening/Magic/Watchtowers/Watchtower of the Stone Book.md",
+    "Mage The Awakening/Magic/Watchtowers/Watchtower of the Iron Gauntlet.md",
     "Mage The Awakening/Magic/Spells/Death",
     "Mage The Awakening/Magic/Spells",
     "Templates",
-    "Skills.md",
     "Mage The Awakening/Character Mechanics/Merits",
     "Mage The Awakening/Character Mechanics/Advantages",
     "Mage The Awakening/Character Mechanics",
     "Chronicles of Darkness/Character Mechanics/Advantages/Anchors",
     "Chronicles of Darkness/Rules",
-    "Chronicles of Darkness/Character Mechanics/Advantages",
-    "Chronicles of Darkness/Character Mechanics/Flavour Mechanics"
+    "Chronicles of Darkness/Character Mechanics/Advantages"
   ]
 }

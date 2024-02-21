@@ -2,6 +2,11 @@
 tags:
   - Supernal
 ---
+- Supernal Realm of [[Spirit]] and [[Life]]
+- Nascent plane of the [[Watchtower of the Stone Book]]
+- Destination of the path of [[Thyrsus]]
+- Abode of the [[Beasts]]
+
 The Primal Wild is home to the [[Watchtower of the Stone Book]] and the endpoint for the [[Thyrsus]] path.
 
 The Ruling Arcana of the Primal Wild are [[Life]] and [[Spirit]].

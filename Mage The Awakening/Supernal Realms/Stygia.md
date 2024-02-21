@@ -2,7 +2,12 @@
 tags:
   - Supernal
 ---
-The Stygia is home to the [[Watchtower of Lead Coin]] and the endpoint for the [[Moros]] path.
+- Supernal Realm of [[Death]] and [[Matter]]
+- Nascent plane of the [[Watchtower of Lead Coin]]
+- Destination of the path of [[Moros]]
+- Abode of [[Shades]]
+
+Stygia is home to the [[Watchtower of Lead Coin]] and the endpoint for the [[Moros]] path.
 
 The Ruling Arcana of Stygia are [[Death]] and [[Matter]].
 
