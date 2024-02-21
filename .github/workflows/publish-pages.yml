@@ -23,12 +23,12 @@ jobs:
         with:
           repository: jackyzha0/quartz
           path: quartz
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 1
       - name: Check out vault
         uses: actions/checkout@v3
         with:
           path: vault
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 1
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
