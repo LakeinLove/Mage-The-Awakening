@@ -108,7 +108,7 @@ One nation under gods; accept nothing less
 > “All it costs is your soul.” Is that what they’ve told you happens when you serve the Throne? Spare me. And no, before you ask, the street meat vendor you’ve been eating from all these years is not an evil mage. I’m just borrowing him for a few minutes. A tip, free and friendly: shed your links if you can, cease your habits if you can’t.  
 > You’re quite easy to find. 
 > 
-> Here’s the truth: Humanity is oppressed, no matter what happens. You live in the Fallen World, but it will not move for you. You see the Lie, but you’ll always live in it. You cannot beat the Exarchs. You can’t even truly fight them. The best you can manage is a vague and persistent resistance.  
+> Here’s the truth: Humanity is oppressed, no matter what happens. You live in the Fallen World, but it will not move for you. You see the Lie, but you’ll always live in it. You cannot beat the Exarchs. You can’t even truly fight them. The best you can manage is a vague and persistent resistance.  \
 > The Diamond does not tolerate dissent or disloyalty, and the [[Free Council]] tolerates nothing else. We are no different than the “Atlanteans,” save that we serve the divine beings who are demonstrably at the helm of the universe rather than old wizards fighting a war lost before Plato first wrote down the name of some made-up island. 
 > 
 > So don’t. A far wiser saying goes, “If you can’t beat them…”, but you already know the rest. Pithy, perhaps, but we’re speaking of magic here. Don’t take my word for it. Sleep well tonight, listen to your dreams, and scrutinize the signs. If you’re wise, if you desire reward for your service, They will tell you where to go. 

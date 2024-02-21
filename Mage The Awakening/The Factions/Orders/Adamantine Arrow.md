@@ -8,10 +8,10 @@ aliases:
 ---
 ## Challenge is Magical
 
-Virtue untested is worthless. This truth is hidden by a Fallen World designed to aggressively and insidiously destroy enlightenment. The [[Lie]] oppresses souls, crushing them under somnolent burdens.  
+Virtue untested is worthless. This truth is hidden by a Fallen World designed to aggressively and insidiously destroy enlightenment. The [[Lie]] oppresses souls, crushing them under somnolent burdens.  \
 Beyond the [[Abyss]] lies the ideal perfected self, a concept that can only be embodied by struggling against the [[Lies]]. Everyone is involved in this struggle, leaving the Awakened as the only ones aware they’re embroiled in a universal conflict.
 
-Every Order practices offensive and defensive occult techniques, but the Adamantine Arrow internalizes the metaphor of eternal war as principle. More than that, they seek to serve as soldiers and generals in this war, fighting to maintain their magic. Arrows are the guardians and wardens of the Pentacle, warriors of the Diamond, fighting against stagnation and complacency.  
+Every Order practices offensive and defensive occult techniques, but the Adamantine Arrow internalizes the metaphor of eternal war as principle. More than that, they seek to serve as soldiers and generals in this war, fighting to maintain their magic. Arrows are the guardians and wardens of the Pentacle, warriors of the Diamond, fighting against stagnation and complacency.  \
 They typically hold a majority of non-leadership roles in [[Consilia]] and [[Convocations]] (and no few Assemblies), as community-oriented duties find fulfillment within their philosophy. Above all else, their magic calls for dedication: striving for a chosen goal against meaningful opposition.
 
 **Mages join the Arrow** when they want to define themselves by supporting others, learn self-discipline and control over their magic, come from a martial or regimented background and want to keep that ethos, or believe magic should be wielded with honour and responsibility.
@@ -20,27 +20,27 @@ They typically hold a majority of non-leadership roles in [[Consilia]] and [[Con
 
 ### The Adamant Way
 
-Created by millennia-worth of treatises from dozens of cultural standpoints and containing a multitude of philosophical schools, the Way can be divided into five precepts — the Hand — just as five fingers make a fist.  
+Created by millennia-worth of treatises from dozens of cultural standpoints and containing a multitude of philosophical schools, the Way can be divided into five precepts — the Hand — just as five fingers make a fist.  \
 The metaphor is simple: Hands are the primary gates for the sense of touch and the means to work one’s will; they create or destroy in equal measure, translating human desire into physicality.
 
 ### Existence is War
 
-The Way teaches improvement through opposition and restraint, evincing a universal state of affairs that is self-evident. All beings struggle for life, and all [[Awakened]] souls struggle against the [[Abyss]] to bridge the Supernal and Fallen. Vying for self-expression, Awakened souls grow stronger by conquering the desires of other souls.  
+The Way teaches improvement through opposition and restraint, evincing a universal state of affairs that is self-evident. All beings struggle for life, and all [[Awakened]] souls struggle against the [[Abyss]] to bridge the Supernal and Fallen. Vying for self-expression, Awakened souls grow stronger by conquering the desires of other souls.  \
 Arrows are warriors, though not always martial ones — to a one, they seek challenge and conflict, though their competitions are often friendly. The Order as a whole regards true pacifists with disgust, but they’re not bellicose — peace can be a far greater challenge to achieve than petty bloodshed.
 
 ### Adaptability is Strength
 
-Arrows understand that nothing worth doing is achieved with ease, and that limitations are self-imposed. Attack and defence, spell and sword are valuable individually, but mere components of the whole.  
+Arrows understand that nothing worth doing is achieved with ease, and that limitations are self-imposed. Attack and defence, spell and sword are valuable individually, but mere components of the whole.  \
 Predictability and inflexibility are dangerous in a world of sympathetic magic, and crippling to the soul. An Arrow rises beyond these weaknesses and toward a balanced and perfected self.
 
 ### Service is Mastery
 
-Control only ever extends as far as the self — your nature and soul are the only things truly yours and yours alone. Honest service lies not in becoming the power behind the throne, but in limiting one’s ambition, pride, and guilt as external factors in one’s control.  
+Control only ever extends as far as the self — your nature and soul are the only things truly yours and yours alone. Honest service lies not in becoming the power behind the throne, but in limiting one’s ambition, pride, and guilt as external factors in one’s control.  \
 Until the Arrow sets aside his desires for another’s, all of his high ideals are mere justifications for his own actions. Once he abandons his selfishness, he understands his place in the universe, serving the Supernal as well as himself.
 
 ### The Supernal is the Self
 
-Mind and soul are a microcosm of the universe and magic. Every trial by adversity reinforces the mage’s honour and self-integrity. The mage is her magic, as inseparable as a hand’s identity from owner’s intent, growing closer to her spiritual ideal with every victory. Arrows often seek to shed their personal flaws by swearing oaths to tie themselves to purposes larger than the self.  
+Mind and soul are a microcosm of the universe and magic. Every trial by adversity reinforces the mage’s honour and self-integrity. The mage is her magic, as inseparable as a hand’s identity from owner’s intent, growing closer to her spiritual ideal with every victory. Arrows often seek to shed their personal flaws by swearing oaths to tie themselves to purposes larger than the self.  \
 Oaths declare intent to the universe and sharpen focus on the challenge at hand, whether promising to defend a dear friend or murder a hated rival. A sworn Arrow is placing her judgment in dynamic action rather than formal words.
 
 ### Enlightenment is Honour
@@ -83,29 +83,29 @@ Lastly, the Order prides itself on being above politics, focused on their ideals
 
 ##### Pro-Bono Defence
 
-“Defence rests,” I say, and I know I’ve won. The prosecution looks battered, exhausted. My client looks like he’s just witnessed divine intervention, delivered from injustice he thought was certain, shocked that someone — anyone — would not only stand up for him but win. Hours, days, weeks spent practicing for the trial, and a quick finger run over my spectacle rims tells me the jury’s deliberation will take less than an hour.  
+“Defence rests,” I say, and I know I’ve won. The prosecution looks battered, exhausted. My client looks like he’s just witnessed divine intervention, delivered from injustice he thought was certain, shocked that someone — anyone — would not only stand up for him but win. Hours, days, weeks spent practicing for the trial, and a quick finger run over my spectacle rims tells me the jury’s deliberation will take less than an hour.  \
 Everyone looks at this job as a stepping stone, a trial-by-fire for one of the big firms. They look at it as a challenge and a place for improvement, and they’re right; I do battle uphill every day, taking on enemies thought unassailable. That’s why I’ll never leave.
 
 ##### Gun Runner
 
-People need weapons to start revolutions, to guard their homes or hunt their food. The strong use military force to subjugate the weak, but they can’t do that if the weak fight back. Before I [[Awakened]], when I was trying to sell a crate to some warlord in Myanmar, I thought the secret to survival was to never go to war, but the Jungle Primordial showed me the truth — life is war.  
+People need weapons to start revolutions, to guard their homes or hunt their food. The strong use military force to subjugate the weak, but they can’t do that if the weak fight back. Before I [[Awakened]], when I was trying to sell a crate to some warlord in Myanmar, I thought the secret to survival was to never go to war, but the Jungle Primordial showed me the truth — life is war.  \
 Now I choose my clients with care; I sell Soviet surplus to my fellow Arrows and bullets to academics. Other Arrows challenge me to prove I’m not a Praetorian agent, but my motives are clear. I’m a necessary evil. Existence is war, and war needs weapons.
 
 ## Stereotypes
 
-[[Guardians of the Veil|Guardians]]: 
+[[Guardians of the Veil|Guardians]]: \
 Regrettably necessary, but untrustworthy, even if we’re on the same side. 
 
-[[Mysterium]]: 
+[[Mysterium]]: \
 Keepers of what we protect. Damn if they’re not ungrateful, though. 
 
-[[Silver Ladder]]: 
+[[Silver Ladder]]: \
 Our oldest companions. They provide the structure, and we the service. 
 
-[[Free Council]]: 
+[[Free Council]]: \
 Address them as individuals, not as a unity, no matter how loud they protest. 
 
-[[Seers of the Throne]]: 
+[[Seers of the Throne]]: \
 Every war needs enemies.
 
 ## Lore Bite
