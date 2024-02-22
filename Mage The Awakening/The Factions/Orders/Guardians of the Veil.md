@@ -7,11 +7,13 @@ tags:
   - Pentacle
   - Diamond
 ---
+_The Guardians of the Veil, a network of Awakened spies who preach the careful, subtle use of magic, police mages for worsening the Lie, and test Sleepers close to Awakening with a labyrinth of occult societies._
+
 ## Magic is Fragile
 
 The [[Fallen World]] continues to fall. The [[Abyss]] grows stronger whenever a mage inflicts [[Paradox]] upon the world. The universe frays with every vulgarity, while the Supernal resounds with the laughter of Tyrants. Humanity is inherently damaged by the Lie, and Sleepers snuff magic out in their ignorance, if they escape being driven mad by witnessing Supernal truth. Knowledge is both power and fire — left unchecked, it consumes and destroys. The hand whose reach exceeds its grasp must be slapped down.
 
-The Guardians of the Veil defend the [[Awakened]] from strife and treachery by employing those tools themselves, serving the Pentacle as recruiters and espionage agents keeping watch for threats from without and within. They plot to maintain the Labyrinth, a world-spanning society of conspiracy cells and contradictory mystery cults secretly under Guardian control, designed to weed out the weak, distract the unworthy, and attract those close to [[Awakening]].  
+The Guardians of the Veil defend the [[Awakened]] from strife and treachery by employing those tools themselves, serving the Pentacle as recruiters and espionage agents keeping watch for threats from without and within. They plot to maintain the Labyrinth, a world-spanning society of conspiracy cells and contradictory mystery cults secretly under Guardian control, designed to weed out the weak, distract the unworthy, and attract those close to [[Awakening]].  \
 A newly [[Awakened]] mage attempting to understand what’s happening around him will likely stumble across the Labyrinth; in fact, the system works so well that Guardians actually detect the majority of Awakenings and pass suitable solitaries to other Orders.
 
 By contrast, the Order also spends a great deal of resources attempting to ensure those with traits they find objectionable become lost in the Labyrinth, losing the chance to Awaken. Together, the Order works tirelessly to keep magic secret — and in secrecy, safe.
@@ -22,17 +24,17 @@ By contrast, the Order also spends a great deal of resources attempting to ensur
 
 ### The Exoteric and Esoteric Tenets
 
-The smallest Order, the Guardians are a true mystery religion. Initiates often join because of the Order’s actions, but much of the leadership subscribes to a faith carefully concealed from outsiders — the Esoteric Tenets. The Exoteric Tenets, by contrast, are ones the Guardians wish to be publicly known, their ties to Supernal truth, reinforcing their identity even as they cloak themselves in mystery.  
+The smallest Order, the Guardians are a true mystery religion. Initiates often join because of the Order’s actions, but much of the leadership subscribes to a faith carefully concealed from outsiders — the Esoteric Tenets. The Exoteric Tenets, by contrast, are ones the Guardians wish to be publicly known, their ties to Supernal truth, reinforcing their identity even as they cloak themselves in mystery.  \
 Guardians cleave to Diamond symbolism with a concept they call the Diamond Wheel, representing the collected souls of mages. The Wheel reflects the spirit of the Awakened City to come. The most faithful Guardians privately believe in a messiah — the Hieromagus — but the majority simply believe in the Order’s works for their own sake.
 
 ### Paradox Strengthens the Abyss; Punishment Answers Pride
 
-The [[Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and hubris. Humanity has the slim capacity for Awakening and Ascension, but even Awakened societies are corrupted by the [[Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to the [[Abyss]].  
+The [[Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and hubris. Humanity has the slim capacity for Awakening and Ascension, but even Awakened societies are corrupted by the [[Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to the [[Abyss]].  \
 Guardians will help mages with their own Paradoxes when [[Abyssal]] taint threatens innocent bystanders. They encourage mages to examine the root causes of Paradox, and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
 
 ### Merit must guide the Fallen World
 
-The [[Fallen World]] seemingly encourages every avenue to success except virtue. The Guardians deem only the righteous and the capable worthy of magic, defined by dedication to virtue and avoiding [[Paradox]]. Masters are wiser than apprentices; the [[Awakened]] are wiser than [[Sleepers]].  
+The [[Fallen World]] seemingly encourages every avenue to success except virtue. The Guardians deem only the righteous and the capable worthy of magic, defined by dedication to virtue and avoiding [[Paradox]]. Masters are wiser than apprentices; the [[Awakened]] are wiser than [[Sleepers]].  \
 [[Quiescence]] damages the world, and [[Sleepers]] harm magic simply by encountering it. The worthy must be guided to seize enlightenment with virtuous action, while the unworthy must be dissuaded by obscure secrets and meaningless arcane lore. Guardians are not paragons, and do not always lead by example, but the Order is the most meritocratic of the Pentacle Orders.
 
 ### Sins for a just end grant Wisdom
@@ -45,7 +47,7 @@ The Esoteric Tenets detail the secret faith of the Order. They’re secret becau
 
 ### All thrones are false; all souls are flawed
 
-Mages are inherently unworthy of the perfection of the Awakened City. [[Paradox]] is a sign of a mage’s fundamental impurity, reflecting her sins. Yet if sins for a just end grant [[Wisdom]], Guardians are therefore capable of transferring merit, leaving all other souls and Orders flawed in their ignorance.  
+Mages are inherently unworthy of the perfection of the Awakened City. [[Paradox]] is a sign of a mage’s fundamental impurity, reflecting her sins. Yet if sins for a just end grant [[Wisdom]], Guardians are therefore capable of transferring merit, leaving all other souls and Orders flawed in their ignorance.  \
 The Guardians consider it their duty to undermine charismatic leaders, expose the faults of wise sages, and force mages to doubt one another to remind them that their primary mission is to struggle with their own souls.
 
 ### Souls have a secret hierarchy
@@ -54,14 +56,14 @@ Religious Guardians believe in reincarnation, and moreover, that some souls have
 
 ### The Hieromagus will fulfil the Diamond Wheel
 
-Many souls have similar features; by cultivating them, mages work towards the creation of the Hieromagus, who will heal the [[Abyss]], restore utopia, and judge the Order for the evils made in the protection of magic. Her soul shall be an indestructible bridge between Above and Below, perfect and free of [[Paradox]].  
+Many souls have similar features; by cultivating them, mages work towards the creation of the Hieromagus, who will heal the [[Abyss]], restore utopia, and judge the Order for the evils made in the protection of magic. Her soul shall be an indestructible bridge between Above and Below, perfect and free of [[Paradox]].  \
 She will come not from the Order but from without. There have been a number of false Hieromagi throughout history, and other Orders are aware that a messianic, deeply eschatological faction holds some purchase over the Guardians, if not the specifics.
 
 ## Origins
 
 The earliest Guardians formed out of small cults, holding fast to the belief that magic was too dangerous or precious to trust to unworthy mages. The [[Adamantine Arrow|Arrow]] and the [[Silver Ladder|Ladder]] only spared them the label Banisher because the fledgling Guardians did concede that some were worthy. Even as the Diamond formed and grew, the Guardians stayed the smallest Order, with the most stringent entry requirements — candidates must prove themselves willing to kill to protect the Mysteries (an open secret referred to as “Passing the Crimson Veil”), but must constantly exercise their own judgment and refuse commands that conflict with the Order’s stated goals.
 
-For much of history, the Guardians hid themselves within imperialist cultures like Rome, occasionally absorbing like-minded Nameless Orders (such as the mages who followed in the wake of the Golden Horde during the Middle Ages) but seeking to remain within the shadows, drawing subversive occult elements to the Labyrinth so they could be monitored and destroyed. This has backfired at times; in the 2nd century AD, the false Hieromagus Abraxus reformed a heretical Gnostic cult, the Basilideans, into a secretive group that continues to bedevil the modern Order.  
+For much of history, the Guardians hid themselves within imperialist cultures like Rome, occasionally absorbing like-minded Nameless Orders (such as the mages who followed in the wake of the Golden Horde during the Middle Ages) but seeking to remain within the shadows, drawing subversive occult elements to the Labyrinth so they could be monitored and destroyed. This has backfired at times; in the 2nd century AD, the false Hieromagus Abraxus reformed a heretical Gnostic cult, the Basilideans, into a secretive group that continues to bedevil the modern Order.  \
 While other Orders claim famous movements and important figures as proof of their influence on [[Sleepers|Sleeper]] society, the Guardians consider the existence of any a point of shame rather than pride. The Order considers the British Empire to be the highlight of their influence, when they could claim a truly worldwide Labyrinth. Yet they celebrated the growth of intelligence officers and agencies, wholeheartedly adopting the methodology of spies.  
 
 Besides carrying forth their core beliefs and hunting dangerous mages, modern Guardians perform two vital functions for Pentacle society: keeping watch for influence of the [[Seers of the Throne|Throne]], and constructing their Labyrinth to attract newly-Awakened mages. These functions keep the Order in the good graces of the Diamond, along with the Guardian Order’s concession that no Guardian will ever be asked to investigate or act against members of her own cabal.
@@ -88,38 +90,38 @@ Performing unwise actions on behalf of others causes a Guardian to suffer anothe
 
 ##### Black Hat
 
-I am the spider in a digital web. A cold cup of coffee sits in front of me, license to free Wi-Fi. I pluck the owner’s password out of the ether, then take a few minutes to quietly upgrade her encryption so it’s suitable for my purposes. Soon, news alerts light up my laptop every few seconds. A few moments of concentration on each tells me which leads will pan out.  
+I am the spider in a digital web. A cold cup of coffee sits in front of me, license to free Wi-Fi. I pluck the owner’s password out of the ether, then take a few minutes to quietly upgrade her encryption so it’s suitable for my purposes. Soon, news alerts light up my laptop every few seconds. A few moments of concentration on each tells me which leads will pan out.  \
 A few hours later, all signs point to a shell company buying up property near the waterfront; it’ll be used to smuggle artifacts. I send a quick email to a friendly journo, start pounding away at the keys. Once the sale pops up on the paper’s front page, they’ll scramble to find an alternate location… one of my choosing. He who controls the spotlight controls the stage.
 
 ##### Minotaur
 
-The candlelit room is dimly lit to begin with, but pitch-black under the heavy bull’s-head mask I wear. I lift the chalice for the third time this week. These men — soldiers all, from three different branches of service — look upon me as a high priestess, intoning the blessing of some deity of war. The rites are meaningless, magically speaking. It’s not unusual for men to come here and seek reassurance of divine favour.  
+The candlelit room is dimly lit to begin with, but pitch-black under the heavy bull’s-head mask I wear. I lift the chalice for the third time this week. These men — soldiers all, from three different branches of service — look upon me as a high priestess, intoning the blessing of some deity of war. The rites are meaningless, magically speaking. It’s not unusual for men to come here and seek reassurance of divine favour.  \
 The newest member is different. His eyes shine with understanding, and his aura surges and struggles. He lifts his arms, seeking understanding, finding only confusion. Soon his eyes will be open, and I will be there for him. I am not Theseus in this maze, not even Ariadne; I am the minotaur. I hunt, I stalk, and now I have found my prize.
 
 ## Stereotypes
 
-[[Adamantine Arrow]]: 
+[[Adamantine Arrow]]: \
 Let them deal with the obvious threats. We each have our strengths.
 
-[[Mysterium]]: 
+[[Mysterium]]: \
 Some secrets should remain so. Keep your friends close…
 
-[[Silver Ladder]]: 
+[[Silver Ladder]]: \
 Knowledge is power. We know that, even as we repair your errors.
 
-[[Free Council]]: 
+[[Free Council]]: \
 Half transparent revolutionaries, half ancient Diamond émigrés, all ignorant.
 
-[[Seers of the Throne]]: 
+[[Seers of the Throne]]: \
 Our Great Game might be less fun if we both played to win.
 
 ## Lore Bite
 
-> We’ve been watching you for a while now. Oh, don’t be angry. Take it as a point of pride — even before you Awakened, you were someone worth watching. And now you’re worth talking to. More than that, worth hearing from. 
+> We’ve been watching you for a while now. Oh, don’t be angry. Take it as a point of pride — even before you Awakened, you were someone worth watching. And now you’re worth talking to. More than that, worth hearing from. \
 > Can I ask you a question? Can you imagine how easy it would be to abuse your magic? You don’t feel like paying for a meal, fine, you make the server forget you were even there. How easy would it be for you to justify it to yourself? It doesn’t hurt anyone. You’re long gone from the restaurant when they check the books. 
 > 
-> You see what I’m saying. I can see it spreading across your face like a fire crawling across dry logs. Are you stopping for the night, or are you still thinking of ways you could get more than a few bucks? Another spell tells you the credit card numbers of everyone in the restaurant, who’s there on a date, who’s rich yet vulnerable. How long until you try something that really bites you? Where does the line get drawn? When would you stop caring about the damage your magic brings to the world? Is your fire something that needs to be tended carefully, or something that could gutter out to ashes and embers? 
+> You see what I’m saying. I can see it spreading across your face like a fire crawling across dry logs. Are you stopping for the night, or are you still thinking of ways you could get more than a few bucks? Another spell tells you the credit card numbers of everyone in the restaurant, who’s there on a date, who’s rich yet vulnerable. How long until you try something that really bites you? Where does the line get drawn? When would you stop caring about the damage your magic brings to the world? Is your fire something that needs to be tended carefully, or something that could gutter out to ashes and embers? \
 > I know you wouldn’t do that, or I wouldn’t be speaking to you. We can trust you not to do those things. But how can you trust everyone else? 
 > 
-> It’s not a hypothetical. One of your fellow Nameless is about to make the jump from free meals to something vile. Last question, I promise:  
-> Who is it?
+> It’s not a hypothetical. One of your fellow Nameless is about to make the jump from free meals to something vile. Last question, I promise:  \
+> _Who is it?_

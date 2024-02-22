@@ -6,6 +6,8 @@ tags:
 aliases:
   - Arrow
 ---
+_The Adamantine Arrow, who see existence as a crucible, prize challenge and conflict for its use in honing the self, and teach students honour and ideals of service._
+
 ## Challenge is Magical
 
 Virtue untested is worthless. This truth is hidden by a Fallen World designed to aggressively and insidiously destroy enlightenment. The [[Lie]] oppresses souls, crushing them under somnolent burdens.  \

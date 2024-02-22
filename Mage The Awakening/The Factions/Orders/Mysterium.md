@@ -7,9 +7,11 @@ aliases:
   - Mystagogues
   - Mystagogue
 ---
+_The Mysterium, a religion dedicated to magic itself whose adherents aggressively seek out Mysteries for their own enlightenment before storing them for safekeeping from the world._
+
 ## Magic is alive
 
-The world is Fallen, but wondrous. Pure truth from the Supernal drifts downward, fragmenting from exposure to the Abyss. The driven and elect must track down this knowledge to glean true wisdom, separating Supernal wheat from Fallen chaff. Contemporary mages piece together the past, and in doing so forge a future.  
+The world is Fallen, but wondrous. Pure truth from the Supernal drifts downward, fragmenting from exposure to the Abyss. The driven and elect must track down this knowledge to glean true wisdom, separating Supernal wheat from Fallen chaff. Contemporary mages piece together the past, and in doing so forge a future.  \
 This pursuit of Gnosis holds together the Mysterium — if mystic lore is the currency of the Awakened, none are richer than Mystagogues. They scour crypts, decipher forgotten languages, and scrutinize myth cycles for signs of sorcery, retrieving and hoarding knowledge that sundered and fragmented from crossing the Abyss.
 
 Mystagogues battle against Pancryptia, the tendency of sorcery to actively hide itself amidst the cultural detritus of the Fallen World. They work to foster academia, instilling the intellectual discipline and rigor needed for the Awakened to sift through the Fallen World for pearls of Supernal wisdom. The World is Fallen and damaged, but Mystagogues scrutinize with singular focus. Two open secrets propel their questioning natures: One, that magic itself is alive and active in the world; and two, that anything living can be healed.
@@ -32,10 +34,10 @@ Mystagogues travel the Fallen World, hunting for magic, experiencing as much as 
 
 ### Knowledge must be Preserved
 
-Anything living can be wounded. Pancryptia ensures that magic in the hands of Sleepers will hide itself. The Order maintains a global network of Athenaea, but the dedication to preserving knowledge against disaster leads to Mystagogue sages learning vast amounts of lore and entering hermitage in case the libraries are destroyed.  
+Anything living can be wounded. Pancryptia ensures that magic in the hands of Sleepers will hide itself. The Order maintains a global network of Athenaea, but the dedication to preserving knowledge against disaster leads to Mystagogue sages learning vast amounts of lore and entering hermitage in case the libraries are destroyed.  \
 Mystagogues are infamous for stealing artifacts and Grimoires from other Orders or individual cabals when the items are felt to be vulnerable. 
 
-An Order predisposed toward travel outside of a Consilium, the Mysterium maintains an elaborate network of equitably-traded favors and “face,” or guanxi, for determining relative status to one other. Secret gestures, code words, and signs denote levels of initiation and favor-trading.  
+An Order predisposed toward travel outside of a Consilium, the Mysterium maintains an elaborate network of equitably-traded favors and “face,” or guanxi, for determining relative status to one other. Secret gestures, code words, and signs denote levels of initiation and favor-trading.  \
 Guanxi takes precedence over Consilium laws, and even bitter rivals join together to prevent Pancryptia from grasping knowledge once again. Conveniently, this also allows Mystagogues free travel between Caucuses, so long as their guanxi is favorable.
 
 ### Knowledge has a Price
@@ -58,14 +60,14 @@ The Mysterium has provided the Pentacle with global communications since before 
 
 ## Mysteries
 
-The Mysterium quests for Mysteries in danger of vanishing, rescuing them from Pancryptia’s touch — Atlantean ruins at risk of discovery (and destruction) by Sleepers, Legacies with few remaining members, lost Grimoires, verges, rare magical effects, and signs of Ascension.  
+The Mysterium quests for Mysteries in danger of vanishing, rescuing them from Pancryptia’s touch — Atlantean ruins at risk of discovery (and destruction) by Sleepers, Legacies with few remaining members, lost Grimoires, verges, rare magical effects, and signs of Ascension.  \
 Sometimes the quest involves great personal danger, or requires the Mystagogue to cross fellow mages or other supernatural beings
 
 ## Magical Symbolism: Knowledge
 
 Mystagogues worship Gnosis, the knowledge of magic through experience; many believe that lying about a magical topic directly increases Pancryptia, as a deliberate degradation of information. Especially faithful Mystagogues refuse to lie at all on any topic, while most either refuse to answer magical queries if they cannot share secrets with the asker, or only reveal part-truths. Knowledge is the raison d’être of the Mysterium — its procurement, preservation, and propagation.  
 
-In Diamond symbolism, they are the Alae Draconis: the Wings of the Dragon, uplifting the Awakened City’s body politic with winds of insight. The symbolism and layered initiations of the Mystagogues allows them gradual entry into a communal mind called the egregore, finding expression in avataric mages called Egregori.  
+In Diamond symbolism, they are the Alae Draconis: the Wings of the Dragon, uplifting the Awakened City’s body politic with winds of insight. The symbolism and layered initiations of the Mystagogues allows them gradual entry into a communal mind called the egregore, finding expression in avataric mages called Egregori.  \
 This communion allows Mystagogues an essential unity beyond that of their allied Orders. Beyond tomes and scribing tools, the Mysterium dedicates objets d’art containing symbolic messages and imagery deliberately crafted by the artist, such as Masonic paintings or cave art.
 
 ## Hubris
@@ -86,33 +88,33 @@ Nobody’s entered this temple in thousands of years — nobody human, at least 
 
 ##### Curator
 
-There’s a secret wing to this place, one the Sleepers never see. Do the [[Guardians of the Veil|Guardians]] truly think I’d show it to the plebes? Please. My heels click on marble floors, inlaid with great gold Atlantean runes, the sound resounding from the display cases. Illuminated texts of a time that never was, weapons from wars never fought, busts of mages who never lived.  
+There’s a secret wing to this place, one the Sleepers never see. Do the [[Guardians of the Veil|Guardians]] truly think I’d show it to the plebes? Please. My heels click on marble floors, inlaid with great gold Atlantean runes, the sound resounding from the display cases. Illuminated texts of a time that never was, weapons from wars never fought, busts of mages who never lived.  \
 Here is our link to our great [[Lie]], the one we tell ourselves to fight the larger Lies the enemy forces upon us. A bit of theatre in service of a greater truth. I walk these halls every night to remind myself of that, to keep truth, lies, and theatre separate within myself. After all, I’m the only one in this [[Consilium]] who remembers the difference.
 
 ## Stereotypes
 
-[[Adamantine Arrow]]: 
+[[Adamantine Arrow]]: \
 The guardians of our collections.
 
-[[Guardians of the Veil|Guardians]]: 
+[[Guardians of the Veil|Guardians]]: \
 Focused on magic, but repression over discovery. Our only true rivals.
 
-[[Silver Ladder]]: 
+[[Silver Ladder]]: \
 One cannot lead from a position of ignorance; we give the Pentacle wings.
 
-[[Free Council]]: 
+[[Free Council]]: \
 Fashion and culture are not true wisdom. Too often, they obscure the true prize.
 
-[[Seers of the Throne]]: 
+[[Seers of the Throne]]: \
 Willing servants of the Lie, architects of Pancryptia. Betrayers of their own Gnosis.
 
 ## Lore Bite
 
 >“Knowledge is power.” An elegant concept, reduced to platitude. But you’ve felt it already — that burning desire to know, the sizzle of ecstasy upon sating that desire. You’ve wrought your will upon the world and felt it respond to your touch, felt it push back. By now you’ve heard the stereotype of us, wizards sequestering secrets in their libraries. All true. 
 >
->The hunger for magic is a pang we know well — to feed it, we gather knowledge, preserve it, share it, and when necessary, hunt for it. Shall I tell you of my own satiation? Of the long nights spent in private libraries, alarms silenced by Arcana, perusing centuries-old manuscripts?  
+>The hunger for magic is a pang we know well — to feed it, we gather knowledge, preserve it, share it, and when necessary, hunt for it. Shall I tell you of my own satiation? Of the long nights spent in private libraries, alarms silenced by Arcana, perusing centuries-old manuscripts?  \
 >Or maybe you’d rather hear about the wards around South American pyramids, the ones the tourists don’t get to see. I’ve fought [[Seers of the Throne|Seers]] in customs warehouses, gleaned truths from the tongues of spirits and angels, traded with charlatans for the slivers of true magic they possess. 
 >
->Understanding and experience are marks of value. Ignorance and deception are tools of the wicked. Knowledge isn’t power, knowledge is everything — and that’s true beyond the tautological appeal. The secrets of magic are hidden in the dark places of the world.  
+>Understanding and experience are marks of value. Ignorance and deception are tools of the wicked. Knowledge isn’t power, knowledge is everything — and that’s true beyond the tautological appeal. The secrets of magic are hidden in the dark places of the world.  \
 >The Mysteries await you, begging to be grasped. As it turns out, a small cult has sprung up in one of those abandoned subway stations, and their leader claims he scries the tunnels through the eyes of rats. Care to come with me to see how he does it?
 

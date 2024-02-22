@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/The Factions/Orders/Mysterium.md",
+                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/The Factions/Orders/Mysterium.md",
+                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/The Factions/Orders/Mysterium.md",
+                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/The Factions/Orders/Mysterium.md"
+                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md"
               }
             }
           }
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,23 +150,25 @@
   },
   "active": "3b2054d33b0a7d75",
   "lastOpenFiles": [
-    "Mage The Awakening/The Factions/Orders/Guardians of the Veil.md",
+    "Mage The Awakening/The Factions/Orders/Silver Ladder.md",
     "Mage The Awakening/The Factions/Orders/Seers of the Throne.md",
+    "Mage The Awakening/The Factions/Orders/Mysterium.md",
+    "Mage The Awakening/The Factions/Orders/Guardians of the Veil.md",
+    "Mage The Awakening/The Factions/Orders/Free Council.md",
     "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
-    "Practice of Patterning.md",
     "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+    "Mage The Awakening/Magic/The Paths/Obrimos.md",
     "Mage The Awakening/Magic/The Paths/Moros.md",
     "Mage The Awakening/Magic/The Paths/Mastigos.md",
-    "Mage The Awakening/Supernal Realms/Pandemonium.md",
     "Mage The Awakening/Magic/The Paths/Acanthus.md",
-    "Mage The Awakening/The Factions/Orders/Silver Ladder.md",
+    "Mage The Awakening/Magic/Practices/Apprentice/Practice of Ruling.md",
+    "Mage The Awakening/Magic/Practices/The 13 Practices.md",
+    "Practice of Patterning.md",
+    "Mage The Awakening/Supernal Realms/Pandemonium.md",
     "Chronicles of Darkness/Character Mechanics/Attributes/Intelligence.md",
-    "Mage The Awakening/The Factions/Orders/Mysterium.md",
     "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
     "Character Creation/Awakening.md",
     "Character Creation/A Brief History Lesson of Questionable Truth.md",
-    "Mage The Awakening/The Factions/Orders/Free Council.md",
-    "Mage The Awakening/Magic/The Paths/Obrimos.md",
     "Mage The Awakening/Peoples/Awakened.md",
     "Mage The Awakening/Peoples/Sleepers.md",
     "Sleeper.md",
@@ -173,9 +176,7 @@
     "Mage The Awakening/Magic/Arcana/Arcanum.md",
     "Mage The Awakening/Supernal Realms/Arcadia.md",
     "Mage The Awakening/Supernal Realms/Stygia.md",
-    "Mage The Awakening/Supernal Realms/Primal Wild.md",
     "Mage The Awakening/Magic/Concepts/Awakening",
-    "Mage The Awakening/Magic/Watchtowers/Watchtower of the Stone Book.md",
     "Mage The Awakening/Magic/Spells/Death",
     "Mage The Awakening/Magic/Spells",
     "Templates",

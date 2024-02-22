@@ -8,19 +8,19 @@ aliases:
   - Necromancers
 ---
 ## Quick Reference
-Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]  
-Ruling Arcana: [[Death]] and [[Matter]]  
-Inferior Arcanum: [[Spirit]]  
+Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]  \
+Ruling Arcana: [[Death]] and [[Matter]]  \
+Inferior Arcanum: [[Spirit]]  \
 Favoured Resistance Attribute: [[Composure]]  
 ## Ruling Arcana
-[[Death]] and [[Matter]].   
+[[Death]] and [[Matter]].   \
 They’re the slow, quiet Arcana of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
 
 [[Death]] is the Arcanum of destructive change: the power to speed, slow, or shift the details of inevitable doom. Bodies shift from [[Life]] to [[Matter]]. Light scatters to the corners of the cosmos, allowing darkness to flourish. Although a soul’s components include every subtle Arcanum, [[Death]] is the loose thread that, once pulled, removes it from its living home or unravels it into its parts. Mages know that ghosts aren’t souls, but Necromancers point out that doesn’t mean they aren’t people. 
 
 [[Matter]] is the world’s skeleton. [[Forces]] shape it and [[Life]] puts flesh on its bones. It releases energy and accepts corpses into its embrace. The world constantly performs the Great Work Alchemists pursue, perfecting itself and, at the peak, falling apart to be rebuilt. Contemporary Moros also think of [[Matter]] in mechanical metaphors. Every speck of dust is part of a cosmic machine whose parts adapt to the tasks given it
 ## Inferior Arcanum
-[[Spirit]]  
+[[Spirit]]  \
 Moros know that despite outward appearances, inert things dance with activity. 
 
 Alchemists know that spirits exist, and that the world has a living Shadow, but feel little need for them. [[Death]] provides its own invisible kingdoms, and [[Matter]] moves even in the absence of will.
@@ -37,20 +37,20 @@ Moros have always honoured the gods of death, alchemy, and industry, especially 
 Closely linked to practical trades, Moros magic extends from artisanal expertise and scientific insight. Most are well-versed in their cultures’ alchemical and funerary traditions. Alchemists keep laboratories filled with ancient and modern instruments, from antique athanor furnaces to gas chromatographs. They use myrrh, corpse-eating beetles, and modern embalming procedures. Ceremonies acknowledge Death’s supremacy, but eventually shift to practical craftsmanship.
 
 ## Alchemists in the Orders
-[[Adamantine Arrow]]:  
+[[Adamantine Arrow]]:  \
 They can’t be bribed. They don’t run from death. Steel breaks in their hands, and their dead soldiers rise. Moros Arrows go about their duties with a chill implacability. They’re relentless warriors but avoid rash adventures. Awakening dulls their pride, preventing rash applications of violence, but inhibits their loyalty because they don’t want to fall in thrall to someone else’s ego.
 
-[[Free Council]]:  
+[[Free Council]]:  \
 Can you ignore modern chemistry? Modern death? The world’s full of materials ancient alchemists never dreamed of: steel-hard ceramics and nanoparticles. Modern doctors know death as a process that migrates from cell to cell instead of a curtain that falls on the last heartbeat. New knowledge creates new problems, too. Wealth offers more temptations than ever, and death stretches out when machines force hearts to beat. It’s time to turn these new ways into new magic and comfort [[Sleepers]] bewildered by contemporary challenges.
 
-[[Guardians of the Veil]]:  
+[[Guardians of the Veil]]:  \
 Not even murder can hide a secret. Ghosts talk, and death’s keening echoes in a killer’s footsteps. Yes, there are Necromancer assassins, but Moros know that killing is a crude tool of last resort. Kill, and the mystery of death attracts investigators for generations. Bribe, and you not only win a life of silence, but build a conspiracy with the recipient. When you fear neither death nor lust for riches, you not only become an incorruptible keeper of secrets, but capable of using murder and wealth with utmost precision.
 
-[[Mysterium]]:  
+[[Mysterium]]:  \
 They say magic is alive, but this is only true in the loosest sense, for it includes death and base matter. Magic is a form of directed change that the layperson associates with life, but numinous energies conceal the deep truths of stone and souls. Moros investigate them in tombs and Atlantean redoubts, and are typically less interested in living Masters and questions about who deserves to learn the Art.
 
-[[Silver Ladder]]:  
+[[Silver Ladder]]:  \
 How do you foster human potential when you know that every prodigy will die, and their accomplishments will fade with the ages? You foster a lineage, with temples and artifacts to remind it of its obligations. Make change your tool, not your enemy. They’ll pass on their knowledge, adapt the past to the future and grow stronger, closer to Imperium with every new Awakening. Don’t plan for next year’s revolution, but your empire.
 
-[[Seers of the Throne]]:  
+[[Seers of the Throne]]:  \
 Seer Executors use the Path’s insights to perfect the materialism that counterparts in other Orders avoid. The doctrines of the Chancellor, Exarch of Matter, tell them that wealth is a god ever-devoured by scarcity. Executors balance deity and devil, setting the fortunes of individuals and nations. As Exarch of Death, the Psychopomp condemns souls to Fallen incarnations or teases anguished ghosts from them. Seer Moros trade in souls and ghosts as commodities like any other. By keeping them from the Supernal Realms, the Psychopomp intends them to be used thus.

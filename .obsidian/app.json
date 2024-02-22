@@ -1,9 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "livePreview": false,
+  "livePreview": true,
   "strictLineBreaks": true,
   "readableLineLength": true,
   "propertiesInDocument": "visible",
-  "showLineNumber": false,
+  "showLineNumber": true,
   "showIndentGuide": true
 }
