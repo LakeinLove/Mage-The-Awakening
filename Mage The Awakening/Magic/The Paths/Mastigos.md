@@ -7,11 +7,15 @@ aliases:
   - Psychonaut
   - Psychonauts
 ---
-## Quick Reference
+
+_A mage whose [[Path]] leads to [[Pandemonium]]. Also known as Warlocks or Psychonauts._
+
 Bonded to the [[Watchtower of the Iron Gauntlet]] in [[Pandemonium]]  \
 Ruling Arcana: [[Mind]] and [[Space]]  \
 Inferior Arcanum: [[Matter]]  \
 Favoured Resistance Attribute: [[Resolve]]  
+
+---
 
 ## Ruling Arcana
 [[Mind]] and [[Space]].  \
@@ -32,7 +36,7 @@ In the [[Awakened]] Tarot, Mastigos map their experience to two contrasting card
 
 Their Mystery card is Temperance: the path of control and sign of the psychopomp who guides souls between worlds. Despite the initial victory of Awakening, suppressing the Goetia is a lifelong struggle, waged through raw determination, meditative calm, and occasional bribery — feeding your passions can calm them, for a time. Mastigos may take the most direct approach to magical praxes. They treat gods and demons like states of mind to be conjured, propitiated, and bound at need. Yet they do not regard these beings as illusory — as the Astral realms demonstrate, thought is as real as flesh. Warlocks make pantheons of consciousness out of Qlippothic anti-angels and wrathful Tibetan deities. They appear beautiful or fearsome based on the summoner’s state of mind or the thoughts they symbolize. 
 
-Meditative Mastigos approach with a still mind, hoping to coax bodhisattvas out of fanged, skull-bearing gods. Iron-willed Warlocks confront their Goetia at their most hideous — the more threatening they appear, the more power they offer. The Path’s chief concern is the problem of the self. Mastigos cast off the illusion that they’re nothing but urges and emotions. After sifting them out, what remains? 
+Meditative Mastigos approach with a still mind, hoping to coax bodhisattvas out of fanged, skull-bearing gods. Iron-willed Warlocks confront their Goetia at their most hideous — the more threatening they appear, the more power they offer. The [[Path]]’s chief concern is the problem of the self. Mastigos cast off the illusion that they’re nothing but urges and emotions. After sifting them out, what remains? 
 
 Psychonauts breathe and chant mantras to banish lingering biases or rebuild themselves anew, creating gods and sigils that represent who they need to be to perform a particular task. Warlocks devote themselves to antinomian struggle. They define themselves by who they are not. To conquer lust, they fuck. To defeat venality, they hoard wealth. Both approaches present risks ranging from apathy to decadence. The sorcerer erases everything that makes her vital or feeds the Goetia too well, and lets them take over.
 

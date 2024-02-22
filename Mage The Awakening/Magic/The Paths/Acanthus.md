@@ -8,12 +8,15 @@ aliases:
   - Witch
   - Faefolk
 ---
-## Quick Reference
+
+
 Bonded to the [[Watchtower of Lunargent Thorn]] in [[Arcadia]]\
 Ruling Arcana: [[Fate]] and [[Time]]\
 Inferior Arcanum: [[Forces]]\
 Favoured Resistance Attribute: [[Composure]] 
 
+---
+_A mage whose [[Path]] leads to [[Arcadia]]. Also known as Witches or Enchanters._
 ## Ruling Arcana
 [[Fate]] and [[Time]]. \
 They’re the root powers of destiny: Arcadian energies that turn the Wheel of Fortune. Witchcraft is the art of shaping destiny. 

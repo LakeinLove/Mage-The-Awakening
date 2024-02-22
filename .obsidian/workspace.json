@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
-                "mode": "source",
+                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
+                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
+                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md"
+                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md"
               }
             }
           }
@@ -150,41 +150,41 @@
   },
   "active": "3b2054d33b0a7d75",
   "lastOpenFiles": [
-    "Mage The Awakening/The Factions/Orders/Silver Ladder.md",
-    "Mage The Awakening/The Factions/Orders/Seers of the Throne.md",
-    "Mage The Awakening/The Factions/Orders/Mysterium.md",
-    "Mage The Awakening/The Factions/Orders/Guardians of the Veil.md",
-    "Mage The Awakening/The Factions/Orders/Free Council.md",
-    "Mage The Awakening/The Factions/Orders/Adamantine Arrow.md",
-    "Mage The Awakening/Magic/The Paths/Thyrsus.md",
-    "Mage The Awakening/Magic/The Paths/Obrimos.md",
-    "Mage The Awakening/Magic/The Paths/Moros.md",
-    "Mage The Awakening/Magic/The Paths/Mastigos.md",
-    "Mage The Awakening/Magic/The Paths/Acanthus.md",
-    "Mage The Awakening/Magic/Practices/Apprentice/Practice of Ruling.md",
-    "Mage The Awakening/Magic/Practices/The 13 Practices.md",
-    "Practice of Patterning.md",
-    "Mage The Awakening/Supernal Realms/Pandemonium.md",
-    "Chronicles of Darkness/Character Mechanics/Attributes/Intelligence.md",
-    "Mage The Awakening/Magic/Concepts/Awakening/Awakening.md",
-    "Character Creation/Awakening.md",
-    "Character Creation/A Brief History Lesson of Questionable Truth.md",
-    "Mage The Awakening/Peoples/Awakened.md",
-    "Mage The Awakening/Peoples/Sleepers.md",
-    "Sleeper.md",
-    "Mage The Awakening/Supernal Realms/Aether.md",
-    "Mage The Awakening/Magic/Arcana/Arcanum.md",
-    "Mage The Awakening/Supernal Realms/Arcadia.md",
-    "Mage The Awakening/Supernal Realms/Stygia.md",
-    "Mage The Awakening/Magic/Concepts/Awakening",
+    "Mage The Awakening/Lexicon/Skill.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Subterfuge.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Streetwise.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Socialize.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Persuasion.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Intimidation.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Expression.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Empathy.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social/Animal Ken.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Weaponry.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Social",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Stealth.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Survival.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Larceny.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Firearms.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Drive.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Brawl.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical/Athletics.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Occult.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Politics.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Science.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Academics.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Physical",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Computer.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Crafts.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Investigation.md",
+    "Chronicles of Darkness/Character Mechanics/Skills/Mental/Medicine.md",
+    "Templates/Skills Template.md",
+    "Mage The Awakening/Untitled/Untitled",
+    "Mage The Awakening/Lexicon",
+    "Mage The Awakening/Magic/Magic Concepts/Mage Sight",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening",
     "Mage The Awakening/Magic/Spells/Death",
     "Mage The Awakening/Magic/Spells",
-    "Templates",
-    "Mage The Awakening/Character Mechanics/Merits",
-    "Mage The Awakening/Character Mechanics/Advantages",
-    "Mage The Awakening/Character Mechanics",
-    "Chronicles of Darkness/Character Mechanics/Advantages/Anchors",
-    "Chronicles of Darkness/Rules",
-    "Chronicles of Darkness/Character Mechanics/Advantages"
+    "Templates"
   ]
 }

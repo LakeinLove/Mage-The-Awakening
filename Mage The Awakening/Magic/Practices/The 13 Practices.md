@@ -42,7 +42,7 @@ In simple terms, the Practices are what you can *DO* with any given [[Arcanum|Ar
 ### Adept Level (Four Dot Arcana):
 - [[Practice of Patterning]]
   _Transform phenomena into a related phenomena or shapes, or replace capabilities or functions with different ones_
-- [[Practice of Unraveling]]
+- [[Practice of Unravelling]]
   _Significantly injure a target_
 ### Master Level (Five Dot Arcana):
 - [[Practice of Making]]

@@ -7,11 +7,15 @@ aliases:
   - Necromancer
   - Necromancers
 ---
-## Quick Reference
+_A mage whose [[Path]] leads to [[Stygia]]. Also known as Alchemists or Necromancers._
+
 Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]  \
 Ruling Arcana: [[Death]] and [[Matter]]  \
 Inferior Arcanum: [[Spirit]]  \
 Favoured Resistance Attribute: [[Composure]]  
+
+---
+
 ## Ruling Arcana
 [[Death]] and [[Matter]].   \
 They’re the slow, quiet Arcana of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
@@ -30,7 +34,7 @@ Death and the World. The gods of death, prosperity, and craft. The signs and sym
 
 Moros embrace the Death signifactor because they understand that the skeletal rider doesn’t just cut down its enemies, but guides them through radical change. Death takes the Leaden Coin as payment, and points the unburdened soul to new existence.
 
-Alchemists relinquish their fear of loss and embrace their imperfections — their personal, rotting nigredo — as the morass from which creative power emerges. The Path’s Mystery card of the World embraces all things, assigning the elements their functions. It represents the Alchemist’s Great Work. Even the [[Lie]] contains the secrets of self-perfection, written in substances and souls as they organize themselves into novel, powerful forms that culminate in the rubedo: the crown, the rose, the philosopher’s stone. 
+Alchemists relinquish their fear of loss and embrace their imperfections — their personal, rotting nigredo — as the morass from which creative power emerges. The [[Path]]’s Mystery card of the World embraces all things, assigning the elements their functions. It represents the Alchemist’s Great Work. Even the [[Lie]] contains the secrets of self-perfection, written in substances and souls as they organize themselves into novel, powerful forms that culminate in the rubedo: the crown, the rose, the philosopher’s stone. 
 
 Moros have always honoured the gods of death, alchemy, and industry, especially when they exist in one person. Hermes is a psychopomp, alchemist, and god of commerce. Hades rules the Underworld and wealth plucked from the dark earth. Anubis measures a soul’s weight in sin and guards tomb wealth. Moros gods are usually lonely, set apart from the pantheon by their duties, but they aggressively guard their domains. The lords of Death prefer one-way journeys to their realms. To cross against the current, a Necromancer must honour their laws and behave with appropriate decorum.
 
@@ -53,4 +57,4 @@ They say magic is alive, but this is only true in the loosest sense, for it incl
 How do you foster human potential when you know that every prodigy will die, and their accomplishments will fade with the ages? You foster a lineage, with temples and artifacts to remind it of its obligations. Make change your tool, not your enemy. They’ll pass on their knowledge, adapt the past to the future and grow stronger, closer to Imperium with every new Awakening. Don’t plan for next year’s revolution, but your empire.
 
 [[Seers of the Throne]]:  \
-Seer Executors use the Path’s insights to perfect the materialism that counterparts in other Orders avoid. The doctrines of the Chancellor, Exarch of Matter, tell them that wealth is a god ever-devoured by scarcity. Executors balance deity and devil, setting the fortunes of individuals and nations. As Exarch of Death, the Psychopomp condemns souls to Fallen incarnations or teases anguished ghosts from them. Seer Moros trade in souls and ghosts as commodities like any other. By keeping them from the Supernal Realms, the Psychopomp intends them to be used thus.
+Seer Executors use the [[Path]]’s insights to perfect the materialism that counterparts in other Orders avoid. The doctrines of the Chancellor, Exarch of Matter, tell them that wealth is a god ever-devoured by scarcity. Executors balance deity and devil, setting the fortunes of individuals and nations. As Exarch of Death, the Psychopomp condemns souls to Fallen incarnations or teases anguished ghosts from them. Seer Moros trade in souls and ghosts as commodities like any other. By keeping them from the Supernal Realms, the Psychopomp intends them to be used thus.

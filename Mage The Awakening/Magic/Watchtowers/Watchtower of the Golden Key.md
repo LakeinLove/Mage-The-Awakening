@@ -1,1 +1,0 @@
-Located in [[Aether]] and the destination of the path of [[Obrimos]].
