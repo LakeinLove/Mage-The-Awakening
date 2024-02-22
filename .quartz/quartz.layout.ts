@@ -26,7 +26,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      filterFn: filterFn: (node) => node.name !== "Templates",
+      filterFn: (node) => node.name !== "Templates",
     })),
   ],
   right: [
