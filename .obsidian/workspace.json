@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
-                "mode": "preview",
+                "file": "index.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md"
+                "file": "index.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "3b2054d33b0a7d75",
   "lastOpenFiles": [
+    "Chronicles of Darkness/Character Mechanics/Skills/Skill Specialty.md",
     "Mage The Awakening/Lexicon/Skill.md",
     "Chronicles of Darkness/Character Mechanics/Skills/Social/Subterfuge.md",
     "Chronicles of Darkness/Character Mechanics/Skills/Social/Streetwise.md",
@@ -178,7 +179,6 @@
     "Chronicles of Darkness/Character Mechanics/Skills/Mental/Crafts.md",
     "Chronicles of Darkness/Character Mechanics/Skills/Mental/Investigation.md",
     "Chronicles of Darkness/Character Mechanics/Skills/Mental/Medicine.md",
-    "Templates/Skills Template.md",
     "Mage The Awakening/Untitled/Untitled",
     "Mage The Awakening/Lexicon",
     "Mage The Awakening/Magic/Magic Concepts/Mage Sight",
