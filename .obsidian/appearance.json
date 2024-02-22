@@ -1,4 +1,8 @@
 {
-  "accentColor": "",
-  "baseFontSize": 17
+  "accentColor": "#dd685f",
+  "baseFontSize": 18,
+  "cssTheme": "Tokyo Night",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "interfaceFontFamily": ""
 }
