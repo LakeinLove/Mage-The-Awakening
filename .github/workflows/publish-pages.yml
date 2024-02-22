@@ -34,7 +34,7 @@ jobs:
           node-version: 18.14
       - name: Build Quartz
         run: |
-          mv vault/.quartz/* quartz
+          rsync -a vault/.quartz/ quartz
           cd quartz
           npm ci
           npx quartz create -X symlink -s ../vault -l shortest
