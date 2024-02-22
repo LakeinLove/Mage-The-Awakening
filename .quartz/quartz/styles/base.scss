@@ -100,7 +100,7 @@ a {
 
 .mobile-only {
   display: none;
-  @media all and (max-width: $fullPageWidth) {
+  @media all and (max-width: 400px) {
     display: initial;
   }
 }
