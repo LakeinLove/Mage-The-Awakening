@@ -1,0 +1,21 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Enforce Unix-style line endings.
+text eol=lf
+
+# Always use CRLF for Windows batch scripts
+*.bat  text eol=crlf
+# Never use CRLF for Unix bash scripts
+*.sh -crlf
+
+# Explicitly declare text files you want to always be normalized and converted
+# to native line endings on checkout.
+*.css text
+*.json text
+*.md text
+*.ts text
+*.yml text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
