@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Mage the Awakening Wiki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "lakeinlove.github.io/Mage-The-Awakening",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       cdnCaching: true,
       typography: {
