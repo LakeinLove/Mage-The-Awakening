@@ -1,4 +1,6 @@
 ---
+tags:
+- Mystery
 aliases:
   - Mysteries
   - Mystery Play
