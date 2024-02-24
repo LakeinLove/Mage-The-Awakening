@@ -18,18 +18,22 @@ Favoured Resistance Attribute: [[Resolve]]
 ---
 
 ## Ruling Arcana
+
 [[Mind]] and [[Space]].  \
 Passions and the connections. The unknown reaches of the soul, manifest in hidden places in the world. 
 
 To understand the Mastigos approach to [[Mind]], cast off the notion that consciousness is an inner advisor, babbling your thoughts. The true self is calm and transcendent, beyond even the debatable concept of the superego. It never strives, but is the path of a river, the layout of mind-palaces. A Psychonaut places himself above thoughts, wrangling their goetic manifestations to do her bidding, and reaches out with transcendental clarity to touch the thoughts of others. 
 
 Warlocks rattle the chains of connection: the true nature of [[Space]], instead of what [[Sleepers]] measure with yardsticks and maps. A Master of [[Space]] shrinks them to black iron threads, finely wrought, often tangled, and easily severed.
+
 ## Inferior Arcanum
+
 [[Matter]]  \
 Matter sticks in the conceptual gullet of the Mastigos.   \
 It seems to populate the Lie alone, a too-solid illusion to fill the empty spaces between [[Sleepers]]. Yet “base” elements undeniably possess Supernal vibrations and have a claim to the world of truth. Mastigos find it difficult to understand [[Matter]]’s faint, unthinking hum.
 
 ## Symbols and Myths
+
 The Devil and Temperance. Demons and wrathful gods. Serenity and decadence. 
 
 In the [[Awakened]] Tarot, Mastigos map their experience to two contrasting cards. The Devil represents a Warlock’s passions. Everyone carries an annex of [[Pandemonium]] where their desires dwell, but Mastigos not only possess a strong inner menagerie, but the clarity to name and subjugate its inmates. 
@@ -41,6 +45,7 @@ Meditative Mastigos approach with a still mind, hoping to coax bodhisattvas out 
 Psychonauts breathe and chant mantras to banish lingering biases or rebuild themselves anew, creating gods and sigils that represent who they need to be to perform a particular task. Warlocks devote themselves to antinomian struggle. They define themselves by who they are not. To conquer lust, they fuck. To defeat venality, they hoard wealth. Both approaches present risks ranging from apathy to decadence. The sorcerer erases everything that makes her vital or feeds the Goetia too well, and lets them take over.
 
 ## Warlocks in the Orders
+
 [[Adamantine Arrow]]:  \
 After battling rogue thoughts, Mastigos enter the [[Adamantine Arrow]] understanding some of the challenges to come. They approach oaths and the chain of command with less enthusiasm. They didn’t master their urges to bend knee before some officer. They’d rather be loyal out of love or a real sense of duty than a set of ritual protocols. Nevertheless, they see into souls or secret places as spies and scouts. They plague enemies with psychic horrors and delusions.
 

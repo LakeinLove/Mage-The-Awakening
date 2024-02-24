@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Magic/Magic Concepts/Mystery/Mystery.md",
+                "file": "Mage The Awakening/Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Magic/Magic Concepts/Mystery/Mystery.md",
+                "file": "Mage The Awakening/Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Magic/Magic Concepts/Mystery/Mystery.md",
+                "file": "Mage The Awakening/Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Magic/Magic Concepts/Mystery/Mystery.md"
+                "file": "Mage The Awakening/Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md"
               }
             }
           }
@@ -150,41 +150,41 @@
   },
   "active": "3b2054d33b0a7d75",
   "lastOpenFiles": [
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/The Obrimos Awakening.md",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/The Moros Awakening.md",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/The Mastigos Awakening.md",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/The Acanthus Awakening.md",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/Awakening.md",
+    "Mage The Awakening/Lexicon/Lie.md",
+    "Mage The Awakening/Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
+    "Mage The Awakening/Magic/Practices/Disciple/Practice of Weaving.md",
+    "Mage The Awakening/Magic/Practices/Disciple/Practice of Perfecting.md",
+    "Mage The Awakening/Magic/Practices/Disciple/Practice of Fraying.md",
+    "Mage The Awakening/Magic/Practices/The 13 Practices.md",
+    "Mage The Awakening/Magic/Spells/Master",
+    "Mage The Awakening/Magic/Spells/Adept",
+    "Mage The Awakening/Magic/Spells/Disciple",
+    "Mage The Awakening/Magic/Spells/Apprentice",
+    "Mage The Awakening/Magic/Practices/Apprentice/Practice of Veiling.md",
+    "Mage The Awakening/Peoples/Sleepers.md",
+    "Mage The Awakening/Magic/Spells/Initiate",
+    "Mage The Awakening/Peoples/Awakened.md",
+    "Mage The Awakening/Peoples/Sleepwalkers.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Stygia.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Primal Wild.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Pandemonium.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Arcadia.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Aether.md",
+    "Mage The Awakening/Magic/The Paths/Mastigos.md",
+    "Mage The Awakening/Magic/The Paths/Acanthus.md",
+    "Mage The Awakening/Magic/The Paths/Moros.md",
+    "Mage The Awakening/Magic/The Paths/Obrimos.md",
+    "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+    "Mage The Awakening/Peoples/Supernal Entities/Supernal Entities.md",
     "Mage The Awakening/Magic/Magic Concepts/Mystery",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom/Raising Wisdom.md",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom/Losing Wisdom.md",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom/Wisdom.md",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom/Act of Hubris.md",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom/Inuring.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mana/Gaining Mana.md",
     "Mage The Awakening/Magic/Magic Concepts/Wisdom",
-    "Mage The Awakening/Magic/Magic Concepts/Mana/Mana.md",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis/Effects of Gnosis.md",
     "Mage The Awakening/Magic/Magic Concepts/Mana",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis/Gnosis.md",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis/Gnosis Table.md",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis/Increasing Gnosis.md",
-    "Mage The Awakening/Lexicon/Scrutiny.md",
-    "Mage The Awakening/Lexicon/Revelation.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mage Sight/Focused Mage Sight.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mage Sight/Mage Sight.md",
-    "Mage The Awakening/Magic/Magic Concepts/High Speech.md",
-    "Mage The Awakening/Magic/Magic Concepts/Shadow Name.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mystery/Mystery.md",
-    "Mage The Awakening/Magic/Magic Concepts/Awakened Will.md",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus/Nimbus.md",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus/Interactions with Other Auras.md",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus/Immediate Nimbus.md",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus/Signature Nimbus.md",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus/Long-Term Nimbus.md",
     "Mage The Awakening/Magic/Magic Concepts/Nimbus",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis",
-    "Mage The Awakening/Character Mechanics/Advancement",
-    "Mage The Awakening/Magic/Magic Concepts/Mage Sight/Peripheral Mage Sight.md",
-    "Chronicles of Darkness/Character Mechanics/Skills/Social",
-    "Chronicles of Darkness/Character Mechanics/Skills/Physical",
-    "Chronicles of Darkness/Character Mechanics/Skills/Mental",
-    "Mage The Awakening/Untitled/Untitled",
-    "Mage The Awakening/Lexicon"
+    "Mage The Awakening/Magic/Magic Concepts/Gnosis"
   ]
 }

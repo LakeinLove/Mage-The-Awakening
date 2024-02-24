@@ -1,6 +1,7 @@
 ---
 tags:
   - Awakening
+  - Thyrsus
 ---
 _These are 2 example [[Awakening|Awakenings]] to the [[Thyrsus]] path_
 

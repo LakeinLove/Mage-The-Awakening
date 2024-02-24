@@ -9,6 +9,7 @@ aliases:
   - Faefolk
 ---
 
+_A mage whose [[Path]] leads to [[Arcadia]]. Also known as Witches or Enchanters._
 
 Bonded to the [[Watchtower of Lunargent Thorn]] in [[Arcadia]]\
 Ruling Arcana: [[Fate]] and [[Time]]\
@@ -16,8 +17,9 @@ Inferior Arcanum: [[Forces]]\
 Favoured Resistance Attribute: [[Composure]] 
 
 ---
-_A mage whose [[Path]] leads to [[Arcadia]]. Also known as Witches or Enchanters._
+
 ## Ruling Arcana
+
 [[Fate]] and [[Time]]. \
 They’re the root powers of destiny: Arcadian energies that turn the Wheel of Fortune. Witchcraft is the art of shaping destiny. 
 
@@ -26,11 +28,13 @@ As a subtle [[Arcanum]], [[Fate]] is part of every soul, the vessel containing i
 [[Time]] is the loom that spins [[Fate]] into action. Acanthus part the Mists of possibility to predict portentous events. To Witches, these are scenes in a mythic story. [[Arcadia]] teaches that lives are legends, so as tricksters, allies, and prophets, they predict and shape pivotal moments — a role that puts them on the outside of great stories, setting the stage but rarely wielding the hero’s sword.
 
 ## Inferior Arcanum
+
 [[Forces]] \
 Lightning arrives at its appointed time in the tale, not before. \
 In Arcadia, elemental powers are visible manifestations of destiny and Fae passions. Fire isn’t heat alone, but the anger of the Fair Folk or the climax of an apocalyptic myth; it is not to be raised through some mechanistic act of will.
 
 ## Symbols and Myths
+
 The Fool and the Wheel of Fortune. Tricksters, fairies, and witches. Stories of curses, blessings, and great destinies. Wishes and bargains. 
 
 In the Awakened Tarot, the Acanthus personifies the Fool: a trackless soul, able to move freely through the currents of destiny. Witches don’t get to this state through naïve wandering, but by unburdening themselves of old attachments, and using magic to slip the grasp of new ones. \
@@ -41,6 +45,7 @@ Witches are well known for invoking Supernal Fae, but do not worship them. The F
 Tricksters demonstrate the value of breaking conventions, but also illustrate why those conventions exist. Coyote gets punished in the end, and the gods bound Loki with his son’s entrails. Acanthus need not use tricksters alone, however. Some prefer gods and signs of duty, destiny, and moral obligation. Acanthus rituals recall stories where luck, fate, obligations, and strong consequences come to the fore. Their spells are jinn-wishes with unintended consequences, or awful promises that must be kept. They recreate stories where heroes die from errant wordplay. Macbeth fits the pattern of an Acanthus legend. When Yudhishthira throws the dice to lose again and again, the tale follows Acanthus logic.
 
 ## Witches in the Orders
+
 [[Adamantine Arrow]]: \
 The Fallen World preys on hope and human potential. Acanthus see the mighty unwritten destinies; the [[Adamantine Arrow|Arrow]] trains them to defend these seeds of power. In return, Acanthus enhance [[Adamantine Arrow|Arrow]] zeal with efficiency. They’re the blow to the pressure point, the bullet to the eye socket, the charge to the weak flank.
 

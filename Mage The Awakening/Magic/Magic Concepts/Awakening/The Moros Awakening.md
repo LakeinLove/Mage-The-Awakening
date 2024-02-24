@@ -1,13 +1,16 @@
 ---
 tags:
   - Awakening
+  - Moros
 ---
 _These are 2 example [[Awakening|Awakenings]] to the [[Moros]] path_
 
 Moros don’t reach for the Leaden Coin. They’re already carrying it. We all drag it through life. It’s the weight of everything precious and hateful that hums in our souls. In the best of deaths we use it to pay the Ferryman and free ourselves, growing light enough to travel across the Styx. \
 Moros leave their burdens in Stygia, paying Death’s toll without dying. Moros Awakening is an alchemical transformation that trades the Leaden Coin for the gold of a fearless life.
 
-It starts with the Death card’s message: unavoidable change. The bills pile up, and she can’t pay them. She’s an excellent watchmaker in a world where people tell the time on screens. She goes down the line, repairing old timepieces, resisting the temptation to turn her desk over and send a rain of gears and springs across her shabby shop. \
+It starts with the Death card’s message: unavoidable change. \
+
+The bills pile up, and she can’t pay them. She’s an excellent watchmaker in a world where people tell the time on screens. She goes down the line, repairing old timepieces, resisting the temptation to turn her desk over and send a rain of gears and springs across her shabby shop. \
 Persisting, she reaches the last watch — perhaps the last one she’ll ever fix. It’s a curious piece, with no obvious manufacturer. She can’t even see tool marks on its brass and steel.
 
 On the other side of the world his father dies, and family savings sink into newly-revealed debts. At the funeral, monks burn his father’s portrait and tell him to let go, but after the bank forecloses he can’t stop loving and hating the man every day. He sees the burning picture on his ceiling at night. \
@@ -21,7 +24,8 @@ He packs, selling furniture that won’t fit into the new apartment. Something r
 
 Change becomes a white hot flame. You need to let go.
 
-She digs deep, pulling out gear after gear — too many to fit in the watch, it seems. There is no mainspring, but inside is a jewel that spins back and forth in its housing. She stares at its impossible motion, and recognizes it: Morse code. (Her grandfather taught her that as well as the watch business.) She checks the pattern three times before confidently translating it: WHO AM I? \
+She digs deep, pulling out gear after gear — too many to fit in the watch, it seems. There is no mainspring, but inside is a jewel that spins back and forth in its housing. She stares at its impossible motion, and recognizes it: Morse code. (Her grandfather taught her that as well as the watch business.) She checks the pattern three times before confidently translating it: \
+WHO AM I? \
 This is the malfunction. Timepieces are small history machines, she thinks. They record more than the passage of a day. They bear the story of watchmakers and wearers in their brands, bands, and tool marks. This has none of these, and seems fashioned from a cooled accident of molten metal and mineral. She makes an adjustment to the jewel and it spins out the letters of her name. This is hers now, and together, their history begins.
 
 On the other side of the world he has a shovel in hand when his mother comes in with a man from the bank, who starts in with accusations until that shovel starts smashing fixtures. He hears them say something about the police as they leave, but nobody disturbs him as he digs into the old earth basement. \
