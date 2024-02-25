@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
+                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
+                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
+                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md"
+                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
+    "Mage The Awakening/Mage Society/Orders/Guardians of the Veil.md",
+    "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Decay.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Ectoplasm.md",
@@ -174,8 +176,6 @@
     "Mage The Awakening/The Worlds/Supernal Realms/Arcadia.md",
     "Mage The Awakening/Spellcasting Rules/Practices/The 13 Practices.md",
     "Mage The Awakening/Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
-    "Mage The Awakening/Spellcasting Rules/Practices/Adept/Practice of Unravelling.md",
-    "Mage The Awakening/Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
     "Mage The Awakening/Magic/Spells/Master",
     "Mage The Awakening/Magic/Spells/Adept",
     "Mage The Awakening/Magic/Spells/Disciple",
