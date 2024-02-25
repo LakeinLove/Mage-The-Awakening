@@ -17,19 +17,23 @@ Favoured Resistance [[Attribute]]: [[Composure]]
 ---
 
 ## Ruling Arcana
+
 [[Death]] and [[Matter]].   \
 They’re the slow, quiet Arcana of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
 
 [[Death]] is the Arcanum of destructive change: the power to speed, slow, or shift the details of inevitable doom. Bodies shift from [[Life]] to [[Matter]]. Light scatters to the corners of the cosmos, allowing darkness to flourish. Although a soul’s components include every subtle Arcanum, [[Death]] is the loose thread that, once pulled, removes it from its living home or unravels it into its parts. Mages know that ghosts aren’t souls, but Necromancers point out that doesn’t mean they aren’t people. 
 
 [[Matter]] is the world’s skeleton. [[Forces]] shape it and [[Life]] puts flesh on its bones. It releases energy and accepts corpses into its embrace. The world constantly performs the Great Work Alchemists pursue, perfecting itself and, at the peak, falling apart to be rebuilt. Contemporary Moros also think of [[Matter]] in mechanical metaphors. Every speck of dust is part of a cosmic machine whose parts adapt to the tasks given it
+
 ## Inferior Arcanum
+
 [[Spirit]]  \
 Moros know that despite outward appearances, inert things dance with activity. 
 
 Alchemists know that spirits exist, and that the world has a living Shadow, but feel little need for them. [[Death]] provides its own invisible kingdoms, and [[Matter]] moves even in the absence of will.
 
 ## Symbols and Myths
+
 Death and the World. The gods of death, prosperity, and craft. The signs and symbols of alchemy and descendants, such as chemistry and engineering.
 
 Moros embrace the Death signifactor because they understand that the skeletal rider doesn’t just cut down its enemies, but guides them through radical change. Death takes the Leaden Coin as payment, and points the unburdened soul to new existence.
@@ -41,6 +45,7 @@ Moros have always honoured the gods of death, alchemy, and industry, especially 
 Closely linked to practical trades, Moros magic extends from artisanal expertise and scientific insight. Most are well-versed in their cultures’ alchemical and funerary traditions. Alchemists keep laboratories filled with ancient and modern instruments, from antique athanor furnaces to gas chromatographs. They use myrrh, corpse-eating beetles, and modern embalming procedures. Ceremonies acknowledge Death’s supremacy, but eventually shift to practical craftsmanship.
 
 ## Alchemists in the Orders
+
 [[Adamantine Arrow]]:  \
 They can’t be bribed. They don’t run from death. Steel breaks in their hands, and their dead soldiers rise. Moros Arrows go about their duties with a chill implacability. They’re relentless warriors but avoid rash adventures. [[Awakening]] dulls their pride, preventing rash applications of violence, but inhibits their loyalty because they don’t want to fall in thrall to someone else’s ego.
 

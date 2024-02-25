@@ -17,27 +17,35 @@ Favoured Resistance [[Attribute]]: [[Resolve]]
 ---
 
 ## Ruling Arcana
+
 [[Forces]] and [[Prime]]. \
 The universe moves by will. Unseen powers issue commands writ in [[Mana]], and worlds spin in obedience. 
 
 Don’t believe that [[Prime]] is power alone. It’s language. The gods named the universe into being, and when they gave humanity the power of speech, that included the power of creation. To make a thing you must do more than imagine it. You must name it, giving your dreams a symbol that escapes the confines of individual minds.
 
 [[Forces]] moves creation through cycles of creation and destruction. Without [[Forces]], [[Time]] would be irrelevant; nothing would move or change. Seasons rely on a world careening through space. Fire burns away the rot and debris that would otherwise suffocate [[Life]].
+
 ## Inferior Arcanum
+
 [[Death]] \
 Death is an interruption, not an end. 
 
 Souls should be dispatched to their destinies in heavens, hells, and diverse incarnations instead of imprisoned by worldly obsessions, trapped in mystic receptacles, or subjected to the corruptions of [[Death]]. Obrimos represent the power that cleanses, and have little talent for the [[Arcanum]] of rot, stagnation, and bound ghosts.
+
 ## Symbols and Myths
+
 Strength, the High Priestess and the Hierophant. Gods and angels. Thunderers and fire-bringers. Science and secret names. 
 
-The [[Awakened]] Tarot’s symmetry breaks against the Obrimos, for they possess two significators: the Hierophant, who translates celestial patterns into laws and scriptures, in an ordered, disciplined system; and the High Priestess, ruler of the elusive, intuitive forms of power. The former writes Grimoires and inscribes mystic circles. The latter meditates upon the Shekinah within, or feels the pulse of surging Kundalini Shakti after yogic concentration. In the past, Western Obrimos conceived of these roles as highly gendered, but contemporary followers of the [[Path]] see them as approaches to practice, and leave further dogma to [[Legacies]] and cults. Both significators represent types of Strength, the [[Path]]’s [[Mystery]] card. By intellectual or intuitive means, an Obrimos wrestles the thrashing beast of the cosmos into submission. Like any skilled wrestler an Obrimos avoids pitting force against force. She uses technique, yielding gestures, and a calm spirit to tame arcane power. 
+The [[Awakened]] Tarot’s symmetry breaks against the Obrimos, for they possess two significators: the Hierophant, who translates celestial patterns into laws and scriptures, in an ordered, disciplined system; and the High Priestess, ruler of the elusive, intuitive forms of power. The former writes Grimoires and inscribes mystic circles. The latter meditates upon the Shekinah within, or feels the pulse of surging Kundalini Shakti after yogic concentration. In the past, Western Obrimos conceived of these roles as highly gendered, but contemporary followers of the [[Path]] see them as approaches to practice, and leave further dogma to [[Legacies]] and cults. Both significators represent types of Strength, the [[Path]]’s [[Mystery]] card. \
+By intellectual or intuitive means, an Obrimos wrestles the thrashing beast of the cosmos into submission. Like any skilled wrestler an Obrimos avoids pitting force against force. She uses technique, yielding gestures, and a calm spirit to tame arcane power. 
 
-Obrimos develop magical systems around celestial hierarchies. The stereotypical Theurgist invokes the God of Abraham and choirs of angels. Obrimos call upon the twelve Olympians and the Egyptian Ennead. They chant Kabbalistic names or entreat the Celestial Bureaucracy. They give particular reverence to sky and fire deities, aspects of the Creator, and culture heroes who bring enlightenment and civilization to the Sleeping flock. But not all Thaumaturges give magic divine forms. To them, “angels” are the names of natural laws, essential flavours of [[Prime]]. Many dispense with religious language completely, treating magic as a high science. All are manifestations of the Golden Key: knowledge that unlocks power. 
+Obrimos develop magical systems around celestial hierarchies. The stereotypical Theurgist invokes the God of Abraham and choirs of angels. Obrimos call upon the twelve Olympians and the Egyptian Ennead. They chant Kabbalistic names or entreat the Celestial Bureaucracy. \
+They give particular reverence to sky and fire deities, aspects of the Creator, and culture heroes who bring enlightenment and civilization to the Sleeping flock. But not all Thaumaturges give magic divine forms. To them, “angels” are the names of natural laws, essential flavours of [[Prime]]. Many dispense with religious language completely, treating magic as a high science. All are manifestations of the Golden Key: knowledge that unlocks power. 
 
 [[Path]] members encompass some of the most diverse ritual praxes. [[Awakened]] physicists, hymn singers, and Hermetic sorcerers find their way to the [[Aether]]. With experiments and cultic rites they name the Law that rules all. Some Obrimos grow dogmatic and intolerant when their thinking excludes incompatible theories, but evidence usually trumps doctrine — even fools [[Awakening|Awaken]], and summon power through their own understanding.
 
 ## Thaumaturges in the Orders
+
 [[Adamantine Arrow]]: \
 Booming storms and colliding ley lines demonstrate the truth of cosmic struggle. Warriors embody celestial conflict but guide it with will and moral purpose. The [[Adamantine Arrow|Arrow]] provides a refuge for Thaumaturges who might otherwise abuse their tempestuous Arts. The Order teaches them to calm their inner storms.
 

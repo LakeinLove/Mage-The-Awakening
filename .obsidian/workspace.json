@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Magic/The Paths/Thyrsus.md",
-                "mode": "source",
+                "file": "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+                "file": "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+                "file": "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Magic/The Paths/Thyrsus.md"
+                "file": "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Mage The Awakening/Magic/The Paths/Obrimos.md",
-    "Mage The Awakening/Magic/The Paths/Moros.md",
-    "Mage The Awakening/Magic/The Paths/Mastigos.md",
-    "Mage The Awakening/Magic/The Paths/Acanthus.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mana/Mana.md",
-    "Mage The Awakening/Magic/Magic Concepts/Mana/Gaining Mana.md",
-    "Mage The Awakening/Peoples/Awakened.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Anachronisms.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Apeirons.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Atavisms.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Cherubim.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Imps.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Moirae.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Seraphim.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Spectres.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Supernal Entities.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Wraiths.md",
-    "Mage The Awakening/Peoples/Supernal Entities/Totems.md",
-    "Mage The Awakening/Mage Society/Orders/Silver Ladder.md",
-    "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
-    "Mage The Awakening/Lexicon/Scrutiny.md",
-    "Mage The Awakening/Magic/The Paths/Thyrsus.md",
+    "Mage The Awakening/The Worlds/Supernal Realms/Aether.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Stygia.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Primal Wild.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Pandemonium.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Arcadia.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/The 13 Practices.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Adept/Practice of Unravelling.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Master/Practice of Making.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Initiate/Practice of Unveiling.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Initiate/Practice of Knowing.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Initiate/Practice of Compelling.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Disciple/Practice of Weaving.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Disciple/Practice of Perfecting.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Apprentice/Practice of Veiling.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
+    "Mage The Awakening/Spellcasting Rules/Practices/Apprentice/Practice of Ruling.md",
+    "Mage The Awakening/Magic/The Paths/Acanthus.md",
+    "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
+    "Mage The Awakening/Mage Society/Orders/Silver Ladder.md",
+    "Mage The Awakening/Mage Society/Orders/Mysterium.md",
+    "Mage The Awakening/Mage Society/Orders/Free Council.md",
+    "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
     "Mage The Awakening/Magic/Spells/Master",
     "Mage The Awakening/Magic/Spells/Adept",
     "Mage The Awakening/Magic/Spells/Disciple",
