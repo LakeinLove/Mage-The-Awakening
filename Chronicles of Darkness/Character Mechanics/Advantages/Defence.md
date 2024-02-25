@@ -1,8 +1,10 @@
 ---
 tags:
   - Advantage
+aliases:
+  - Defense
 ---
-Defense is equal to the lower of your character's [[Wits]] or [[Dexterity]], plus their [[Athletics]] skill.
+Defence is equal to the lower of your character's [[Wits]] or [[Dexterity]], plus their [[Athletics]] skill.
 
 - Subtract a character's defense from any unarmed, melee, or thrown attacks of which the character is aware.
 - Defense is decreased by 1 for every subsequent attack received in a turn.

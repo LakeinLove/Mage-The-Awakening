@@ -8,7 +8,7 @@ tags:
 
 _Subterfuge is the fine art of deception. With Subterfuge, a character can lie convincingly, recognize when she is being lied to, or convey hidden meaning in what she says_
 - She can hide her own motivations and emotions
-- Generally, this Skill is used to trick others, but some characters learn it in order to avoid being tricked themselves
+- Generally, this [[Skill]] is used to trick others, but some characters learn it in order to avoid being tricked themselves
 
 ---
 
@@ -16,9 +16,9 @@ _Subterfuge is the fine art of deception. With Subterfuge, a character can lie c
 
 ### Sample Actions
 
-- Conceal emotions (Composure + Subterfuge)
-- Disguise (Wits + Subterfuge)
-- Lying (Manipulation + Subterfuge)
+- Conceal emotions ([[Composure]] + Subterfuge)
+- Disguise ([[Wits]] + Subterfuge)
+- Lying ([[Manipulation]] + Subterfuge)
 
 ### Sample Specialties
 

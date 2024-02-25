@@ -1,1 +1,1 @@
-Located in [[Arcadia]] and the destination of the [[path]] of [[Acanthus]].
+Located in [[Arcadia]] and the destination of the [[Path]] of [[Acanthus]].

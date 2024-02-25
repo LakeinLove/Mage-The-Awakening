@@ -1,1 +1,1 @@
-Located in [[Pandemonium]] and the destination of the [[path]] of [[Mastigos]].
+Located in [[Pandemonium]] and the destination of the [[Path]] of [[Mastigos]].

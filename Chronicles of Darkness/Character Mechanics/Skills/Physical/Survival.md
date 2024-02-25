@@ -7,11 +7,11 @@ tags:
 ## Description
 
 _Survival represents a character’s experience and ability to “live off the land.” He knows how to find shelter, gather food, and endure harsh elements and environments._
-- He can use the Survival Skill to find clean drinking water or hunt animals for food, build simple structures, and build a fire.
-- The Survival Skill is not limited to wilderness or rural locales
+- He can use the Survival [[Skill]] to find clean drinking water or hunt animals for food, build simple structures, and build a fire.
+- The Survival [[Skill]] is not limited to wilderness or rural locales
 - It can also be used to survive in an urban environment when you have no other way of getting food or shelter
-- The Survival Skill does not cover dealing with animals beyond hunting
-- The character can track an animal, but without the Animal Ken Skill, doesn’t understand much about the animal’s behaviour
+- The Survival [[Skill]] does not cover dealing with animals beyond hunting
+- The character can track an animal, but without the Animal Ken [[Skill]], doesn’t understand much about the animal’s behaviour
 - He wouldn’t have much luck trying to calm a bear that found its way into his campsite
 
 ---

@@ -26,7 +26,7 @@ Multiply those feelings one-hundredfold and you have an idea of what Gnosis is.
 
 ## Gnosis by Path
 
-Gnosis is different for everyone. Your character’s Path flavours her Gnosis, as well as every facet of her identity.
+Gnosis is different for everyone. Your character’s [[Path]] flavours her Gnosis, as well as every facet of her identity.
 
 ### Acanthus
 

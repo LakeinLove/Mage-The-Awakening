@@ -4,7 +4,7 @@ tags:
 aliases:
   - Skill Specialties
 ---
-_Skill Specialties are a hyper-focused application of a Skill, representing a specific subcategory of the Skill in which the character is especially talented or trained._
+_[[Skill]] Specialties are a hyper-focused application of a [[Skill]], representing a specific subcategory of the [[Skill]] in which the character is especially talented or trained._
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 
 ## Description
 
-_The Brawl Skill is the fine art of hurting another person with no weapons other than the character’s own body._
+_The Brawl [[Skill]] is the fine art of hurting another person with no weapons other than the character’s own body._
 - It can represent martial arts training, bar fight experience, or simply a bad temper and a willingness to hurt others.
 - It covers throwing punches and kicks, but also things like grappling, throws, head butts, and blocking in hand-to-hand combat.
 - Brawl is generally rolled with [[Strength]] in a hand-to-hand fight. A character who is well trained in a specific style of combat may have that represented with a [[Fighting Style]] [[Merit]]

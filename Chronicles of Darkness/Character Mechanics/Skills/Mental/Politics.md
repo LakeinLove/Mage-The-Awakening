@@ -50,7 +50,7 @@ _Examples and descriptions of someone at each level_
 ### Professional (2 dot)
 
 - A character at this level knows how to work within the system, and understands the official organizational structure very well
-- Low-level bureaucrats and lobbyists generally have this level of the Politics Skill
+- Low-level bureaucrats and lobbyists generally have this level of the Politics [[Skill]]
 
 ### Experienced (3 dot)
 

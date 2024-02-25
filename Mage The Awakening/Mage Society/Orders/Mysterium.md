@@ -7,16 +7,16 @@ aliases:
   - Mystagogues
   - Mystagogue
 ---
-_The Mysterium, a religion dedicated to magic itself whose adherents aggressively seek out Mysteries for their own enlightenment before storing them for safekeeping from the world._
+_The Mysterium, a religion dedicated to magic itself whose adherents aggressively seek out [[Mystery|Mysteries]] for their own enlightenment before storing them for safekeeping from the world._
 
 ## Magic is alive
 
-The world is Fallen, but wondrous. Pure truth from the Supernal drifts downward, fragmenting from exposure to the Abyss. The driven and elect must track down this knowledge to glean true wisdom, separating Supernal wheat from Fallen chaff. Contemporary mages piece together the past, and in doing so forge a future.  \
-This pursuit of Gnosis holds together the Mysterium — if mystic lore is the currency of the Awakened, none are richer than Mystagogues. They scour crypts, decipher forgotten languages, and scrutinize myth cycles for signs of sorcery, retrieving and hoarding knowledge that sundered and fragmented from crossing the Abyss.
+The world is Fallen, but wondrous. Pure truth from the Supernal drifts downward, fragmenting from exposure to the Abyss. The driven and elect must track down this knowledge to glean true [[Wisdom]], separating Supernal wheat from Fallen chaff. Contemporary mages piece together the past, and in doing so forge a future.  \
+This pursuit of [[Gnosis]] holds together the Mysterium — if mystic lore is the currency of the Awakened, none are richer than Mystagogues. They scour crypts, decipher forgotten languages, and scrutinize myth cycles for signs of sorcery, retrieving and hoarding knowledge that sundered and fragmented from crossing the Abyss.
 
-Mystagogues battle against Pancryptia, the tendency of sorcery to actively hide itself amidst the cultural detritus of the Fallen World. They work to foster academia, instilling the intellectual discipline and rigor needed for the Awakened to sift through the Fallen World for pearls of Supernal wisdom. The World is Fallen and damaged, but Mystagogues scrutinize with singular focus. Two open secrets propel their questioning natures: One, that magic itself is alive and active in the world; and two, that anything living can be healed.
+Mystagogues battle against Pancryptia, the tendency of sorcery to actively hide itself amidst the cultural detritus of the Fallen World. They work to foster academia, instilling the intellectual discipline and rigor needed for the Awakened to sift through the Fallen World for pearls of Supernal [[Wisdom]]. The World is Fallen and damaged, but Mystagogues scrutinize with singular focus. Two open secrets propel their questioning natures: One, that magic itself is alive and active in the world; and two, that anything living can be healed.
 
-**Mages join the Mysterium** to proactively seek out the Mysteries, out of an academic or psychological interest in magic. They also join out of a desire to withdraw from Sleepers and chase arcane insight as far as it will go, or to preserve magic within a hostile Fallen World. Lastly, they join to travel the world while being assured they’ll get a decent reception in whichever Caucus they land.
+**Mages join the Mysterium** to proactively seek out the [[Mystery|Mysteries]], out of an academic or psychological interest in magic. They also join out of a desire to withdraw from Sleepers and chase arcane insight as far as it will go, or to preserve magic within a hostile Fallen World. Lastly, they join to travel the world while being assured they’ll get a decent reception in whichever Caucus they land.
 
 ## Core Beliefs
 
@@ -28,7 +28,7 @@ Copies of the text (if not the rotes it contained) are still given to every new 
 
 ### Knowledge is Power
 
-Platitude or no, to Mystagogues, magic is enlightenment. The more a mage experiences, the more enlightened she is, but only personal experience of the Mysteries will do. No one can just be handed answers, as the act of piecing together Supernal (or pre-Fall) lore is the well from which the epiphanies spring.  
+Platitude or no, to Mystagogues, magic is enlightenment. The more a mage experiences, the more enlightened she is, but only personal experience of the [[Mystery|Mysteries]] will do. No one can just be handed answers, as the act of piecing together Supernal (or pre-Fall) lore is the well from which the epiphanies spring.  
 
 Mystagogues travel the Fallen World, hunting for magic, experiencing as much as they can, and bringing any tangible signs of it back to brimming arcane academy-libraries called Athenaea. The Order carefully conceals information from its own lower ranks, revealing it like layers of an onion as a member progresses through stages of initiation. Knowledge is filtered downward from purer to lesser, in the same manner as the Supernal.
 
@@ -50,31 +50,31 @@ Magic is demanded for knowledge rendered. The Mysterium doesn’t lie to the unw
 
 The Mysterium is the youngest Diamond Order. While the [[Guardians of the Veil|Guardians]], [[Silver Ladder|Ladder]], and [[Adamantine Arrow|Arrow]] formed during the Hellenistic period, their forebears remained divided. Two Orders, the Pancryptiates and the Keepers of the Word, formed from related cultural schools dedicated to seeking out magical knowledge and preserving magic safely from Sleepers. 
 
-The Keepers focused more on the desire to acquire knowledge and preserve it, while the Pancryptiates propagated their theories of ignorance annihilating Supernal secrets forevermore. While both Orders adopted Diamond symbolism and praxes, they waxed and waned in relative popularity over the centuries. The Keepers founded the earliest Athenaea and allowed Diamond mages access to their stores when worthy, while also earning a reputation for aggressive pursuit of the Mysteries, taking magic from their allies when they could. 
+The Keepers focused more on the desire to acquire knowledge and preserve it, while the Pancryptiates propagated their theories of ignorance annihilating Supernal secrets forevermore. While both Orders adopted Diamond symbolism and praxes, they waxed and waned in relative popularity over the centuries. The Keepers founded the earliest Athenaea and allowed Diamond mages access to their stores when worthy, while also earning a reputation for aggressive pursuit of the [[Mystery|Mysteries]], taking magic from their allies when they could. 
 
 The Pancryptiates studied [[Paradox]], developed the egregore to preserve knowledge against physical loss, and pursued any means of safeguarding magic from the world. The two Orders merged in the wake of the Corpus’ publication, the new Mysterium taking equally from both traditions. With the collapse of the Byzantine Empire, the unified Order spread throughout the world along the old Silk Roads and through the magic of powerful Space Legacies.
 
 Since then, Mystagogues have maintained a global presence. The Order holds that the earliest European mages in North America were of the Mysterium, allying with their counterparts dedicated to preservation of oral language. It was much the same in sub-Saharan Africa and Australia, and many Mysterium cabals and Caucuses can boast centuries-old lineages.  
 
-The Mysterium has provided the Pentacle with global communications since before it was a single Order — Mystagogues on international trips hunting Mysteries take the news with them. They’ve been partially supplanted in this role by the [[Guardians of the Veil|Guardians]], but publicly, there’s no better method of secure communication between far-flung Caucuses.
+The Mysterium has provided the Pentacle with global communications since before it was a single Order — Mystagogues on international trips hunting [[Mystery|Mysteries]] take the news with them. They’ve been partially supplanted in this role by the [[Guardians of the Veil|Guardians]], but publicly, there’s no better method of secure communication between far-flung Caucuses.
 
 ## Mysteries
 
-The Mysterium quests for Mysteries in danger of vanishing, rescuing them from Pancryptia’s touch — Atlantean ruins at risk of discovery (and destruction) by Sleepers, Legacies with few remaining members, lost Grimoires, verges, rare magical effects, and signs of Ascension.  \
+The Mysterium quests for [[Mystery|Mysteries]] in danger of vanishing, rescuing them from Pancryptia’s touch — Atlantean ruins at risk of discovery (and destruction) by Sleepers, Legacies with few remaining members, lost Grimoires, verges, rare magical effects, and signs of Ascension.  \
 Sometimes the quest involves great personal danger, or requires the Mystagogue to cross fellow mages or other supernatural beings
 
 ## Magical Symbolism: Knowledge
 
-Mystagogues worship Gnosis, the knowledge of magic through experience; many believe that lying about a magical topic directly increases Pancryptia, as a deliberate degradation of information. Especially faithful Mystagogues refuse to lie at all on any topic, while most either refuse to answer magical queries if they cannot share secrets with the asker, or only reveal part-truths. Knowledge is the raison d’être of the Mysterium — its procurement, preservation, and propagation.  
+Mystagogues worship [[Gnosis]], the knowledge of magic through experience; many believe that lying about a magical topic directly increases Pancryptia, as a deliberate degradation of information. Especially faithful Mystagogues refuse to lie at all on any topic, while most either refuse to answer magical queries if they cannot share secrets with the asker, or only reveal part-truths. Knowledge is the raison d’être of the Mysterium — its procurement, preservation, and propagation.  
 
 In Diamond symbolism, they are the Alae Draconis: the Wings of the Dragon, uplifting the Awakened City’s body politic with winds of insight. The symbolism and layered initiations of the Mystagogues allows them gradual entry into a communal mind called the egregore, finding expression in avataric mages called Egregori.  \
 This communion allows Mystagogues an essential unity beyond that of their allied Orders. Beyond tomes and scribing tools, the Mysterium dedicates objets d’art containing symbolic messages and imagery deliberately crafted by the artist, such as Masonic paintings or cave art.
 
 ## Hubris
 
-Sleepers already have a prideful tendency to ritualize and mystify academia; for those who regard it as a living religion, hubris runs rampant. Mystagogues fall when they believe the Mystery is more important than whoever or whatever is standing between them and it. They also aggressively acquire magical sites and Grimoires for “safekeeping,” causing conflict within the Pentacle and with the [[Seers of the Throne|Seers]]. 
+Sleepers already have a prideful tendency to ritualize and mystify academia; for those who regard it as a living religion, [[Act of Hubris|Hubris]] runs rampant. Mystagogues fall when they believe the [[Mystery]] is more important than whoever or whatever is standing between them and it. They also aggressively acquire magical sites and Grimoires for “safekeeping,” causing conflict within the Pentacle and with the [[Seers of the Throne|Seers]]. 
 
-Left-Handed or Reaper Legacies that would be rooted out from the other Orders of the Diamond are allowed to quietly flourish in the Athenaea, their unique praxes and secret knowledge deemed too valuable to lose. More than a few Mystagogues have fallen prey to cursed items out of a refusal to destroy them. High-security Athenaea called Censoria imprison Mysteries too dangerous for the rest of the Pentacle: the hidden names of demons, spells that warp the souls of living mages, records of Left-Handed Legacies, and Artifacts linked to the Exarchs. 
+Left-Handed or Reaper Legacies that would be rooted out from the other Orders of the Diamond are allowed to quietly flourish in the Athenaea, their unique praxes and secret knowledge deemed too valuable to lose. More than a few Mystagogues have fallen prey to cursed items out of a refusal to destroy them. High-security Athenaea called Censoria imprison [[Mystery|Mysteries]] too dangerous for the rest of the Pentacle: the hidden names of demons, spells that warp the souls of living mages, records of Left-Handed Legacies, and Artifacts linked to the Exarchs. 
 
 Encouraging radical honesty among followers isn’t the same as encouraging tact, but too often Mystagogues fail to grasp the difference or recognize value in the latter. Too often, the Mysterium refusing to play politics or consider options at length before abiding by a Hierarch’s counsel has disturbed a [[Consilium]]’s harmony, with fatal results. 
 
@@ -106,7 +106,7 @@ One cannot lead from a position of ignorance; we give the Pentacle wings.
 Fashion and culture are not true wisdom. Too often, they obscure the true prize.
 
 [[Seers of the Throne]]: \
-Willing servants of the Lie, architects of Pancryptia. Betrayers of their own Gnosis.
+Willing servants of [[Lie|the Lie]], architects of Pancryptia. Betrayers of their own [[Gnosis]].
 
 ## Lore Bite
 
@@ -116,5 +116,5 @@ Willing servants of the Lie, architects of Pancryptia. Betrayers of their own Gn
 >Or maybe you’d rather hear about the wards around South American pyramids, the ones the tourists don’t get to see. I’ve fought [[Seers of the Throne|Seers]] in customs warehouses, gleaned truths from the tongues of spirits and angels, traded with charlatans for the slivers of true magic they possess. 
 >
 >Understanding and experience are marks of value. Ignorance and deception are tools of the wicked. Knowledge isn’t power, knowledge is everything — and that’s true beyond the tautological appeal. The secrets of magic are hidden in the dark places of the world.  \
->The Mysteries await you, begging to be grasped. As it turns out, a small cult has sprung up in one of those abandoned subway stations, and their leader claims he scries the tunnels through the eyes of rats. Care to come with me to see how he does it?
+>The [[Mystery|Mysteries]] await you, begging to be grasped. As it turns out, a small cult has sprung up in one of those abandoned subway stations, and their leader claims he scries the tunnels through the eyes of rats. Care to come with me to see how he does it?
 

@@ -10,12 +10,12 @@ _The Silver Ladder, a humanist Order dedicated to the ideal of lifting every hum
 
 ## Magic is Humanity’s Birthright
 
-All souls reach for enlightenment. Traitor-Gods have chained humanity’s souls with a grand Lie, yet humanity still strives for truth and divinity. The dream of Awakened destiny will endure, even in a ruined realm of Tyrannical rule. \
-It is the duty of those more advanced to reach down and free the others, raise their fellows up, bringing everyone to their own perfection. A helping hand is only of use if the recipient has the will to climb, though. The Awakened have hefted themselves up the first rungs on their own, but the climb — the Ladder — is all there is.
+All souls reach for enlightenment. Traitor-Gods have chained humanity’s souls with a grand [[Lie]], yet humanity still strives for truth and divinity. The dream of Awakened destiny will endure, even in a ruined realm of Tyrannical rule. \
+It is the duty of those more advanced to reach down and free the others, raise their fellows up, bringing everyone to their own perfection. A helping hand is only of use if the recipient has the [[Awakened Will|Will]] to climb, though. The Awakened have hefted themselves up the first rungs on their own, but the climb — the Ladder — is all there is.
 
-The Silver Ladder is invested in the Diamond and Pentacle as a whole, not just the goals of their Order — beyond their status as creators and definers of [[Awakened]] society, the Ladder requires them to advise other mages on the best path to freeing humanity from the Lie. The Enemy seeks to keep humanity in chains, turning their slaves towards keeping the Sleeping rabble ignorant and Quiescent. 
+The Silver Ladder is invested in the Diamond and Pentacle as a whole, not just the goals of their Order — beyond their status as creators and definers of [[Awakened]] society, the Ladder requires them to advise other mages on the best path to freeing humanity from [[Lie|the Lie]]. The Enemy seeks to keep humanity in chains, turning their slaves towards keeping the Sleeping rabble ignorant and Quiescent. 
 
-The Order defies those efforts by dreaming big, spreading the flame of Awakening and sundering the chains of the Lie. They create Cryptopolies, mystery cults that encourage [[Sleepers]] towards enlightened behaviour, continually working to counter the [[Seers of the Throne|Seers]]’ influence over humanity. More than any other Order, they seek out and shelter families of [[Proximi]] in the hopes of fostering an enlightened class of human.
+The Order defies those efforts by dreaming big, spreading the flame of [[Awakening]] and sundering the chains of [[Lie|the Lie]]. They create Cryptopolies, mystery cults that encourage [[Sleepers]] towards enlightened behaviour, continually working to counter the [[Seers of the Throne|Seers]]’ influence over humanity. More than any other Order, they seek out and shelter families of [[Proximi]] in the hopes of fostering an enlightened class of human.
 
 Ladder mages (who call themselves théarchs) settle disputes between Awakened, believing in a unified mage-nation. The Ladder is the glue holding Awakened society together, including the [[Seers of the Throne|Seers]] (if only by opposition). Their ethos of personal rights and mediation of conflict form the backbone of the Pentacle, the [[Consilia]], and especially [[Convocations]]. 
 
@@ -23,7 +23,7 @@ The Ladder is even responsible for the Diamond’s legal system, Lex Magica. It 
 
 Consequently, even when the mages of the Ladder don’t hold political positions, they remain interested in societal politics. A Hierarch from a different Order will often find himself picking up several unofficial advisors, and théarchs are the first to volunteer themselves as mediators and communicators.
 
-**Mages join the Silver Ladder** when they want to grasp control of their lives; when they want to help Sleepers become more enlightened, or to help individual loved ones to Awakening; when they admire classical Awakened society and wish to perpetuate it; or if they feel a call to public office not out of a need to serve but to lead.
+**Mages join the Silver Ladder** when they want to grasp control of their lives; when they want to help Sleepers become more enlightened, or to help individual loved ones to [[Awakening]]; when they admire classical Awakened society and wish to perpetuate it; or if they feel a call to public office not out of a need to serve but to lead.
 
 ## Core Beliefs
 
@@ -50,7 +50,7 @@ Humanity will rise as one, and then the Ladder’s true work will begin. Until t
 ### Star: The Silver Ladder is the Path to Victory
 
 The Ladder defines the stages of enlightenment souls progress up, from laborers to Ascended Sages; but despite the [[Free Council]]’s rhetoric, the Ladder believes that everyone and anyone deserves the right to move to a rung that best suits her, even if it’s not at the top.  \
-Let artists be artists, let managers, manage… and let mages work miracles. Awakened souls have a destiny and an obligation to uplift the Sleepers and bring Sleepwalkers to Awakening.
+Let artists be artists, let managers, manage… and let mages work miracles. Awakened souls have a destiny and an obligation to uplift the Sleepers and bring Sleepwalkers to [[Awakening]].
 
 ## Origins
 
@@ -64,9 +64,9 @@ Théarchs have even been known to make common cause with the [[Seers of the Thro
 
 ## Mysteries
 
-Théarchs look for Mysteries that give clues to the great ladder of being, especially Sleepwalkers who manifest magical abilities, ancient records of the Awakened, and Supernal entities. Save perhaps the [[Mysterium]], the Ladder is the Order most obsessed with finding temples and artifacts of Atlantis. 
+Théarchs look for [[Mystery|Mysteries]] that give clues to the great ladder of being, especially Sleepwalkers who manifest magical abilities, ancient records of the Awakened, and [[Supernal Entities]]. Save perhaps the [[Mysterium]], the Ladder is the Order most obsessed with finding temples and artifacts of Atlantis. 
 
-Despite the dangerous, oddly contradictory, and often Paradox-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — Sleepers must be encouraged to Awaken, and the Awakened towards Ascension.
+Despite the dangerous, oddly contradictory, and often Paradox-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — Sleepers must be encouraged to [[Awakening|Awaken]], and the Awakened towards Ascension.
 
 ### Magical Symbolism: Authority
 
@@ -76,9 +76,9 @@ As befits a global outlook, théarchs claim symbols of authority from many cultu
 
 ## Hubris
 
-Hubris is a coward’s word; magic is the right of every human being. Destiny lies in [[Ascension]], in forcing reality to bend the knee. [[Paradox]] is a curse imposed by the [[Abyss]], and the [[Abyss]] is the creation of the Enemy. Rhetoric aside, Ladder mages go too far when they overestimate their abilities and ignore advice when it advises them against acting boldly or in accordance with their pronouncements. 
+[[Act of Hubris|Hubris]] is a coward’s word; magic is the right of every human being. Destiny lies in [[Ascension]], in forcing reality to bend the knee. [[Paradox]] is a curse imposed by the [[Abyss]], and the [[Abyss]] is the creation of the Enemy. Rhetoric aside, Ladder mages go too far when they overestimate their abilities and ignore advice when it advises them against acting boldly or in accordance with their pronouncements. 
 
-They also succumb to hubris when they mistake the role of a leader for the role of a sovereign, or when they spin Cryptopolies and [[Consilium]] politics into temporal power, neglecting the eternal truth and grand vision their tenets stem from. Lastly, they commit unwise acts when, ironically, they believe their [[Wisdom]] to be paramount above all others, especially [[Sleepers]].
+They also succumb to [[Act of Hubris|Hubris]] when they mistake the role of a leader for the role of a sovereign, or when they spin Cryptopolies and [[Consilium]] politics into temporal power, neglecting the eternal truth and grand vision their tenets stem from. Lastly, they commit unwise acts when, ironically, they believe their [[Wisdom]] to be paramount above all others, especially [[Sleepers]].
 
 ## Concepts
 

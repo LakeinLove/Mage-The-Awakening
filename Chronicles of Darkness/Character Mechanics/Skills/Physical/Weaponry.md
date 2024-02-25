@@ -6,7 +6,7 @@ tags:
 
 ## Description
 
-_Weaponry is the ability to fight with hand-to-hand weapons. A character with this Skill can wield knives, swords, baseball bats, or even things like a length of chain or a chainsaw._
+_Weaponry is the ability to fight with hand-to-hand weapons. A character with this [[Skill]] can wield knives, swords, baseball bats, or even things like a length of chain or a chainsaw._
 - If you are using a tool (other than a gun or bow) to do violence to someone, Weaponry is the appropriate [[Skill]] to use
 - While guns are generally more dangerous, there are definitely times when you do not have access to one
 - You can almost always find something that you can use as a hand weapon, even if it’s just something like a screwdriver or a broom handle

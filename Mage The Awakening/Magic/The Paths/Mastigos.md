@@ -13,7 +13,7 @@ _A mage whose [[Path]] leads to [[Pandemonium]]. Also known as Warlocks or Psych
 Bonded to the [[Watchtower of the Iron Gauntlet]] in [[Pandemonium]]  \
 Ruling Arcana: [[Mind]] and [[Space]]  \
 Inferior Arcanum: [[Matter]]  \
-Favoured Resistance Attribute: [[Resolve]]  
+Favoured Resistance [[Attribute]]: [[Resolve]]  
 
 ---
 
@@ -30,7 +30,7 @@ Warlocks rattle the chains of connection: the true nature of [[Space]], instead 
 
 [[Matter]]  \
 Matter sticks in the conceptual gullet of the Mastigos.   \
-It seems to populate the Lie alone, a too-solid illusion to fill the empty spaces between [[Sleepers]]. Yet “base” elements undeniably possess Supernal vibrations and have a claim to the world of truth. Mastigos find it difficult to understand [[Matter]]’s faint, unthinking hum.
+It seems to populate [[Lie|the Lie]] alone, a too-solid illusion to fill the empty spaces between [[Sleepers]]. Yet “base” elements undeniably possess Supernal vibrations and have a claim to the world of truth. Mastigos find it difficult to understand [[Matter]]’s faint, unthinking hum.
 
 ## Symbols and Myths
 
@@ -38,7 +38,7 @@ The Devil and Temperance. Demons and wrathful gods. Serenity and decadence.
 
 In the [[Awakened]] Tarot, Mastigos map their experience to two contrasting cards. The Devil represents a Warlock’s passions. Everyone carries an annex of [[Pandemonium]] where their desires dwell, but Mastigos not only possess a strong inner menagerie, but the clarity to name and subjugate its inmates. 
 
-Their Mystery card is Temperance: the path of control and sign of the psychopomp who guides souls between worlds. Despite the initial victory of Awakening, suppressing the Goetia is a lifelong struggle, waged through raw determination, meditative calm, and occasional bribery — feeding your passions can calm them, for a time. Mastigos may take the most direct approach to magical praxes. They treat gods and demons like states of mind to be conjured, propitiated, and bound at need. Yet they do not regard these beings as illusory — as the Astral realms demonstrate, thought is as real as flesh. Warlocks make pantheons of consciousness out of Qlippothic anti-angels and wrathful Tibetan deities. They appear beautiful or fearsome based on the summoner’s state of mind or the thoughts they symbolize. 
+Their [[Mystery]] card is Temperance: the path of control and sign of the psychopomp who guides souls between worlds. Despite the initial victory of [[Awakening]], suppressing the Goetia is a lifelong struggle, waged through raw determination, meditative calm, and occasional bribery — feeding your passions can calm them, for a time. Mastigos may take the most direct approach to magical praxes. They treat gods and demons like states of mind to be conjured, propitiated, and bound at need. Yet they do not regard these beings as illusory — as the Astral realms demonstrate, thought is as real as flesh. Warlocks make pantheons of consciousness out of Qlippothic anti-angels and wrathful Tibetan deities. They appear beautiful or fearsome based on the summoner’s state of mind or the thoughts they symbolize. 
 
 Meditative Mastigos approach with a still mind, hoping to coax bodhisattvas out of fanged, skull-bearing gods. Iron-willed Warlocks confront their Goetia at their most hideous — the more threatening they appear, the more power they offer. The [[Path]]’s chief concern is the problem of the self. Mastigos cast off the illusion that they’re nothing but urges and emotions. After sifting them out, what remains? 
 
@@ -53,10 +53,10 @@ After battling rogue thoughts, Mastigos enter the [[Adamantine Arrow]] understan
 Mastigos [[Free Council|Libertines]] believe that everyone should be allowed to transform his or her own soul without Hierarchs and other titled fools twisting it to suit their ambitions. [[Sleepers]] follow gurus and priests in search of happy, calm minds. Mastigos play the part with an advantage: They can truly peer into your psyche. They provide the help [[Sleepers|Sleeper]] mystics falsely promise, though they can inflict abuse unimagined by the worst cult leaders, too.
 
 [[Guardians of the Veil]]:  \
-Mastigos understand how difficult it is to Awaken without submitting to the soul’s weaknesses. Give up yourself, become pure, and guard the Awakened against anyone unable to make the same commitment. Mastigos [[Guardians of the Veil|Guardians]] excel at interrogation, surveillance, and assuming false identities.
+Mastigos understand how difficult it is to [[Awakening|Awaken]] without submitting to the soul’s weaknesses. Give up yourself, become pure, and guard the Awakened against anyone unable to make the same commitment. Mastigos [[Guardians of the Veil|Guardians]] excel at interrogation, surveillance, and assuming false identities.
 
 [[Mysterium]]:  \
-Magic not only lives, but possesses a soul made of [[Awakened]] wants and frailties. An Imago is what magic thinks. Spells driven by blind impulses, hatred, and obsessive love corrupt the Supernal mind of sorcery. Therefore, a Mastigos serves the Order by acting as a moral gatekeeper, and examines Mysteries for ethical implications. Although this task normally drives such [[Mysterium|Mystagogues]] to talk to people instead of examining strange sites and artifacts, [[Space]] allows Mastigos to enter inaccessible places and examine their sympathetic connections, leaving a role for occult archaeologists.
+Magic not only lives, but possesses a soul made of [[Awakened]] wants and frailties. An Imago is what magic thinks. Spells driven by blind impulses, hatred, and obsessive love corrupt the Supernal mind of sorcery. Therefore, a Mastigos serves the Order by acting as a moral gatekeeper, and examines [[Mystery|Mysteries]] for ethical implications. Although this task normally drives such [[Mysterium|Mystagogues]] to talk to people instead of examining strange sites and artifacts, [[Space]] allows Mastigos to enter inaccessible places and examine their sympathetic connections, leaving a role for occult archaeologists.
 
 [[Silver Ladder]]:  \
 Rule yourself to rule others. That describes more than a best practice — it’s the right to govern, for the allegorical Cave represents more than intellectual ignorance. It’s the darkness cast by desire, cloaking unpleasant truths. Leaders need to drag the flock out by ministering to their fears, encouraging their ambitions, and suffocating their destructive urges.

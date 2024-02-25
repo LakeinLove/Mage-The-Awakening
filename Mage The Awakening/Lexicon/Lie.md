@@ -10,7 +10,7 @@ People imagine that the world they can touch and see is real — more real than 
 A whispering voice in the back of the head saying: \
 _You’re worthless. You’re only human. Don’t look. Concentrate on surviving the here and now._
 
-**This** is the Lie. A falsehood, created by invisible enemies from the symbolism of oppression and the Paradoxical energies of an [[Abyss]] of untruth. Mages Awaken when they confront the Lie, when they look deep inside themselves, or are shocked outside of themselves and see past the Lie to the symbols beneath.
+**This** is the Lie. A falsehood, created by invisible enemies from the symbolism of oppression and the Paradoxical energies of an [[Abyss]] of untruth. Mages [[Awakening|Awaken]] when they confront the Lie, when they look deep inside themselves, or are shocked outside of themselves and see past the Lie to the symbols beneath.
 
 The [[Fallen World]] is this Lie, hiding the [[Tapestry]] of truth that is the [[Supernal World]].
 

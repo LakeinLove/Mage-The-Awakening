@@ -12,7 +12,7 @@ _A mage whose [[Path]] leads to the [[Primal Wild]]. Also known as Shamans or Ec
 Bonded to the [[Watchtower of the Stone Book]] in the [[Primal Wild]] \
 Ruling Arcana: [[Life]] and [[Spirit]] \
 Inferior Arcanum: [[Mind]] \
-Favoured Resistance Attribute: [[Composure]]
+Favoured Resistance [[Attribute]]: [[Composure]]
 
 ---
 
@@ -22,7 +22,7 @@ The [[Primal Wild]]’s cosmic Moon leaves its reflection in the material realm�
 
 Life’s the seat of sex, hunger, and the fight or flight response. It’s everything we eat and the worms that devour us when we die, resurrect our flesh as theirs, and make us immortal. The Ecstatic honours [[Life]]’s primal sensations and celebrates its lesson: We’re not individuals, but colonies of tissue and bacteria that divide, are broken, and are reborn in ecological miracles. 
 
-The world lives and speaks. Before the Fall, anyone could gaze into the Shadow. The Lie blinds Spirit-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond the Gauntlet. They know what we’ve forgotten: Material light and the Shadow are one realm.
+The world lives and speaks. Before the Fall, anyone could gaze into the Shadow. [[Lie|The Lie]] blinds Spirit-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond the Gauntlet. They know what we’ve forgotten: Material light and the Shadow are one realm.
 ## Inferior Arcanum
 [[Mind]] \
 To imagine [[Mind]] as a coherent [[Arcanum|Arcana]] asks Thyrsus to deny the holistic nature of existence.
@@ -31,14 +31,14 @@ To a Shaman, human consciousness is an adaptation, like a thumb or biped’s gai
 ## Symbols and Myths
 The Hermit and the Moon. Culture heroes and totems. Nature, the living earth, love, and lust. Rough archetypes and personal gods. 
 
-The [[Awakened]] Tarot calls the Thyrsus the [[Path]] of the Hermit. She’s journeyed into an apparent wasteland and returned, filled with stories of the lush places hidden in the barrens. The savage paradise left wounds but gave her power. Her Mystery card’s The Moon, symbol of primordial spirituality. The Moon shines through a thin skin of rational excuses, revealing the veins of pain, pleasure, fear, and rage that really motivate us. Just as our organs and tissues grow as our genes command, our imagination ripens around archetypes that exist before we call them Beast, Hunter, Lover, Gatherer, Leader, Death, and the rest. 
+The [[Awakened]] Tarot calls the Thyrsus the [[Path]] of the Hermit. She’s journeyed into an apparent wasteland and returned, filled with stories of the lush places hidden in the barrens. The savage paradise left wounds but gave her power. Her [[Mystery]] card’s The Moon, symbol of primordial spirituality. The Moon shines through a thin skin of rational excuses, revealing the veins of pain, pleasure, fear, and rage that really motivate us. Just as our organs and tissues grow as our genes command, our imagination ripens around archetypes that exist before we call them Beast, Hunter, Lover, Gatherer, Leader, Death, and the rest. 
 
 Neither cleric nor heretic, the Shaman walks the edges of orthodoxy. Experience trumps faith. Her magic invokes gods the way we might pluck favours from friends and family. She learns how they love to be flattered and fear to be threatened.  
 Thyrsus call upon local legends, spirits of places, and particular culture heroes not as rulers of small places, but as representatives of primal principles. Gods belong to families and all families stretch back to Creation’s dawn.  
 There are many horned gods with individual legends, but they belong to the tribe of the Horned God who represents masculinity and sacral kings. Thyrsus truck with wood nymphs, naiads and hearth gods, and emulate maenads and mythic hermits. They forge bonds with animal and god-ancestor totems.
 
 Thyrsus invoke conventional pantheons as well, but speak to the gods’ archetypes, not the masks priests love. They prefer gods who represent basic desires, concrete phenomena, and the epitome of ecstatic practice. They honor Shiva who dwelled in the woods, Aphrodite, goddess of love, and even Weyland the smith — they know humans make things as naturally as wolves hunt in packs.  
-Thyrsus Shamans are more likely to call upon traditional gods and heroes. Followers of the Ecstatic way seek the Mysteries without attempting to explain them to anyone else, and build personal mythologies based on spirits and phenomena they’ve personally experienced. Their lives are mythic epics punctuated by wordless instances of sublime sensation. Nowadays Thyrsus from both sides of the [[Path]] use biology, psychology, and other contemporary ideas.
+Thyrsus Shamans are more likely to call upon traditional gods and heroes. Followers of the Ecstatic way seek the [[Mystery|Mysteries]] without attempting to explain them to anyone else, and build personal mythologies based on spirits and phenomena they’ve personally experienced. Their lives are mythic epics punctuated by wordless instances of sublime sensation. Nowadays Thyrsus from both sides of the [[Path]] use biology, psychology, and other contemporary ideas.
 ## Shamans in the Orders
 [[Adamantine Arrow]]: \
 Look past the niceties of military culture to ask why the [[Adamantine Arrow|Arrow]]’s enemies need to die, and how to do it without self-indulgent posturing or inefficiency. Fools say animals don’t fight wars, but baboon troops slaughter each other and predators mark their territories with piss and claw marks. Thyrsus Arrows aren’t afraid to bloody their hands in direct combat (and those skilled in Life tend to be extremely good at it), but never for some pretentious point of honour.

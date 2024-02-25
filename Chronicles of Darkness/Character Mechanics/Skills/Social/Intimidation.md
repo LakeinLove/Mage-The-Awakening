@@ -7,7 +7,7 @@ tags:
 ## Description
 
 _Intimidation is the art of using fear to convince others to do what you want_
-- A character can use this Skill for threats, interrogation, subtle implications, or even a direct show of force
+- A character can use this [[Skill]] for threats, interrogation, subtle implications, or even a direct show of force
 - It can convince characters to back down from a confrontation, reveal information they don’t want to share, or get them to cooperate against their better judgement
 - It can’t change their minds, but it can certainly change their behavior
 

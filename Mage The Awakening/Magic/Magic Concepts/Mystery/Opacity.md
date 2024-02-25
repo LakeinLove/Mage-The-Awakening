@@ -3,11 +3,11 @@ tags:
 - Mystery
 ---
 
-_Opacity is the difficulty of a Mystery to be solved, the ways that it resists and  defies understand; it hides itself from the Sight of Mages. Opacity is assigned for each character individually, and is reduced separately by Scrutiny_
+_Opacity is the difficulty of a [[Mystery]] to be solved, the ways that it resists and  defies understand; it hides itself from the Sight of Mages. Opacity is assigned for each character individually, and is reduced separately by [[Scrutiny]]_
 
 ---
 
-Setting the Opacity rating for a given Mystery is in the Storyteller’s hands. It isn’t something that should have a hard-and-fast formula to it, because if the players figure out that having Opacity 4 always means a four-dot spell is in effect, it lessens the impact of solving the Mystery.
+Setting the Opacity rating for a given [[Mystery]] is in the Storyteller’s hands. It isn’t something that should have a hard-and-fast formula to it, because if the players figure out that having Opacity 4 always means a four-dot spell is in effect, it lessens the impact of solving the [[Mystery]].
 
 ---
 
@@ -31,9 +31,9 @@ An Opacity 4 [[Mystery]] doesn’t take four successes to unravel. It takes 10 (
 
 ### Mages can cloak their Magic
 
-Hiding a [[Mystery]] from [[Scrutiny]] is part and parcel to the [[Awakened]]. They layer “decoy” spells on top of Mysteries, use [[Prime]] to send would-be Scrutinizers down false paths, and set traps for careless investigators. You can represent these things with high Opacity, and set the “truth” at the deeper levels of the Mystery.
+Hiding a [[Mystery]] from [[Scrutiny]] is part and parcel to the [[Awakened]]. They layer “decoy” spells on top of [[Mystery|Mysteries]], use [[Prime]] to send would-be Scrutinizers down false paths, and set traps for careless investigators. You can represent these things with high Opacity, and set the “truth” at the deeper levels of the [[Mystery]].
 
 ### Non-Supernal Phenomena are more Opaque
 
-A mage can Scrutinize the site of a Wasteland created by a Promethean and learn a great deal, but the Opacity rating should be higher (roughly 1.5 times higher, as a suggestion) than a similar effect created by Awakened magic.
+A mage can [[Scrutiny|Scrutinize]] the site of a Wasteland created by a Promethean and learn a great deal, but the Opacity rating should be higher (roughly 1.5 times higher, as a suggestion) than a similar effect created by Awakened magic.
 

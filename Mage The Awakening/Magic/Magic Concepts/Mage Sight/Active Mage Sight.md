@@ -31,7 +31,7 @@ Detects life signs, revealing if a body is still alive, and allows a mage to gau
 Allows the mage to determine the Structure and Durability of anything she looks at, as well as highlighting the value and quality of items (in game terms, telling the player the Availability and Equipment Bonus of any object).
 
 [[Mind]] Sight: \
-Detects the presence of thinking beings and allows the mage to tell with a glance if someone is asleep, comatose, awake, meditating, or projecting out of his body or into the Astral. The mage is also aware when a character she observes gains or spends Willpower.
+Detects the presence of thinking beings and allows the mage to tell with a glance if someone is asleep, comatose, awake, meditating, or projecting out of his body or into the Astral. The mage is also aware when a character she observes gains or spends [[Willpower]].
 
 [[Prime]] Sight: \
 Highlights anything the mage can use as a [[Yantra]], and the presence (if not the composition) of any [[Awakened]] spell or [[Attainment]] effect. Mages using [[Prime]] Sight can recognize tass with a glance, and tell when they are in a [[Hallow]] or [[Node]].

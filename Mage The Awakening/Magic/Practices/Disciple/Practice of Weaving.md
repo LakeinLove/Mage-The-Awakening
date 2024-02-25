@@ -12,7 +12,7 @@ In terms of mechanics, spells that alter capabilities or somehow otherwise chang
 
 ---
 ## In Game:
-As befits such an eclectic Practice, Weaving effects run the gamut when it comes to covert versus vulgar and Mana cost versus none. Because of the wide scope of potential Weaving effects, it is a versatile Practice, allowing for all sorts of mid-range magical manipulations, some of them quite strong. Some spells make inert materials pliant, while other spells bestow the ability to strike ephemeral entities, and still others create thinking servants composed of telekinetic force alone.  
+As befits such an eclectic Practice, Weaving effects run the gamut when it comes to covert versus vulgar and [[Mana]] cost versus none. Because of the wide scope of potential Weaving effects, it is a versatile Practice, allowing for all sorts of mid-range magical manipulations, some of them quite strong. Some spells make inert materials pliant, while other spells bestow the ability to strike ephemeral entities, and still others create thinking servants composed of telekinetic force alone.  
   
 Because of the wide scope of Weaving’s effects, Weaving is a favorite mid-level Practice for almost any mage. An intelligent mage can fi nd a multitude of uses for almost every Weaving spell in his repertoire. Because of Weaving catchall nature, many newly researched spells end up being classed within the Practice of Weaving.
 

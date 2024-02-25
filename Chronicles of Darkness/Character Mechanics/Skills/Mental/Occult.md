@@ -5,10 +5,10 @@ tags:
 ---
 ## Description
 
-_The Occult Skill is a character’s knowledge of myth, folktales, and urban legends about the strange things that exist in the dark corners of the world._
+_The Occult [[Skill]] is a character’s knowledge of myth, folktales, and urban legends about the strange things that exist in the dark corners of the world._
 - Occult can help a character separate fiction and myth from fact and determine which stories are likely to be actual supernatural events and which are just rumours.
 - That said, there are a lot of strange things out there, and many of them defy easy categorization.
-- The Occult Skill doesn’t necessarily give a character a line on the absolute “truth” about what’s going on, but instead represents an array of knowledge about encounters and theories that others have had, and the ability to build on those theories herself.
+- The Occult [[Skill]] doesn’t necessarily give a character a line on the absolute “truth” about what’s going on, but instead represents an array of knowledge about encounters and theories that others have had, and the ability to build on those theories herself.
 
 ---
 

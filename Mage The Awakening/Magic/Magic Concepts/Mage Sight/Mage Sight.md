@@ -14,7 +14,7 @@ Mage Sight has three levels:
 Although a mage regains awareness of the world when his [[Awakening]] ends, he never again sees the world without the [[Supernal]] symbols underlying it. This [[Peripheral Mage Sight]] cannot be turned off, but a mage soon grows used to the Supernal symbols that outline phenomena closest to his [[Path]]. \
 If the mage chooses to concentrate on the symbols — an exercise known as [[Active Mage Sight]] — he perceives all the attributes related to those Arcana of which he has at least a rudimentary understanding. 
 
-Finally, the mage can direct all his attention toward a single subject, blotting out all material distractions to closely examine the Supernal symbols that surround it. Such [[Focused Mage Sight]] can reveal the subject’s deepest Mysteries, but it can attract unwanted attention from the Supernal World.
+Finally, the mage can direct all his attention toward a single subject, blotting out all material distractions to closely examine the Supernal symbols that surround it. Such [[Focused Mage Sight]] can reveal the subject’s deepest [[Mystery|Mysteries]], but it can attract unwanted attention from the Supernal World.
 
 ---
 
@@ -22,7 +22,7 @@ Regardless of her [[Path]], a walk down a crowded sidewalk is never the same for
 
 ### Acanthus Mage Sight
 
-To an [[Acanthus]], the world is replete with “trails,” odd time effects, and signifiers of fate acting on the world. Witches using [[Active Mage Sight]] often experience time dilation or contraction. Under [[Focused Mage Sight]], many [[Acanthus]] see the thorns — visual metaphors for the branching timelines running behind and ahead of everything, which might appear as shining cracks in surfaces, quicksilver vines, or shimmering lines in the air.
+To an [[Acanthus]], the world is replete with “trails,” odd time effects, and signifiers of fate acting on the world. [[Acanthus|Witches]] using [[Active Mage Sight]] often experience time dilation or contraction. Under [[Focused Mage Sight]], many [[Acanthus]] see the thorns — visual metaphors for the branching timelines running behind and ahead of everything, which might appear as shining cracks in surfaces, quicksilver vines, or shimmering lines in the air.
 
 ### Mastigos Mage Sight
 

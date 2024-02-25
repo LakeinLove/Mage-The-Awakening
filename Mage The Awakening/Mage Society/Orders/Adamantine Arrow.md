@@ -23,7 +23,7 @@ They typically hold a majority of non-leadership roles in [[Consilia]] and [[Con
 ### The Adamant Way
 
 Created by millennia-worth of treatises from dozens of cultural standpoints and containing a multitude of philosophical schools, the Way can be divided into five precepts — the Hand — just as five fingers make a fist.  \
-The metaphor is simple: Hands are the primary gates for the sense of touch and the means to work one’s will; they create or destroy in equal measure, translating human desire into physicality.
+The metaphor is simple: Hands are the primary gates for the sense of touch and the means to work one’s [[Awakened Will|Will]]; they create or destroy in equal measure, translating human desire into physicality.
 
 ### Existence is War
 
@@ -61,9 +61,9 @@ The Order emerged with the conclusion that war itself had changed. Never again w
 
 ## Mysteries
 
-Arrows look for Mysteries that threaten their charges, seeking to understand malicious magic with superior knowledge and craft intent to better end the threat. They seek to aid other Diamond Orders in the often-perilous experience of investigating their own Mysteries.  
+Arrows look for [[Mystery|Mysteries]] that threaten their charges, seeking to understand malicious magic with superior knowledge and craft intent to better end the threat. They seek to aid other Diamond Orders in the often-perilous experience of investigating their own [[Mystery|Mysteries]].  
 
-Alternately, an Arrow will swear oaths to uncover a secret, proving dominance with self-mastery by pitting herself against a singular foe. An attractive Mystery for an Arrow involves a test or contest of his skill; Arrows are disappointed when the [[Fallen World]] gives up its secrets too easily.
+Alternately, an Arrow will swear oaths to uncover a secret, proving dominance with self-mastery by pitting herself against a singular foe. An attractive [[Mystery]] for an Arrow involves a test or contest of his skill; Arrows are disappointed when the [[Fallen World]] gives up its secrets too easily.
 
 ## Magical Symbolism: Attack and Defence
 
@@ -75,7 +75,7 @@ In the ideal Awakened society postulated by the Diamond’s Atlantean symbolism,
 
 ## Hubris
 
-Arrows fall afoul of hubris when they overestimate their abilities and create Paradoxes trying to extricate themselves, or when they’re confronted with their own weakness and deficiencies. It’s also easy for an efficient Arrow to assume he’s conquered all his challenges simply because he tightly manages his life, forgetting that the Order’s truths lie in constant conflict. Dedicated Arrows find it easy to mistake disdain for avoiding necessary fights as willingness to forsake peaceful ends. 
+Arrows fall afoul of [[Act of Hubris|Hubris]] when they overestimate their abilities and create Paradoxes trying to extricate themselves, or when they’re confronted with their own weakness and deficiencies. It’s also easy for an efficient Arrow to assume he’s conquered all his challenges simply because he tightly manages his life, forgetting that the Order’s truths lie in constant conflict. Dedicated Arrows find it easy to mistake disdain for avoiding necessary fights as willingness to forsake peaceful ends. 
 
 Violence must always be a solution, but it is rarely the best solution, so an Arrow grows hubristic when she loses sight of this. Life to a member of the Order isn’t so important when forced to choose between existence and integrity, but hubristic Arrows regard keeping your word as more important than human lives and morality. 
 
@@ -114,8 +114,8 @@ Every war needs enemies.
 
 > See that convenience store? No, I already know what you do. It’ll be robbed in about a half hour, and it doesn’t turn out pretty for the clerk or that poor kid pressed into being the trigger man. 
 > 
-> Your Awakening wasn’t pleasant, I know. Neither was your Sleeper life. I’m sympathetic, but I’m not sorry for you. Some might call you scarred by the experience, and they might pity you for it. The pride in your eyes tells me you already know what I’m going to say:  
-> Scars aren’t something to be ashamed of. Life is a battle. Scars mark you as a survivor. Look around you — others don’t wear their scars half as well as we do. Not everyone can brave the Mysteries, and maybe not everyone should. 
+> Your [[Awakening]] wasn’t pleasant, I know. Neither was your Sleeper life. I’m sympathetic, but I’m not sorry for you. Some might call you scarred by the experience, and they might pity you for it. The pride in your eyes tells me you already know what I’m going to say:  
+> Scars aren’t something to be ashamed of. Life is a battle. Scars mark you as a survivor. Look around you — others don’t wear their scars half as well as we do. Not everyone can brave the [[Mystery|Mysteries]], and maybe not everyone should. 
 > 
 > Look beyond the Consilium, beyond the Awakened — almost everyone tries to avoid being scarred. Not us. We take on the ordeals and keep the vigils — because we’re strong enough, so others don’t have to be. Having magic and power doesn’t matter, just what you do with it. That’s why we step into harm’s way. It’s a challenge, and challenges are the only thing that matters. 
 > 

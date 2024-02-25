@@ -6,7 +6,7 @@ tags:
 
 ## Description
 
-_The Socialize Skill is the art of small talk, polite gestures, and fitting in_
+_The Socialize [[Skill]] is the art of small talk, polite gestures, and fitting in_
 - It represents your ability to interact with people in a variety of social settings, from dive bars to state dinners
 - It covers dealing with groups of people and behaving with the right balance of sensitivity, friendliness, etiquette, and dignity for the setting
 - A character with a high Socialize is the life of the party, or at least able to meet almost anyone she wishes who is at an event
@@ -17,9 +17,9 @@ _The Socialize Skill is the art of small talk, polite gestures, and fitting in_
 
 ### Sample Actions
 
-- Carouse (Manipulation + Socialize)
-- Fit in (Wits + Socialize)
-- Get attention (Presence + Socialize)
+- Carouse ([[Manipulation]] + Socialize)
+- Fit in ([[Wits]] + Socialize)
+- Get attention ([[Presence]] + Socialize)
 
 ### Sample Specialties
 
@@ -59,5 +59,5 @@ _Examples and descriptions of someone at each level_
 
 ### Master (5 dot)
 
-- A character with this level of Skill could be a spy or a high ranking diplomat
+- A character with this level of [[Skill]] could be a spy or a high ranking diplomat
 - She always seems to know exactly what is expected for the social situation, including those times when acting outside the norm is the best way to fit in

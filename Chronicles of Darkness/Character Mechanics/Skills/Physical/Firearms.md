@@ -7,12 +7,12 @@ tags:
 ## Description
 
 _Firearms represents a character’s familiarity and comfort with guns. It reflects her ability to shoot, maintain, and identify any type of personal firearm_
-- This Skill cover pistols, shotguns, assault rifles, and other weapons that can be carried by one person.
-- The Firearms Skill also covers the use of weapons like bows and crossbows.
-- This Skill can represent formal training provided to the police and military.
-- Criminals, hunters, and gun enthusiasts are also likely to have the Firearms Skill, due to hands-on familiarity.
+- This [[Skill]] cover pistols, shotguns, assault rifles, and other weapons that can be carried by one person.
+- The Firearms [[Skill]] also covers the use of weapons like bows and crossbows.
+- This [[Skill]] can represent formal training provided to the police and military.
+- Criminals, hunters, and gun enthusiasts are also likely to have the Firearms [[Skill]], due to hands-on familiarity.
 - Depending on where you are in the world, guns can be fairly common or highly restricted.
-- Characters with the Firearms Skill generally understand local gun laws, and are good at obtaining Firearms when necessary.
+- Characters with the Firearms [[Skill]] generally understand local gun laws, and are good at obtaining Firearms when necessary.
 
 ---
 
@@ -61,7 +61,7 @@ _Examples and descriptions of someone at each level_
 
 ### Expert (4 dot)
 
-- Snipers, sharpshooters, and highly-graded military shooters are generally at this Skill rank
+- Snipers, sharpshooters, and highly-graded military shooters are generally at this [[Skill]] rank
 - A character with four dots in Firearms is an uncannily good shot, whether on the range or in the field
 
 ### Master (5 dot)

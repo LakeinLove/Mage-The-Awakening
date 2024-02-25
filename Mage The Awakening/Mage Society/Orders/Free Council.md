@@ -37,7 +37,7 @@ Doing so will draw forth the Abyssal shard within every human soul simultaneousl
 
 ### Destroy the Followers of the Lie
 
-Sleepers are enslaved by Quiescence. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though the Lie themselves — it forces humanity into a hierarchy of Awakened and Sleeper merely by existing.  
+Sleepers are enslaved by Quiescence. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though [[Lie|the Lie]] themselves — it forces humanity into a hierarchy of Awakened and Sleeper merely by existing.  
 
 Radical columns advocate open war against the [[Seers of the Throne|Seers]] (and, sometimes, the [[Silver Ladder]]), but the Council as a whole cannot agree on the best way to reform Awakened society away from authoritarian origins. Most have settled on the idea that peaceful cooperation within the Pentacle will gradually grow the Awakened community away from outmoded governance. The Pentacle’s formation is a victory already, after all.
 
@@ -58,12 +58,12 @@ Drawn into these cells (called columns, rather than cabals) and held together by
 
 Seeking an advantage in their millennia-long cold war, the Hegemonic Ministry of the [[Seers of the Throne|Seers]] offered the Nameless an alliance against the Diamond. Emissaries offered a marriage of human culture and technological control, sweetening the deal with wealth and temporal power. The attraction was obvious: Nameless mages embraced Fallen fashions and technology as praxes, and were deeply entrenched in mortal culture and fundamentally opposed to the attitudes of the Diamond. 
 
-The [[Seers of the Throne|Seers]] saw their chance to rid the world of the very idea of the occult, sealing the Fallen World’s cracks and completely controlling the Awakening. The simultaneous answer of the Nameless came on New Year’s Eve, 1899:  \
+The [[Seers of the Throne|Seers]] saw their chance to rid the world of the very idea of the occult, sealing the Fallen World’s cracks and completely controlling the [[Awakening]]. The simultaneous answer of the Nameless came on New Year’s Eve, 1899:  \
 No. The Great Refusal was unanimous (if only because the columns who accepted the offer were quietly, brutally purged) and refocused the nascent war efforts against the [[Seers of the Throne|Seers]]. Within a decade, the Nameless Wars had ended. Convocations offered support and assimilation to Nameless columns, while the [[Silver Ladder]] worked to support the allied Assemblies and Nameless Orders as a true fifth Order. The Diamond became a Pentacle, albeit with a point that drew on the Supernal weight of human society and innovation rather than magically emulating a caste of an Awakened City.
 
 ## Mysteries
 
-The Free Council looks for Mysteries within scientific and cultural innovation — supernatural fringe sciences, retro-history, new theories, ancient civilizations, and social movements. Radical occult theories discarded by Diamond Orders find purchase and, occasionally, success within the Council.  
+The Free Council looks for [[Mystery|Mysteries]] within scientific and cultural innovation — supernatural fringe sciences, retro-history, new theories, ancient civilizations, and social movements. Radical occult theories discarded by Diamond Orders find purchase and, occasionally, success within the Council.  
 
 They were born in an era when political thinkers wrestled with notions of anarchism and communism, when occultists invented the tarot (which even the Diamond grudgingly admitted was a success), and when Western and Eastern religions fused into new forms. As the Hellenistic era gave birth to the Diamond, so too did globalization give birth to the Pentacle.
 
@@ -79,9 +79,9 @@ Stonehenge and Baghdad batteries can be occult devices as much as solar panels a
 
 ## Hubris
 
-Born of violence, hubristic Libertines cling fast to an ironically intolerant viewpoint in their zeal to fight the Lie. A factitious Order made of ancient Legacies and contemporary philosophies, Libertines often find themselves unable to agree on a single methodology and unwilling to take action. Lack of a hierarchy means the community responds with a singular purpose, but cannot take necessary actions that are unpopular.  
+Born of violence, hubristic Libertines cling fast to an ironically intolerant viewpoint in their zeal to fight [[Lie|the Lie]]. A factitious Order made of ancient Legacies and contemporary philosophies, Libertines often find themselves unable to agree on a single methodology and unwilling to take action. Lack of a hierarchy means the community responds with a singular purpose, but cannot take necessary actions that are unpopular.  
 
-Mistakes stem further from abdicated responsibility for group actions, or justifying deaths in order to battle the followers of the Lie. Lone voices questioning an Assembly invite censure at best and violent expulsion at worst; most Libertines accept a great many things they might be less than comfortable with in the name of social unity, preserving their political capital for a more important vote.
+Mistakes stem further from abdicated responsibility for group actions, or justifying deaths in order to battle the followers of [[Lie|the Lie]]. Lone voices questioning an Assembly invite censure at best and violent expulsion at worst; most Libertines accept a great many things they might be less than comfortable with in the name of social unity, preserving their political capital for a more important vote.
 
 ## Concepts
 

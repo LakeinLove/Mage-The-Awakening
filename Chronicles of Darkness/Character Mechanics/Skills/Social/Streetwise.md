@@ -6,10 +6,10 @@ tags:
 
 ## Description
 
-_A character with the Streetwise Skill understands how life on the streets works, and is adept at surviving and thriving by its rules_
+_A character with the Streetwise [[Skill]] understands how life on the streets works, and is adept at surviving and thriving by its rules_
 - He can navigate the city, knows who to go to for information or help, and knows where he will be safe
 - Streetwise characters can make use of the city’s unique resources, buy and sell on the black market, or find out secrets
-- It’s an important Skill for any character that needs to avoid the law, navigate the dangers in the city, and keep from ending up on the bad sides of the wrong people
+- It’s an important [[Skill]] for any character that needs to avoid the law, navigate the dangers in the city, and keep from ending up on the bad sides of the wrong people
 
 ---
 
@@ -17,9 +17,9 @@ _A character with the Streetwise Skill understands how life on the streets works
 
 ### Sample Actions
 
-- Find a shortcut (Wits + Streetwise)
-- Get the word on the street (Manipulation + Streetwise)
-- Work the black market (Manipulation + Streetwise)
+- Find a shortcut ([[Wits]] + Streetwise)
+- Get the word on the street ([[Manipulation]] + Streetwise)
+- Work the black market ([[Manipulation]] + Streetwise)
 
 ### Sample Specialties
 
@@ -51,7 +51,7 @@ _Examples and descriptions of someone at each level_
 
 ### Experienced (3 dot)
 
-- Insiders and true fixtures of the street scene have this level of the Skill
+- Insiders and true fixtures of the street scene have this level of the [[Skill]]
 - A character with three dots in Streetwise knows who can make the proper introductions and who can actually get things accomplished
 
 ### Expert (4 dot)

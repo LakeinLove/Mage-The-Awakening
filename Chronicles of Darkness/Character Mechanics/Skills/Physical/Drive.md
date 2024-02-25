@@ -6,10 +6,10 @@ tags:
 
 ## Description
 
-_Drive is a broad Skill used for the operation of any motorized vehicle. It is used for manoeuvring and controlling automobiles, motorcycles, and even boats._
-- It’s assumed that pretty much any modern character can perform basic driving under safe conditions, even without this Skill.
+_Drive is a broad [[Skill]] used for the operation of any motorized vehicle. It is used for manoeuvring and controlling automobiles, motorcycles, and even boats._
+- It’s assumed that pretty much any modern character can perform basic driving under safe conditions, even without this [[Skill]].
 - However, if a character gets involved in a high-speed chase or tries to elude a tail, Drive is used to determine how well they handle themselves.
-- The Drive Skill is needed when the character is in a dangerous or stressful situation, is trying to do something tricky, or is driving at very high speeds.
+- The Drive [[Skill]] is needed when the character is in a dangerous or stressful situation, is trying to do something tricky, or is driving at very high speeds.
 - If you want your character to be capable of piloting aircraft as well, you need to take the [[Skill Specialty]] in Piloting.
 - A character without the [[Piloting]] Specialty is considered untrained if he attempts to operate a plane or other aircraft.
 
@@ -45,7 +45,7 @@ _Examples and descriptions of someone at each level_
 
 ### Novice (1 dot)
 
-- A character with this level of the Skill keeps his head when driving in dangerous weather or treacherous road conditions, and anyone trying to run him off the road will find it surprisingly difficult
+- A character with this level of the [[Skill]] keeps his head when driving in dangerous weather or treacherous road conditions, and anyone trying to run him off the road will find it surprisingly difficult
 - With the Piloting Specialty, the character can handle small, private aircraft.
 
 ### Professional (2 dot)

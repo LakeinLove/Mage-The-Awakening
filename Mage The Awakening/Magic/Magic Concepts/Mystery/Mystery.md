@@ -28,7 +28,7 @@ The ubiquity of [[High Speech]] in the [[Fallen World]] is only one of the many 
 In essence, the Mysteries are that which begs to be explored and understood. The journey along the paths or symbols that accompany [[Awakening]] is only the beginning of the mage’s exploration of the Mysteries. \
 He cannot increase his understanding of the [[Supernal]] power he wields except by seeking them out and experiencing them. Books and mentors can put a mage on the scent of a Mystery, but they cannot bestow the spiritual epiphany a direct encounter offers.
 
-Old, European magical societies started calling what a mage experiences when chasing magic a “Mystery Play” — a story with a symbolic moral at the end. Every Mystery solved is a miniature reminder of the Awakening, when the mage first saw through the Lie.
+Old, European magical societies started calling what a mage experiences when chasing magic a “Mystery Play” — a story with a symbolic moral at the end. Every Mystery solved is a miniature reminder of the [[Awakening]], when the mage first saw through [[Lie|the Lie]].
 
 Chasing a Mystery is intoxicating to a mage, and the journey itself is in many ways the destination. Even those Mysteries that cannot be easily solved can help a mage grow stronger in her [[Path]], applying her experiences to magic.
 
@@ -41,25 +41,25 @@ Mages see the world more deeply than Sleepers do, and when they notice something
 
 ## Surface Information
 
-Surface information is the basic, concrete truth of a Mystery. This information is available upon a successful Revelation, whether or not the mage has lowered the Mystery’s Opacity rating with Scrutiny. 
+Surface information is the basic, concrete truth of a Mystery. This information is available upon a successful [[Revelation]], whether or not the mage has lowered the Mystery’s [[Opacity]] rating with [[Scrutiny]]. 
 
 ---
 
 _In general, surface information should include the following:_
 - Whether the Mystery is the result of Awakened magic.
-- If so, what Arcana were involved and the Signature Nimbus of the caster (unless it was cast using a Rote).
+- If so, what Arcana were involved and the [[Signature Nimbus]] of the caster (unless it was cast using a Rote).
 - Roughly how old the Mystery is (hours, days, months, years, centuries).
 - Optionally, what Practice created the Mystery (if a non-Supernal Mystery, then what Practice the Mystery most closely resembles).
 
 ## Deep Information
 
-Deep information is the truth of a Mystery, the intent, the Supernal resonance. This information only presents itself if the mage unravels the Mystery’s Opacity and then succeeds in a Revelation. The Storyteller can arrange deep information in a number of ways, depending on the Mystery in question and the needs of the story.
+Deep information is the truth of a Mystery, the intent, the Supernal resonance. This information only presents itself if the mage unravels the Mystery’s [[Opacity]] and then succeeds in a [[Revelation]]. The Storyteller can arrange deep information in a number of ways, depending on the Mystery in question and the needs of the story.
 
-One possibility is for all of the deep information to be available only after all of the Opacity is stripped away. This means that the character cannot learn anything other than surface information without reducing Opacity to 0, at which point the truth becomes clear. This is appropriate for low-Opacity Mysteries that do not have much in the way of deep information (lingering spells that the caster made no effort to hide) or, conversely, Mysteries that require full context and understanding to truly process. This method requires that the mage perform a successful Revelation after undoing the Mystery’s Opacity in order to gain the deep information.
+One possibility is for all of the deep information to be available only after all of the [[Opacity]] is stripped away. This means that the character cannot learn anything other than surface information without reducing [[Opacity]] to 0, at which point the truth becomes clear. This is appropriate for low-[[Opacity]] Mysteries that do not have much in the way of deep information (lingering spells that the caster made no effort to hide) or, conversely, Mysteries that require full context and understanding to truly process. This method requires that the mage perform a successful [[Revelation]] after undoing the Mystery’s [[Opacity]] in order to gain the deep information.
 
-Another method is to parcel out information each time the mage lowers the Mystery’s Opacity. This means that even if the mage doesn’t have the time or ability to fully understand a Mystery, she can learn something about it, perhaps enough to move the story forward and give her a new avenue of approach. With this method, the mage gains information as Scrutiny progresses, without having to perform a Revelation.
+Another method is to parcel out information each time the mage lowers the Mystery’s [[Opacity]]. This means that even if the mage doesn’t have the time or ability to fully understand a Mystery, she can learn something about it, perhaps enough to move the story forward and give her a new avenue of approach. With this method, the mage gains information as [[Scrutiny]] progresses, without having to perform a [[Revelation]].
 
-A third method combines the previous two, granting minimal information as the mage unravels Opacity, but still requiring a Revelation for the remainder of the deep information when the Scrutiny is complete.
+A third method combines the previous two, granting minimal information as the mage unravels [[Opacity]], but still requiring a [[Revelation]] for the remainder of the deep information when the [[Scrutiny]] is complete.
 
 In any case, the Storyteller controls how to parcel out deep information for Mysteries, and is under no restriction to be consistent. Mysteries do not follow patterns or rubrics; they are, by definition, unique and enigmatic. The Storyteller should make the decision for how to parcel out information for a given Mystery when she designs it, if for no other reason than to make her life easier when the characters actually come in contact with it
 

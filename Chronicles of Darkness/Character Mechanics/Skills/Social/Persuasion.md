@@ -16,9 +16,9 @@ _Persuasion is about using influence, charm, and careful arguments to change min
 
 ### Sample Actions
 
-- Fast talk (Manipulation + Persuasion)
-- Impassioned plea (Presence + Persuasion)
-- Seduction (Manipulation + Persuasion)
+- Fast talk ([[Manipulation]] + Persuasion)
+- Impassioned plea ([[Presence]] + Persuasion)
+- Seduction ([[Manipulation]] + Persuasion)
 
 ### Sample Specialties
 

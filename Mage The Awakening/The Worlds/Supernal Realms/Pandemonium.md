@@ -4,12 +4,12 @@ tags:
 ---
 - Supernal Realm of [[Mind]] and [[Space]]
 - Nascent plane of the [[Watchtower of the Iron Gauntlet]]
-- Destination of the [[path]] of [[Mastigos]]
-- Supernal Entities: [[Imps]] and [[Wraiths]]
+- Destination of the [[Path]] of [[Mastigos]]
+- [[Supernal Entities]]: [[Imps]] and [[Wraiths]]
 
 ---
 
-Housing the [[Watchtower of the Iron Gauntlet]], and final resting point for the [[path]] of the [[Mastigos]], Pandemonium is a plane of chaos and madness.
+Housing the [[Watchtower of the Iron Gauntlet]], and final resting point for the [[Path]] of the [[Mastigos]], Pandemonium is a plane of chaos and madness.
 
 The Ruling Arcana of Pandemonium are the Gross Arcanum [[Space]] and the Subtle Arcanum [[Mind]].
 

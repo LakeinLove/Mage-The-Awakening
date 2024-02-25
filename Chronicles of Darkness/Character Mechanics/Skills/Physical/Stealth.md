@@ -60,6 +60,6 @@ _Examples and descriptions of someone at each level_
 
 ### Master (5 dot)
 
-- At this level of Skill, the character is a ghost
+- At this level of [[Skill]], the character is a ghost
 - She is almost impossible to find or follow unless she allows it
 - She can hide in an open field or walk up behind an alert guard without being noticed

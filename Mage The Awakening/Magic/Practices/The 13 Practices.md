@@ -31,7 +31,7 @@ In simple terms, the Practices are what you can *DO* with any given [[Arcanum|Ar
 - [[Practice of Shielding]]
   _Protect a target against attacks by providing points of Armor_
 - [[Practice of Veiling]]
-   _Conceal, camouflage or hide phenomena from scrutiny_
+   _Conceal, camouflage or hide phenomena from [[Scrutiny]]_
 ### Disciple Level (Three Dot Arcana):
 - [[Practice of Fraying]]
   _Injure a target_
