@@ -139,7 +139,7 @@ a {
   }
 
   & > #quartz-body {
-    width: 70%;
+    width: 100%;
     display: flex;
     @media all and (max-width: $fullPageWidth) {
       flex-direction: column;
@@ -154,7 +154,6 @@ a {
       width: $sidePanelWidth;
       margin-top: $topSpacing;
       box-sizing: border-box;
-      padding: 0 4rem;
       position: fixed;
       @media all and (max-width: $fullPageWidth) {
         position: initial;
@@ -167,6 +166,7 @@ a {
 
     & .sidebar.left {
       left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      padding-right: 3rem;
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -175,6 +175,7 @@ a {
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      padding-left: 3rem;
       flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
