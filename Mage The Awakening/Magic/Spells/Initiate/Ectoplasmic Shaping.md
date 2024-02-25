@@ -5,10 +5,10 @@ tags:
 - Initiate
 ---
 
-Arcanum: Death \
-Practice: Compelling \
-Primary Factor: Duration \
-Withstand: Resolve \
+Arcanum: Death\
+Practice: Compelling\
+Primary Factor: Duration\
+Withstand: Resolve\
 Suggested Rote Skills: Crafts, Occult, Larceny
 
 ---

@@ -19,34 +19,34 @@ They are divided into #Recondite and #Manifest beings, depending on if their [[A
 
 ### Manifest Entities
 
-[[Forces]] Entities: \
+[[Forces]] Entities:\
 [[Seraphim]]
 
-[[Life]] Entities: \
+[[Life]] Entities:\
 [[Atavisms]]
 
-[[Matter]] Entities: \
+[[Matter]] Entities:\
 [[Apeirons]]
 
-[[Space]] Entities: \
+[[Space]] Entities:\
 [[Imps]]
 
-[[Time]] Entities: \
+[[Time]] Entities:\
 [[Anachronisms]]
 
 ### Recondite Entities
 
-[[Prime]] Entities: \
+[[Prime]] Entities:\
 [[Cherubim]]
 
-[[Spirit]] Entities: \
+[[Spirit]] Entities:\
 [[Totems]]
 
-[[Death]] Entities: \
+[[Death]] Entities:\
 [[Spectres]]
 
-[[Mind]] Entities: \
+[[Mind]] Entities:\
 [[Wraiths]]
 
-[[Fate]] Entities: \
+[[Fate]] Entities:\
 [[Moirae]]

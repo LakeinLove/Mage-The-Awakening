@@ -15,5 +15,5 @@ The 5 Paths are:
 - [[Obrimos]]
 - [[Thyrsus]]
 
-A path is the means by which a Mage casts spells. \
+A path is the means by which a Mage casts spells.\
 It is a massive, theoretically near-infinite set of magical symbols that the mage can sense and understand.

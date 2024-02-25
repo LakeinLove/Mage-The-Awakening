@@ -5,9 +5,9 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Shielding \
-Primary Factor: Potency \
+Arcanum: Death\
+Practice: Shielding\
+Primary Factor: Potency\
 Suggested Rote Skills: Streetwise, Subterfuge, Survival
 
 ---

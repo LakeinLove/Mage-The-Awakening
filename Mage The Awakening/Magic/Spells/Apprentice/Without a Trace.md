@@ -5,9 +5,9 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Veiling \
-Primary Factor: Duration \
+Arcanum: Death\
+Practice: Veiling\
+Primary Factor: Duration\
 Suggested Rote Skills: Science, Stealth, Subterfuge
 
 ---

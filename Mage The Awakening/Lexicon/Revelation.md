@@ -10,7 +10,7 @@ _Revelation is an instant action. It can be undertaken when a mage first encount
 
 ---
 
-**Dice Pool:** [[Gnosis]] + [[Arcanum]] - [[Opacity]] \
+**Dice Pool:** [[Gnosis]] + [[Arcanum]] - [[Opacity]]\
 **Action:** [[Instant Action]]
 
 ---

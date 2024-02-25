@@ -13,14 +13,14 @@ Wisdom represents the control a mage has over her magic. A character with low Wi
 
 ---
 
-[[Losing Wisdom]]: \
+[[Losing Wisdom]]:\
 See this page for how Wisdom is lost and how that is handled
 
-[[Act of Hubris]]: \
+[[Act of Hubris]]:\
 See this page for rough examples of what constitutes the different levels of Wisdom and how it interacts with the world
 
-[[Inuring]]: \
+[[Inuring]]:\
 See this page for how a mage makes themselves immune to suffering Wisdom lost
 
-[[Raising Wisdom]]: \
+[[Raising Wisdom]]:\
 This is for how to increase your Wisdom

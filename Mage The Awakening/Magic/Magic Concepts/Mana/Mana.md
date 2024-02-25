@@ -11,7 +11,7 @@ View [[Gaining Mana]] for how Mana is restored
 
 ---
 
-In a Hallow, it can suffuse a physical object, forming tass. \
+In a Hallow, it can suffuse a physical object, forming tass.\
 Mages can keep a certain amount of Mana in their [[Patterns]] depending on their [[Gnosis]] dots. Alternatively, tass can be physically held and carried around in whatever quantities the mage can stockpile.
 
 A Mage’s [[Gnosis]] determines her [[Patterns|Pattern]]’s capacity for Mana storage, but it also determines how quickly she can spend it. Consult the [[Gnosis]] chart for these numbers.

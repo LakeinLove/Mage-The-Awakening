@@ -5,9 +5,9 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Ruling \
-Primary Factor: Potency \
+Arcanum: Death\
+Practice: Ruling\
+Primary Factor: Potency\
 Suggested Rote Skills: Subterfuge, Science, Occult
 
 ---

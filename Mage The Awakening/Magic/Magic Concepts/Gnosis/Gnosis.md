@@ -12,12 +12,12 @@ See also [[Increasing Gnosis]] and [[Effects of Gnosis]] for the advancement of 
 
 ---
 
-Gnosis is largely a subconscious awareness. It’s your character’s ability to take a mental leap beyond what others can; she can connect dots others cannot even see. \
+Gnosis is largely a subconscious awareness. It’s your character’s ability to take a mental leap beyond what others can; she can connect dots others cannot even see.\
 She understands the universe intuitively, and can see the threads she must pull to enact meaningful change. For her, the question is never how to make change, but instead whether she’s able and willing to do what is necessary.
 
-Have you ever been the expert in a room full of opinionated but uninformed people? \
-Think about the feeling you get when they speak intellectual falsehoods, and others agree. \
-Think about the feeling you get when your voice is shouted down by the raw numbers of other voices. \
+Have you ever been the expert in a room full of opinionated but uninformed people?\
+Think about the feeling you get when they speak intellectual falsehoods, and others agree.\
+Think about the feeling you get when your voice is shouted down by the raw numbers of other voices.\
 Then, think about the feeling you get when your voice begins to click and resonate with the audience, and you feel you can make a change, to inform, to enlighten. 
 
 Multiply those feelings one-hundredfold and you have an idea of what Gnosis is.
@@ -48,5 +48,5 @@ They see the depths, the potential in all things. When they look at a person, a 
 
 ### Thyrsus
 
-They see life in everything. To the [[Thyrsus]]’s wisdom, life will out. To that mind, a nuclear wasteland is but a temporary setback. This breeds a very liberal viewpoint; it’s often not worth intervening in all but the most existential of crises, as in the end, everything will be alright. \
+They see life in everything. To the [[Thyrsus]]’s wisdom, life will out. To that mind, a nuclear wasteland is but a temporary setback. This breeds a very liberal viewpoint; it’s often not worth intervening in all but the most existential of crises, as in the end, everything will be alright.\
 This also highlights the contrary, though. That which is unnatural and threatens that long-term balance is a clear and present danger above anything as mundane as an immediate threat to human life.

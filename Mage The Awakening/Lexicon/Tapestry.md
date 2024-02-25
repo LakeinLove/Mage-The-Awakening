@@ -6,5 +6,5 @@ _All of the [[Supernal World]], together with the [[Fallen World]] giving it sub
 
 ---
 
-Also called, often in ancient Grimoires, the Tellurian. \
+Also called, often in ancient Grimoires, the Tellurian.\
 [[Forms]] make up [[Patterns]] that in turn, collectively make up the Tapestry.

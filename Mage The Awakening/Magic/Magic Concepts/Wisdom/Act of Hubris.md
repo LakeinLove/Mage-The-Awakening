@@ -14,7 +14,7 @@ _Acts of Hubris determine when a mage risks [[Wisdom]] degeneration._
 
 While this list is not exhaustive, it’s also only a series of guidelines. Feel free to add, take away, or adjust as you see fit. Mages of greater [[Wisdom]] consider lesser acts to be Acts of Hubris. 
 
-The greatest minds fall the easiest. \
+The greatest minds fall the easiest.\
 [[Wisdom]] comes in three tiers: 
 - Enlightened 
 - Understanding

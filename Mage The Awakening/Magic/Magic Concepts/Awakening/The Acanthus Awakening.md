@@ -14,8 +14,8 @@ Every Sleeper walks in lockstep with karma imposed by [[Lie|the Lie]], but befor
 
 Behind glass and steel in another city, a woman’s laptop chimes with another task; her phone trembles reminders. She throws them both out an office window and walks away, obeying an impulse she can’t name. She doesn’t wait to be fired, and discards the box of possessions security hands her in the hallway.
 
-They see the secret rhythms of their lives, and refuse to dance to the beat. When you don’t do what life expects of you, a stranger world reveals itself. \
-He takes his lover’s poem as a clue, and follows it to an unmapped forest. \
+They see the secret rhythms of their lives, and refuse to dance to the beat. When you don’t do what life expects of you, a stranger world reveals itself.\
+He takes his lover’s poem as a clue, and follows it to an unmapped forest.\
 She sells her condo to get by and moves back to her dead mother’s house, ramshackle and alone in the industrial barrens. 
 
 Nascent [[Acanthus|Witches]] find hidden glades and impossible rooms, stone circles and straw dolls.

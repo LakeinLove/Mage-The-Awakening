@@ -12,7 +12,7 @@ Not every mage is re-enacting her namesake’s legend — not even most of them 
 
 Some mages change their voices or body language so much that at first glance they’re unrecognizable when out of character.
 
-A Shadow Name serves two functions. First, it helps conceal the mage’s sympathetic name from enemy mages who might use that knowledge to cast spells on her Sympathetically. More importantly, though, it prevents the mage’s [[Nimbus]] from affecting those who only know her by her Sleeping identity. \
+A Shadow Name serves two functions. First, it helps conceal the mage’s sympathetic name from enemy mages who might use that knowledge to cast spells on her Sympathetically. More importantly, though, it prevents the mage’s [[Nimbus]] from affecting those who only know her by her Sleeping identity.\
 So long as the mage practices magic within her Shadow Name, only those things close to her as a mage (her cabal, sanctum, apprentices, Dedicated tools, etc.) are affected by her [[Nimbus]].
 
 A Shadow Name’s protection works best, however, if a mage avoids using magic in the presence of the loved ones of his Sleeper life. If he allows too much of a connection to form between his Shadow Name and his un-Awakened family and friends, they may yet fall under the influence of his magic.
