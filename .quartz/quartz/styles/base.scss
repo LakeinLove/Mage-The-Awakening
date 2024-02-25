@@ -93,20 +93,20 @@ a {
 
 .desktop-only {
   display: initial;
-  @media all and (max-width: 400px) {
+  @media all and (max-width: 1800px) {
     display: none;
   }
 }
 
 .mobile-only {
   display: none;
-  @media all and (max-width: 400px) {
+  @media all and (max-width: 600px) {
     display: initial;
   }
 }
 
 .page {
-  @media all and (max-width: 400px) {
+  @media all and (max-width: 1800px) {
     margin: 0 auto;
     padding: 0 1rem;
     max-width: $pageWidth;
