@@ -13,7 +13,7 @@ Suggested Rote Skills: Crafts, Occult, Larceny
 
 ---
 
-_The mage may shape and mould an ectoplasmic manifestation, either conjured by another mage or from a Materialized ghost, though the person or ghost that controls the ectoplasm may Withstand the shaping. _
+_The mage may shape and mould an ectoplasmic manifestation, either conjured by another mage or from a Materialized ghost, though the person or ghost that controls the ectoplasm may Withstand the shaping._
 
 ---
 

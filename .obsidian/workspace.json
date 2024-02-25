@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md",
-                "mode": "source",
+                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md",
+                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md",
+                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md"
+                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md"
               }
             }
           }
@@ -150,8 +150,6 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Mage The Awakening/Magic/Spells/Apprentice/Without a Trace.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Decay.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Ectoplasm.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Ghost Shield.md",
@@ -161,12 +159,14 @@
     "Mage The Awakening/Magic/Spells/Apprentice/Suppress Aura.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Suppress Life.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Speak with the Dead.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Soul Marks.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Shadow Sculpting.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Forensic Gaze.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
+    "Mage The Awakening/Magic/Spells/Apprentice/Without a Trace.md",
     "Mage The Awakening/Magic/Spells/Initiate/Deepen Shadows.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Forensic Gaze.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Shadow Sculpting.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Soul Marks.md",
+    "Mage The Awakening/Magic/Spells/Initiate/Speak with the Dead.md",
+    "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Aether.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Stygia.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Primal Wild.md",

@@ -12,7 +12,7 @@ Suggested Rote Skills: Occult, Intimidation, Expression
 
 ---
 
-_The mage can influence the shadows in the spell’s area of effect, deepening darkness and making the area nearly completely pitch black. _
+_The mage can influence the shadows in the spell’s area of effect, deepening darkness and making the area nearly completely pitch black._
 
 ---
 
