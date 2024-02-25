@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
-                "mode": "preview",
+                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
+                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
+                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md"
+                "file": "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
+    "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Decay.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Ectoplasm.md",
     "Mage The Awakening/Magic/Spells/Apprentice/Ghost Shield.md",
@@ -166,7 +167,6 @@
     "Mage The Awakening/Magic/Spells/Initiate/Shadow Sculpting.md",
     "Mage The Awakening/Magic/Spells/Initiate/Soul Marks.md",
     "Mage The Awakening/Magic/Spells/Initiate/Speak with the Dead.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Aether.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Stygia.md",
     "Mage The Awakening/The Worlds/Supernal Realms/Primal Wild.md",
