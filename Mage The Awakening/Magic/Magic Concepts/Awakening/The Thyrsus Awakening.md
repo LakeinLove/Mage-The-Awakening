@@ -21,7 +21,10 @@ He designs ever-stranger buildings, but he stopped taking contracts months (year
 She walks into the woods with a week of food, figuring she’ll head back to town for supplies. That never happens; she forages and eats the frogs she used to count for a living. The wilderness spreads beyond every step. It simplifies her, removing human artifice. The swamp ruins her clothes. \
 Someone steals her car. A storm takes her tent. It leaves her naked, but still human — more human because she experiences night chills, hunger, and exhaustion like she’s never felt before. But sun and cleansing rain please her as nothing ever has, and she experiences the ecstasy of survival.
 
-They stand on the edge of the Primal Wild. They’ve started listening to the Singing Stone, but it’s time for them to plunge in and return. One day he looks out the window and sees his cityscape, covered in moss and vines, filled with rats as big as men and women. \
+They stand on the edge of the Primal Wild. \
+They’ve started listening to the Singing Stone, but it’s time for them to plunge in and return. 
+
+One day he looks out the window and sees his cityscape, covered in moss and vines, filled with rats as big as men and women. \
 She walks away from a wave of cold onto a path crushed by the huge hooves of extinct megafauna. She crawls out of the woods onto bare rock. A megalocerous freezes — it sees its predator.
 
 The rats crown him with a copper circlet, covered in flowers. He eats their raw children: their sacrifices. He smears a sigil of rule in their blood. She runs down the beast, stronger and faster than any human, but claims humanity from the bones she turns to spears and the hide that fashions clothes and shelter. \
