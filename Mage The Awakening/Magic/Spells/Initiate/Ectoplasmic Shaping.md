@@ -2,8 +2,10 @@
 tags:
 - Death
 - Compelling
+- Initiate
 ---
 
+Arcanum: Death \
 Practice: Compelling \
 Primary Factor: Duration \
 Withstand: Resolve \
