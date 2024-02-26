@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Mage Society/Orders/Adamantine Arrow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Mage Society/Orders/Adamantine Arrow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Mage Society/Orders/Adamantine Arrow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage The Awakening/Mage Society/Orders/Adamantine Arrow.md"
+                "file": "Mage Society/Orders/Adamantine Arrow.md"
               }
             }
           }
@@ -148,43 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "791d1cee77c220fe",
+  "active": "f5b0d1a3eb862da3",
   "lastOpenFiles": [
-    "Mage The Awakening/Mage Society/Orders/Guardians of the Veil.md",
-    "Mage The Awakening/Mage Society/Orders/Seers of the Throne.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Corpse Mask.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Decay.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Ectoplasm.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Ghost Shield.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Shape Ephemera.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Soul Armour.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Soul Jar.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Suppress Aura.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Suppress Life.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Touch of the Grave.md",
-    "Mage The Awakening/Magic/Spells/Apprentice/Without a Trace.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Deepen Shadows.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Ectoplasmic Shaping.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Forensic Gaze.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Shadow Sculpting.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Soul Marks.md",
-    "Mage The Awakening/Magic/Spells/Initiate/Speak with the Dead.md",
-    "Mage The Awakening/The Worlds/Supernal Realms/Aether.md",
-    "Mage The Awakening/The Worlds/Supernal Realms/Stygia.md",
-    "Mage The Awakening/The Worlds/Supernal Realms/Primal Wild.md",
-    "Mage The Awakening/The Worlds/Supernal Realms/Pandemonium.md",
-    "Mage The Awakening/The Worlds/Supernal Realms/Arcadia.md",
-    "Mage The Awakening/Spellcasting Rules/Practices/The 13 Practices.md",
-    "Mage The Awakening/Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
-    "Mage The Awakening/Magic/Spells/Master",
-    "Mage The Awakening/Magic/Spells/Adept",
-    "Mage The Awakening/Magic/Spells/Disciple",
-    "Mage The Awakening/Magic/Spells/Apprentice",
-    "Mage The Awakening/Magic/Spells/Initiate",
-    "Mage The Awakening/Magic/Magic Concepts/Mystery",
-    "Mage The Awakening/Magic/Magic Concepts/Wisdom",
-    "Mage The Awakening/Magic/Magic Concepts/Mana",
-    "Mage The Awakening/Magic/Magic Concepts/Nimbus",
-    "Mage The Awakening/Magic/Magic Concepts/Gnosis"
+    "Mage Society/Orders/Guardians of the Veil.md",
+    "Mage Society/Orders/Seers of the Throne.md",
+    "Magic/Spells/Apprentice/Corpse Mask.md",
+    "Magic/Spells/Apprentice/Decay.md",
+    "Magic/Spells/Apprentice/Ectoplasm.md",
+    "Magic/Spells/Apprentice/Ghost Shield.md",
+    "Magic/Spells/Apprentice/Shape Ephemera.md",
+    "Magic/Spells/Apprentice/Soul Armour.md",
+    "Magic/Spells/Apprentice/Soul Jar.md",
+    "Magic/Spells/Apprentice/Suppress Aura.md",
+    "Magic/Spells/Apprentice/Suppress Life.md",
+    "Magic/Spells/Apprentice/Touch of the Grave.md",
+    "Magic/Spells/Apprentice/Without a Trace.md",
+    "Magic/Spells/Initiate/Deepen Shadows.md",
+    "Magic/Spells/Initiate/Ectoplasmic Shaping.md",
+    "Magic/Spells/Initiate/Forensic Gaze.md",
+    "Magic/Spells/Initiate/Shadow Sculpting.md",
+    "Magic/Spells/Initiate/Soul Marks.md",
+    "Magic/Spells/Initiate/Speak with the Dead.md",
+    "The Worlds/Supernal Realms/Aether.md",
+    "The Worlds/Supernal Realms/Stygia.md",
+    "The Worlds/Supernal Realms/Primal Wild.md",
+    "The Worlds/Supernal Realms/Pandemonium.md",
+    "The Worlds/Supernal Realms/Arcadia.md",
+    "Spellcasting Rules/Practices/The 13 Practices.md",
+    "Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
+    "Magic/Spells/Master",
+    "Magic/Spells/Adept",
+    "Magic/Spells/Disciple",
+    "Magic/Spells/Apprentice",
+    "Magic/Spells/Initiate",
+    "Magic/Magic Concepts/Mystery",
+    "Magic/Magic Concepts/Wisdom",
+    "Magic/Magic Concepts/Mana",
+    "Magic/Magic Concepts/Nimbus",
+    "Magic/Magic Concepts/Gnosis"
   ]
 }

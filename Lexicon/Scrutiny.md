@@ -15,7 +15,7 @@ The influx of information she receives renders her unable to interact with the [
 
 Scrutiny of a subject allows a mage to determine its [[Mystery|Mysteries]]. The number and nature of [[Mystery|Mysteries]] in a subject is up to the Storyteller.
 
-Scrutiny is an [[extended action]], but with a few variations. The time per roll is one turn, meaning that the player can’t use an exceptional success to reduce the time per roll. Also, the player doesn’t have a target number of successes. Instead, every time she reaches a number of successes equal to the [[Mystery]]’s [[Opacity]], the [[Opacity]] rating falls by one. 
+Scrutiny is an [[Extended Action]], but with a few variations. The time per roll is one turn, meaning that the player can’t use an exceptional success to reduce the time per roll. Also, the player doesn’t have a target number of successes. Instead, every time she reaches a number of successes equal to the [[Mystery]]’s [[Opacity]], the [[Opacity]] rating falls by one. 
 
 For instance, if a mage begins Scrutinizing a lingering spell with [[Opacity]] 4, after the player accumulates four successes, the [[Opacity]] rating drops to three. If the mage continues (and the player accumulates three more successes), the [[Opacity]] rating drops to two.
 
@@ -47,7 +47,7 @@ If the mage chooses to break off the Scrutiny, she can reinstate it later, with 
 
 #### Exceptional Success
 
-The player accrues successes and reveals mysteries as described above. In addition, since the exceptional success mechanics for normal [[extended action]]s do not apply, the player may choose one of the following options: She can apply all successes gained in this roll, even if doing so lowers the [[Opacity]] more than once; she can spend a point of [[Mana]] to blot out the [[Mystery|Mysteries]] she is seeing so that other mages have a more difficult time scrutinizing them (add the character’s [[Gnosis]] to the Mystery’s [[Opacity]]); or she can spend a point of [[Mana]] to cover her tracks, obscuring any trace of her [[Nimbus]] from the area (anyone magically searching for her Scrutiny suffers a penalty equal to her [[Gnosis]]).
+The player accrues successes and reveals mysteries as described above. In addition, since the exceptional success mechanics for normal [[Extended Action]]s do not apply, the player may choose one of the following options: She can apply all successes gained in this roll, even if doing so lowers the [[Opacity]] more than once; she can spend a point of [[Mana]] to blot out the [[Mystery|Mysteries]] she is seeing so that other mages have a more difficult time scrutinizing them (add the character’s [[Gnosis]] to the Mystery’s [[Opacity]]); or she can spend a point of [[Mana]] to cover her tracks, obscuring any trace of her [[Nimbus]] from the area (anyone magically searching for her Scrutiny suffers a penalty equal to her [[Gnosis]]).
 
 ---
 

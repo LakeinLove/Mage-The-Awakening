@@ -43,7 +43,7 @@ Allows the user to instantly judge distances, range bands, and cover, allowing t
 Reveals the strength of the local [[Gauntlet]], detects the presence and nature of the Resonance [[Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
 
 [[Time]] Sight:\
-Reveals the split-second adjustments of time, allowing the player to know the [[Initiative]] ratings of all participants in combat. When a character is about to act, even with a [[reflexive action]], a mage watching with [[Time]] Sight is aware of it (if not what that action will be), and may pre-empt it if he is able. [[Time]] Sight also detects temporal warps, and the tell-tale signs that someone has come back into the past.
+Reveals the split-second adjustments of time, allowing the player to know the [[Initiative]] ratings of all participants in combat. When a character is about to act, even with a [[Reflexive Action]], a mage watching with [[Time]] Sight is aware of it (if not what that action will be), and may pre-empt it if he is able. [[Time]] Sight also detects temporal warps, and the tell-tale signs that someone has come back into the past.
 
 ---
 

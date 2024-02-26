@@ -7,7 +7,7 @@ alias:
 - Inure
 ---
 
-_Inuring allows a mage to become immunised to a spell's [[wisdom]]-damaging effects, but in return makes it a Paradox magnet_
+_Inuring allows a mage to become immunised to a spell's [[Wisdom]]-damaging effects, but in return makes it a Paradox magnet_
 
 ---
 
