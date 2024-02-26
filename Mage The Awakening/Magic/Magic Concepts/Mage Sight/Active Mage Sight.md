@@ -15,34 +15,34 @@ The mage hallucinates, seeing the connections of the Arcana all around her. [[Ma
 
 Each Arcanum has a minor mechanical effect, relating to the base level of perception granted by Active Sight.
 
-[[Death]] Sight: \
+[[Death]] Sight:\
 Allows a mage to detect the presence of the Anchor [[Condition]] or manifested ghosts and related phenomena. With a glance, a mage using [[Mage Sight]] can tell if someone has a soul, or if a body is, in fact, dead.
 
-[[Fate]] Sight: \
+[[Fate]] Sight:\
 Highlights anyone the mage watches who experiences a dramatic failure or exceptional success. It reveals the presence and use of a Destiny a [[Merit]], but not the details of that destiny.
 
-[[Forces]] Sight: \
+[[Forces]] Sight:\
 Detects motion and highlights the presence of environmental [[Tilts]], fire, electricity, and other hazards. With a glance, a mage can tell if a device is powered.
 
-[[Life]] Sight: \
+[[Life]] Sight:\
 Detects life signs, revealing if a body is still alive, and allows a mage to gauge how injured a character is with a glance. The presence of toxins, diseases, and Personal Tilts is obvious to the mage.
 
-[[Matter]] Sight: \
+[[Matter]] Sight:\
 Allows the mage to determine the Structure and Durability of anything she looks at, as well as highlighting the value and quality of items (in game terms, telling the player the Availability and Equipment Bonus of any object).
 
-[[Mind]] Sight: \
+[[Mind]] Sight:\
 Detects the presence of thinking beings and allows the mage to tell with a glance if someone is asleep, comatose, awake, meditating, or projecting out of his body or into the Astral. The mage is also aware when a character she observes gains or spends [[Willpower]].
 
-[[Prime]] Sight: \
+[[Prime]] Sight:\
 Highlights anything the mage can use as a [[Yantra]], and the presence (if not the composition) of any [[Awakened]] spell or [[Attainment]] effect. Mages using [[Prime]] Sight can recognize tass with a glance, and tell when they are in a [[Hallow]] or [[Node]].
 
-[[Space]] Sight: \
+[[Space]] Sight:\
 Allows the user to instantly judge distances, range bands, and cover, allowing the player to know what bonuses or penalties would be in effect before the character acts. It also detects spatial warps, scrying windows, and the presence of [[Iris|Irises]].
 
-[[Spirit]] Sight: \
+[[Spirit]] Sight:\
 Reveals the strength of the local [[Gauntlet]], detects the presence and nature of the Resonance [[Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
 
-[[Time]] Sight: \
+[[Time]] Sight:\
 Reveals the split-second adjustments of time, allowing the player to know the [[Initiative]] ratings of all participants in combat. When a character is about to act, even with a [[reflexive action]], a mage watching with [[Time]] Sight is aware of it (if not what that action will be), and may pre-empt it if he is able. [[Time]] Sight also detects temporal warps, and the tell-tale signs that someone has come back into the past.
 
 ---

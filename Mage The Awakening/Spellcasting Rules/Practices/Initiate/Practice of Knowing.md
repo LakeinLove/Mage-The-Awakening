@@ -16,7 +16,7 @@ This knowledge is a direct awareness of Supernal truth; the mage doesn’t have 
 
 Knowing magics reveal subtler information than those found within the [[Practice of Unveiling]]. While [[Unveiling]] imparts sensory knowledge, Knowing allows a willworker to delve into the lore of the [[Mysteries]]. Such magics are equally useful to spies, investigators, socialites and warriors, bestowing awareness beyond the ken of ordinary thought.
 
-An important detail to note is that Knowing magics specifically do not bestow sensory information upon the mage. The Practice of Knowing deals in facts, not the senses. (Not even exceptional senses, such as those granted by certain [[Arcanum|Arcana]] effects.) A mage who casts a Knowing spell simply acquires knowledge thereby, rather than perceiving phenomena that must then be analysed. \
+An important detail to note is that Knowing magics specifically do not bestow sensory information upon the mage. The Practice of Knowing deals in facts, not the senses. (Not even exceptional senses, such as those granted by certain [[Arcanum|Arcana]] effects.) A mage who casts a Knowing spell simply acquires knowledge thereby, rather than perceiving phenomena that must then be analysed.\
 A mage doesn’t always understand what Knowing spells help her to learn, but she receives the information directly, without the need for interpretation. What she makes of that knowledge, however, is up to her.
 
 ## In Story:

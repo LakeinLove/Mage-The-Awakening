@@ -5,9 +5,9 @@ tags:
 - Initiate
 ---
 
-Arcanum: Death \
-Practice: Compelling \
-Primary Factor: Duration \
+Arcanum: Death\
+Practice: Compelling\
+Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Science, Expression
 
 ---

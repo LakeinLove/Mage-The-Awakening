@@ -10,7 +10,7 @@ _Awakening is when a Sleeper becomes a Mage_
 The Awakening is the moment a [[Sleepers|Sleeper]] has an opportunity to wake from the [[Lie]]: 
 It is the culmination of stirrings they have had in Sleep, and their chance to seize sight from sightlessness.
 
-The [[Supernal Realms]] call to [[Sleepers]] in a soft insistent voice that usually remains unheeded. \
+The [[Supernal Realms]] call to [[Sleepers]] in a soft insistent voice that usually remains unheeded.\
 Their slumber is often too deep, and the whispers begging them to Awaken do not penetrate. 
 
 Occasionally, though, a [[Sleepers|Sleeper]] will drift into semi-consciousness and hear a voice from afar; a call that will be incorporated into the [[Lie]] they always thought was reality.

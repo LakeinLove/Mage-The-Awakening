@@ -9,18 +9,18 @@ Discipline and crisis. Pain and transcendence. [[Mastigos]] Awakening is the Dev
 
 They’re the ones who didn’t fuck to feel good, but to feel something. They cut themselves. They’re manic artists chained to illness as a source of inspiration. They’re faithless priests and experiment-tampering scientists who’ve grown dependent on appearance over reality. They’re survivors with unstable coping mechanisms, headed for a reckoning.
 
-Yet it’s important to understand that [[Mastigos|Warlocks]] don’t come to the Iron Gauntlet by straightening out their lives. \
+Yet it’s important to understand that [[Mastigos|Warlocks]] don’t come to the Iron Gauntlet by straightening out their lives.\
 [[Pandemonium]] hates asceticism for its own sake. 
 
 [[Mastigos]] don’t do denial.
 
-[[Awakening]] unlocks the potential of so-called base desires. \
+[[Awakening]] unlocks the potential of so-called base desires.\
 They justify them with personal spiritual systems, treatises on vice they might write down, but often commit to elaborate memory palaces. They turn obsessions into functions, symbols, even self-willed servants: minds within minds.
 
 They [[Awakening|Awaken]] in a rake’s progress. Obsessive desires lead them to ever-greater risks until they encounter moral or existential crises where the only escape is to take ownership of their passions. For some this takes the form of a symbolic deal with the Devil, but others take command of their wants.
 
-Consider the faithless priest. He loves his vestments, chants, and doctrines. Instead of letting go he delves deep into scripture. His homilies bring up increasingly obscure theology. He revives antique rituals. \
-He hopes these will drag God back to his heart, but they don’t — his words sound like tired theatrics. His congregation dwindles. He wanders too far from orthodoxy, and his church dismisses him for an “extended retreat.” \
+Consider the faithless priest. He loves his vestments, chants, and doctrines. Instead of letting go he delves deep into scripture. His homilies bring up increasingly obscure theology. He revives antique rituals.\
+He hopes these will drag God back to his heart, but they don’t — his words sound like tired theatrics. His congregation dwindles. He wanders too far from orthodoxy, and his church dismisses him for an “extended retreat.”\
 He’s careening toward [[Pandemonium]]. 
 
 The Iron Gauntlet opens its hand when the world narrows to a choice: self-destruction or [[Awakening]]. The seeker defines her inner demons and confronts them.

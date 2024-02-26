@@ -10,7 +10,7 @@ _The Silver Ladder, a humanist Order dedicated to the ideal of lifting every hum
 
 ## Magic is Humanity’s Birthright
 
-All souls reach for enlightenment. Traitor-Gods have chained humanity’s souls with a grand [[Lie]], yet humanity still strives for truth and divinity. The dream of Awakened destiny will endure, even in a ruined realm of Tyrannical rule. \
+All souls reach for enlightenment. Traitor-Gods have chained humanity’s souls with a grand [[Lie]], yet humanity still strives for truth and divinity. The dream of Awakened destiny will endure, even in a ruined realm of Tyrannical rule.\
 It is the duty of those more advanced to reach down and free the others, raise their fellows up, bringing everyone to their own perfection. A helping hand is only of use if the recipient has the [[Awakened Will|Will]] to climb, though. The Awakened have hefted themselves up the first rungs on their own, but the climb — the Ladder — is all there is.
 
 The Silver Ladder is invested in the Diamond and Pentacle as a whole, not just the goals of their Order — beyond their status as creators and definers of [[Awakened]] society, the Ladder requires them to advise other mages on the best path to freeing humanity from [[Lie|the Lie]]. The Enemy seeks to keep humanity in chains, turning their slaves towards keeping the Sleeping rabble ignorant and Quiescent. 
@@ -29,27 +29,27 @@ Consequently, even when the mages of the Ladder don’t hold political positions
 
 ### The Elemental Precepts
 
-The Ladder espouses a legalistic philosophy that leads members towards brash yet introspective personalities, steadfast in their beliefs yet compromising when it comes to maintaining the overall integrity of Awakened society.  \
+The Ladder espouses a legalistic philosophy that leads members towards brash yet introspective personalities, steadfast in their beliefs yet compromising when it comes to maintaining the overall integrity of Awakened society.\
 It’s simple, but all-encompassing. Much of the Diamond Orders’ cohesive philosophy and structures owe their genesis to the Silver Ladder. Even the name “Diamond” originated with the precept, rather than geometry (there were five Diamond Orders when first formed, thanks to the [[Mysterium]]’s late unification.) Despite the complexity of the Lex Magica, the Elemental Precepts are deceptively simple
 
 ### Thunder: Imperium is the Sovereign Right of all Humanity
 
-There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the Exarchs’ Lies. Sleepers can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.  \
+There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the Exarchs’ Lies. Sleepers can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.\
 In response, the Ladder strives toward a perfected society, defined by mastery of magic and progress towards [[Awakening]] and [[Ascension]].
 
 ### Diamond: The Awakened are One Nation
 
-Mages have a common bond to the Time Before and the Supernal, constituting a nation and rendering all citizens beholden to the law within a perfected and equivalent array. Banishers and [[Seers of the Throne|Seers]] are obviously in open rebellion and are to be treated as such, but they still have rights and privileges as mages.  \
+Mages have a common bond to the Time Before and the Supernal, constituting a nation and rendering all citizens beholden to the law within a perfected and equivalent array. Banishers and [[Seers of the Throne|Seers]] are obviously in open rebellion and are to be treated as such, but they still have rights and privileges as mages.\
 The Awakened are bound to Consilia, which they must exalt above any Sleeper government. This principle was extended even in the Ladder’s ancient days, precipitating the formation and structure of the Diamond Orders and their millennia-long association.
 
 ### Blood: The Sleepers Follow
 
-Once all souls are free, the Exarchs will surrender or be annihilated, their conceptual identity relegated to mere theory. The perfect Awakened city will arise, not some time-lost ruin that Fell but a true utopia the Ladder will build.  \
+Once all souls are free, the Exarchs will surrender or be annihilated, their conceptual identity relegated to mere theory. The perfect Awakened city will arise, not some time-lost ruin that Fell but a true utopia the Ladder will build.\
 Humanity will rise as one, and then the Ladder’s true work will begin. Until that point, the Ladder leads, commanding Sleepers for their own good and against their own unwise impulses.
 
 ### Star: The Silver Ladder is the Path to Victory
 
-The Ladder defines the stages of enlightenment souls progress up, from laborers to Ascended Sages; but despite the [[Free Council]]’s rhetoric, the Ladder believes that everyone and anyone deserves the right to move to a rung that best suits her, even if it’s not at the top.  \
+The Ladder defines the stages of enlightenment souls progress up, from laborers to Ascended Sages; but despite the [[Free Council]]’s rhetoric, the Ladder believes that everyone and anyone deserves the right to move to a rung that best suits her, even if it’s not at the top.\
 Let artists be artists, let managers, manage… and let mages work miracles. Awakened souls have a destiny and an obligation to uplift the Sleepers and bring Sleepwalkers to [[Awakening]].
 
 ## Origins
@@ -84,29 +84,29 @@ They also succumb to [[Act of Hubris|Hubris]] when they mistake the role of a le
 
 ##### Cabal Negotiator
 
-“We’re agreed,” their leader says, a member of the Ladder himself. It’s been a hard month of negotiation; one cabal’s ley line configuration is another’s Resonance nightmare, and this [[Consilium]] has seen enough bloodshed.  \
+“We’re agreed,” their leader says, a member of the Ladder himself. It’s been a hard month of negotiation; one cabal’s ley line configuration is another’s Resonance nightmare, and this [[Consilium]] has seen enough bloodshed.\
 I wear the title of solitary as a badge of honour. Because I’m beholden to none but myself, I can represent the interests of all within the [[Consilium]]. More than that, I can represent the interests of the [[Awakened]]. This particular Resonance will shepherd the [[Sleepers]] towards introspection, and hopefully, enlightenment. It’s been a good month.
 
 ##### Self-Help Guru
 
-I step into the spotlight, shining bright and hot on my black suit. Before me stretches a packed auditorium; behind me, my own face is blown up to monstrous proportions on a high-definition screen. It doesn’t capture the silver of my jewellery quite right, and the etched pentacles on my buttons don’t quite show up. “Help me, help you,” I say, and the crowd roars.  \
+I step into the spotlight, shining bright and hot on my black suit. Before me stretches a packed auditorium; behind me, my own face is blown up to monstrous proportions on a high-definition screen. It doesn’t capture the silver of my jewellery quite right, and the etched pentacles on my buttons don’t quite show up. “Help me, help you,” I say, and the crowd roars.\
 I talk about climbing the ladder of our lives, how we all get tired and rest on rungs, but how we must keep climbing or fall. They feel it speaking to them, even if their souls struggle to understand. If one of them grasps a rung, it’ll all be worth it… but even if they don’t, I’ll pass what I know down the ladder.
 
 ## Stereotypes
 
-[[Adamantine Arrow|Arrow]]: \
+[[Adamantine Arrow|Arrow]]:\
 Loyalty, honour, and service. We cannot ask for more.
 
-[[Guardians of the Veil|Guardians]]: \
+[[Guardians of the Veil|Guardians]]:\
 Every tale has its necessary villains, and fear must go along with love for effective rule.
 
-[[Mysterium]]: \
+[[Mysterium]]:\
 Reclaimers of our birthright. We climb the ladder, but they blaze the trail.
 
-[[Free Council]]: \
+[[Free Council]]:\
 Even democracy must recognize the firsts among equals.
 
-[[Seers of the Throne|Seers]]: \
+[[Seers of the Throne|Seers]]:\
 True wisdom comes from leading all, including your enemies.
 
 ## Lore Bite

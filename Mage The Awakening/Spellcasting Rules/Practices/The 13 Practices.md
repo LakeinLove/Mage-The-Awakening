@@ -7,10 +7,10 @@ tags:
 ---
 The 13 Practices are, for all intents and purposes, a classification system for every spell and magical effect of which a mage is capable.
 
-There were once hundreds of bespoke categories for different spells and effects, but over time and as understanding of magic grew, the need for many categories diminished as forms blending into one another. \
+There were once hundreds of bespoke categories for different spells and effects, but over time and as understanding of magic grew, the need for many categories diminished as forms blending into one another.\
 Eventually only 13 remained, as general descriptors of magical forms as well as educationally useful distinctions: it helps that mages don't drive themselves insane attempting magical effects beyond their ability as they are learning.
 
-These practices encompass almost everything anyone can do with magic, and though it is rumoured that there are mighty sorcerers capable of feats that do not clearly fall into any of the 13 practices, in the end it doesn't matter. \
+These practices encompass almost everything anyone can do with magic, and though it is rumoured that there are mighty sorcerers capable of feats that do not clearly fall into any of the 13 practices, in the end it doesn't matter.\
 This is a system for mortal understanding, it does not describe the true nature of magic itself.
 
 ---

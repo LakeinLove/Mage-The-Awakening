@@ -5,10 +5,10 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Ruling \
-Primary Factor: Duration \
-Withstand: Resolve \
+Arcanum: Death\
+Practice: Ruling\
+Primary Factor: Duration\
+Withstand: Resolve\
 Suggested Rote Skills: Crafts, Occult, Persuasion
 
 ---

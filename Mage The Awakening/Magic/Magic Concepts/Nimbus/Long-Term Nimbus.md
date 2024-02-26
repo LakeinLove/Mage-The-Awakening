@@ -7,11 +7,11 @@ _The Long-Term Nimbus is a series of subtle coincidences that surrounds a mage_
 
 ---
 
-These are purely story-based effects, bits of strangeness that align with your character’s [[Path]]. \
-For example, around [[Thyrsus]], spirits are more likely to show up, strange pathogens might infect people, and likewise terminal diseases can vanish. \
-[[Moros]] bring ghastly hauntings, decay, rust, and mechanical breakdowns. \
-[[Obrimos]] cause religious revelation, extreme weather swings, or blackouts. \
-[[Acanthus]] cause strange luck, lost memories to rise up, or visions of possible fates. \
+These are purely story-based effects, bits of strangeness that align with your character’s [[Path]].\
+For example, around [[Thyrsus]], spirits are more likely to show up, strange pathogens might infect people, and likewise terminal diseases can vanish.\
+[[Moros]] bring ghastly hauntings, decay, rust, and mechanical breakdowns.\
+[[Obrimos]] cause religious revelation, extreme weather swings, or blackouts.\
+[[Acanthus]] cause strange luck, lost memories to rise up, or visions of possible fates.\
 [[Mastigos]] cause people’s fears to well up, and sometimes they see their internal devils. 
 
 It’s important to note that the Long-Term Nimbus is not a controllable force; it’s just a matter of strange, fractal geometry in the universe. [[Patterns]] converge around your character. However, a character’s [[Gnosis]] determines its general Potency.

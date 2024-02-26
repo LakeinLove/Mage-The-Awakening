@@ -5,9 +5,9 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Ruling \
-Primary Factor: Duration \
+Arcanum: Death\
+Practice: Ruling\
+Primary Factor: Duration\
 Suggested Rote Skills: Survival, Crafts, Persuasion
 
 ---

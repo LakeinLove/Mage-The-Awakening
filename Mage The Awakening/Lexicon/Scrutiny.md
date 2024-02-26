@@ -27,7 +27,7 @@ The player can spend [[Mana]] during Scrutiny, releasing it and watching the sha
 
 ---
 
-**Dice Pool:** [[Gnosis]] + [[Arcanum]] \
+**Dice Pool:** [[Gnosis]] + [[Arcanum]]\
 **Action:** [[Extended Action]]
 
 ### Roll Results
@@ -42,7 +42,7 @@ The player accrues no successes, but can continue to Scrutinize. If the player h
 
 #### Success
 
-The player accrues successes, and can choose to spend [[Mana]] in order to add more, up to the normal per-turn limits of the character’s [[Gnosis]]. If the player accumulates enough successes to lower the Mystery’s [[Opacity]], all successes are reset and the mage can continue (that is, it is not possible to lower a Mystery’s [[Opacity]] by more than one level in a single turn). \
+The player accrues successes, and can choose to spend [[Mana]] in order to add more, up to the normal per-turn limits of the character’s [[Gnosis]]. If the player accumulates enough successes to lower the Mystery’s [[Opacity]], all successes are reset and the mage can continue (that is, it is not possible to lower a Mystery’s [[Opacity]] by more than one level in a single turn).\
 If the mage chooses to break off the Scrutiny, she can reinstate it later, with the [[Opacity]] rating at whatever level it was when the mage broke off the attempt
 
 #### Exceptional Success

@@ -11,7 +11,7 @@ Mage Sight has three levels:
 - [[Active Mage Sight|Active]] 
 - [[Focused Mage Sight|Focused]]
 
-Although a mage regains awareness of the world when his [[Awakening]] ends, he never again sees the world without the [[Supernal]] symbols underlying it. This [[Peripheral Mage Sight]] cannot be turned off, but a mage soon grows used to the Supernal symbols that outline phenomena closest to his [[Path]]. \
+Although a mage regains awareness of the world when his [[Awakening]] ends, he never again sees the world without the [[Supernal]] symbols underlying it. This [[Peripheral Mage Sight]] cannot be turned off, but a mage soon grows used to the Supernal symbols that outline phenomena closest to his [[Path]].\
 If the mage chooses to concentrate on the symbols — an exercise known as [[Active Mage Sight]] — he perceives all the attributes related to those Arcana of which he has at least a rudimentary understanding. 
 
 Finally, the mage can direct all his attention toward a single subject, blotting out all material distractions to closely examine the Supernal symbols that surround it. Such [[Focused Mage Sight]] can reveal the subject’s deepest [[Mystery|Mysteries]], but it can attract unwanted attention from the Supernal World.
@@ -48,7 +48,7 @@ Regardless of the [[Arcanum|Arcana]] a mage has studied, her Mage Sight is alway
 
 For example, when a [[Moros]] examines a knife he sees its physical composition, senses its rate of decay, recognizes how often it has been sharpened, and knows what must be done to reinforce its structure or shatter it. He recognizes a poorly made knife because he can see its physical flaws.
 
-Meanwhile, a [[Mastigos]] perceives the knife in terms of its connections. Is it a mass-produced tool spat out by a machine in a miserable sweatshop in Southeast Asia, or was it forged with care by a hobbyist blacksmith new to the craft? \
+Meanwhile, a [[Mastigos]] perceives the knife in terms of its connections. Is it a mass-produced tool spat out by a machine in a miserable sweatshop in Southeast Asia, or was it forged with care by a hobbyist blacksmith new to the craft?\
 Tracing back the connections of sympathy, the [[Mastigos]] knows the knife was made with inferior steel because someone involved in the blade’s production knowingly gave the factory poor-quality raw materials, or because the factory owner chose to cut corners during production.
 
 The same is true of the other [[Path|Paths]]. The [[Obrimos]] sees the same knife in terms of all the energy that was put into it, and knows a faulty blade because it diverges too much from its platonic ideal. An [[Acanthus]] sees a thousand paths the knife may take and notes that it is fated to break at a critical moment. The [[Thyrsus]] notes the knife’s especially weak and sickly spirit and knows it reflects the poor quality of the blade.

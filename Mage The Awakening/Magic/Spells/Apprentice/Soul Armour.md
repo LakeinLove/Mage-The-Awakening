@@ -5,9 +5,9 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death \
-Practice: Shielding \
-Primary Factor: Duration \
+Arcanum: Death\
+Practice: Shielding\
+Primary Factor: Duration\
 Suggested Rote Skills: Academics, Occult, Survival
 
 ---
