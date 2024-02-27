@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage Society/Orders/Adamantine Arrow.md",
+                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage Society/Orders/Adamantine Arrow.md"
+                "file": "Magic/Spells/Disciple/Quicken Corpse.md"
               }
             }
           }
@@ -148,34 +148,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b0d1a3eb862da3",
+  "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Mage Society/Orders/Guardians of the Veil.md",
-    "Mage Society/Orders/Seers of the Throne.md",
+    "Magic/Spells/Disciple/Ghost Summons.md",
+    "Magic/Spells/Disciple/Quicken Corpse.md",
+    "Magic/Spells/Disciple/Devouring the Slain.md",
+    "Magic/Spells/Disciple/Ghost Gate.md",
+    "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
+    "Magic/Spells/Disciple/Damage Ghost.md",
+    "Magic/Spells/Disciple/Cold Snap.md",
     "Magic/Spells/Apprentice/Corpse Mask.md",
+    "Magic/Spells/Apprentice/Without a Trace.md",
+    "Magic/Spells/Apprentice/Touch of the Grave.md",
+    "Magic/Spells/Apprentice/Suppress Aura.md",
+    "Magic/Spells/Apprentice/Shape Ephemera.md",
     "Magic/Spells/Apprentice/Decay.md",
+    "Mage Society/Orders/Adamantine Arrow.md",
+    "Templates/Skills Template.md",
+    "Character Mechanics/Actions/Extended Action.md",
+    "Character Mechanics/Actions/Contested Action.md",
+    "Mage Society/Orders/Silver Ladder.md",
+    "Mage Society/Orders/Seers of the Throne.md",
+    "Mage Society/Orders/Mysterium.md",
+    "Mage Society/Orders/Guardians of the Veil.md",
+    "Mage Society/Orders/Free Council.md",
+    "Character Mechanics/Aspirations.md",
+    "Character Mechanics/Breaking Point.md",
     "Magic/Spells/Apprentice/Ectoplasm.md",
     "Magic/Spells/Apprentice/Ghost Shield.md",
-    "Magic/Spells/Apprentice/Shape Ephemera.md",
-    "Magic/Spells/Apprentice/Soul Armour.md",
-    "Magic/Spells/Apprentice/Soul Jar.md",
-    "Magic/Spells/Apprentice/Suppress Aura.md",
-    "Magic/Spells/Apprentice/Suppress Life.md",
-    "Magic/Spells/Apprentice/Touch of the Grave.md",
-    "Magic/Spells/Apprentice/Without a Trace.md",
-    "Magic/Spells/Initiate/Deepen Shadows.md",
-    "Magic/Spells/Initiate/Ectoplasmic Shaping.md",
-    "Magic/Spells/Initiate/Forensic Gaze.md",
-    "Magic/Spells/Initiate/Shadow Sculpting.md",
-    "Magic/Spells/Initiate/Soul Marks.md",
-    "Magic/Spells/Initiate/Speak with the Dead.md",
-    "The Worlds/Supernal Realms/Aether.md",
-    "The Worlds/Supernal Realms/Stygia.md",
-    "The Worlds/Supernal Realms/Primal Wild.md",
-    "The Worlds/Supernal Realms/Pandemonium.md",
-    "The Worlds/Supernal Realms/Arcadia.md",
-    "Spellcasting Rules/Practices/The 13 Practices.md",
-    "Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",

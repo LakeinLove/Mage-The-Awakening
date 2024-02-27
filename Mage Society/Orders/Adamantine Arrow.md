@@ -11,7 +11,7 @@ _The Adamantine Arrow, who see existence as a crucible, prize challenge and conf
 ## Challenge is Magical
 
 Virtue untested is worthless. This truth is hidden by a Fallen World designed to aggressively and insidiously destroy enlightenment. The [[Lie]] oppresses souls, crushing them under somnolent burdens.\
-Beyond the [[Abyss]] lies the ideal perfected self, a concept that can only be embodied by struggling against the [[Lies]]. Everyone is involved in this struggle, leaving the Awakened as the only ones aware they’re embroiled in a universal conflict.
+Beyond the [[Abyss]] lies the ideal perfected self, a concept that can only be embodied by struggling against the [[Lie]]. Everyone is involved in this struggle, leaving the Awakened as the only ones aware they’re embroiled in a universal conflict.
 
 Every Order practices offensive and defensive occult techniques, but the Adamantine Arrow internalizes the metaphor of eternal war as principle. More than that, they seek to serve as soldiers and generals in this war, fighting to maintain their magic. Arrows are the guardians and wardens of the Pentacle, warriors of the Diamond, fighting against stagnation and complacency.\
 They typically hold a majority of non-leadership roles in [[Consilia]] and [[Convocations]] (and no few Assemblies), as community-oriented duties find fulfillment within their philosophy. Above all else, their magic calls for dedication: striving for a chosen goal against meaningful opposition.
