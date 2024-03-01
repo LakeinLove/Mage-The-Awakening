@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
+                "file": "Magic/Spells/Initiate/Serendipity.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
+                "file": "Magic/Spells/Initiate/Serendipity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
+                "file": "Magic/Spells/Initiate/Serendipity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md"
+                "file": "Magic/Spells/Initiate/Serendipity.md"
               }
             }
           }
@@ -150,10 +150,22 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
+    "Magic/Spells/Initiate/Reading the Outmost Eddies.md",
+    "Magic/Spells/Initiate/Serendipity.md",
+    "Magic/Spells/Initiate/Shadow Sculpting.md",
+    "Magic/Spells/Initiate/Oaths Fulfilled.md",
+    "Magic/Spells/Initiate/Quantum Flux.md",
+    "Magic/Spells/Initiate/Interconnections.md",
+    "Magic/Spells/Initiate/Forensic Gaze.md",
+    "Lexicon/Boons.md",
+    "Lexicon/Hexes.md",
+    "Magic/Spells/Initiate/Deepen Shadows.md",
+    "Spellcasting Rules/Practices/Initiate/Practice of Compelling.md",
+    "Magic/Spells/Disciple/Cold Snap.md",
+    "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
     "Spellcasting Rules/Practices/Master/Practice of Making.md",
     "Spellcasting Rules/Practices/Initiate/Practice of Unveiling.md",
     "Spellcasting Rules/Practices/Initiate/Practice of Knowing.md",
-    "Spellcasting Rules/Practices/Initiate/Practice of Compelling.md",
     "Spellcasting Rules/Practices/Disciple/Practice of Weaving.md",
     "Spellcasting Rules/Practices/Disciple/Practice of Perfecting.md",
     "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
@@ -164,18 +176,6 @@
     "Spellcasting Rules/Practices/Adept/Practice of Unravelling.md",
     "Magic/Spells/Master/Sever the Awakened Soul.md",
     "Magic/Spells/Master/Empty Presence.md",
-    "Magic/Spells/Master/Deny the Reaper.md",
-    "Magic/Spells/Master/Create Ghost.md",
-    "Magic/Spells/Master/Create Avernian Gate.md",
-    "Magic/Spells/Master/Create Anchor.md",
-    "Magic/Spells/Adept/Withering.md",
-    "Magic/Spells/Adept/Exorcism.md",
-    "Magic/Spells/Adept/Revenant.md",
-    "Magic/Spells/Adept/Shadow Flesh.md",
-    "Magic/Spells/Adept/Enervation.md",
-    "Magic/Spells/Disciple/Shadow Crafting.md",
-    "Magic/Spells/Disciple/Sever Soul.md",
-    "Magic/Spells/Disciple/Rotting Flesh.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
