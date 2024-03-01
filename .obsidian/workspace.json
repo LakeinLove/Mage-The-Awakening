@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
+                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
+                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Disciple/Quicken Corpse.md",
+                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Disciple/Quicken Corpse.md"
+                "file": "Magic/Spells/Master/Sever the Awakened Soul.md"
               }
             }
           }
@@ -150,8 +150,23 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Magic/Spells/Disciple/Ghost Summons.md",
+    "Magic/Spells/Master/Empty Presence.md",
+    "Magic/Spells/Master/Sever the Awakened Soul.md",
+    "Magic/Spells/Master/Deny the Reaper.md",
+    "Magic/Spells/Master/Create Ghost.md",
+    "Magic/Spells/Master/Create Avernian Gate.md",
+    "Magic/Spells/Master/Create Anchor.md",
+    "Magic/Spells/Adept/Withering.md",
+    "Magic/Spells/Adept/Exorcism.md",
+    "Magic/Spells/Adept/Revenant.md",
+    "Magic/Spells/Adept/Shadow Flesh.md",
+    "Magic/Spells/Adept/Enervation.md",
+    "Magic/Spells/Disciple/Shadow Crafting.md",
+    "Magic/Spells/Disciple/Sever Soul.md",
+    "Magic/Spells/Disciple/Rotting Flesh.md",
+    "Magic/Spells/Disciple/Quicken Ghost.md",
     "Magic/Spells/Disciple/Quicken Corpse.md",
+    "Magic/Spells/Disciple/Ghost Summons.md",
     "Magic/Spells/Disciple/Devouring the Slain.md",
     "Magic/Spells/Disciple/Ghost Gate.md",
     "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
@@ -161,21 +176,6 @@
     "Magic/Spells/Apprentice/Without a Trace.md",
     "Magic/Spells/Apprentice/Touch of the Grave.md",
     "Magic/Spells/Apprentice/Suppress Aura.md",
-    "Magic/Spells/Apprentice/Shape Ephemera.md",
-    "Magic/Spells/Apprentice/Decay.md",
-    "Mage Society/Orders/Adamantine Arrow.md",
-    "Templates/Skills Template.md",
-    "Character Mechanics/Actions/Extended Action.md",
-    "Character Mechanics/Actions/Contested Action.md",
-    "Mage Society/Orders/Silver Ladder.md",
-    "Mage Society/Orders/Seers of the Throne.md",
-    "Mage Society/Orders/Mysterium.md",
-    "Mage Society/Orders/Guardians of the Veil.md",
-    "Mage Society/Orders/Free Council.md",
-    "Character Mechanics/Aspirations.md",
-    "Character Mechanics/Breaking Point.md",
-    "Magic/Spells/Apprentice/Ectoplasm.md",
-    "Magic/Spells/Apprentice/Ghost Shield.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
