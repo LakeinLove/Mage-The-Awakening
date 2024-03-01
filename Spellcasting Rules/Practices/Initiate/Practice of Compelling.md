@@ -8,7 +8,7 @@ tags:
   - Compelling
 ---
 
-_Compelling spells nudge a preferred but possible outcome into reality. A coin toss can be made to come up tails ([[Fate]]), a bored worker can be made to take that coffee break now ([[Mind]]), or a spirit can be forced to avoid its bane ([[Spirit]]). _
+_Compelling spells nudge a preferred but possible outcome into reality. A coin toss can be made to come up tails ([[Fate]]), a bored worker can be made to take that coffee break now ([[Mind]]), or a spirit can be forced to avoid its bane ([[Spirit]])._
 
 Making the coin hover and spin in mid-air, making the worker walk into her boss’s office and quit, or making the spirit ignore its favorited prey are beyond the bounds of a Compelling spell.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
+                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
+                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Master/Sever the Awakened Soul.md",
+                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Master/Sever the Awakened Soul.md"
+                "file": "Spellcasting Rules/Practices/Master/Practice of Unmaking.md"
               }
             }
           }
@@ -150,8 +150,20 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Magic/Spells/Master/Empty Presence.md",
+    "Spellcasting Rules/Practices/Master/Practice of Making.md",
+    "Spellcasting Rules/Practices/Initiate/Practice of Unveiling.md",
+    "Spellcasting Rules/Practices/Initiate/Practice of Knowing.md",
+    "Spellcasting Rules/Practices/Initiate/Practice of Compelling.md",
+    "Spellcasting Rules/Practices/Disciple/Practice of Weaving.md",
+    "Spellcasting Rules/Practices/Disciple/Practice of Perfecting.md",
+    "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
+    "Spellcasting Rules/Practices/Apprentice/Practice of Veiling.md",
+    "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
+    "Spellcasting Rules/Practices/Apprentice/Practice of Ruling.md",
+    "Spellcasting Rules/Practices/Adept/Practice of Patterning.md",
+    "Spellcasting Rules/Practices/Adept/Practice of Unravelling.md",
     "Magic/Spells/Master/Sever the Awakened Soul.md",
+    "Magic/Spells/Master/Empty Presence.md",
     "Magic/Spells/Master/Deny the Reaper.md",
     "Magic/Spells/Master/Create Ghost.md",
     "Magic/Spells/Master/Create Avernian Gate.md",
@@ -164,18 +176,6 @@
     "Magic/Spells/Disciple/Shadow Crafting.md",
     "Magic/Spells/Disciple/Sever Soul.md",
     "Magic/Spells/Disciple/Rotting Flesh.md",
-    "Magic/Spells/Disciple/Quicken Ghost.md",
-    "Magic/Spells/Disciple/Quicken Corpse.md",
-    "Magic/Spells/Disciple/Ghost Summons.md",
-    "Magic/Spells/Disciple/Devouring the Slain.md",
-    "Magic/Spells/Disciple/Ghost Gate.md",
-    "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
-    "Magic/Spells/Disciple/Damage Ghost.md",
-    "Magic/Spells/Disciple/Cold Snap.md",
-    "Magic/Spells/Apprentice/Corpse Mask.md",
-    "Magic/Spells/Apprentice/Without a Trace.md",
-    "Magic/Spells/Apprentice/Touch of the Grave.md",
-    "Magic/Spells/Apprentice/Suppress Aura.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",

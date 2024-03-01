@@ -7,7 +7,7 @@ tags:
   - Ruling
 ---
 
-_Ruling spells grant fuller control over phenomena than a mere [[Practice of Compelling|Compelling]] spell. Water can be made to flow uphill or into unnatural shapes ([[Matter]]), animals (or even human beings) can be commanded ([[Life]] or [[Mind]]), or time can be momentarily made to accelerate or slow down ([[Time]]). _
+_Ruling spells grant fuller control over phenomena than a mere [[Practice of Compelling|Compelling]] spell. Water can be made to flow uphill or into unnatural shapes ([[Matter]]), animals (or even human beings) can be commanded ([[Life]] or [[Mind]]), or time can be momentarily made to accelerate or slow down ([[Time]])._
 
 A Ruling spell can’t fundamentally alter its target’s abilities: Water can be directed, but not turned solid or gaseous. Time can be altered, but not overwritten. An animal can be commanded, but not made stronger or fiercer.
 

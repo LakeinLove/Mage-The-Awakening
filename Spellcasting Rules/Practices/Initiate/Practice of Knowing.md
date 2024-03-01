@@ -6,7 +6,7 @@ tags:
   - Practice
   - Knowing
 ---
-_Knowing spells deliver knowledge about something directly to the mage (or to another target). A mage can divine the cause of a corpse’s death ([[Death]]), sense whether someone has a powerful destiny ([[Fate]]), or unerringly know which way is north ([[Space]]). _
+_Knowing spells deliver knowledge about something directly to the mage (or to another target). A mage can divine the cause of a corpse’s death ([[Death]]), sense whether someone has a powerful destiny ([[Fate]]), or unerringly know which way is north ([[Space]])._
 
 This knowledge is a direct awareness of Supernal truth; the mage doesn’t have to interpret evidence based on her senses or try to divine the truth out of cryptic riddles.
 

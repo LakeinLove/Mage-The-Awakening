@@ -8,7 +8,7 @@ tags:
   - Veiling
 ---
 
-_Veiling spells are twofold: Firstly, they can conceal things under the Arcanum’s purview from detection: A target can be made to lose all sense of time ([[Time]]), a fire’s heat and light can be hidden from view ([[Forces]]), or a building made all but impossible to notice ([[Matter]]). Secondly, they can conceal a target from concrete phenomena under the Arcanum’s purview: a mage can render herself invisible to ghosts ([[Death]]), or ward a powerful Locus from detection by spirits ([[Spirit]]), or walk unnoticed through a crowd ([[Life]] or [[Mind]]), or past a camera ([[Forces]]). _
+_Veiling spells are twofold: Firstly, they can conceal things under the Arcanum’s purview from detection: A target can be made to lose all sense of time ([[Time]]), a fire’s heat and light can be hidden from view ([[Forces]]), or a building made all but impossible to notice ([[Matter]]). Secondly, they can conceal a target from concrete phenomena under the Arcanum’s purview: a mage can render herself invisible to ghosts ([[Death]]), or ward a powerful Locus from detection by spirits ([[Spirit]]), or walk unnoticed through a crowd ([[Life]] or [[Mind]]), or past a camera ([[Forces]])._
 
 Short of archmastery, it’s impossible to Veil something against an abstract concept or force: a mage can’t Veil herself against death or hide from time, for example.
 
