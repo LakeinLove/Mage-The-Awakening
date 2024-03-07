@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Initiate/Influence Electricity.md",
+                "file": "Magic/Spells/Master/Salt the Earth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "6ca9f2775c7a6ef2",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Initiate/Influence Electricity.md",
+                "file": "Magic/Spells/Master/Salt the Earth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Initiate/Influence Electricity.md",
+                "file": "Magic/Spells/Master/Salt the Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Initiate/Influence Electricity.md"
+                "file": "Magic/Spells/Master/Salt the Earth.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Magic/Spells/Initiate/Forensic Gaze.md",
-    "Magic/Spells/Initiate/Influence Electricity.md",
-    "Magic/Spells/Master/Forge Destiny.md",
-    "Magic/Spells/Master/Pariah.md",
-    "Magic/Spells/Master/Miracle.md",
-    "Magic/Spells/Master/Sever the Awakened Soul.md",
-    "Magic/Spells/Master/Swarm Locusts.md",
-    "Magic/Spells/Adept/Sever Oaths.md",
-    "Magic/Spells/Adept/Strings of Fate.md",
-    "Magic/Spells/Adept/Divine Intervention.md",
-    "Magic/Spells/Adept/Chaos Mastery.md",
-    "Magic/Spells/Adept/Atonement.md",
-    "Magic/Spells/Disciple/Sworn Oaths.md",
-    "Magic/Spells/Apprentice/Without a Trace.md",
-    "Magic/Spells/Apprentice/Warding Gesture.md",
-    "Magic/Spells/Apprentice/Touch of the Grave.md",
-    "Magic/Spells/Apprentice/Suppress Life.md",
-    "Magic/Spells/Apprentice/Suppress Aura.md",
-    "Magic/Spells/Apprentice/Soul Jar.md",
-    "Magic/Spells/Apprentice/Soul Armour.md",
-    "Magic/Spells/Apprentice/Shifting the Odds.md",
-    "Magic/Spells/Apprentice/Shape Ephemera.md",
-    "Magic/Spells/Apprentice/Lucky Number.md",
-    "Magic/Spells/Apprentice/Ghost Shield.md",
-    "Magic/Spells/Apprentice/Fools Rush In.md",
-    "Magic/Spells/Apprentice/Fabricate Fortune.md",
+    "Magic/Spells/Master/Contagion.md",
+    "Magic/Spells/Master/Salt the Earth.md",
+    "Magic/Spells/Master/Create Life.md",
+    "Magic/Spells/Disciple/Transform Life.md",
+    "Lexicon/Transform Energy Table.md",
+    "Magic/Spells/Adept/Transform Energy.md",
+    "Magic/Spells/Adept/Shapechanging.md",
+    "Magic/Spells/Adept/Regeneration.md",
+    "Magic/Spells/Adept/Mend.md",
+    "Magic/Spells/Adept/Life-Force Assault.md",
+    "Magic/Spells/Adept/Animal Minion.md",
+    "Magic/Spells/Adept/Accelerate Growth.md",
+    "Magic/Spells/Disciple/Many Faces.md",
+    "Magic/Spells/Disciple/Knit.md",
+    "Magic/Spells/Disciple/Honing the Form.md",
+    "Magic/Spells/Disciple/Degrading the Form.md",
+    "Magic/Spells/Disciple/Bruise Flesh.md",
+    "Magic/Spells/Apprentice/Purge Illness.md",
+    "Magic/Spells/Apprentice/Mutable Mask.md",
+    "Magic/Spells/Apprentice/Lure and Repel.md",
+    "Magic/Spells/Apprentice/Control Instincts.md",
+    "Magic/Spells/Apprentice/Body Control.md",
+    "Magic/Spells/Initiate/Web of Life.md",
+    "Magic/Spells/Initiate/Speak with Beasts.md",
+    "Magic/Spells/Initiate/Heightened Senses.md",
+    "Magic/Spells/Initiate/Analyse Life.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",

@@ -1,0 +1,29 @@
+---
+tags:
+- Forces
+- Ruling
+- Apprentice
+---
+
+Arcanum: Forces\
+Practice: Ruling\
+Primary Factor: Duration\
+Suggested Rote Skills: Athletics, Brawl, Science
+
+---
+
+_The mage focuses the kinetic force of bludgeoning attacks to such a pinpoint that they cause damage like piercing weapons._
+
+---
+
+This only works on the subject’s unarmed attacks and not any held weapons, though body-hugging objects like gloves and shoes benefit from the spell’s effect.
+
+Unarmed Attacks (including those made in grapples) gain a Weapon Bonus equal to Potency, to a maximum of 5, and inflict lethal damage.
+
+**+1 Reach:** The spell applies the Knocked Down Tilt.
+
+**+1 Reach:** The spell applies the Stunned Tilt.
+
+**+1 Reach:** This spell affects held weapons.
+
+**+2 Reach:** The spell affects thrown weapons. Alternately, the spell affects firearms, granting them greater penetrative ability. Bullets gain Armor Piercing equal to the spell’s Potency.
