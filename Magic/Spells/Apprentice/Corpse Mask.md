@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Subterfuge, Crafts, Medicine

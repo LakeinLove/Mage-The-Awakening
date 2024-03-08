@@ -5,14 +5,14 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Brawl, Occult, Subterfuge
 
 ---
 
-_The mage creates a ward protecting the subject against supernatural effects that manipulate her fate — a Geas, a supernatural compulsion to act against her will, or having her fate manipulated by Fate magic or similar supernatural effects._
+_The mage creates a ward protecting the subject against supernatural effects that manipulate her fate — a Geas, a supernatural compulsion to act against her will, or having her fate manipulated by [[Fate]] magic or similar supernatural effects._
 
 ---
 

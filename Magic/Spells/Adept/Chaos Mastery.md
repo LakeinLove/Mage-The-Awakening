@@ -5,14 +5,14 @@ tags:
 - Adept
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Empathy, Occult, Science
 
 ---
 
-_The mage can Pattern Fate to manipulate complex probabilities within the spell’s subject or area of effect._
+_The mage can Pattern [[Fate]] to manipulate complex probabilities within the spell’s subject or area of effect._
 
 ---
 

@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Occult, Persuasion
@@ -16,6 +16,6 @@ _The mage rips open the material world to the Underworld, creating an Iris betwe
 
 ---
 
-Opening the gate causes the area to gain a Death Resonance and the Gateway Condition for the Duration of the spell.
+Opening the gate causes the area to gain a [[Death]] Resonance and the Gateway Condition for the Duration of the spell.
 
 **+1 Reach:** The mage can create an Iris leading to anywhere she has been before in the Underworld.

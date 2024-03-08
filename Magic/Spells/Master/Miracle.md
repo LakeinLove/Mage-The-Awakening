@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Persuasion, Subterfuge

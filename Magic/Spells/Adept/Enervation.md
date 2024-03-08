@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Withstand: Stamina\

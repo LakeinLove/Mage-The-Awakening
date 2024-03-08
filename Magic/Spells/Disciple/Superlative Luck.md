@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Cost: 1 Mana\

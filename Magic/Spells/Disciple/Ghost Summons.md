@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Withstand: Rank\

@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Survival, Intimidation, Science

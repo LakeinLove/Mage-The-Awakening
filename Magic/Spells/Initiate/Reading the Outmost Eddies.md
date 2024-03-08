@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Compelling\
 Primary Factor: Potency\
 Withstand: Composure\

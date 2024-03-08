@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Intimidation, Expression

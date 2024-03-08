@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Unmaking\
 Primary Factor: Potency\
 Withstand: Composure\
@@ -13,7 +13,7 @@ Suggested Rote Skills: Investigation, Medicine, Politics
 
 ---
 
-_One of the most terrifying curses in the arsenal of a Master of Fate, this spell turns the world against the victim._
+_One of the most terrifying curses in the arsenal of a Master of [[Fate]], this spell turns the world against the victim._
 
 ---
 

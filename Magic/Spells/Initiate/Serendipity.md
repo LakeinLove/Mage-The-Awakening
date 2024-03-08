@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Survival, Crafts

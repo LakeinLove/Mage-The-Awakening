@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Unravelling\
 Primary Factor: Duration\
 Withstand: Composure\
@@ -13,7 +13,7 @@ Suggested Rote Skills: Occult, Subterfuge, Weaponry
 
 ---
 
-_To an Adept of Fate, all fetters on a being’s free will are ultimately breakable, and oaths can be renegotiated._
+_To an Adept of [[Fate]], all fetters on a being’s free will are ultimately breakable, and oaths can be renegotiated._
 
 ---
 

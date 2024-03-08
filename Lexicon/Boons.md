@@ -5,7 +5,7 @@ alias:
 - Boon
 ---
 
-_Many Fate spells bestow a boon on the subject, that can provide a number of positive effects._
+_Many [[Fate]] spells bestow a boon on the subject, that can provide a number of positive effects._
 
 ---
 

@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Medicine, Investigation, Expression

@@ -5,14 +5,14 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Survival, Crafts, Persuasion
 
 ---
 
-_The mage can physically interact with ghosts and other things in Death-attuned Twilight._
+_The mage can physically interact with ghosts and other things in [[Death]]-attuned Twilight._
 
 ---
 

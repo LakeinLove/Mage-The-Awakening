@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Expression, Academics

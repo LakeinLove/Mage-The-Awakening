@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Withstand: Subject effect's Potency\
@@ -17,7 +17,7 @@ _A powerful Witch can aid a hero who labours under a curse, but her remedies oft
 
 ---
 
-This spell can dispel a supernatural effect enforced by the dictates of destiny, including Awakened spells, by Patterning Fate to provide a means by which the subject can escape his curse.
+This spell can dispel a supernatural effect enforced by the dictates of destiny, including Awakened spells, by Patterning [[Fate]] to provide a means by which the subject can escape his curse.
 
 While the subject remains under the effects of Atonement, she must complete a task determined by the caster.
 

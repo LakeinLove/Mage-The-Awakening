@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Withstand: Stamina\
@@ -13,7 +13,7 @@ Suggested Rote Skills: Crafts, Expression, Science
 
 ---
 
-_The caster may reshape Death-attuned ephemera from one object into a new object entirely._
+_The caster may reshape [[Death]]-attuned ephemera from one object into a new object entirely._
 
 ---
 

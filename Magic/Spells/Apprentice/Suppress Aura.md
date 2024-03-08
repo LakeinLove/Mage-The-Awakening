@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Withstand: Resolve\

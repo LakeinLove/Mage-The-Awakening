@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Intimidation, Athletics, Expression

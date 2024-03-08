@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8eca8306cfa81c1",
+        "id": "fde14d5f984c88ef",
         "type": "tabs",
         "children": [
           {
-            "id": "791d1cee77c220fe",
+            "id": "58f071d684abf2c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
+                "file": "Magic/Arcana/Forces.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
+                "file": "Magic/Arcana/Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
+                "file": "Magic/Arcana/Forces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md"
+                "file": "Magic/Arcana/Forces.md"
               }
             }
           }
@@ -148,34 +148,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b0d1a3eb862da3",
+  "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "Character Mechanics/Advantages/Speed.md",
-    "Lexicon/Size.md",
-    "Magic/Spells/Master/Social Networking.md",
-    "Magic/Spells/Master/Psychic Genesis.md",
-    "Magic/Spells/Master/Mind Wipe.md",
-    "Magic/Spells/Master/No Exit.md",
-    "Magic/Spells/Master/Amorality.md",
-    "Magic/Spells/Adept/Terrorize.md",
-    "Magic/Spells/Adept/Psychic Reprogramming.md",
-    "Magic/Spells/Adept/Psychic Projection.md",
-    "Magic/Spells/Adept/Posession.md",
-    "Magic/Spells/Adept/Mind Flay.md",
-    "Magic/Spells/Adept/Hallucination.md",
-    "Magic/Spells/Adept/Gain Skill.md",
-    "Magic/Spells/Disciple/Universal Language.md",
-    "Magic/Spells/Disciple/Read the Depths.md",
-    "Magic/Spells/Disciple/Sleep of the Just.md",
-    "Magic/Spells/Disciple/Psychic Assault.md",
-    "Magic/Spells/Disciple/Imposter.md",
-    "Magic/Spells/Disciple/Goetic Summons.md",
-    "Magic/Spells/Disciple/Enhance Skill.md",
-    "Magic/Spells/Disciple/Clear Thoughts.md",
-    "Magic/Spells/Disciple/Befuddle.md",
-    "Magic/Spells/Disciple/Augment Mind.md",
-    "Magic/Spells/Apprentice/Telepathy.md",
-    "Peoples/Supernal Entities/Wraiths.md",
+    "Magic/Arcana/Fate.md",
+    "Magic/Spells/Master/Swarm of Locusts.md",
+    "Magic/Arcana/Death.md",
+    "Templates/Arcana Template.md",
+    "Lexicon/Arcanum.md",
+    "Magic/The Paths/Moros.md",
+    "Magic/Spells/Master/Words of Unmaking.md",
+    "Magic/Spells/Master/Forge Purpose.md",
+    "Magic/Spells/Master/Eidolon.md",
+    "Magic/Spells/Master/Create Truth.md",
+    "Magic/Spells/Master/Blasphemy.md",
+    "Magic/Spells/Adept/Supernal Dispellation.md",
+    "Magic/Spells/Adept/Hallow Dance.md",
+    "Magic/Spells/Adept/Destroy Tass.md",
+    "Magic/Spells/Adept/Celestial Fire.md",
+    "Magic/Spells/Adept/Apocalypse.md",
+    "Magic/Spells/Disciple/Stealing Fire.md",
+    "Magic/Spells/Disciple/Platonic Form.md",
+    "Magic/Spells/Disciple/Geomancy.md",
+    "Magic/Spells/Disciple/Ephemeral Enchantment.md",
+    "Magic/Spells/Disciple/Display of Power.md",
+    "Magic/Spells/Disciple/Cleanse Pattern.md",
+    "Magic/Spells/Disciple/Channel Mana.md",
+    "Magic/Spells/Disciple/Aetheric Winds.md",
+    "Magic/Spells/Apprentice/Words of Truth.md",
+    "Magic/Spells/Apprentice/Wards and Signs.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",

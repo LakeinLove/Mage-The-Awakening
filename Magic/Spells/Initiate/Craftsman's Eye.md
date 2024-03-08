@@ -26,4 +26,4 @@ Likewise, if something prevents the object from fulfilling its purpose (for exam
 
 **+2 Reach:** As above, plus the spell reveals all potential uses of an object, fanned out in a vast array of Supernal symbols around the object. Focusing on a particular use might require a reflexive Wits + Composure roll for especially complex items.
 
-**Add Fate •:** The mage names a particular task when casting the spell (e.g. “get leverage on Carruthers,” “translate the Codex Afire”). Any object that might help with that task seem to loom larger, to be more physically present, and are immediately obvious to the subject as soon as she lays eyes on them.
+**Add [[Fate]] •:** The mage names a particular task when casting the spell (e.g. “get leverage on Carruthers,” “translate the Codex Afire”). Any object that might help with that task seem to loom larger, to be more physically present, and are immediately obvious to the subject as soon as she lays eyes on them.

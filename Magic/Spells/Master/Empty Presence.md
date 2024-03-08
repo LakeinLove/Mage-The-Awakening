@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Unmaking\
 Primary Factor: Duration\
 Cost: One Mana\

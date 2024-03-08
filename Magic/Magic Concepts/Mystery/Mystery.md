@@ -71,4 +71,4 @@ _Deep Information may include the following:_
 - Identification of a phenomenon as being linked to one the mage has Scrutinized before.
 - If not [[Awakened]] magic, the power level of the creator relative to the mage’s [[Gnosis]] (if applicable).
 - Whether the Mystery is related to the Supernal Realms or Abyss.
-- How the Arcanum used relates to the Mystery — for example, using Death Sight to scrutinize a vampire’s ghoul will reveal Deep Information relating to the undead blood in the subject’s system, and any powers the ghoul has gained from it. Using Fate Sight to assess a changeling’s powers will reveal that they are formed by mystical bargains.
+- How the Arcanum used relates to the Mystery — for example, using [[Death]] Sight to scrutinize a vampire’s ghoul will reveal Deep Information relating to the undead blood in the subject’s system, and any powers the ghoul has gained from it. Using [[Fate]] Sight to assess a changeling’s powers will reveal that they are formed by mystical bargains.

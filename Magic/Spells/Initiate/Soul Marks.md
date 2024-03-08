@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Unveiling\
 Primary Factor: Potency\
 Withstand: Resolve\

@@ -5,7 +5,7 @@ alias:
 - Hex
 ---
 
-_Many Fate spells hex the subject, imposing a variety of negative effects upon them._
+_Many [[Fate]] spells hex the subject, imposing a variety of negative effects upon them._
 
 ---
 

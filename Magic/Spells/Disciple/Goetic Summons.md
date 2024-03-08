@@ -23,7 +23,7 @@ Conversely she can summon Goetia she knows personally.
 She may send a general call and the nearest Goetia will answer, or she can specify the type of entity by its Resonance.\
 The spell does not work on Goetia above Rank 5.
 
-**Add Spirit •• or Death ••:** The entity gains the Materialized Condition for the Duration of the spell.
+**Add Spirit •• or [[Death]] ••:** The entity gains the Materialized Condition for the Duration of the spell.
 
 **+1 Reach:** The spell also creates the Open Condition on the area, even if it does not match the Goetia’s Resonance.
 

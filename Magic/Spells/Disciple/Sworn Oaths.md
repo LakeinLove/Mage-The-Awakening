@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Suggested Rote Skills: Expression, Occult, Politics

@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Ruling\
 Primary Factor: Potency\
 Withstand: Composure\

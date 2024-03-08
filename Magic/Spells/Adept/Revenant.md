@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Death\
+Arcanum: [[Death]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Withstand: Rank\

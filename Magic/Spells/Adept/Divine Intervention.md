@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Fate\
+Arcanum: [[Fate]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Withstand: Resolve\
