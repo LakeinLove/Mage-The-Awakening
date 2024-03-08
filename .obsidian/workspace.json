@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Master/Social Networking.md",
+                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Master/Social Networking.md",
+                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Master/Social Networking.md",
+                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Master/Social Networking.md"
+                "file": "Magic/Spells/Apprentice/Alter Mental Pattern.md"
               }
             }
           }
@@ -148,10 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "791d1cee77c220fe",
+  "active": "f5b0d1a3eb862da3",
   "lastOpenFiles": [
-    "Magic/Spells/Master/Psychic Genesis.md",
+    "Character Mechanics/Advantages/Speed.md",
+    "Lexicon/Size.md",
     "Magic/Spells/Master/Social Networking.md",
+    "Magic/Spells/Master/Psychic Genesis.md",
     "Magic/Spells/Master/Mind Wipe.md",
     "Magic/Spells/Master/No Exit.md",
     "Magic/Spells/Master/Amorality.md",
@@ -174,8 +176,6 @@
     "Magic/Spells/Disciple/Augment Mind.md",
     "Magic/Spells/Apprentice/Telepathy.md",
     "Peoples/Supernal Entities/Wraiths.md",
-    "Magic/Spells/Apprentice/Psychic Domination.md",
-    "Magic/Spells/Apprentice/Presence Incognito.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
