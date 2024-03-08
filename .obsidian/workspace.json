@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Master/Salt the Earth.md",
+                "file": "Magic/Spells/Initiate/Mind.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Master/Salt the Earth.md",
+                "file": "Magic/Spells/Initiate/Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Master/Salt the Earth.md",
+                "file": "Magic/Spells/Initiate/Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Master/Salt the Earth.md"
+                "file": "Magic/Spells/Initiate/Mind.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Magic/Spells/Master/Contagion.md",
-    "Magic/Spells/Master/Salt the Earth.md",
-    "Magic/Spells/Master/Create Life.md",
-    "Magic/Spells/Disciple/Transform Life.md",
-    "Lexicon/Transform Energy Table.md",
-    "Magic/Spells/Adept/Transform Energy.md",
-    "Magic/Spells/Adept/Shapechanging.md",
-    "Magic/Spells/Adept/Regeneration.md",
-    "Magic/Spells/Adept/Mend.md",
-    "Magic/Spells/Adept/Life-Force Assault.md",
-    "Magic/Spells/Adept/Animal Minion.md",
-    "Magic/Spells/Adept/Accelerate Growth.md",
-    "Magic/Spells/Disciple/Many Faces.md",
-    "Magic/Spells/Disciple/Knit.md",
-    "Magic/Spells/Disciple/Honing the Form.md",
+    "Magic/Spells/Master/Self-Repairing Machine.md",
+    "Magic/Spells/Initiate/Mind.md",
+    "Magic/Spells/Disciple/Wonderful Machine.md",
+    "Magic/Spells/Master/Ex Nihilo.md",
+    "Magic/Spells/Master/Annihilate Matter.md",
+    "Magic/Spells/Adept/Transubstantiation.md",
+    "Magic/Spells/Adept/Piercing Earth.md",
+    "Magic/Spells/Adept/Golem.md",
+    "Magic/Spells/Adept/Ghostwall.md",
+    "Magic/Spells/Disciple/Windstrike.md",
+    "Magic/Spells/Disciple/State Change.md",
+    "Magic/Spells/Disciple/Shrink and Grow.md",
+    "Magic/Spells/Disciple/Nigredo and Albedo.md",
+    "Magic/Spells/Disciple/Crucible.md",
+    "Magic/Spells/Disciple/Alter Integrity.md",
     "Magic/Spells/Disciple/Degrading the Form.md",
-    "Magic/Spells/Disciple/Bruise Flesh.md",
-    "Magic/Spells/Apprentice/Purge Illness.md",
-    "Magic/Spells/Apprentice/Mutable Mask.md",
-    "Magic/Spells/Apprentice/Lure and Repel.md",
-    "Magic/Spells/Apprentice/Control Instincts.md",
-    "Magic/Spells/Apprentice/Body Control.md",
-    "Magic/Spells/Initiate/Web of Life.md",
-    "Magic/Spells/Initiate/Speak with Beasts.md",
-    "Magic/Spells/Initiate/Heightened Senses.md",
-    "Magic/Spells/Initiate/Analyse Life.md",
+    "Magic/Spells/Disciple/Aegis.md",
+    "Magic/Spells/Disciple/Alter Conductivity.md",
+    "Magic/Spells/Apprentice/Shaping.md",
+    "Magic/Spells/Apprentice/Machine Invisibility.md",
+    "Magic/Spells/Apprentice/Hidden Hoard.md",
+    "Magic/Spells/Apprentice/Find the Balance.md",
+    "Magic/Spells/Apprentice/Alchemist's Touch.md",
+    "Magic/Spells/Initiate/Remote Control.md",
+    "Magic/Spells/Initiate/Lodestone.md",
+    "Magic/Spells/Initiate/Discern Composition.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",

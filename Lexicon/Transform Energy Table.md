@@ -5,6 +5,10 @@ alias:
 - Transform Energy table
 ---
 
+_This is a table that can be used to determine the level of an energy transformation effect._
+
+---
+
 | Level | Light            | Sound                     | Heat                  | Electricity    | Fire        |
 | ----- | ---------------- | ------------------------- | --------------------- | -------------- | ----------- |
 | 1     | Flashlight       | Casual talk               | Room Temp (22°C)      | Car Battery    | Lighter     |

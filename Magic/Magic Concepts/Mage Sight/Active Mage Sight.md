@@ -30,7 +30,7 @@ Detects life signs, revealing if a body is still alive, and allows a mage to gau
 [[Matter]] Sight:\
 Allows the mage to determine the Structure and Durability of anything she looks at, as well as highlighting the value and quality of items (in game terms, telling the player the Availability and Equipment Bonus of any object).
 
-[[Mind]] Sight:\
+[[Magic/Arcana/Mind]] Sight:\
 Detects the presence of thinking beings and allows the mage to tell with a glance if someone is asleep, comatose, awake, meditating, or projecting out of his body or into the Astral. The mage is also aware when a character she observes gains or spends [[Willpower]].
 
 [[Prime]] Sight:\
@@ -53,7 +53,7 @@ Active Mage Sight of any [[Arcanum]] also reveals all [[Awakened]] spells as the
 
 Concealment magic, of whatever type, can hide a target from Active Mage Sight, but only if the concealment would logically mask the target from the purview of the [[Arcanum]] in question. Even then, if the concealment power uses the same magical principles as the detecting [[Arcanum]], the mage still has a chance to see through it. 
 
-For example, a light-based invisibility spell would conceal a target from [[Mind]] Sight, but [[Life]] Sight could still detect the living being, with or without the assistance of photons. Likewise, some vampires employ a kind of mental “invisibility” that causes observers to ignore them. This power would conceal a target from [[Forces]] Sight (it isn’t light-based) or [[Time]] Sight, but not [[Mind]] Sight (since both the concealment power and the [[Arcanum]] are working on the same principles).
+For example, a light-based invisibility spell would conceal a target from [[Magic/Arcana/Mind]] Sight, but [[Life]] Sight could still detect the living being, with or without the assistance of photons. Likewise, some vampires employ a kind of mental “invisibility” that causes observers to ignore them. This power would conceal a target from [[Forces]] Sight (it isn’t light-based) or [[Time]] Sight, but not [[Magic/Arcana/Mind]] Sight (since both the concealment power and the [[Arcanum]] are working on the same principles).
 
 ## Mechanics
 

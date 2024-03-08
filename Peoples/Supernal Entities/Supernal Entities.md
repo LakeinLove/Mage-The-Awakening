@@ -45,7 +45,7 @@ They are divided into #Recondite and #Manifest beings, depending on if their [[A
 [[Death]] Entities:\
 [[Spectres]]
 
-[[Mind]] Entities:\
+[[Magic/Arcana/Mind]] Entities:\
 [[Wraiths]]
 
 [[Fate]] Entities:\

@@ -11,7 +11,7 @@ aliases:
 _A mage whose [[Path]] leads to [[Pandemonium]]. Also known as Warlocks or Psychonauts._
 
 Bonded to the [[Watchtower of the Iron Gauntlet]] in [[Pandemonium]]\
-Ruling Arcana: [[Mind]] and [[Space]]\
+Ruling Arcana: [[Magic/Arcana/Mind]] and [[Space]]\
 Inferior Arcanum: [[Matter]]\
 Favoured Resistance [[Attribute]]: [[Resolve]]  
 
@@ -19,10 +19,10 @@ Favoured Resistance [[Attribute]]: [[Resolve]]
 
 ## Ruling Arcana
 
-[[Mind]] and [[Space]].\
+[[Magic/Arcana/Mind]] and [[Space]].\
 Passions and the connections. The unknown reaches of the soul, manifest in hidden places in the world. 
 
-To understand the Mastigos approach to [[Mind]], cast off the notion that consciousness is an inner advisor, babbling your thoughts. The true self is calm and transcendent, beyond even the debatable concept of the superego. It never strives, but is the path of a river, the layout of mind-palaces. A Psychonaut places himself above thoughts, wrangling their goetic manifestations to do her bidding, and reaches out with transcendental clarity to touch the thoughts of others. 
+To understand the Mastigos approach to [[Magic/Arcana/Mind]], cast off the notion that consciousness is an inner advisor, babbling your thoughts. The true self is calm and transcendent, beyond even the debatable concept of the superego. It never strives, but is the path of a river, the layout of mind-palaces. A Psychonaut places himself above thoughts, wrangling their goetic manifestations to do her bidding, and reaches out with transcendental clarity to touch the thoughts of others. 
 
 Warlocks rattle the chains of connection: the true nature of [[Space]], instead of what [[Sleepers]] measure with yardsticks and maps. A Master of [[Space]] shrinks them to black iron threads, finely wrought, often tangled, and easily severed.
 

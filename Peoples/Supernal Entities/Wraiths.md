@@ -8,7 +8,7 @@ alias:
 - Wraith
 ---
 
-_Recondite Demons of [[Pandemonium]], the Wraiths are beings of [[Mind]] that can be called upon with a [[Summoning]]._
+_Recondite Demons of [[Pandemonium]], the Wraiths are beings of [[Magic/Arcana/Mind]] that can be called upon with a [[Summoning]]._
 
 ---
 

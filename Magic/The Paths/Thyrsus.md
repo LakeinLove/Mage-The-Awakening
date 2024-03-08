@@ -11,7 +11,7 @@ _A mage whose [[Path]] leads to the [[Primal Wild]]. Also known as Shamans or Ec
 
 Bonded to the [[Watchtower of the Stone Book]] in the [[Primal Wild]]\
 Ruling Arcana: [[Life]] and [[Spirit]]\
-Inferior Arcanum: [[Mind]]\
+Inferior Arcanum: [[Magic/Arcana/Mind]]\
 Favoured Resistance [[Attribute]]: [[Composure]]
 
 ---
@@ -28,8 +28,8 @@ The world lives and speaks. Before the Fall, anyone could gaze into the Shadow. 
 
 ## Inferior Arcanum
 
-[[Mind]]\
-To imagine [[Mind]] as a coherent [[Arcanum|Arcana]] asks Thyrsus to deny the holistic nature of existence.
+[[Magic/Arcana/Mind]]\
+To imagine [[Magic/Arcana/Mind]] as a coherent [[Arcanum|Arcana]] asks Thyrsus to deny the holistic nature of existence.
 
 To a Shaman, human consciousness is an adaptation, like a thumb or biped’s gait. That people can imagine themselves as individual minds is no more relevant than a lion’s jaws. They’re functions, not truths of the soul.
 
