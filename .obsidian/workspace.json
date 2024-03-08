@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Initiate/Mind.md",
+                "file": "Magic/Spells/Master/Social Networking.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Initiate/Mind.md",
+                "file": "Magic/Spells/Master/Social Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Initiate/Mind.md",
+                "file": "Magic/Spells/Master/Social Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Initiate/Mind.md"
+                "file": "Magic/Spells/Master/Social Networking.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "791d1cee77c220fe",
   "lastOpenFiles": [
-    "Magic/Spells/Master/Self-Repairing Machine.md",
-    "Magic/Spells/Initiate/Mind.md",
-    "Magic/Spells/Disciple/Wonderful Machine.md",
-    "Magic/Spells/Master/Ex Nihilo.md",
-    "Magic/Spells/Master/Annihilate Matter.md",
-    "Magic/Spells/Adept/Transubstantiation.md",
-    "Magic/Spells/Adept/Piercing Earth.md",
-    "Magic/Spells/Adept/Golem.md",
-    "Magic/Spells/Adept/Ghostwall.md",
-    "Magic/Spells/Disciple/Windstrike.md",
-    "Magic/Spells/Disciple/State Change.md",
-    "Magic/Spells/Disciple/Shrink and Grow.md",
-    "Magic/Spells/Disciple/Nigredo and Albedo.md",
-    "Magic/Spells/Disciple/Crucible.md",
-    "Magic/Spells/Disciple/Alter Integrity.md",
-    "Magic/Spells/Disciple/Degrading the Form.md",
-    "Magic/Spells/Disciple/Aegis.md",
-    "Magic/Spells/Disciple/Alter Conductivity.md",
-    "Magic/Spells/Apprentice/Shaping.md",
-    "Magic/Spells/Apprentice/Machine Invisibility.md",
-    "Magic/Spells/Apprentice/Hidden Hoard.md",
-    "Magic/Spells/Apprentice/Find the Balance.md",
-    "Magic/Spells/Apprentice/Alchemist's Touch.md",
-    "Magic/Spells/Initiate/Remote Control.md",
-    "Magic/Spells/Initiate/Lodestone.md",
-    "Magic/Spells/Initiate/Discern Composition.md",
+    "Magic/Spells/Master/Psychic Genesis.md",
+    "Magic/Spells/Master/Social Networking.md",
+    "Magic/Spells/Master/Mind Wipe.md",
+    "Magic/Spells/Master/No Exit.md",
+    "Magic/Spells/Master/Amorality.md",
+    "Magic/Spells/Adept/Terrorize.md",
+    "Magic/Spells/Adept/Psychic Reprogramming.md",
+    "Magic/Spells/Adept/Psychic Projection.md",
+    "Magic/Spells/Adept/Posession.md",
+    "Magic/Spells/Adept/Mind Flay.md",
+    "Magic/Spells/Adept/Hallucination.md",
+    "Magic/Spells/Adept/Gain Skill.md",
+    "Magic/Spells/Disciple/Universal Language.md",
+    "Magic/Spells/Disciple/Read the Depths.md",
+    "Magic/Spells/Disciple/Sleep of the Just.md",
+    "Magic/Spells/Disciple/Psychic Assault.md",
+    "Magic/Spells/Disciple/Imposter.md",
+    "Magic/Spells/Disciple/Goetic Summons.md",
+    "Magic/Spells/Disciple/Enhance Skill.md",
+    "Magic/Spells/Disciple/Clear Thoughts.md",
+    "Magic/Spells/Disciple/Befuddle.md",
+    "Magic/Spells/Disciple/Augment Mind.md",
+    "Magic/Spells/Apprentice/Telepathy.md",
+    "Peoples/Supernal Entities/Wraiths.md",
+    "Magic/Spells/Apprentice/Psychic Domination.md",
+    "Magic/Spells/Apprentice/Presence Incognito.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
