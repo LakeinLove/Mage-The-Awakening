@@ -2,7 +2,7 @@
 tags:
   - Arcana
   - Arcanum
-  - ArcanumName
+  - Fate
 ---
 
 _Arcadia’s ruling Arcana are Time and Fate, and Fate is the subtle expression of that pair._

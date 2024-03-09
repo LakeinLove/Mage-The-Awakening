@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Arcana/Forces.md",
+                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Arcana/Forces.md",
+                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Arcana/Forces.md",
+                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Arcana/Forces.md"
+                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md"
               }
             }
           }
@@ -150,32 +150,33 @@
   },
   "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "Magic/Arcana/Fate.md",
-    "Magic/Spells/Master/Swarm of Locusts.md",
-    "Magic/Arcana/Death.md",
-    "Templates/Arcana Template.md",
-    "Lexicon/Arcanum.md",
-    "Magic/The Paths/Moros.md",
-    "Magic/Spells/Master/Words of Unmaking.md",
-    "Magic/Spells/Master/Forge Purpose.md",
-    "Magic/Spells/Master/Eidolon.md",
-    "Magic/Spells/Master/Create Truth.md",
-    "Magic/Spells/Master/Blasphemy.md",
-    "Magic/Spells/Adept/Supernal Dispellation.md",
-    "Magic/Spells/Adept/Hallow Dance.md",
-    "Magic/Spells/Adept/Destroy Tass.md",
-    "Magic/Spells/Adept/Celestial Fire.md",
-    "Magic/Spells/Adept/Apocalypse.md",
-    "Magic/Spells/Disciple/Stealing Fire.md",
-    "Magic/Spells/Disciple/Platonic Form.md",
-    "Magic/Spells/Disciple/Geomancy.md",
-    "Magic/Spells/Disciple/Ephemeral Enchantment.md",
-    "Magic/Spells/Disciple/Display of Power.md",
-    "Magic/Spells/Disciple/Cleanse Pattern.md",
-    "Magic/Spells/Disciple/Channel Mana.md",
-    "Magic/Spells/Disciple/Aetheric Winds.md",
-    "Magic/Spells/Apprentice/Words of Truth.md",
-    "Magic/Spells/Apprentice/Wards and Signs.md",
+    "Lexicon/Keys.md",
+    "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
+    "Magic/Magic Concepts/Sympathy/Sympathy.md",
+    "Magic/Magic Concepts/Sympathy/Shadow Name.md",
+    "Magic/Magic Concepts/Sympathy",
+    "Magic/Spells/Apprentice/Ward.md",
+    "Magic/Magic Concepts/Nimbus/Long-Term Nimbus.md",
+    "Magic/Spells/Master/Create Sympathy.md",
+    "Magic/Spells/Master/Quarantine.md",
+    "Magic/Spells/Master/Pocket Dimension.md",
+    "Magic/Spells/Master/Forge No Chains.md",
+    "Magic/Spells/Adept/Teleportation.md",
+    "Magic/Spells/Adept/Secret Room.md",
+    "Magic/Spells/Adept/Cut Threads.md",
+    "Magic/Spells/Adept/Collapse.md",
+    "Magic/Spells/Adept/Alter Direction.md",
+    "Magic/Spells/Disciple/Web-Weaver.md",
+    "Magic/Spells/Disciple/Warp.md",
+    "Magic/Spells/Disciple/Co-Location.md",
+    "Magic/Spells/Disciple/Perfect Sympathy.md",
+    "Magic/Spells/Disciple/Ban.md",
+    "Magic/Spells/Apprentice/Veil Sympathy.md",
+    "Magic/Spells/Apprentice/Secret Door.md",
+    "Magic/Spells/Apprentice/Scrying.md",
+    "Magic/Spells/Apprentice/Lying Maps.md",
+    "Magic/Spells/Apprentice/Break Boundary.md",
+    "Magic/Spells/Apprentice/Borrow Threads.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
@@ -184,7 +185,6 @@
     "Magic/Magic Concepts/Mystery",
     "Magic/Magic Concepts/Wisdom",
     "Magic/Magic Concepts/Mana",
-    "Magic/Magic Concepts/Nimbus",
-    "Magic/Magic Concepts/Gnosis"
+    "Magic/Magic Concepts/Nimbus"
   ]
 }

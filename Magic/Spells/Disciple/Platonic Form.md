@@ -28,7 +28,7 @@ Potency may be allocated to the following effects:
 When all Mana is withdrawn from the object, it crumbles to nothing. A mage may “refill” it with the Channel Mana spell or similar effects.\
 When the spell’s Duration runs out, any unused Mana sublimates back into the world and is lost.
 
-**Add Forces •••:** The object is not obviously magical.
+**Add [[Forces]] •••:** The object is not obviously magical.
 
 **+1 Reach:** If the object is a tool, it is a perfected ideal of that tool. It grants 8-Again.
 

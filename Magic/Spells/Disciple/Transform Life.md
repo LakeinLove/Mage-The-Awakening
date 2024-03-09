@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Weaving\
 Primary Factor: Potency\
 Withstand: Stamina\

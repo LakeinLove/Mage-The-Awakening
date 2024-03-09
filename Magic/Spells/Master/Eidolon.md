@@ -28,6 +28,6 @@ Orders must be very simple. If attacked, the Eidolon has no Defence.
 
 Unlike Platonic forms, Eidolons do not crumble when all Mana is withdrawn. A mage may “refill” the construct with the Channel Mana spell or similar effects.\ When the spell’s Duration runs out, any unused Mana sublimates back into the world and is lost.
 
-**Add Forces •••:** The construct is not obviously magical.
+**Add [[Forces]] •••:** The construct is not obviously magical.
 
 **Add Mind •••••:** The tass may be given a mind of its own.

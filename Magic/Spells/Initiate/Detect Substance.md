@@ -20,4 +20,4 @@ The chosen substance can be as broad or as specific as the mage likes (“ferrou
 
 **Add Time •:** The subject can detect whether the chosen substance has been in the area within an amount of time equal to the spell’s Duration.
 
-**Add Forces •:** The subject can search for specific types of electronic information, such as digital audio, photographs, or text documents. Not only will the spell reveal which devices have the chosen file type on board, if she’s actually using the device the mage knows where on the device the files are stored.
+**Add [[Forces]] •:** The subject can search for specific types of electronic information, such as digital audio, photographs, or text documents. Not only will the spell reveal which devices have the chosen file type on board, if she’s actually using the device the mage knows where on the device the files are stored.

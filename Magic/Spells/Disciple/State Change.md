@@ -22,6 +22,6 @@ Transforming a liquid or gas into a solid gives the new object a Durability equa
 
 When the Duration wears off, the substance returns to its natural state, but keeps the form it held during its altered state. (In the case of materials turned to gas, this often means a fine rain or snow of unusual composition.)
 
-**Add Forces •••:** The mage may transmute matter into plasma.
+**Add [[Forces]] •••:** The mage may transmute matter into plasma.
 
 **+1 Reach:** The mage may transform a solid directly into a gas, or a gas directly into a solid.

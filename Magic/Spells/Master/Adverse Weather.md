@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Occult, Science

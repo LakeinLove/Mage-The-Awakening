@@ -22,4 +22,4 @@ For each level of Potency, the mage may transpose one quality (such as a rotisse
 
 A firearm can also be incorporated fully into another device, effectively disguising the weapon until it is first used (or it undergoes close mystic or mundane inspection).
 
-**Add Life (•••):** The machine properties can be grafted onto a living thing, or vice versa. The mage might, for example, make a bird that can breathe fire or a butane torch that can fly
+**Add [[Life]] (•••):** The machine properties can be grafted onto a living thing, or vice versa. The mage might, for example, make a bird that can breathe fire or a butane torch that can fly

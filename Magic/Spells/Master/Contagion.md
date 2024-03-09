@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Medicine, Occult, Science

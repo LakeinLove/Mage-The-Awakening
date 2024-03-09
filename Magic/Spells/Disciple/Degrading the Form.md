@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Fraying\
 Primary Factor: Duration\
 Withstand: Stamina\

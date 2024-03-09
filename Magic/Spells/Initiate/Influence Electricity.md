@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Computers, Crafts, Science

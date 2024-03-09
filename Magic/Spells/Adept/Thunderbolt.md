@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Firearms, Science

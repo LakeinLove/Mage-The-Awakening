@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Survival, Science

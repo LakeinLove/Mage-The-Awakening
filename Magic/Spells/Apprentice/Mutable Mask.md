@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Withstand: Stamina\

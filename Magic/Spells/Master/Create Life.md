@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Medicine, Science, Survival

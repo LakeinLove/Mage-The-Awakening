@@ -29,4 +29,4 @@ However, a mage under the protection of this spell can handle radioactive or cau
 
 **+2 Reach:** The mage is immune to bashing and lethal damage from the material, and reduces any aggravated damage by the spell’s Potency.
 
-**Add Forces ••:** The subject is protected from extreme temperatures caused by the substance’s state. She can walk across lava, scoop up a handful of molten steel without being burned, or dip a finger in liquid nitrogen without it freezing.
+**Add [[Forces]] ••:** The subject is protected from extreme temperatures caused by the substance’s state. She can walk across lava, scoop up a handful of molten steel without being burned, or dip a finger in liquid nitrogen without it freezing.

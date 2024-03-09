@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Knowing\
 Primary Factor: Duration\
 Suggested Rote Skills: Investigation, Medicine, Survival

@@ -22,4 +22,4 @@ This in turn causes the Supernal to cast a larger or smaller shadow into the Fal
 Each level of Potency either adds or subtracts one from the subject’s Size.\
 Size 0 objects can be shrunk down to roughly the size of a dime.
 
-**Add Life •••:** The spell can affect living subjects. Unwilling subjects may Withstand with Stamina.
+**Add [[Life]] •••:** The spell can affect living subjects. Unwilling subjects may Withstand with Stamina.

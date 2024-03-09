@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Empathy, Investigation, Survival

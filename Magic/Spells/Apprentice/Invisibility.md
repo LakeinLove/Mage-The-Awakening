@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Larceny, Stealth, Science

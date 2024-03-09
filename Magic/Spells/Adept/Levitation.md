@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Withstand: Stamina\

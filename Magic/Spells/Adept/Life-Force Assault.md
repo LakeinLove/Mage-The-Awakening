@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Brawl, Intimidation, Medicine

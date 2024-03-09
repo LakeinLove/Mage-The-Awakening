@@ -1,6 +1,8 @@
 ---
 aliases:
   - Shadow Names
+tags:
+  - Sympathy
 ---
 _A Shadow Name is an expression of who the mage thinks she is in the Supernal World, without the Fallen, mundane person inside it. Most are only used when performing magic or meeting other mages, like a persona that can be adopted at will._
 

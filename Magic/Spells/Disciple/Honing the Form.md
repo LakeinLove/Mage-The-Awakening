@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Medicine, Survival

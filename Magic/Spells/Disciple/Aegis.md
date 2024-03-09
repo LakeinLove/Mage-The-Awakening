@@ -16,7 +16,7 @@ _By adjusting the properties of matter, the mage may make silk shirts bullet-pro
 
 ---
 
-The spell is cast upon a wearable object (giving living beings Armour is a function of Life).
+The spell is cast upon a wearable object (giving living beings Armour is a function of [[Life]]).
 
 For each level of Potency, the player chooses one of the following effects:
 - Raise or lower ballistic Armour rating by 1

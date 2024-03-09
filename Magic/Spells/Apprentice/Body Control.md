@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Life\
+Arcanum: [[Life]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Medicine, Survival

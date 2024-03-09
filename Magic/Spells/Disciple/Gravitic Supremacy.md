@@ -6,7 +6,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Fraying or Perfecting\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Survival, Science

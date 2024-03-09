@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Computers, Science

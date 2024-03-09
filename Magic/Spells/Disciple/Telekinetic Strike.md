@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Weaving\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Firearms, Science

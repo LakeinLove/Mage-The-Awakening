@@ -33,7 +33,7 @@ Arrows are warriors, though not always martial ones — to a one, they seek chal
 ### Adaptability is Strength
 
 Arrows understand that nothing worth doing is achieved with ease, and that limitations are self-imposed. Attack and defence, spell and sword are valuable individually, but mere components of the whole.\
-Predictability and inflexibility are dangerous in a world of sympathetic magic, and crippling to the soul. An Arrow rises beyond these weaknesses and toward a balanced and perfected self.
+Predictability and inflexibility are dangerous in a world of [[Sympathy|sympathetic]] magic, and crippling to the soul. An Arrow rises beyond these weaknesses and toward a balanced and perfected self.
 
 ### Service is Mastery
 

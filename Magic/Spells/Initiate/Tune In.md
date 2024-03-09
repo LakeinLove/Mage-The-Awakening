@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Knowing\
 Primary Factor: Duration\
 Suggested Rote Skills: Computers, Empathy, Science

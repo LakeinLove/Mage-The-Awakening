@@ -17,7 +17,7 @@ _This spell reveals the marks of Fate on people, places, and things the mage obs
 
 ---
 
-In addition to allowing the mage to detect any sympathetic connections between the subjects, the mage can also identify those who have violated a magical oath, and the presence of spells with conditional Durations.
+In addition to allowing the mage to detect any [[Sympathy|sympathetic]] connections between the subjects, the mage can also identify those who have violated a magical oath, and the presence of spells with conditional Durations.
 
 **+1 Reach:** The mage can also detect possession, supernatural mind control, and alterations of destiny.
 

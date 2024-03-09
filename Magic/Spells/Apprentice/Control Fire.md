@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Forces\
+Arcanum: [[Forces]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Survival, Crafts, Science
