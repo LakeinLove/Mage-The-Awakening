@@ -26,7 +26,7 @@ If he allows too much of a connection to form between his Shadow Name and his un
 
 A Shadow Name is a representation not just of the mage themselves, but of their reformation and Awakening; it is a tangible reminder of the distance they have between themselves and the Sleepers in their life.
 
-It is, unsurprisingly, a point of a much contention as 
+It is, unsurprisingly, a focus of the [[Sympathy]] the mage forms as they act under that name, but it is also their admission that they are now, fundamentally, disconnected from those who were once closest to them.
 
 ## Mage Society
 
