@@ -10,6 +10,8 @@ tags:
 
 _The concept of sympathy is a complex one, and the libraries of the Orders contain volumes on the subject, but briefly: Two subjects may become sympathetically linked when they share a strong emotional, physical, or mystical connection._ 
 
+Sympathy is tied to both [[Shadow Name|Shadow Names]] and [[Sympathetic Name|Sympathetic Names]], as well as being a critical element to the [[Nimbus]] of a mage and a powerful tool at their disposal.
+
 ---
 
 Space allows a mage to manipulate, destroy, and create from nothing the occult bonds of sympathy.

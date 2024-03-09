@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
+                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
+                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
+                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Sympathetic Name.md"
+                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md"
               }
             }
           }
@@ -150,9 +150,9 @@
   },
   "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "Lexicon/Keys.md",
-    "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
     "Magic/Magic Concepts/Sympathy/Sympathy.md",
+    "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
+    "Lexicon/Keys.md",
     "Magic/Magic Concepts/Sympathy/Shadow Name.md",
     "Magic/Magic Concepts/Sympathy",
     "Magic/Spells/Apprentice/Ward.md",
