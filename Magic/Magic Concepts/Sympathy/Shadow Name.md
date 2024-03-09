@@ -28,6 +28,8 @@ A Shadow Name is a representation not just of the mage themselves, but of their 
 
 It is, unsurprisingly, a focus of the [[Sympathy]] the mage forms as they act under that name, but it is also their admission that they are now, fundamentally, disconnected from those who were once closest to them.
 
+A distance that is only destined to grow.
+
 ## Mage Society
 
 Using a mage’s [[Sympathetic Name]] to address or refer to him except in the most intimate of friendships is considered offensively rude by the overwhelming majority of magical societies.\
