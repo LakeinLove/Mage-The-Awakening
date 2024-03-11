@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
+                "file": "The Worlds/The Gauntlet.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
+                "file": "The Worlds/The Gauntlet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md",
+                "file": "The Worlds/The Gauntlet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/Sympathy/Shadow Name.md"
+                "file": "The Worlds/The Gauntlet.md"
               }
             }
           }
@@ -150,41 +150,40 @@
   },
   "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "Magic/Magic Concepts/Sympathy/Sympathy.md",
-    "Magic/Magic Concepts/Sympathy/Sympathetic Name.md",
-    "Lexicon/Keys.md",
-    "Magic/Magic Concepts/Sympathy/Shadow Name.md",
+    "The Worlds/Untitled 1.md",
+    "The Worlds/Untitled",
+    "The Worlds/The Gauntlet.md",
+    "Magic/Spells/Master/Spirit Manse.md",
+    "Magic/Spells/Master/Essence Fountain.md",
+    "Magic/Spells/Master/Create Locus.md",
+    "Magic/Spells/Master/Birth Spirit.md",
+    "Magic/Spells/Master/Annihilate Spirit.md",
+    "Magic/Spells/Adept/World Walker.md",
+    "Magic/Spells/Adept/Twilight Body.md",
+    "Magic/Spells/Adept/Shape Spirit.md",
+    "Magic/Spells/Adept/Shadow Scream.md",
+    "Magic/Spells/Adept/Familiar.md",
+    "Magic/Spells/Adept/Shadow Flesh.md",
+    "Magic/Spells/Adept/Craft Fetish.md",
+    "Magic/Spells/Adept/Bind Spirit.md",
+    "Magic/Spells/Adept/Banishment.md",
+    "Magic/Spells/Disciple/Spirit Summons.md",
+    "Magic/Spells/Disciple/Rouse Spirit.md",
+    "Magic/Spells/Disciple/Reaching.md",
+    "Magic/Spells/Disciple/Place of Power.md",
+    "Magic/Spells/Disciple/Howl From Beyond.md",
+    "Magic/Spells/Disciple/Erode Resonance.md",
+    "Magic/Spells/Disciple/Bolster Spirit.md",
+    "Magic/Spells/Apprentice/Slumber.md",
+    "Magic/Spells/Apprentice/Shadow Walk.md",
+    "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
-    "Magic/Spells/Apprentice/Ward.md",
-    "Magic/Magic Concepts/Nimbus/Long-Term Nimbus.md",
-    "Magic/Spells/Master/Create Sympathy.md",
-    "Magic/Spells/Master/Quarantine.md",
-    "Magic/Spells/Master/Pocket Dimension.md",
-    "Magic/Spells/Master/Forge No Chains.md",
-    "Magic/Spells/Adept/Teleportation.md",
-    "Magic/Spells/Adept/Secret Room.md",
-    "Magic/Spells/Adept/Cut Threads.md",
-    "Magic/Spells/Adept/Collapse.md",
-    "Magic/Spells/Adept/Alter Direction.md",
-    "Magic/Spells/Disciple/Web-Weaver.md",
-    "Magic/Spells/Disciple/Warp.md",
-    "Magic/Spells/Disciple/Co-Location.md",
-    "Magic/Spells/Disciple/Perfect Sympathy.md",
-    "Magic/Spells/Disciple/Ban.md",
-    "Magic/Spells/Apprentice/Veil Sympathy.md",
-    "Magic/Spells/Apprentice/Secret Door.md",
-    "Magic/Spells/Apprentice/Scrying.md",
-    "Magic/Spells/Apprentice/Lying Maps.md",
-    "Magic/Spells/Apprentice/Break Boundary.md",
-    "Magic/Spells/Apprentice/Borrow Threads.md",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
     "Magic/Spells/Apprentice",
     "Magic/Spells/Initiate",
     "Magic/Magic Concepts/Mystery",
-    "Magic/Magic Concepts/Wisdom",
-    "Magic/Magic Concepts/Mana",
-    "Magic/Magic Concepts/Nimbus"
+    "Magic/Magic Concepts/Wisdom"
   ]
 }

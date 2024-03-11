@@ -1,0 +1,6 @@
+---
+alias:
+- Gauntlet
+tags:
+- Spirit
+---
