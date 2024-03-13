@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Investigation, Science
@@ -20,4 +20,4 @@ _The subject becomes aware of the precise composition of an object: its weight a
 
 **+1 Reach:** The subject instinctively knows the object’s structural weak point. Attempts to damage the object reduce its Durability by –1 per point of the spell’s Potency. This benefit lasts until the object is destroyed or fully repaired.
 
-**Add Space ••:** The subject is aware not only of what the object is made of, but of precisely where the material came from (e.g. where the ore was mined, where the tree that made the board was felled, or where the circuit board was manufactured). Casting this spell on a Supernal Artifact strikes the subject with an overwhelming rush of images and symbols: Roll the Artifact’s dot rating, contested by the subject’s Gnosis. If the Artifact earns more successes, the subject gains the Shaken Condition. Resolving the Condition grants an Arcane Beat.
+**Add [[Space]] ••:** The subject is aware not only of what the object is made of, but of precisely where the material came from (e.g. where the ore was mined, where the tree that made the board was felled, or where the circuit board was manufactured). Casting this spell on a Supernal Artifact strikes the subject with an overwhelming rush of images and symbols: Roll the Artifact’s dot rating, contested by the subject’s Gnosis. If the Artifact earns more successes, the subject gains the Shaken Condition. Resolving the Condition grants an Arcane Beat.

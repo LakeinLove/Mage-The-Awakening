@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Computers, Occult, Subterfuge

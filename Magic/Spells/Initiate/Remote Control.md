@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Compelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Drive, Intimidate

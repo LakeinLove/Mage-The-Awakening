@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Knowing\
 Primary Factor: Duration\
 Suggested Rote Skills: Empathy, Occult, Science

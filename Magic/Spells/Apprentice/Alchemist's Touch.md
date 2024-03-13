@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Shielding\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Survival, Persuasion

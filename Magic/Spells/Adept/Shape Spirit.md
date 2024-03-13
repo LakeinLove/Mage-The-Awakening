@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Withstand: Rank\

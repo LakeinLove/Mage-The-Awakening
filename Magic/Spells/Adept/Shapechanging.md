@@ -26,9 +26,9 @@ Failure means that she gives in to the primal urges until they’re satisfied.
 
 Mages add Gnosis to this roll, and other supernatural beings add their own Tolerance Traits.
 
-**Add Matter ••••:** The subject’s gear changes to fit her new form.
+**Add [[Matter]] ••••:** The subject’s gear changes to fit her new form.
 
-**+1 Reach (with Matter ••••):** The subject’s gear becomes part of her new form, taking on appearance as odd scars, fur, or scales.
+**+1 Reach (with [[Matter]] ••••):** The subject’s gear becomes part of her new form, taking on appearance as odd scars, fur, or scales.
 
 **+1 Reach:** The subject takes on a swarm form and maintains control of hundreds or thousands of tiny creatures.
 

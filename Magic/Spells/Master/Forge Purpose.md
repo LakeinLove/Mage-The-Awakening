@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Making\
 Primary Factor: Duration\
 Withstand: Resolve\

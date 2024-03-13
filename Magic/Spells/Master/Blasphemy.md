@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Unmaking\
 Primary Factor: Potency\
 Withstand: Hallow Rating, if applicable\

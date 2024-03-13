@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Expression, Survival

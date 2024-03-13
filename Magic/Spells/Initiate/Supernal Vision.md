@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Unveiling\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Occult, Survival

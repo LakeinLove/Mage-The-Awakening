@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Ruling\
 Primary Factor: Potency\
 Withstand: Durability\

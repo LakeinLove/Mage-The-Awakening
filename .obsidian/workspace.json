@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Worlds/The Gauntlet.md",
+                "file": "Magic/Arcana/Prime.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Worlds/The Gauntlet.md",
+                "file": "Magic/Arcana/Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Worlds/The Gauntlet.md",
+                "file": "Magic/Arcana/Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Worlds/The Gauntlet.md"
+                "file": "Magic/Arcana/Prime.md"
               }
             }
           }
@@ -150,32 +150,33 @@
   },
   "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "The Worlds/Untitled 1.md",
+    "Magic/Arcana/Time.md",
+    "Magic/Arcana/Spirit.md",
+    "Magic/Arcana/Space.md",
+    "Magic/Arcana/Mind.md",
+    "Magic/Arcana/Prime.md",
+    "The Worlds/Supernal Realms/Pandemonium.md",
+    "Magic/Magic Concepts/Sympathy/Sympathy.md",
+    "Magic/Arcana/Death.md",
+    "Magic/Arcana/Fate.md",
+    "Magic/Arcana/Forces.md",
+    "Magic/Arcana/Life.md",
+    "Magic/Arcana/Matter.md",
+    "Magic/Spells/Master/Temporal Pocket.md",
+    "Magic/Spells/Master/Corridors of Time.md",
+    "Magic/Spells/Master/Blink of an Eye.md",
+    "Magic/Spells/Adept/Temporal Stutter.md",
+    "Magic/Spells/Adept/Rewrite History.md",
+    "Magic/Spells/Adept/Rend Lifespan.md",
+    "Magic/Spells/Adept/Prophecy.md",
+    "Magic/Spells/Adept/Present as Past.md",
+    "Magic/Spells/Disciple/Weight of Years.md",
+    "Magic/Spells/Disciple/Temporal Summoning.md",
+    "Magic/Spells/Disciple/Shifting Sands.md",
+    "Magic/Spells/Disciple/Chronos' Curse.md",
+    "Magic/Spells/Disciple/Acceleration.md",
+    "Magic/Spells/Apprentice/Veil of Moments.md",
     "The Worlds/Untitled",
-    "The Worlds/The Gauntlet.md",
-    "Magic/Spells/Master/Spirit Manse.md",
-    "Magic/Spells/Master/Essence Fountain.md",
-    "Magic/Spells/Master/Create Locus.md",
-    "Magic/Spells/Master/Birth Spirit.md",
-    "Magic/Spells/Master/Annihilate Spirit.md",
-    "Magic/Spells/Adept/World Walker.md",
-    "Magic/Spells/Adept/Twilight Body.md",
-    "Magic/Spells/Adept/Shape Spirit.md",
-    "Magic/Spells/Adept/Shadow Scream.md",
-    "Magic/Spells/Adept/Familiar.md",
-    "Magic/Spells/Adept/Shadow Flesh.md",
-    "Magic/Spells/Adept/Craft Fetish.md",
-    "Magic/Spells/Adept/Bind Spirit.md",
-    "Magic/Spells/Adept/Banishment.md",
-    "Magic/Spells/Disciple/Spirit Summons.md",
-    "Magic/Spells/Disciple/Rouse Spirit.md",
-    "Magic/Spells/Disciple/Reaching.md",
-    "Magic/Spells/Disciple/Place of Power.md",
-    "Magic/Spells/Disciple/Howl From Beyond.md",
-    "Magic/Spells/Disciple/Erode Resonance.md",
-    "Magic/Spells/Disciple/Bolster Spirit.md",
-    "Magic/Spells/Apprentice/Slumber.md",
-    "Magic/Spells/Apprentice/Shadow Walk.md",
     "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
     "Magic/Spells/Master",

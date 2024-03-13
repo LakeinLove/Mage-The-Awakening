@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Withstand: Resolve\

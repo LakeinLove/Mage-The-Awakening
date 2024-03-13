@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Withstand: Rank\

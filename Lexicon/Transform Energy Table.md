@@ -7,6 +7,8 @@ alias:
 
 _This is a table that can be used to determine the level of an energy transformation effect._
 
+This is linked to the spell [[Transform Energy]], but is used by other spells as well for a general guide.
+
 ---
 
 | Level | Light            | Sound                     | Heat                  | Electricity    | Fire        |

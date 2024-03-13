@@ -3,7 +3,7 @@ tags:
 - Mana
 ---
 
-_Mana is the palpable, measurable bleed of the Supernal into the material. It’s a Prime energy, a quintessential force that comes from the energy trapped when the Abyss came into existence, or sometimes comes into existence from the glory and greatness of the world._
+_Mana is the palpable, measurable bleed of the Supernal into the material. It’s a [[Prime]] energy, a quintessential force that comes from the energy trapped when the Abyss came into existence, or sometimes comes into existence from the glory and greatness of the world._
 
 ---
 

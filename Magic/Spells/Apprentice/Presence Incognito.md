@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Withstand: Resolve\

@@ -2,7 +2,7 @@
 tags:
   - Supernal
 ---
-- Supernal Realm of [[Magic/Arcana/Mind]] and [[Space]]
+- Supernal Realm of [[Mind]] and [[Space]]
 - Nascent plane of the [[Watchtower of the Iron Gauntlet]]
 - Destination of the [[Path]] of [[Mastigos]]
 - [[Supernal Entities]]: [[Imps]] and [[Wraiths]]

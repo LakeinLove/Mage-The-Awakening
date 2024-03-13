@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Making\
 Primary Factor: Potency\
 Withstand: Connection of desired link\

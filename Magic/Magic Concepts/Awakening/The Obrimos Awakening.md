@@ -27,7 +27,7 @@ These [[Obrimos]]-to-be see a God in the gaps, or a supreme principle made consp
 [[Awakening]] is the compulsion to complete the sentence, or hear something like God stake His territory.
 
 The mathematician sneaks into her old department to steal time on a supercomputer. She evades guards, starts coding, and locks herself in when security discovers her at last. The room goes dark and quiet at the verge of completion, but her phone buzzes with a text that says: I AM. It tells her how to evade the guards and where a new Social Security number and name wait for her.\
-She avoids police scanners and former students until she claims her new identity. She checks her phone again. It’s blank, and she knows that she saw the camera footage, radio waves, and statistical trends that guided her here. She found her answer in the fluid Prime that governs everything, but she has no numbers or words for it. She’ll spend the rest of her life inventing them.
+She avoids police scanners and former students until she claims her new identity. She checks her phone again. It’s blank, and she knows that she saw the camera footage, radio waves, and statistical trends that guided her here. She found her answer in the fluid [[Prime]] that governs everything, but she has no numbers or words for it. She’ll spend the rest of her life inventing them.
 
 The “magus” composes his thoughts and pretends to channel a higher being. His audience of acolytes doubt him at once. They jeer him. He flees through the temple, which has grown so much larger than he remembers, until he enters an enormous vaulted chamber where Thoth and Sutekh regard him with sandstone eyes.\
 He sees a sacrificial fire and knows what he must do, and though he hesitates he feels no pain as he burns.\

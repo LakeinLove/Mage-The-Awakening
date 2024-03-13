@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Science, Subterfuge

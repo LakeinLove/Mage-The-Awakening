@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Expression, Occult

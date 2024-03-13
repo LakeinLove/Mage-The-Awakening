@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Brawl, Crafts, Intimidation
@@ -18,7 +18,7 @@ _Sometimes the only way to command a spirit is with raw, brute force._
 
 This spell renders the subject’s flesh solid to spirits in Twilight, allowing her to interact with them physically.
 
-**Add Death •• or Mind ••:** These benefits extend to ghosts or Goetia, respectively
+**Add Death •• or [[Mind]] ••:** These benefits extend to ghosts or Goetia, respectively
 
 **+1 Reach:** Any object the mage carries is similarly solid to Twilight spirits.
 

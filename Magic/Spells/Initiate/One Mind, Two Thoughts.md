@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Expression, Science

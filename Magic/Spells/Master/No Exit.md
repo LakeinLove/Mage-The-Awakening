@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Making\
 Primary Factor: Duration\
 Withstand: Resolve\

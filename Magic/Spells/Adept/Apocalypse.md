@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Withstand: Resolve\

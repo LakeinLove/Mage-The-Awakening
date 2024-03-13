@@ -6,7 +6,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Fraying or Perfecting\
 Primary Factor: Potency\
 Withstand: Gauntlet Strength\

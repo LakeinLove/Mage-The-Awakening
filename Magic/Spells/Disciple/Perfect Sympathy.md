@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Empathy, Larceny

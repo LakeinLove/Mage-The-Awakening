@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Suggested Rote Skills: Larceny, Persuasion, Science

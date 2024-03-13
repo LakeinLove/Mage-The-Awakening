@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Unveiling\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Expression, Investigation

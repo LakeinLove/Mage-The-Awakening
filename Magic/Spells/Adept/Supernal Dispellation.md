@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Withstand: Arcanum rating of the subject spell's caster\

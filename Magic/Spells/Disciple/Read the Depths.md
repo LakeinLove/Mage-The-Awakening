@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Weaving\
 Primary Factor: Potency\
 Withstand: Resolve\

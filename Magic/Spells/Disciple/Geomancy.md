@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Expression, Occult

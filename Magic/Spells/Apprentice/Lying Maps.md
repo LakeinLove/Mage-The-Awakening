@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Withstand: Resolve\

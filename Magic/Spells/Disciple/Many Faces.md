@@ -23,4 +23,4 @@ If the subject is missing organs or limbs, however, they remain gone in the new 
 
 The mage may rearrange up to the spell’s Potency in Physical Attribute dots, for example moving a dot of Strength to Stamina, but cannot change the total number of dots, bring any to 0, or raise them above the subject’s limit.
 
-**Add Time •••:** The mage may change the subject’s physical age as well.
+**Add [[Time]] •••:** The mage may change the subject’s physical age as well.

@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Unmaking\
 Primary Factor: Potency\
 Withstand: Durability\

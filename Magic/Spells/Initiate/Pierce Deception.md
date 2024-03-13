@@ -5,14 +5,14 @@ tags:
 - Initiate
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Investigation, Medicine, Occult
 
 ---
 
-_Prime is the Arcanum of pure Truth, and no falsehood may stand before it. By means of this spell, the subject sees illusions, phantasms, and lies for what they are._
+_[[Prime]] is the Arcanum of pure Truth, and no falsehood may stand before it. By means of this spell, the subject sees illusions, phantasms, and lies for what they are._
 
 ---
 

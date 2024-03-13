@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Withstand: Composure\

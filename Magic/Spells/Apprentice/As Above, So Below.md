@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Occult, Politics

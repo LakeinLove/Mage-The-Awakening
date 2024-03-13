@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Empathy, Medicine

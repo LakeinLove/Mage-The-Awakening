@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Fraying\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Brawl, Intimidation

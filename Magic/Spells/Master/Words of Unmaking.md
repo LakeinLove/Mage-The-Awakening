@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Unmaking\
 Primary Factor: Potency\
 Withstand: Merit rating of the targeted magical object, or Durability if not measured in Merit dots\

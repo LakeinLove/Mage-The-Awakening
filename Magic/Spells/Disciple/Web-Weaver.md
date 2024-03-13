@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Perfecting\
 Primary Factor: Duration\
 Withstand: Composure\
@@ -20,4 +20,4 @@ _We all leave tiny, nigh-imperceptible webs of [[Sympathy]] behind us wherever w
 Each level of Potency bolsters a single [[Sympathy|sympathetic]] connection by one “step,” from Weak to Medium, Medium to Strong. The mage can step up a non-existent connection to a Weak one, but only if the subject of the spell has been in contact with the desired focus within the last turn.\
 For example, a person likely has no [[Sympathy|sympathetic]] connection to the soda cup from her lunch, but as long as it’s in her hand, the mage can use the faint [[Sympathy]] created by physical contact to make the cup a [[Sympathy|sympathetic]] connection.
 
-**Add Time ••:** The mage can employ Temporal [[Sympathy]] to bolster non-existent connections to anything the subject touched in the target time.
+**Add [[Time]] ••:** The mage can employ Temporal [[Sympathy]] to bolster non-existent connections to anything the subject touched in the target time.

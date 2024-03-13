@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Ruling\
 Primary Factor: Potency\
 Withstand: Resolve\

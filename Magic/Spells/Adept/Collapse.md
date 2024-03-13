@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Firearms, Intimidation

@@ -6,7 +6,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Fraying or Perfecting\
 Primary Factor: Potency\
 Withstand: Durability\

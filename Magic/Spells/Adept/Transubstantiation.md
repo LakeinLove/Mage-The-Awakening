@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Empathy, Science
@@ -22,6 +22,6 @@ Both the initial substance and the transubstantiated substance must be relativel
 
 (The Stygian Mysteries teach that “purity” is a perceptual concept — so, for example, even though “wine” and “steel” are made up of numerous compounds, they are concrete enough as concepts to be transmuted).
 
-**Add [[Life]] ••••:** Transform matter into living things, or transform a living being into inert matter (but see rules on permanently transforming someone with magic). Unless the mage also adds Mind •••••, any organism created is mindless, driven purely by instinct.
+**Add [[Life]] ••••:** Transform matter into living things, or transform a living being into inert matter (but see rules on permanently transforming someone with magic). Unless the mage also adds [[Mind]] •••••, any organism created is mindless, driven purely by instinct.
 
 **+1 Reach:** The mage may transmute multiple substances into a single substance or vice versa.

@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Ruling\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Larceny, Persuasion

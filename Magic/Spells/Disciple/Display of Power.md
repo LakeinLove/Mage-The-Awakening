@@ -5,14 +5,14 @@ tags:
 - Disciple
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Brawl, Occult, Socialise
 
 ---
 
-_Magic itself falls under the purview of Prime, even its most private functions; by using this spell, a mage stirs the Supernal World, making it respond to mages within the spell’s area._
+_Magic itself falls under the purview of [[Prime]], even its most private functions; by using this spell, a mage stirs the Supernal World, making it respond to mages within the spell’s area._
 
 ---
 

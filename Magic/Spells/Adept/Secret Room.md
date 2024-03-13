@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Expression, Science, Survival

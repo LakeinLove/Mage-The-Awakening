@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Larceny, Occult, Subterfuge

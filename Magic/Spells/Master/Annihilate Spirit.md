@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Unmaking\
 Primary Factor: Potency\
 Withstand: Rank\

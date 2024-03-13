@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Compelling\
 Primary Factor: Potency\
 Withstand: Stamina\

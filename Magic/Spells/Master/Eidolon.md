@@ -5,7 +5,7 @@ tags:
 - Master
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Making\
 Primary Factor: Potency\
 Cost: 1+ Mana\
@@ -30,4 +30,4 @@ Unlike Platonic forms, Eidolons do not crumble when all Mana is withdrawn. A mag
 
 **Add [[Forces]] •••:** The construct is not obviously magical.
 
-**Add Mind •••••:** The tass may be given a mind of its own.
+**Add [[Mind]] •••••:** The tass may be given a mind of its own.

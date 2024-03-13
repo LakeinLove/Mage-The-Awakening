@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Expression, Science

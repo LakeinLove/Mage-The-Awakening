@@ -5,13 +5,13 @@ tags:
   - Fate
 ---
 
-_Arcadia’s ruling Arcana are Time and Fate, and Fate is the subtle expression of that pair._
+_Arcadia’s ruling Arcana are [[Time]] and Fate, and Fate is the subtle expression of that pair._
 
 ---
 
 ## General Description
 
-Fate describes what should or must happen, but not precisely when or how that result will come about (those are the province of Time). Fate governs blessings, curses, destiny, fortune, oaths, probability, luck, and intent. Those who master it may seem lucky or carefree, but in reality they deal in the inevitable and learn to anticipate it — whether to accept the dictates of destiny or redirect the road they walk.
+Fate describes what should or must happen, but not precisely when or how that result will come about (those are the province of [[Time]]). Fate governs blessings, curses, destiny, fortune, oaths, probability, luck, and intent. Those who master it may seem lucky or carefree, but in reality they deal in the inevitable and learn to anticipate it — whether to accept the dictates of destiny or redirect the road they walk.
 
 Fate spells use [[Hexes]] and [[Boons]] to curse and bless their subjects as a matter of course. To be allied with them is to succeed, and to oppose them is to fail.
 

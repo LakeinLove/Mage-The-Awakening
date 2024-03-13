@@ -11,7 +11,7 @@ _Life is the gross Arcanum of the Primal Wild, a term made literal by some of it
 
 ## General Description
 
-Life and Spirit rule the Primal Wild.\
+Life and [[Spirit]] rule the Primal Wild.\
 Life magic governs all living things, in fact, from viruses to titanic whales, even the nerve cells that allow thoughts to form Imagos. Life is tenacious in the extreme, capable of surviving anywhere, developing any trait to weather environmental stresses, and Life mages are comparably tough.
 
 By harnessing the endless adaptability of living forms, mages can gain perspectives on the world otherwise lost even to Awakened senses.

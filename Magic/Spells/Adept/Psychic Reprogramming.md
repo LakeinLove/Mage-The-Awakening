@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Mind\
+Arcanum: [[Mind]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Withstand: Resolve\

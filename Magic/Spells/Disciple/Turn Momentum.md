@@ -35,4 +35,4 @@ By default, the Storyteller determines a random direction for the object to trav
 
 **+2 Reach:** The object’s momentum can be fully reversed. Thrown and Ranged weapons strike their users.
 
-**Add Time •:** With Time 1 and a Reach, the mage can turn objects too fast for her target to gain Defence against them.
+**Add [[Time]] •:** With Time 1 and a Reach, the mage can turn objects too fast for her target to gain Defence against them.

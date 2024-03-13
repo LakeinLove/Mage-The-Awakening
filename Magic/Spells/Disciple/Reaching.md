@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Weaving\
 Primary Factor: Duration\
 Withstand: Gauntlet Strength\

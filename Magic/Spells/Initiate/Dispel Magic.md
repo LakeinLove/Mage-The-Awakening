@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Knowing\
 Primary Factor: Potency\
 Withstand: Arcanum rating of the subject spell's caster\

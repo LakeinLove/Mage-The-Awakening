@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Weaving\
 Primary Factor: Potency\
 Withstand: Durability\

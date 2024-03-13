@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Compelling\
 Primary Factor: Duration\
 Withstand: Rank\

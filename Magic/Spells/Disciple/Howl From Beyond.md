@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Expression, Firearms, Medicine

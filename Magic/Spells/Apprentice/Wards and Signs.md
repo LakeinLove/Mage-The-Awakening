@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Intimidation, Occult, Survival

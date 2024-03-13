@@ -5,7 +5,7 @@ tags:
 - Apprentice
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Ruling\
 Primary Factor: Potency\
 Suggested Rote Skills: Expression, Intimidation, Persuasion

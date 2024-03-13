@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Brawl, Medicine

@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Perfecting\
 Primary Factor: Potency\
 Withstand: Rank\

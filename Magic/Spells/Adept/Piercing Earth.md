@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Patterning\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Brawl, Crafts

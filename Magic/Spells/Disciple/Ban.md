@@ -5,7 +5,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Space\
+Arcanum: [[Space]]\
 Practice: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Intimidation, Science, Stealth

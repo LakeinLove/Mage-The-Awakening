@@ -6,7 +6,7 @@ tags:
 - Disciple
 ---
 
-Arcanum: Matter\
+Arcanum: [[Matter]]\
 Practice: Fraying or Perfecting\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Brawl, Medicine

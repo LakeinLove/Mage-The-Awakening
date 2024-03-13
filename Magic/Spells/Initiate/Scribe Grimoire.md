@@ -5,7 +5,7 @@ tags:
 - Initiate
 ---
 
-Arcanum: Prime\
+Arcanum: [[Prime]]\
 Practice: Compelling\
 Primary Factor: Potency\
 Cost: 1 Mana\

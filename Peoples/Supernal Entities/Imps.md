@@ -12,7 +12,7 @@ _Manifest Demons of [[Pandemonium]], the Imps are beings of [[Space]] that can b
 
 ---
 
-Imps are terrifying — the principle of Space made flesh, filtered through the horror and adversity of the Abode of Demons.\
+Imps are terrifying — the principle of [[Space]] made flesh, filtered through the horror and adversity of the Abode of Demons.\
 Some appear to be immense monsters, while others skitter out of sight as soon as they are summoned. 
 
 Imps possess unparalleled knowledge of scrying and magical [[Sympathy]], and can often advise a mage on where to look for appropriate [[Sympathy|sympathetic]] Yantras.\

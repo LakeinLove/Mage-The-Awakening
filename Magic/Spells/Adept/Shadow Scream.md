@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-Arcanum: Spirit\
+Arcanum: [[Spirit]]\
 Practice: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Expression, Firearms, Medicine
