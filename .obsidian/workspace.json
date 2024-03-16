@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fde14d5f984c88ef",
+        "id": "4cb4e18323e6c75a",
         "type": "tabs",
         "children": [
           {
-            "id": "58f071d684abf2c1",
+            "id": "e3818c4368076cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Arcana/Prime.md",
+                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Arcana/Prime.md",
+                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Arcana/Prime.md",
+                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Arcana/Prime.md"
+                "file": "Magic/Magic Concepts/Attainments/Create Rote.md"
               }
             }
           }
@@ -148,34 +148,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f071d684abf2c1",
+  "active": "f5b0d1a3eb862da3",
   "lastOpenFiles": [
-    "Magic/Arcana/Time.md",
-    "Magic/Arcana/Spirit.md",
-    "Magic/Arcana/Space.md",
-    "Magic/Arcana/Mind.md",
-    "Magic/Arcana/Prime.md",
-    "The Worlds/Supernal Realms/Pandemonium.md",
-    "Magic/Magic Concepts/Sympathy/Sympathy.md",
-    "Magic/Arcana/Death.md",
-    "Magic/Arcana/Fate.md",
-    "Magic/Arcana/Forces.md",
-    "Magic/Arcana/Life.md",
-    "Magic/Arcana/Matter.md",
-    "Magic/Spells/Master/Temporal Pocket.md",
-    "Magic/Spells/Master/Corridors of Time.md",
-    "Magic/Spells/Master/Blink of an Eye.md",
-    "Magic/Spells/Adept/Temporal Stutter.md",
-    "Magic/Spells/Adept/Rewrite History.md",
-    "Magic/Spells/Adept/Rend Lifespan.md",
-    "Magic/Spells/Adept/Prophecy.md",
-    "Magic/Spells/Adept/Present as Past.md",
-    "Magic/Spells/Disciple/Weight of Years.md",
-    "Magic/Spells/Disciple/Temporal Summoning.md",
-    "Magic/Spells/Disciple/Shifting Sands.md",
-    "Magic/Spells/Disciple/Chronos' Curse.md",
-    "Magic/Spells/Disciple/Acceleration.md",
-    "Magic/Spells/Apprentice/Veil of Moments.md",
+    "Magic/Magic Concepts/Attainments/Attainments.md",
+    "Magic/Magic Concepts/Attainments/Create Rote.md",
+    "Magic/Magic Concepts/Attainments/Time in a Bottle.md",
+    "Magic/Magic Concepts/Attainments/Honorary Rank.md",
+    "Magic/Magic Concepts/Attainments/Everywhere.md",
+    "Magic/Magic Concepts/Attainments/Imbue Item.md",
+    "Magic/Magic Concepts/Attainments/Intuitive Leap.md",
+    "Magic/Magic Concepts/Attainments/Durability Control.md",
+    "Magic/Magic Concepts/Attainments/Body Autonomy.md",
+    "Magic/Magic Concepts/Attainments/Environmental Immunity.md",
+    "Magic/Magic Concepts/Attainments/Unbound Fate.md",
+    "Magic/Magic Concepts/Attainments/Inviolate Soul.md",
+    "Magic/Magic Concepts/Attainments/Universal Counterspell.md",
+    "Magic/Magic Concepts/Attainments/Temporal Sympathy Attainment.md",
+    "Magic/Magic Concepts/Attainments/Targeted Summoning.md",
+    "Magic/Magic Concepts/Attainments/Sympathetic Range.md",
+    "Magic/Magic Concepts/Attainments/Spirit Eyes.md",
+    "Magic/Magic Concepts/Attainments/Precise Force.md",
+    "Magic/Magic Concepts/Attainments/Permanence.md",
+    "Magic/Magic Concepts/Attainments/Mind's Eye.md",
+    "Magic/Magic Concepts/Attainments/Mage Armour.md",
+    "Magic/Magic Concepts/Attainments/Improved Pattern Restoration.md",
+    "Magic/Magic Concepts/Attainments/Eyes of the Dead.md",
+    "Magic/Magic Concepts/Attainments/Counterspell.md",
+    "Magic/Magic Concepts/Attainments/Conditional Duration.md",
+    "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
+    "Magic/Magic Concepts/Attainments",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
@@ -184,7 +185,6 @@
     "Magic/Spells/Disciple",
     "Magic/Spells/Apprentice",
     "Magic/Spells/Initiate",
-    "Magic/Magic Concepts/Mystery",
-    "Magic/Magic Concepts/Wisdom"
+    "Magic/Magic Concepts/Mystery"
   ]
 }

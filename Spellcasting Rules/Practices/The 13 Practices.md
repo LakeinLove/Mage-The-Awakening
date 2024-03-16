@@ -14,6 +14,7 @@ These practices encompass almost everything anyone can do with magic, and though
 This is a system for mortal understanding, it does not describe the true nature of magic itself.
 
 ---
+
 From a mechanical perspective, these Practices help to guide you in your usage of magic and the creative magical effects you desire. It is useful to consider what Practice an effect might fall under, and which [[Arcanum|Arcana]] it might use. This dovetails nicely into the levels of ability and mastery of any given [[Arcanum|Arcana]], as only those of sufficient mastery can cast spells that use specific Practices.
 
 In simple terms, the Practices are what you can do with any given [[Arcanum|Arcana]] at any given level of mastery. 
@@ -60,5 +61,7 @@ The Practices are divided along the 5 levels of mastery one is considered to be 
   _Create Phenomena_
 - [[Practice of Unmaking]]
   _Destroy or mutilate a target_
+
+---
 
 These Practices are to help you make your spells work and define effects, they are NOT a prescriptive guide on what you can and cannot do within them, just a way to better understand them.
