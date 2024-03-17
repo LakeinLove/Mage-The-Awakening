@@ -13,7 +13,7 @@ Suggested Rote Skills: Occult, Politics, Socialise
 
 ---
 
-_This spell allows the mage to move a quantity of Mana equal to the spell’s Potency between one or more vessels she can touch, including other mages, herself, Hallows, Artifacts, and others._
+_This spell allows the mage to move a quantity of Mana equal to the spell’s Potency between one or more vessels she can touch, including other mages, herself, Hallows, [[Artifact|Artifacts]], and others._
 
 ---
 

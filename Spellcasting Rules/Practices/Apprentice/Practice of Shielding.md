@@ -18,7 +18,7 @@ Mages protect themselves from general harm through the power of their Arcana wit
 This is what separates a squishy mortal body from all the arcane and mundane phenomena that would kill a [[Sleeper]].\
 Any mage who engages in combat on a regular basis (or who, because of position or even just paranoia, fears being attacked) or deals with powerful supernatural phenomena has a use for Shielding spells.
 
-Some of the most treasured of Artifacts and Imbued Items are enchanted with Shielding magics in addition to their normal [[Mage Armor]]. Quite simply, no willworker with an ounce of good sense turns up her nose at the idea of a little extra protection.\
+Some of the most treasured of [[Artifact|Artifacts]] and Imbued Items are enchanted with Shielding magics in addition to their normal [[Mage Armor]]. Quite simply, no willworker with an ounce of good sense turns up her nose at the idea of a little extra protection.\
 Note that Shielding spells do “stack” with mundane, or even enhanced, [[Imbued]] or [[Artifact]] armour, though not with one another. This means that a mage with a well-crafted suit of armour and a powerful Shielding enchantment is virtually untouchable in combat, save by those magics that ignore or otherwise circumvent armour.
 
 ## In Story:

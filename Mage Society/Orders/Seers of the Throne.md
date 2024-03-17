@@ -76,7 +76,7 @@ Repeatedly drawing on her Exarch draws a Seer’s soul closer to alignment with 
 
 No mage serves the Throne out of altruism. Even the deluded or willfully ignorant find themselves quickly disabused of notions of fighting the good fight. Yet there’s great profit in tyranny, and no shame in admitting that. Unfortunately for the [[Wisdom]] of Seers, the missions assigned them by superiors are often traumatic. 
 
-The Tyrants care not for those below them, and while they reward valued servants and Prelates, few make the leap from expendable to indispensable. Seers fall to [[Act of Hubris|Hubris]] when they follow orders no matter the cost to themselves or others, when they enslave Sleepers to work their will, or when they steal Artifacts and other magical supplies from other groups without regard. Sadly, these actions neatly describe the Seers’ mandate.
+The Tyrants care not for those below them, and while they reward valued servants and Prelates, few make the leap from expendable to indispensable. Seers fall to [[Act of Hubris|Hubris]] when they follow orders no matter the cost to themselves or others, when they enslave Sleepers to work their will, or when they steal [[Artifact|Artifacts]] and other magical supplies from other groups without regard. Sadly, these actions neatly describe the Seers’ mandate.
 
 ## Concepts
 

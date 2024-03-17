@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
+                "file": "Character Mechanics/Merits/True Friend.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
+                "file": "Character Mechanics/Merits/True Friend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/Attainments/Create Rote.md",
+                "file": "Character Mechanics/Merits/True Friend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/Attainments/Create Rote.md"
+                "file": "Character Mechanics/Merits/True Friend.md"
               }
             }
           }
@@ -150,32 +150,33 @@
   },
   "active": "f5b0d1a3eb862da3",
   "lastOpenFiles": [
-    "Magic/Magic Concepts/Attainments/Attainments.md",
-    "Magic/Magic Concepts/Attainments/Create Rote.md",
-    "Magic/Magic Concepts/Attainments/Time in a Bottle.md",
-    "Magic/Magic Concepts/Attainments/Honorary Rank.md",
-    "Magic/Magic Concepts/Attainments/Everywhere.md",
-    "Magic/Magic Concepts/Attainments/Imbue Item.md",
-    "Magic/Magic Concepts/Attainments/Intuitive Leap.md",
-    "Magic/Magic Concepts/Attainments/Durability Control.md",
-    "Magic/Magic Concepts/Attainments/Body Autonomy.md",
-    "Magic/Magic Concepts/Attainments/Environmental Immunity.md",
-    "Magic/Magic Concepts/Attainments/Unbound Fate.md",
-    "Magic/Magic Concepts/Attainments/Inviolate Soul.md",
-    "Magic/Magic Concepts/Attainments/Universal Counterspell.md",
-    "Magic/Magic Concepts/Attainments/Temporal Sympathy Attainment.md",
-    "Magic/Magic Concepts/Attainments/Targeted Summoning.md",
-    "Magic/Magic Concepts/Attainments/Sympathetic Range.md",
-    "Magic/Magic Concepts/Attainments/Spirit Eyes.md",
-    "Magic/Magic Concepts/Attainments/Precise Force.md",
-    "Magic/Magic Concepts/Attainments/Permanence.md",
-    "Magic/Magic Concepts/Attainments/Mind's Eye.md",
-    "Magic/Magic Concepts/Attainments/Mage Armour.md",
-    "Magic/Magic Concepts/Attainments/Improved Pattern Restoration.md",
-    "Magic/Magic Concepts/Attainments/Eyes of the Dead.md",
-    "Magic/Magic Concepts/Attainments/Counterspell.md",
-    "Magic/Magic Concepts/Attainments/Conditional Duration.md",
-    "Spellcasting Rules/Practices/Apprentice/Practice of Shielding.md",
+    "Character Mechanics/Merits/Merits.md",
+    "Character Mechanics/Merits/True Friend.md",
+    "Character Mechanics/Merits/Trained Observer.md",
+    "Character Mechanics/Merits/Striking Looks.md",
+    "Character Mechanics/Merits/Status Merit.md",
+    "Character Mechanics/Merits/Safe Place.md",
+    "Character Mechanics/Merits/Retainer.md",
+    "Character Mechanics/Merits/Resources Merit.md",
+    "Character Mechanics/Merits/Professional Training.md",
+    "Character Mechanics/Merits/Mystery Cult Initiation.md",
+    "Character Mechanics/Merits/Mentor.md",
+    "Character Mechanics/Merits/Advanced Library Merit.md",
+    "Character Mechanics/Merits/Library Merit.md",
+    "Character Mechanics/Merits/Language Merit.md",
+    "Character Mechanics/Merits/Fame.md",
+    "Character Mechanics/Merits/Defensive Combat.md",
+    "Character Mechanics/Merits/Contacts.md",
+    "Character Mechanics/Merits/Alternative Identity.md",
+    "Character Mechanics/Merits/Allies.md",
+    "Character Mechanics/Merits/Techne.md",
+    "Character Mechanics/Merits/Shadow Name Merit.md",
+    "Character Mechanics/Merits/Sanctum.md",
+    "Character Mechanics/Merits/Prelacy.md",
+    "Character Mechanics/Merits/Potent Resonance.md",
+    "Character Mechanics/Merits/Potent Nimbus.md",
+    "Character Mechanics/Merits/Occultation.md",
+    "Consilium",
     "Magic/Magic Concepts/Attainments",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
@@ -184,7 +185,6 @@
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
     "Magic/Spells/Apprentice",
-    "Magic/Spells/Initiate",
-    "Magic/Magic Concepts/Mystery"
+    "Magic/Spells/Initiate"
   ]
 }

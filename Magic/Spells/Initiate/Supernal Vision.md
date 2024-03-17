@@ -16,7 +16,7 @@ _By opening her subject’s third eye, the mage reveals her fellows as the wells
 
 ---
 
-By studying a person, place, or location for one turn, the subject automatically knows whether it is connected to the Supernal (e.g. if a person is a mage, a Sleepwalker, a Proximus, or a Sleeper; if a place is a Demesne or Verge; if an object is Imbued, Enhanced, or an Artifact), and may ask a number of the following questions equal to the spell’s Potency:
+By studying a person, place, or location for one turn, the subject automatically knows whether it is connected to the Supernal (e.g. if a person is a mage, a Sleepwalker, a Proximus, or a Sleeper; if a place is a Demesne or Verge; if an object is Imbued, Enhanced, or an [[Artifact]]), and may ask a number of the following questions equal to the spell’s Potency:
 - How much Mana does the target have in her Pattern?
 - To which Supernal World is the target most closely aligned?
 - What is the target’s highest-rated Arcanum? (Subsequent asking of this question reveals the target’s second, third, etc. highest Arcana.)
