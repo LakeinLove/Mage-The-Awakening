@@ -24,7 +24,23 @@ _Mana can be spent as a reflexive action to:_
 - Attainments often cost Mana to activate, as noted in their rules.
 - Some powerful spells that push the boundaries of natural physics or violate [[Lie|the Lie]] require Mana.
 
-### Pattern Restoration
+## Mana Costs
+
+Some quick reminders of spellcasting effects that cost Mana:
+
+- Each improvised spell (not Praxes or Rotes) outside Ruling Arcana costs a point of Mana.
+- Many Attainments require Mana or are more efficient with its use.
+- Spells that directly call upon the perfection of the Supernal Realms require a point of Mana.
+
+This includes the following effects:
+- Indefinite Duration
+- Inflicting aggravated damage
+- Healing aggravated damage
+- Granting the Rote Action Quality
+- Granting automatic success or failure
+- Boosting Traits beyond the subject’s maximum rating or altering that rating
+
+## Pattern Restoration
 
 As an instant action, a mage can bolster her [[Patterns|Pattern]] and heal mentally or physically. Three Mana points can heal a level of bashing or lethal damage. Alternatively, the mage can remove a Mental Condition (this does not offer a Beat) or a Physical Tilt.
 

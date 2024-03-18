@@ -6,9 +6,8 @@ tags:
 ---
 A character's Willpower score is equal to [[Resolve]] + [[Composure]].
 
-
 ---
-## Mage:
+
 - Willpower is what mages use to clamp down their control on spells in a difficult situation.
 - Spending a point of Willpower from their pool will grand them +3 dice bonus to a roll.
 - A Master of an Arcanum can sacrifice a Willpower dot to create a [[Rote]].

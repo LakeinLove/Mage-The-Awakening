@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Mechanics/Merits/True Friend.md",
+                "file": "Spellcasting Rules/Spellcasting/Reach.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Mechanics/Merits/True Friend.md",
+                "file": "Spellcasting Rules/Spellcasting/Reach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Mechanics/Merits/True Friend.md",
+                "file": "Spellcasting Rules/Spellcasting/Reach.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Mechanics/Merits/True Friend.md"
+                "file": "Spellcasting Rules/Spellcasting/Reach.md"
               }
             }
           }
@@ -148,34 +148,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5b0d1a3eb862da3",
+  "active": "e3818c4368076cdc",
   "lastOpenFiles": [
-    "Character Mechanics/Merits/Merits.md",
+    "Spellcasting Rules/Spellcasting/Spellcasting.md",
+    "Spellcasting Rules/Spellcasting/Casting a Spell.md",
+    "Magic/Magic Concepts/Mana/Mana.md",
+    "Spellcasting Rules/Spellcasting/Spell Stacking.md",
+    "Lexicon/Arcanum.md",
+    "Spellcasting Rules/Spellcasting/Yantra.md",
+    "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+    "Spellcasting Rules/Spellcasting/Group Casting.md",
+    "Spellcasting Rules/Spellcasting/Yantras",
+    "Spellcasting Rules/Spellcasting/Combined Spells.md",
+    "Spellcasting Rules/Spellcasting/Spell Control.md",
+    "Character Mechanics/Advantages/Willpower.md",
+    "Spellcasting Rules/Spellcasting/Casting During a Grapple.md",
+    "Spellcasting Rules/Spellcasting/Casting During Combat.md",
+    "Spellcasting Rules/Spellcasting/Clash of Wills.md",
+    "Spellcasting Rules/Spellcasting/Down and Dirty Spellcasting.md",
+    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
+    "Spellcasting Rules/Spellcasting/Praxes.md",
+    "Character Mechanics/Actions/Contested Action.md",
+    "Character Mechanics/Actions/Extended Action.md",
+    "Character Mechanics/Actions/Instant Action.md",
+    "Character Mechanics/Actions/Reflexive Action.md",
+    "Pasted image 20240319013256.png",
+    "Spellcasting Rules/Spellcasting/Improvised Spells.md",
+    "Spellcasting Rules/Spellcasting/Spell Factors.md",
+    "Spellcasting Rules/Spellcasting/Rotes.md",
+    "Spellcasting Rules/Spellcasting/Reach.md",
     "Character Mechanics/Merits/True Friend.md",
-    "Character Mechanics/Merits/Trained Observer.md",
-    "Character Mechanics/Merits/Striking Looks.md",
-    "Character Mechanics/Merits/Status Merit.md",
-    "Character Mechanics/Merits/Safe Place.md",
-    "Character Mechanics/Merits/Retainer.md",
-    "Character Mechanics/Merits/Resources Merit.md",
-    "Character Mechanics/Merits/Professional Training.md",
-    "Character Mechanics/Merits/Mystery Cult Initiation.md",
-    "Character Mechanics/Merits/Mentor.md",
-    "Character Mechanics/Merits/Advanced Library Merit.md",
-    "Character Mechanics/Merits/Library Merit.md",
-    "Character Mechanics/Merits/Language Merit.md",
-    "Character Mechanics/Merits/Fame.md",
-    "Character Mechanics/Merits/Defensive Combat.md",
-    "Character Mechanics/Merits/Contacts.md",
-    "Character Mechanics/Merits/Alternative Identity.md",
-    "Character Mechanics/Merits/Allies.md",
-    "Character Mechanics/Merits/Techne.md",
-    "Character Mechanics/Merits/Shadow Name Merit.md",
-    "Character Mechanics/Merits/Sanctum.md",
-    "Character Mechanics/Merits/Prelacy.md",
-    "Character Mechanics/Merits/Potent Resonance.md",
-    "Character Mechanics/Merits/Potent Nimbus.md",
-    "Character Mechanics/Merits/Occultation.md",
+    "Spellcasting Rules/Spellcasting",
     "Consilium",
     "Magic/Magic Concepts/Attainments",
     "The Worlds/Untitled",
@@ -183,8 +186,6 @@
     "Magic/Magic Concepts/Sympathy",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
-    "Magic/Spells/Disciple",
-    "Magic/Spells/Apprentice",
-    "Magic/Spells/Initiate"
+    "Magic/Spells/Disciple"
   ]
 }
