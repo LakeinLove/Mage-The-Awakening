@@ -4,7 +4,7 @@ tags:
 ---
 
 _Mages can absorb [[Mana]] through numerous methods:_
-- The most common method is [[Oblation]], or targeted meditation at a [[Hallow]]. This requires a [[Gnosis]] + [[Composure]] roll and one hour’s time. Each success gives one [[Mana]], up to the limits imposed by the [[Hallow]]. As well, a mage with a [[Legacy]] can commit a special [[Oblation]] even away from a [[Hallow]].
+- The most common method is [[Oblation]], or targeted meditation at a [[Hallow]]. This requires a [[Gnosis]] + [[Composure]] roll and one hour’s time. Each success gives one [[Mana]], up to the limits imposed by the [[Hallow]]. As well, a mage with a Legacy can commit a special [[Oblation]] even away from a [[Hallow]].
 - Mages with three dots of [[Prime]] may use the spell [[Channel Mana]] to absorb [[Mana]] from a [[Hallow]] without [[Oblation]].
 - If [[Mana]] is left to accumulate at a [[Hallow]], it’ll eventually congeal and crystallize into tass, which can be stored and accessed later. If the tass congeals in food, it can be eaten to absorb the [[Mana]]. Otherwise, [[Channel Mana]] is required to access tass.
 - Moments of Supernal [[Revelation]] can generate [[Mana]]. This usually means fulfilling an [[Obsession]].

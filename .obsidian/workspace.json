@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4cb4e18323e6c75a",
+        "id": "fde14d5f984c88ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e3818c4368076cdc",
+            "id": "58f071d684abf2c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Reach.md",
+                "file": "Lexicon/Resistance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Reach.md",
+                "file": "Lexicon/Resistance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Reach.md",
+                "file": "Lexicon/Resistance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Reach.md"
+                "file": "Lexicon/Resistance.md"
               }
             }
           }
@@ -148,44 +148,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e3818c4368076cdc",
+  "active": "58f071d684abf2c1",
   "lastOpenFiles": [
-    "Spellcasting Rules/Spellcasting/Spellcasting.md",
-    "Spellcasting Rules/Spellcasting/Casting a Spell.md",
-    "Magic/Magic Concepts/Mana/Mana.md",
-    "Spellcasting Rules/Spellcasting/Spell Stacking.md",
-    "Lexicon/Arcanum.md",
-    "Spellcasting Rules/Spellcasting/Yantra.md",
-    "Spellcasting Rules/Spellcasting/Aimed Spells.md",
-    "Spellcasting Rules/Spellcasting/Group Casting.md",
-    "Spellcasting Rules/Spellcasting/Yantras",
-    "Spellcasting Rules/Spellcasting/Combined Spells.md",
-    "Spellcasting Rules/Spellcasting/Spell Control.md",
-    "Character Mechanics/Advantages/Willpower.md",
-    "Spellcasting Rules/Spellcasting/Casting During a Grapple.md",
-    "Spellcasting Rules/Spellcasting/Casting During Combat.md",
-    "Spellcasting Rules/Spellcasting/Clash of Wills.md",
-    "Spellcasting Rules/Spellcasting/Down and Dirty Spellcasting.md",
-    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
-    "Spellcasting Rules/Spellcasting/Praxes.md",
-    "Character Mechanics/Actions/Contested Action.md",
     "Character Mechanics/Actions/Extended Action.md",
+    "Lexicon/Resistance.md",
     "Character Mechanics/Actions/Instant Action.md",
-    "Character Mechanics/Actions/Reflexive Action.md",
-    "Pasted image 20240319013256.png",
-    "Spellcasting Rules/Spellcasting/Improvised Spells.md",
+    "Lexicon/Attribute Tasks.md",
+    "Character Mechanics/Advantages/Willpower.md",
+    "Character Mechanics/Advantages/Anchors/Vice.md",
+    "Character Mechanics/Advantages/Anchors/Virtue.md",
+    "Character Mechanics/Skills/Skill Specialty.md",
+    "Spellcasting Rules/Spellcasting/Spellcasting.md",
     "Spellcasting Rules/Spellcasting/Spell Factors.md",
-    "Spellcasting Rules/Spellcasting/Rotes.md",
-    "Spellcasting Rules/Spellcasting/Reach.md",
-    "Character Mechanics/Merits/True Friend.md",
-    "Spellcasting Rules/Spellcasting",
-    "Consilium",
-    "Magic/Magic Concepts/Attainments",
+    "Magic/Spells/Adept/Apocalypse.md",
+    "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
+    "Magic/Magic Concepts/Mage Sight/Active Mage Sight.md",
+    "Magic/Magic Concepts/Mana/Gaining Mana.md",
+    "Magic/Arcana/Prime.md",
+    "Magic/Arcana/Time.md",
+    "Magic/Arcana/Spirit.md",
+    "Magic/Arcana/Space.md",
+    "Magic/Arcana/Mind.md",
+    "The Worlds/Supernal Realms/Pandemonium.md",
+    "Magic/Magic Concepts/Sympathy/Sympathy.md",
+    "Magic/Arcana/Death.md",
+    "Magic/Arcana/Fate.md",
+    "Magic/Arcana/Forces.md",
+    "Magic/Arcana/Life.md",
+    "Magic/Arcana/Matter.md",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
-    "Magic/Spells/Disciple"
+    "Magic/Spells/Disciple",
+    "Magic/Spells/Apprentice",
+    "Magic/Spells/Initiate",
+    "Magic/Magic Concepts/Mystery",
+    "Magic/Magic Concepts/Wisdom"
   ]
 }

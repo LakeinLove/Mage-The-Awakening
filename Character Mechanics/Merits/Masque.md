@@ -28,7 +28,7 @@ Choose a Virtue and Vice different than that of your character. While in the Mas
 
 ### Competency (••)
 
-Choose Skill Specialties equal to the Masque Merit dots. Your character uses those Specialties instead of her own while in the Masque.
+Choose [[Skill Specialty|Skill Specialties]] equal to the Masque Merit dots. Your character uses those Specialties instead of her own while in the Masque.
 
 ### Diffusion (•••)
 

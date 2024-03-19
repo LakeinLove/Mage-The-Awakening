@@ -21,7 +21,7 @@ The following are guidelines; use them to craft your own cults:
 
 | Dots  | Description                                                                       |
 | ----- | --------------------------------------------------------------------------------- |
-| •     | A Skill Specialty or one-dot Merit pertaining to the lessons taught to initiates. |
+| •     | A [[Skill Specialty]] or one-dot Merit pertaining to the lessons taught to initiates. |
 | ••    | A one-dot Merit                                                                   |
 | •••   | A Skill dot or a two-dot Merit                                                    |
 | ••••  | A three-dot Merit                                                                 |
