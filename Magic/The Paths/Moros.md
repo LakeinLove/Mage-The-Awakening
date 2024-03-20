@@ -12,7 +12,7 @@ _A mage whose [[Path]] leads to [[Stygia]]. Also known as Alchemists or Necroman
 Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]\
 Ruling Arcana: [[Death]] and [[Matter]]\
 Inferior Arcanum: [[Spirit]]\
-Favoured Resistance [[Attribute]]: [[Composure]]  
+Favoured [[Resistance]] [[Attribute]]: [[Composure]]  
 
 ---
 

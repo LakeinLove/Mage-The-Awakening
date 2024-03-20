@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fde14d5f984c88ef",
+        "id": "e65c8e40288735b2",
         "type": "tabs",
         "children": [
           {
-            "id": "58f071d684abf2c1",
+            "id": "912d1fe23dafc3e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon/Resistance.md",
+                "file": "Lexicon/Arcanum.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon/Resistance.md",
+                "file": "Lexicon/Arcanum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon/Resistance.md",
+                "file": "Lexicon/Arcanum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon/Resistance.md"
+                "file": "Lexicon/Arcanum.md"
               }
             }
           }
@@ -148,17 +148,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58f071d684abf2c1",
+  "active": "912d1fe23dafc3e3",
   "lastOpenFiles": [
-    "Character Mechanics/Actions/Extended Action.md",
+    "Lexicon/Social Manoeuvring.md",
+    "Spellcasting Rules/Spellcasting/Spellcasting.md",
+    "Summary Pages",
+    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
+    "Spellcasting Rules/Spellcasting/Yantra.md",
+    "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+    "Lexicon/Dramatic Time.md",
+    "Lexicon/Rolling Dice.md",
     "Lexicon/Resistance.md",
+    "Character Mechanics/Actions/Extended Action.md",
     "Character Mechanics/Actions/Instant Action.md",
     "Lexicon/Attribute Tasks.md",
     "Character Mechanics/Advantages/Willpower.md",
     "Character Mechanics/Advantages/Anchors/Vice.md",
     "Character Mechanics/Advantages/Anchors/Virtue.md",
     "Character Mechanics/Skills/Skill Specialty.md",
-    "Spellcasting Rules/Spellcasting/Spellcasting.md",
     "Spellcasting Rules/Spellcasting/Spell Factors.md",
     "Magic/Spells/Adept/Apocalypse.md",
     "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
@@ -170,12 +177,6 @@
     "Magic/Arcana/Space.md",
     "Magic/Arcana/Mind.md",
     "The Worlds/Supernal Realms/Pandemonium.md",
-    "Magic/Magic Concepts/Sympathy/Sympathy.md",
-    "Magic/Arcana/Death.md",
-    "Magic/Arcana/Fate.md",
-    "Magic/Arcana/Forces.md",
-    "Magic/Arcana/Life.md",
-    "Magic/Arcana/Matter.md",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
@@ -184,7 +185,6 @@
     "Magic/Spells/Disciple",
     "Magic/Spells/Apprentice",
     "Magic/Spells/Initiate",
-    "Magic/Magic Concepts/Mystery",
-    "Magic/Magic Concepts/Wisdom"
+    "Magic/Magic Concepts/Mystery"
   ]
 }

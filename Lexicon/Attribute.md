@@ -8,7 +8,7 @@ The basic Attributes that make up a character, divided into 3 broad categories a
 | ---- | ---- | ---- | ---- |
 | Power | [[Intelligence]] | [[Strength]] | [[Presence]] |
 | Finesse | [[Wits]] | [[Dexterity]] | [[Manipulation]] |
-| Resistance | [[Resolve]] | [[Stamina]] | [[Composure]] |
+| [[Resistance]] | [[Resolve]] | [[Stamina]] | [[Composure]] |
 ### Categories
 _These are what the Attribute relates to_
 - Mental
@@ -18,4 +18,4 @@ _These are what the Attribute relates to_
 _These are what the Attribute represents within the category_
 - Power
 - Finesse
-- Resistance
+- [[Resistance]]

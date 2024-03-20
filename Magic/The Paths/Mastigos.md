@@ -13,7 +13,7 @@ _A mage whose [[Path]] leads to [[Pandemonium]]. Also known as Warlocks or Psych
 Bonded to the [[Watchtower of the Iron Gauntlet]] in [[Pandemonium]]\
 Ruling Arcana: [[Magic/Arcana/Mind]] and [[Space]]\
 Inferior Arcanum: [[Matter]]\
-Favoured Resistance [[Attribute]]: [[Resolve]]  
+Favoured [[Resistance]] [[Attribute]]: [[Resolve]]  
 
 ---
 

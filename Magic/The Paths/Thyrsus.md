@@ -12,7 +12,7 @@ _A mage whose [[Path]] leads to the [[Primal Wild]]. Also known as Shamans or Ec
 Bonded to the [[Watchtower of the Stone Book]] in the [[Primal Wild]]\
 Ruling Arcana: [[Life]] and [[Spirit]]\
 Inferior Arcanum: [[Magic/Arcana/Mind]]\
-Favoured Resistance [[Attribute]]: [[Composure]]
+Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 
 ---
 
