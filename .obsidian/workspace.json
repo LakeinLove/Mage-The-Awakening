@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon/Combat/Combat.md",
+                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon/Combat/Combat.md",
+                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon/Combat/Combat.md",
+                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon/Combat/Combat.md"
+                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md"
               }
             }
           }
@@ -150,33 +150,33 @@
   },
   "active": "912d1fe23dafc3e3",
   "lastOpenFiles": [
+    "Templates/Arcana Template.md",
+    "Peoples/Awakened.md",
+    "Lexicon/Combat/Poison.md",
+    "Lexicon/Combat/Extreme Environments.md",
+    "Lexicon/Combat/Fire.md",
+    "Lexicon/Combat/Electricity.md",
+    "Lexicon/Combat/Objects.md",
+    "Lexicon/Combat/Overdose.md",
+    "Lexicon/Combat/Dodge.md",
+    "Lexicon/Combat/Drugs.md",
+    "Lexicon/Combat/Disease.md",
+    "Lexicon/Combat/Structure.md",
+    "Lexicon/Combat/Durability.md",
+    "Lexicon/Combat/Aiming.md",
     "Lexicon/Combat/Armour.md",
     "Lexicon/Combat/Armour-Piercing.md",
-    "Lexicon/Combat/Weapons.md",
-    "Lexicon/Combat/Range.md",
-    "Lexicon/Combat/Unarmed Combat.md",
-    "Lexicon/Combat/Killing Blow.md",
-    "Lexicon/Combat/Human Shields.md",
-    "Lexicon/Combat/Targeting Hits.md",
-    "Lexicon/Combat/Going Prone.md",
-    "Lexicon/Combat/Combat Movement.md",
-    "Lexicon/Combat/Combat.md",
-    "Lexicon/Combat/Reloading.md",
-    "Lexicon/Combat/Cover and Concealment.md",
     "Lexicon/Combat/Autofire.md",
-    "Spellcasting Rules/Spellcasting/Aimed Spells.md",
-    "Lexicon/Combat/Aiming.md",
-    "Lexicon/Combat/Touching an Opponent.md",
-    "Lexicon/Combat/Dodge.md",
-    "Lexicon/Combat/Defence.md",
-    "Lexicon/Combat/Standard Attack.md",
-    "Lexicon/Combat/Down and Dirty Combat.md",
     "Lexicon/Combat/Beaten Down and Surrender.md",
-    "Character Mechanics/Advantages/Initiative.md",
-    "Lexicon/Dramatic Time.md",
-    "Spellcasting Rules/Spellcasting/Down and Dirty Spellcasting.md",
+    "Lexicon/Combat/Combat.md",
+    "Lexicon/Combat/Combat Movement.md",
+    "Lexicon/Combat/Cover and Concealment.md",
+    "Lexicon/Combat/Damage.md",
+    "Lexicon/Combat/Defence.md",
+    "Lexicon/Combat/Down and Dirty Combat.md",
+    "Lexicon/Combat/Going Prone.md",
+    "Lexicon/Combat/Healing.md",
     "Lexicon/Combat",
-    "Lexicon/Arcanum.md",
     "Summary Pages",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
