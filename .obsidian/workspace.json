@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon/Arcanum.md",
+                "file": "Lexicon/Combat/Combat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon/Arcanum.md",
+                "file": "Lexicon/Combat/Combat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon/Arcanum.md",
+                "file": "Lexicon/Combat/Combat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon/Arcanum.md"
+                "file": "Lexicon/Combat/Combat.md"
               }
             }
           }
@@ -150,33 +150,34 @@
   },
   "active": "912d1fe23dafc3e3",
   "lastOpenFiles": [
-    "Lexicon/Social Manoeuvring.md",
-    "Spellcasting Rules/Spellcasting/Spellcasting.md",
-    "Summary Pages",
-    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
-    "Spellcasting Rules/Spellcasting/Yantra.md",
+    "Lexicon/Combat/Armour.md",
+    "Lexicon/Combat/Armour-Piercing.md",
+    "Lexicon/Combat/Weapons.md",
+    "Lexicon/Combat/Range.md",
+    "Lexicon/Combat/Unarmed Combat.md",
+    "Lexicon/Combat/Killing Blow.md",
+    "Lexicon/Combat/Human Shields.md",
+    "Lexicon/Combat/Targeting Hits.md",
+    "Lexicon/Combat/Going Prone.md",
+    "Lexicon/Combat/Combat Movement.md",
+    "Lexicon/Combat/Combat.md",
+    "Lexicon/Combat/Reloading.md",
+    "Lexicon/Combat/Cover and Concealment.md",
+    "Lexicon/Combat/Autofire.md",
     "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+    "Lexicon/Combat/Aiming.md",
+    "Lexicon/Combat/Touching an Opponent.md",
+    "Lexicon/Combat/Dodge.md",
+    "Lexicon/Combat/Defence.md",
+    "Lexicon/Combat/Standard Attack.md",
+    "Lexicon/Combat/Down and Dirty Combat.md",
+    "Lexicon/Combat/Beaten Down and Surrender.md",
+    "Character Mechanics/Advantages/Initiative.md",
     "Lexicon/Dramatic Time.md",
-    "Lexicon/Rolling Dice.md",
-    "Lexicon/Resistance.md",
-    "Character Mechanics/Actions/Extended Action.md",
-    "Character Mechanics/Actions/Instant Action.md",
-    "Lexicon/Attribute Tasks.md",
-    "Character Mechanics/Advantages/Willpower.md",
-    "Character Mechanics/Advantages/Anchors/Vice.md",
-    "Character Mechanics/Advantages/Anchors/Virtue.md",
-    "Character Mechanics/Skills/Skill Specialty.md",
-    "Spellcasting Rules/Spellcasting/Spell Factors.md",
-    "Magic/Spells/Adept/Apocalypse.md",
-    "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
-    "Magic/Magic Concepts/Mage Sight/Active Mage Sight.md",
-    "Magic/Magic Concepts/Mana/Gaining Mana.md",
-    "Magic/Arcana/Prime.md",
-    "Magic/Arcana/Time.md",
-    "Magic/Arcana/Spirit.md",
-    "Magic/Arcana/Space.md",
-    "Magic/Arcana/Mind.md",
-    "The Worlds/Supernal Realms/Pandemonium.md",
+    "Spellcasting Rules/Spellcasting/Down and Dirty Spellcasting.md",
+    "Lexicon/Combat",
+    "Lexicon/Arcanum.md",
+    "Summary Pages",
     "The Worlds/Untitled",
     "Magic/Spells/Apprentice/Untitled",
     "Magic/Magic Concepts/Sympathy",
@@ -184,7 +185,6 @@
     "Magic/Spells/Adept",
     "Magic/Spells/Disciple",
     "Magic/Spells/Apprentice",
-    "Magic/Spells/Initiate",
-    "Magic/Magic Concepts/Mystery"
+    "Magic/Spells/Initiate"
   ]
 }

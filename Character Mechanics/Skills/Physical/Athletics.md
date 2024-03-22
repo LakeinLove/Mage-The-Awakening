@@ -8,7 +8,7 @@ tags:
 
 _Athletics broadly covers a number of different areas of physical ability. It represents training in specific sports, from kayaking or parkour to professional sports like basketball or football._
 - It can be used with any general application of physical power and coordination, such as running a marathon, jumping between buildings, climbing a fence, or dodging threats.
-- It also determines a character’s ability with thrown weapons in a fight, and adds to [[Defence]] to determine if the character is hit in a fight.
+- It also determines a character’s ability with thrown weapons in a fight, and adds to [[Character Mechanics/Advantages/Defence]] to determine if the character is hit in a fight.
 - Just about any Chronicles of Darkness character is likely to find some use for the Athletics [[Skill]]. Sometimes, the only reasonable response is to run away.
 
 ---
