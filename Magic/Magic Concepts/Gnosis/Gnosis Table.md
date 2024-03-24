@@ -7,7 +7,7 @@ tags:
 ---
 
 
-| [[Gnosis]] | Ritual Interval | Trait Max | Yantras | Paradox | Combined Spells | Obsessions | [[Mana]]/ [[Mana]] per Turn | Highest Arcanum Max | Other Arcana Max |
+| [[Gnosis]] | Ritual Interval | Trait Max | Yantras | [[Paradox]] | Combined Spells | Obsessions | [[Mana]]/ [[Mana]] per Turn | Highest Arcanum Max | Other Arcana Max |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1 | 3 Hours | 5 | 2 | 1 | 1 | 1 | 10 / 1 | 3 | 2 |
 | 2 | 3 Hours | 5 | 2 | 1 | 1 | 1 | 11 / 2 | 3 | 3 |

@@ -30,7 +30,7 @@ Guardians cleave to Diamond symbolism with a concept they call the Diamond Wheel
 ### Paradox Strengthens the Abyss; Punishment Answers Pride
 
 The [[Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and [[Act of Hubris|Hubris]]. Humanity has the slim capacity for [[Awakening]] and Ascension, but even Awakened societies are corrupted by the [[Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to the [[Abyss]].\
-Guardians will help mages with their own Paradoxes when [[Abyssal]] taint threatens innocent bystanders. They encourage mages to examine the root causes of Paradox, and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
+Guardians will help mages with their own Paradoxes when [[Abyssal]] taint threatens innocent bystanders. They encourage mages to examine the root causes of [[Paradox]], and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
 
 ### Merit must guide the Fallen World
 

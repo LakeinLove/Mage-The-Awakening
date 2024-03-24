@@ -17,7 +17,7 @@ A mage can have as many active spells as she has dots in Gnosis. Each additional
 A mage may relinquish a spell, removing it from the spells counting against her Gnosis without cancelling it.\
 The player can spend a Willpower point to leave the spell as though cast by another mage.
 
-Without maintenance from the caster, the spell may go awry if left for very long periods. At the beginning of every chapter, the Storyteller rolls one die for every Reach the spell used above the caster’s free Reach, or a chance die if it was within her limits. A dramatic failure means the spell skips the roll for the next chapter; success grants the Storyteller a Reach as though the spell had gained a Paradox; and an exceptional success ends the spell, cancelling its remaining Duration.
+Without maintenance from the caster, the spell may go awry if left for very long periods. At the beginning of every chapter, the Storyteller rolls one die for every Reach the spell used above the caster’s free Reach, or a chance die if it was within her limits. A dramatic failure means the spell skips the roll for the next chapter; success grants the Storyteller a Reach as though the spell had gained a [[Paradox]]; and an exceptional success ends the spell, cancelling its remaining Duration.
 
 Instead of risking the spell going wrong, the player may spend a Willpower *dot* to relinquish the spell safely. In this case, the spell continues until its Duration runs down or it is dispelled. Most mages only relinquish indefinite spells, as relinquishing safely is extremely taxing. Relinquishing unsafely is illegal in many Consilia, or at least seen as grossly negligent.
 

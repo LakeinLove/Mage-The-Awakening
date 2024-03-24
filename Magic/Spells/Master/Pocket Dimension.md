@@ -22,7 +22,7 @@ It has no Death or [[Spirit]], so Twilight doesn’t exist within it. It is, in 
 Someone within the dimension can walk forever in any direction, but when she turns back she finds herself only as far as the boundary of the spell’s Area Factor.
 
 The Pocket Dimension is divorced from physical reality; unless the mage chooses to anchor the realm to a point in the world, the only way to reach it is to teleport there.\
-Spells cast within the Pocket Dimension do not incur Paradox, unless they are cast sympathetically on someone outside the Pocket Dimension.\
+Spells cast within the Pocket Dimension do not incur [[Paradox]], unless they are cast sympathetically on someone outside the Pocket Dimension.\
 The mage counts as a material [[Sympathy|sympathetic]] Yantra for her own Pocket Dimension.
 
 If the Pocket Dimension is ever destroyed, or if its Duration expires, everything inside reappears in the world at the exact location from which it or they entered the Dimension.

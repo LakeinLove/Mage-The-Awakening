@@ -9,7 +9,7 @@ _Wisdom is a mage’s ability to judge the value of when, where, why, and how to
 
 ---
 
-Wisdom represents the control a mage has over her magic. A character with low Wisdom runs the risk of her magic spiralling out of control. It sometimes becomes a rampant force, and Paradox follows quickly behind.
+Wisdom represents the control a mage has over her magic. A character with low Wisdom runs the risk of her magic spiralling out of control. It sometimes becomes a rampant force, and [[Paradox]] follows quickly behind.
 
 ---
 

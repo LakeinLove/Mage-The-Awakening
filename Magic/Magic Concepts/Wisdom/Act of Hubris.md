@@ -30,7 +30,7 @@ These highest levels of [[Wisdom]] force the mage to walk a careful line. Any mi
 
 ### Wisdom 4–7, Medium / Understanding (3 dice)
 
-Most experienced and stable mages fall into this range of [[Wisdom]]. Sometimes, Acts of Hubris happen. But by and large, the mage acts with basic [[Wisdom]] most of the time. Allowing a Sleeper to witness obvious magic, thus risking greater Paradox, can cause degeneration. Self-mutilating events such as soul stone creation risk degeneration. Not attempting to contain a severe Paradox risks degeneration as well. Forcing a sapient being (whether a Sleeper, spirit, or anything else) to act counter to its interests, altering its nature long-term, or binding it to a task all risk degeneration, as does deliberate and premeditated murder and violence that leaves its victim with long-term injury.
+Most experienced and stable mages fall into this range of [[Wisdom]]. Sometimes, Acts of Hubris happen. But by and large, the mage acts with basic [[Wisdom]] most of the time. Allowing a Sleeper to witness obvious magic, thus risking greater [[Paradox]], can cause degeneration. Self-mutilating events such as soul stone creation risk degeneration. Not attempting to contain a severe [[Paradox]] risks degeneration as well. Forcing a sapient being (whether a Sleeper, spirit, or anything else) to act counter to its interests, altering its nature long-term, or binding it to a task all risk degeneration, as does deliberate and premeditated murder and violence that leaves its victim with long-term injury.
 
 ### Wisdom 1–3, Low / Falling (1 die)
 

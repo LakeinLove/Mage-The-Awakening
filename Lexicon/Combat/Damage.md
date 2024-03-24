@@ -44,6 +44,6 @@ If it has lethal damage, she takes another point of damage each minute (upgradin
 
 ## Resistant Damage
 
-Some extremely rare effects cause resistant injuries — for mages they are almost always the result of containing a Paradox with Wisdom.
+Some extremely rare effects cause resistant injuries — for mages they are almost always the result of containing a [[Paradox]] with Wisdom.
 
 Resistant injuries are bashing, lethal, or aggravated like other wounds, but the player should mark them with a dot above the Health box. They cannot be healed by magic, or have their healing times accelerated by magic — only recovery at the rates on the [[Healing]] page will work.

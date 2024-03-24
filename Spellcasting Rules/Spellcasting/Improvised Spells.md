@@ -14,7 +14,7 @@ The character must have all Arcanum dots used in the spell.
 
 ## General Effects
 
-Spellcasting results in the following general effects, but each of these can be increased through changing spell factors or risking Paradox.
+Spellcasting results in the following general effects, but each of these can be increased through changing spell factors or risking [[Paradox]].
 - The spell grants a one-die bonus or penalty, deals one point of weapon damage, or heals one wound.
 - The spell lasts for one turn.
 - The spell hits one subject of Size 5 or less, or an area equal to an arm’s-length circle around a point.

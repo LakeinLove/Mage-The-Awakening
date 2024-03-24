@@ -19,7 +19,7 @@ _The mage smooths troubled thoughts and deadens emotions, making the subject thi
 
 The spell suppresses one Mental Condition or Tilt per level of Potency for its Duration. While the spell is often used to treat mental illness, it may also be used against positive Conditions, suppressing elation and inspiration just as easily as despair and fugue.
 
-The spell may not affect Conditions created by Paradox, and those imposed by supernatural means provoke a Clash of Wills.
+The spell may not affect Conditions created by [[Paradox]], and those imposed by supernatural means provoke a Clash of Wills.
 
 **+1 Reach:** The subject regains a point of Willpower.
 

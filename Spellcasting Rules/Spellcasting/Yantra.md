@@ -215,4 +215,4 @@ A Thyrsus who trusts to nature to provide may not have much by way of possession
 The Dedicated tool is often the first Path tool that the mage used, or something that she grabbed at the moment of her Awakening.\
 If it gets destroyed or lost, she can replace it — but at a price. She must use her chosen tool as a Yantra in every spell she casts for a month (counting against her limit), regardless of whether doing so gives any benefit.
 
-**Effect:** Using a Dedicated tool as a Yantra penalizes any Paradox dice pool by –2; the mage can also use it as a Path or Order tool.
+**Effect:** Using a Dedicated tool as a Yantra penalizes any [[Paradox]] dice pool by –2; the mage can also use it as a Path or Order tool.

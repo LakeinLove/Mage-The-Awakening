@@ -66,7 +66,7 @@ Théarchs have even been known to make common cause with the [[Seers of the Thro
 
 Théarchs look for [[Mystery|Mysteries]] that give clues to the great ladder of being, especially Sleepwalkers who manifest magical abilities, ancient records of the Awakened, and [[Supernal Entities]]. Save perhaps the [[Mysterium]], the Ladder is the Order most obsessed with finding temples and artifacts of Atlantis. 
 
-Despite the dangerous, oddly contradictory, and often Paradox-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — Sleepers must be encouraged to [[Awakening|Awaken]], and the Awakened towards Ascension.
+Despite the dangerous, oddly contradictory, and often [[Paradox]]-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — Sleepers must be encouraged to [[Awakening|Awaken]], and the Awakened towards Ascension.
 
 ### Magical Symbolism: Authority
 

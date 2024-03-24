@@ -3,7 +3,7 @@ tags:
 - Spellcasting
 ---
 
-_Once all dice penalties and bonuses are calculated, including any penalties from Paradox, the player rolls dice._
+_Once all dice penalties and bonuses are calculated, including any penalties from [[Paradox]], the player rolls dice._
 
 ---
 
