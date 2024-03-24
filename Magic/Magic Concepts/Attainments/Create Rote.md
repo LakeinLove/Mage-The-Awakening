@@ -14,5 +14,5 @@ The mage can create a Rote out of any spell she can cast, provided that she has 
 The mage can devote three hours at a time to this working over a period of weeks — the successes need not be accrued sequentially. The player spends one Mana for each roll. The usual rules for failure apply.\
 If the player fails one of these rolls, the character must either break off the attempt or take a Condition, which cannot resolve until the Rote is complete or the mage gives up.
 
-Once the character has mastered the Imago, the player spends a point of Willpower and an Arcane Experience, and the Rote is complete.\
+Once the character has mastered the Imago, the player spends a point of Willpower and an [[Arcane Experience]], and the Rote is complete.\
 The character can then teach it to other mages, or use the Prime 1 spell Scribe Grimoire to write it down and allow others to cast it.

@@ -110,7 +110,7 @@ A Paradox Condition lapses after an amount of time determined by the character�
 If the Paradox Condition is allowed to lapse, the Abyss enters the mage’s Pattern.\
 While the Abyss is part of the mage’s Pattern, it appears in her Nimbus. Every spell she casts is tainted by the Abyss and gains a Paradox die even if she does not attempt to Reach as part of the spell.
 
-Conditions that resolve this way grant an Arcane Beat. At this point, the only way for the mage to remove the taint from her Pattern is to Scour it out, similar to Pattern Scouring for Mana.
+Conditions that resolve this way grant an [[Arcane Beats|Arcane Beat]]. At this point, the only way for the mage to remove the taint from her Pattern is to Scour it out, similar to Pattern Scouring for Mana.
 
 Removing a Paradox Condition in this manner deals a single point of lethal damage to the mage, but she does not gain Mana from the Scouring.
 
@@ -126,7 +126,7 @@ A Moros’ Long-Term Nimbus might cause bizarre materials with impossible atomic
 
 **Resolution:** An Abyssal Entity uses the Condition to Manifest, the mage Scours the Condition from her Pattern, or the mage allows the Condition to lapse after the specified time.
 
-**Arcane Beat:** Gain an Arcane Beat when this Condition lapses.
+**Arcane Beat:** Gain an [[Arcane Beats|Arcane Beat]] when this Condition lapses.
 
 ### Abyssal Imago
 
@@ -135,7 +135,7 @@ If she does not, the spell automatically fails and adds dice equal to the caster
 
 **Resolution:** The mage successfully casts a spell that does not risk Paradox, the mage Scours the Condition from her Pattern, or the mage allows the Condition to lapse after the specified time.
 
-**Arcane Beat:** Gain an Arcane Beat when this Condition lapses.
+**Arcane Beat:** Gain an [[Arcane Beats|Arcane Beat]] when this Condition lapses.
 
 ### Abyssal Backlash
 
@@ -144,4 +144,4 @@ The next time the mage casts a spell that risks Paradox, add dice to the Paradox
 
 **Resolution:** The mage fully contains a Paradox, the mage Scours the Condition from her Pattern, or the mage allows the Condition to lapse after the specified time.
 
-**Arcane Beat:** Gain an Arcane Beat when this Condition lapses.
+**Arcane Beat:** Gain an [[Arcane Beats|Arcane Beat]] when this Condition lapses.

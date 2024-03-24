@@ -14,11 +14,11 @@ As a Storyteller, assess each action for potential hubris, and compare to the ch
 
 Degeneration risks use a number of dice depending on the relative [[Wisdom]] level of the [[Act of Hubris]]. Consult the [[Act of Hubris|Acts of Hubris]] list for how many dice each level of [[Wisdom]] act use. Note that the dice pool depends on the action; it doesn’t depend on the mage’s [[Wisdom]]. A mage with three dots of [[Wisdom]] and a mage with nine dots of [[Wisdom]] both use a base pool of 1 die if they commit a [[Wisdom]] 1 [[Act of Hubris]].
 
-Following Obsessions hurts a mage’s chance to maintain [[Wisdom]], as that driving power makes him ignore the implications of his actions. If the Storyteller feels the mage commits an [[Act of Hubris]] in pursuit of his Obsessions, remove one die from the dice pool for degeneration.
+Following [[Obsessions]] hurts a mage’s chance to maintain [[Wisdom]], as that driving power makes him ignore the implications of his actions. If the Storyteller feels the mage commits an [[Act of Hubris]] in pursuit of his [[Obsessions]], remove one die from the dice pool for degeneration.
 
 A character’s [[Virtue]] can add a die to the pool, if the act embodied hubris, but in defence of that [[Virtue]]. The character may very well understand and see the consequences of her actions, but she stands by them because she truly, fundamentally believes her actions are righteous.
 
-On the other hand, following a [[Vice]] as an [[Act of Hubris]] is similar to an Obsession; it removes a die from the pool as your character indulges in what she believes is a moral failing.
+On the other hand, following a [[Vice]] as an [[Act of Hubris]] is similar to an [[Obsessions|Obsession]]; it removes a die from the pool as your character indulges in what she believes is a moral failing.
 
 Roll the resulting dice pool. You may not spend [[Willpower]] on this roll.
 
@@ -39,10 +39,10 @@ Your character is able to examine and understand the ramifications of her action
 
 #### Exceptional Excess
 
-Your character’s [[Wisdom]] is reinforced by examining the risk and consequences of her actions. Take an additional Arcane Beat from the epiphany.
+Your character’s [[Wisdom]] is reinforced by examining the risk and consequences of her actions. Take an additional [[Arcane Beats|Arcane Beat]] from the epiphany.
 
 ---
 
-Any time your character risks [[Wisdom]] degeneration, she gains an Arcane Beat. Exploring the depths of hubris can be enlightening. 
+Any time your character risks [[Wisdom]] degeneration, she gains an [[Arcane Beats|Arcane Beat]]. Exploring the depths of hubris can be enlightening. 
 
 Additionally, some spells that attack the soul, or powers of other supernatural creatures in the Fallen World, can temporarily reduce [[Wisdom]] until their effects wear off.

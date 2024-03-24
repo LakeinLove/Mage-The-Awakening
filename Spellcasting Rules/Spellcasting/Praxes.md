@@ -11,4 +11,4 @@ Praxes are spell Imagos the mage has gained special insight into, learning the s
 
 When casting a Praxis spell, the mage gains an exceptional success with three successes instead of five. Praxes do not require a point of Mana to cast from Inferior or Common Arcana, but any other Mana costs still apply
 
-A mage gains one free Praxis for every dot of Gnosis, and may purchase more for one Arcane Experience each. The character must be capable of casting the Praxis as an improvised spell.
+A mage gains one free Praxis for every dot of Gnosis, and may purchase more for one [[Arcane Experience]] each. The character must be capable of casting the Praxis as an improvised spell.

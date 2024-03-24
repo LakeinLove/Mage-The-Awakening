@@ -22,7 +22,7 @@ The mage may change one of the following aspects of the subject for each Potency
 - Vice,
 - Short-Term Aspiration
 - Long-Term Aspiration
-- Obsession
+- [[Obsessions|Obsession]]
 - A non-Physical Persistent Condition
 - May move one dot between two Social Skills, or between two Mental Skills.
 

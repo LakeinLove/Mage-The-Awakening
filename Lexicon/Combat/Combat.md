@@ -3,7 +3,7 @@ tags:
 - Combat
 ---
 
-_Mages aren’t necessarily violent by nature, but the Fallen World is a dangerous place; mages often come into conflict with rival mages, other supernatural beings, or Sleepers in the way of their Obsessions._
+_Mages aren’t necessarily violent by nature, but the Fallen World is a dangerous place; mages often come into conflict with rival mages, other supernatural beings, or Sleepers in the way of their [[Obsessions]]._
 
 ---
 

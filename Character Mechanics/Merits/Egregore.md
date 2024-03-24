@@ -32,7 +32,7 @@ At this level, your character’s full Mysterium Status applies to all Mysterium
 ### Mysteriorum Barathrum (•••):
 
 Your character is initiated sufficiently as to be part of the knowledge base.\
-She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the Informed Condition regarding the local Mysterium’s membership, specialties, Merits, Obsessions, and Arcana.
+She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the Informed Condition regarding the local Mysterium’s membership, specialties, Merits, [[Obsessions]], and Arcana.
 
 ### Mysteriorum Calamitas (••••):
 

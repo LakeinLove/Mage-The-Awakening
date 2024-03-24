@@ -21,6 +21,6 @@ Casting the spell looking for a kind of person in a crowd or an item anywhere it
 The spell can find someone with a specific Trait, occupation, or context-specific quality (e.g. “corrupt cop”), but it only locates the nearest or most available subject matching the description the mage provides, never a specific person or object (although destiny sometimes draws familiar faces together).
 
 Alternatively, the mage gains temporary access to certain Social Merits (Ally, Contacts, Mentor, Resources, or Retainer) with a rating no greater than Potency. Fate guides her to dropped cash, unattended mundane items, or useful strangers she can easily convince to do her a quick favour.\
-The mage may benefit from this Merit a number of times no greater than Potency, after which the money runs out or the ally of convenience goes his own way unless the mage’s character spends Experiences to purchase the Merit.
+The mage may benefit from this Merit a number of times no greater than Potency, after which the money runs out or the ally of convenience goes his own way unless the mage’s character spends [[Experience|Experiences]] to purchase the Merit.
 
 **+1 Reach:** The mage locates the desired object within one hour.

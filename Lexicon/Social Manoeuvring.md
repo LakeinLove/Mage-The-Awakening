@@ -16,7 +16,7 @@ You just need to find out what the other person wants.
 ## Quick Guide
 
 - A character has X Doors where X is equal to the lower of Resolve or Composure.
-- Add 2 Doors if it's a Breaking Point or Act of Hubris, 1 Door if it prevents resolving an Aspiration or Obsession, and 1 Door if it acts against a Virtue.
+- Add 2 Doors if it's a Breaking Point or Act of Hubris, 1 Door if it prevents resolving an Aspiration or [[Obsessions|Obsession]], and 1 Door if it acts against a Virtue.
 - To persuade them, open Doors 1 by 1, one per roll not per success
 - Opening a Door can be a social roll, but you could also fix their car.
 - Sometimes it can be contested by Wits to detect lying, etc.
@@ -34,10 +34,10 @@ The Storyteller will determine if the goal is reasonable — while a con-artist 
 Each victim has a number of Doors, which reflect her resistance to coercion, her scepticism, and her mistrust of other people. A character has a base number of Doors equal to the lower of her Resolve or Composure.
 
 If the announced goal would be a breaking point or act of hubris for the victim, add two Doors.\
-If the goal would prevent the victim from resolving an Aspiration or Obsession, add a Door.\
+If the goal would prevent the victim from resolving an Aspiration or [[Obsessions|Obsession]], add a Door.\
 Acting against a victim’s Virtue also adds a Door.
 
-The number of Doors can change as the situation alters. If the goal seems mundane at first but ends up being reprehensible, it will probably increase the number of Doors required. If your character changes his goal, any Doors that he’s opened remain open, but assess Aspirations, Obsessions, Virtues, and breaking points in case of a potential increase.
+The number of Doors can change as the situation alters. If the goal seems mundane at first but ends up being reprehensible, it will probably increase the number of Doors required. If your character changes his goal, any Doors that he’s opened remain open, but assess Aspirations, [[Obsessions]], Virtues, and breaking points in case of a potential increase.
 
 A character has to open Doors one by one. Every successful roll opens one Door — not one per success.\
 As Doors represent a victim’s unwillingness to do what your character asks, they’re strictly a one-way relationship.
@@ -72,7 +72,7 @@ At each interval, the persuading character meets his victim and moves closer to 
 
 A successful roll opens one Door. An exceptional success on this roll opens two Doors. Failure imposes a cumulative –1 on all further rolls with the same victim; the Storyteller can also worsen the impression level by one (if she does the player takes a Beat). If failure lowers the impression level to “hostile,” the persuading character had better find some way to improve his chances.
 
-If your character knows one of his victim’s Aspirations or Obsessions, he can use that to his advantage. He has to present a clear path to her goal, and the steps he’ll take to help her achieve it. Doing so opens one Door. If the stated opportunity presents itself and the persuading character doesn’t help, two Doors close.
+If your character knows one of his victim’s Aspirations or [[Obsessions]], he can use that to his advantage. He has to present a clear path to her goal, and the steps he’ll take to help her achieve it. Doing so opens one Door. If the stated opportunity presents itself and the persuading character doesn’t help, two Doors close.
 
 ## Failure
 

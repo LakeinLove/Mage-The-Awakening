@@ -35,4 +35,4 @@ The character gains an Attainment based on her Exarch’s symbolism.
 If one of your character’s soul stones is incorporated into a Demesne, the Demesne becomes a Supernal Verge keyed to her Exarch, inhabited by Supernal Entities loyal to the Throne. Including Soul Stones from Seers with Prelacy linked to a different Exarch causes the Temple to collapse and immediately destroys all soul stones involved.
 
 **Drawback:**\
-Once the Exarchs have given a command, they expect it to be carried out without delay. The character may only earn Arcane Beats from their other Obsessions in a chapter when they have already earned one for following the one granted by Mystery Commands.
+Once the Exarchs have given a command, they expect it to be carried out without delay. The character may only earn [[Arcane Beats]] from their other [[Obsessions]] in a chapter when they have already earned one for following the one granted by Mystery Commands.

@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+                "file": "Magic/Legacies/Eleventh Question.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+                "file": "Magic/Legacies/Eleventh Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md",
+                "file": "Magic/Legacies/Eleventh Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting Rules/Spellcasting/Aimed Spells.md"
+                "file": "Magic/Legacies/Eleventh Question.md"
               }
             }
           }
@@ -150,32 +150,34 @@
   },
   "active": "912d1fe23dafc3e3",
   "lastOpenFiles": [
-    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
-    "Spellcasting Rules/Spellcasting/Paradox.md",
-    "Spellcasting Rules/Spellcasting/Praxes.md",
-    "Mage Society/Orders/Mysterium.md",
-    "Mage Society/Orders/Guardians of the Veil.md",
-    "Mage Society/Orders/Free Council.md",
+    "Magic/Legacies/Legacy Attainments.md",
+    "Magic/Legacies/Eleventh Question.md",
+    "Magic/Legacies/Legacy Advantages.md",
+    "Mage Society/Legacies.md",
+    "Magic/Arcana/Death.md",
+    "Magic/Legacies",
+    "Magic/Magic Concepts/Mana/Gaining Mana.md",
+    "Character Mechanics/Character Advancement/Obsessions.md",
+    "Mage Society/Convocation.md",
+    "Mage Society/Seers.md",
+    "Mage Society/Caucuses.md",
+    "Mage Society/Consilium.md",
+    "Mage Society/Lex Magica.md",
+    "Mage Society/Cabal.md",
+    "Mage Society/Sects.md",
+    "Mage Society/Mage Society.md",
     "Mage Society/Orders/Adamantine Arrow.md",
-    "Spellcasting Rules/Spellcasting/Spellcasting.md",
-    "Spellcasting Rules/Spellcasting/Aimed Spells.md",
-    "Templates/Arcana Template.md",
-    "Peoples/Awakened.md",
-    "Lexicon/Combat/Poison.md",
-    "Lexicon/Combat/Extreme Environments.md",
-    "Lexicon/Combat/Fire.md",
-    "Lexicon/Combat/Electricity.md",
-    "Lexicon/Combat/Objects.md",
-    "Lexicon/Combat/Overdose.md",
-    "Lexicon/Combat/Dodge.md",
-    "Lexicon/Combat/Drugs.md",
-    "Lexicon/Combat/Disease.md",
-    "Lexicon/Combat/Structure.md",
-    "Lexicon/Combat/Durability.md",
-    "Lexicon/Combat/Aiming.md",
-    "Lexicon/Combat/Armour.md",
-    "Lexicon/Combat/Armour-Piercing.md",
-    "Lexicon/Combat/Autofire.md",
+    "Character Mechanics/Character Advancement/Experience.md",
+    "Character Mechanics/Skills/Mental/Academics.md",
+    "Character Mechanics/Character Advancement/Arcane Experience.md",
+    "Character Mechanics/Character Advancement/Arcane Beats.md",
+    "Spellcasting Rules/Spellcasting/Paradox.md",
+    "Character Mechanics/Character Advancement/Advancement.md",
+    "Magic/Magic Concepts/Gnosis/Gnosis.md",
+    "Character Mechanics/Character Advancement/Aspirations.md",
+    "Character Mechanics/Character Advancement/Beats.md",
+    "Character Mechanics/Character Advancement/Condition Resolution.md",
+    "Character Mechanics/Character Advancement",
     "Lexicon/Combat",
     "Summary Pages",
     "The Worlds/Untitled",
@@ -183,8 +185,6 @@
     "Magic/Magic Concepts/Sympathy",
     "Magic/Spells/Master",
     "Magic/Spells/Adept",
-    "Magic/Spells/Disciple",
-    "Magic/Spells/Apprentice",
-    "Magic/Spells/Initiate"
+    "Magic/Spells/Disciple"
   ]
 }

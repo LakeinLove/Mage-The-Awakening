@@ -22,7 +22,7 @@ While this spell is active, the subject becomes immune to things that worsen wit
 New Conditions and Tilts cannot be imposed on the subject while the spell remains in effect. Supernatural powers that impose effects provoke a Clash of Wills.
 
 The downside of the spell’s protection is that the subject no longer heals naturally during the spell’s Duration. More dramatic effects such as Pattern Restoration or Life magic can still heal her.\
-More importantly, the subject cannot regain Willpower or Mana, or spend Experiences while under the spell’s effect. The subject ceases aging during the use of this spell.
+More importantly, the subject cannot regain Willpower or Mana, or spend [[Experience|Experiences]] while under the spell’s effect. The subject ceases aging during the use of this spell.
 
 **+1 Reach:** The subject may ignore Persistent Conditions during the spell’s Duration. Time spent under this spell’s effects does not count toward any time necessary for Conditions to lapse.
 
