@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mage Society/Cabal.md",
-                "mode": "preview",
+                "file": "The Worlds/The Fallen World.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage Society/Cabal.md",
+                "file": "The Worlds/The Fallen World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage Society/Cabal.md",
+                "file": "The Worlds/The Fallen World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage Society/Cabal.md"
+                "file": "The Worlds/The Fallen World.md"
               }
             }
           }
@@ -150,6 +150,17 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
+    "Lexicon/Lie.md",
+    "The Worlds/The Fallen World.md",
+    "Magic/Magic Concepts/Quiescence.md",
+    "The Worlds/The Abyss.md",
+    "The Worlds/The Gauntlet.md",
+    "The Worlds/Twilight.md",
+    "Magic/Magic Concepts/Awakened Will.md",
+    "Magic/Magic Concepts/High Speech.md",
+    "Magic/Magic Concepts/Dissonance.md",
+    "Character Mechanics/Breaking Point.md",
+    "Mage Society/Cabal.md",
     "Mage Society/Caucuses.md",
     "Mage Society/Convocation.md",
     "Mage Society/Sects.md",
@@ -157,7 +168,6 @@
     "Mage Society/Lex Magica.md",
     "Mage Society/Legacies.md",
     "Mage Society/Consilium.md",
-    "Mage Society/Cabal.md",
     "Peoples/Supernal Entities/Imps.md",
     "Peoples/Supernal Entities/Atavisms.md",
     "Peoples/Supernal Entities/Apeirons.md",
@@ -166,16 +176,6 @@
     "Peoples/Sleepwalkers.md",
     "Peoples/Awakened.md",
     "Spellcasting Rules/Spellcasting/Rotes.md",
-    "Peoples/The Soul.md",
-    "The Worlds/The Gauntlet.md",
-    "Magic/Spells/Disciple/Reaching.md",
-    "Peoples/Ephemeral Entities/Ephemeral Entities.md",
-    "Peoples/Ephemeral Entities/Ghost.md",
-    "Peoples/Ephemeral Entities/Spirits.md",
-    "Peoples/Ephemeral Entities/Goetia.md",
-    "The Worlds/Twilight.md",
-    "The Worlds/The Realms Invisible/The Astral Realms.md",
-    "The Worlds/The Realms Invisible/The Shadow.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",
