@@ -80,7 +80,7 @@ Forces is rarely subtle, but clever wizards find ways to use it so: hearing a so
 - [[Adverse Weather]]
 - [[Create Energy]]
 - [[Eradicate Energy]]
-- [[Earthquake]]
+- [[Magic/Spells/Master/Earthquake]]
 
 ---
 
