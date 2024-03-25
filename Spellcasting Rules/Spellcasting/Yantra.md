@@ -15,7 +15,7 @@ Just as a first-grader may learn “Roy G. Biv” as a mnemonic for the colours 
 
 The Diamond calls these keys “Yantras,” after the Sanskrit word for a mystical design or apparatus.\
 The Free Council prefers the more prosaic “Instruments,” focusing on their grounding in humanity’s acts of creation.\
-The Seers know them as “Chains,” mystic signatures burned into the Fallen World by the hands of the Exarchs.
+The Seers know them as “Chains,” mystic signatures burned into the Fallen World by the hands of the [[Peoples/Exarchs|Exarchs]].
 
 Sleepwalkers and Sleepers alike often mistake the medium for the message, believing that the Yantras associated with a given working are in and of themselves sources of power.\
 This belief — that anyone can work Supernal magic with the right combination of items, motions, and words — is sadly mistaken.\

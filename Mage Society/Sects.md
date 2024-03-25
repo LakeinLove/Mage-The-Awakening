@@ -17,7 +17,7 @@ The four Diamond Orders are the Adamantine Arrow, the Guardians of the Veil, the
 In its current form the Council of Free Assemblies is the youngest of the three sects.\
 Once a loose coalition of Nameless Orders in constant conflict with the Diamond for resources and members, it united in common cause with them against the Seers of the Throne and has remained a force to be reckoned with in the Awakened world ever since.
 
-The Seers of the Throne serve the Exarchs and enjoy considerable prosperity as the result of their devotion to those Supernal Tyrants. They do not hesitate to use magic to get what they want. In consequence, they have more resources than any of the other sects. These advantages are blunted by the Seers’ constant in-fighting and struggles for dominance over other Seers of the Throne, or disputes over control of resources.
+The Seers of the Throne serve the [[Peoples/Exarchs|Exarchs]] and enjoy considerable prosperity as the result of their devotion to those Supernal Tyrants. They do not hesitate to use magic to get what they want. In consequence, they have more resources than any of the other sects. These advantages are blunted by the Seers’ constant in-fighting and struggles for dominance over other Seers of the Throne, or disputes over control of resources.
 
 A relative handful of mages do not belong to any of the three large sects. They include apostates, Nameless, and members of Nameless Orders.
 

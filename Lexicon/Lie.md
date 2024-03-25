@@ -14,7 +14,7 @@ _You’re worthless. You’re only human. Don’t look. Concentrate on surviving
 
 The [[Fallen World]] is this Lie, hiding the [[Tapestry]] of truth that is the Supernal World.
 
-It is believed that the masterminds behind this Lie are called the [[Exarchs]], the architects of the Lie.
+It is believed that the masterminds behind this Lie are called the [[Lexicon/Exarchs]], the architects of the Lie.
 
 ## The Lake
 

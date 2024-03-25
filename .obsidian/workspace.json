@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/Quiescence.md",
+                "file": "Peoples/Exarchs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/Quiescence.md",
+                "file": "Peoples/Exarchs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/Quiescence.md",
+                "file": "Peoples/Exarchs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/Quiescence.md"
+                "file": "Peoples/Exarchs.md"
               }
             }
           }
@@ -150,10 +150,13 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
+    "Peoples/Sleepwalkers.md",
+    "Peoples/Sleepers.md",
+    "Peoples/Exarchs.md",
+    "The Worlds/The Abyss.md",
+    "Magic/Magic Concepts/Quiescence.md",
     "The Worlds/The Fallen World.md",
     "Lexicon/Lie.md",
-    "Magic/Magic Concepts/Quiescence.md",
-    "The Worlds/The Abyss.md",
     "The Worlds/The Gauntlet.md",
     "The Worlds/Twilight.md",
     "Magic/Magic Concepts/Awakened Will.md",
@@ -172,10 +175,7 @@
     "Peoples/Supernal Entities/Atavisms.md",
     "Peoples/Supernal Entities/Apeirons.md",
     "Peoples/Supernal Entities/Anachronisms.md",
-    "Peoples/Sleepers.md",
-    "Peoples/Sleepwalkers.md",
     "Peoples/Awakened.md",
-    "Spellcasting Rules/Spellcasting/Rotes.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

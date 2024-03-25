@@ -34,7 +34,7 @@ It’s simple, but all-encompassing. Much of the Diamond Orders’ cohesive phil
 
 ### Thunder: Imperium is the Sovereign Right of all Humanity
 
-There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the Exarchs’ Lies. Sleepers can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.\
+There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the [[Peoples/Exarchs|Exarchs]]’ Lies. Sleepers can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.\
 In response, the Ladder strives toward a perfected society, defined by mastery of magic and progress towards [[Awakening]] and [[Ascension]].
 
 ### Diamond: The Awakened are One Nation
@@ -44,7 +44,7 @@ The Awakened are bound to Consilia, which they must exalt above any Sleeper gove
 
 ### Blood: The Sleepers Follow
 
-Once all souls are free, the Exarchs will surrender or be annihilated, their conceptual identity relegated to mere theory. The perfect Awakened city will arise, not some time-lost ruin that Fell but a true utopia the Ladder will build.\
+Once all souls are free, the [[Peoples/Exarchs|Exarchs]] will surrender or be annihilated, their conceptual identity relegated to mere theory. The perfect Awakened city will arise, not some time-lost ruin that Fell but a true utopia the Ladder will build.\
 Humanity will rise as one, and then the Ladder’s true work will begin. Until that point, the Ladder leads, commanding Sleepers for their own good and against their own unwise impulses.
 
 ### Star: The Silver Ladder is the Path to Victory

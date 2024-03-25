@@ -43,7 +43,7 @@ Radical columns advocate open war against the [[Seers of the Throne|Seers]] (and
 
 ### Democracy Seeks the Truth
 
-Democracy stands in total ideological opposition to tyranny — only by rejecting all elements of their power can the Exarchs be defied. If humans working together draw on the Supernal World, then hierarchies — even Awakened ones — dilute and neuter that power, reducing it to a mere trickle. The Free Council believes in making group decisions and elects temporary leaders in response to specific societal needs.  
+Democracy stands in total ideological opposition to tyranny — only by rejecting all elements of their power can the [[Peoples/Exarchs|Exarchs]] be defied. If humans working together draw on the Supernal World, then hierarchies — even Awakened ones — dilute and neuter that power, reducing it to a mere trickle. The Free Council believes in making group decisions and elects temporary leaders in response to specific societal needs.  
 
 In practice, this isn’t much different than deference to experienced mages (and thus, Libertines can comfortably co-exist within a Consilium governed by representative democracy), but the Free Council’s doctrine of experto crede — trusting the experts — doesn’t always mean a master rules supreme in an Assembly, and if one does it is seldom for very long. Many Libertines honestly believe that a decision made by a group, or one directly empowered by a group, is more likely to be right than one taken alone.
 
