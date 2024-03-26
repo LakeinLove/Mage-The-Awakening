@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Matter]]\
-Practice: Compelling\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Larceny, Science
 

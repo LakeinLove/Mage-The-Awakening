@@ -6,15 +6,17 @@ _The Lie is the fundamental conception that the current world that Sleepers see 
 
 ---
 
+The Lie means it’s rotten to be Awakened. It means it’s rotten to be Asleep. It means that it’s rotten in those cases when the Awakened accidentally, or purposefully, bother those who Sleep but cannot wake.
+
 People imagine that the world they can touch and see is real — more real than pure concepts. The abstract only exists to define the concrete. This world is all there is, a cruel, oppressive regime that grinds souls down with a thousand tyrannies.\
 A whispering voice in the back of the head saying:\
 _You’re worthless. You’re only human. Don’t look. Concentrate on surviving the here and now._
 
-**This** is the Lie. A falsehood, created by invisible enemies from the symbolism of oppression and the Paradoxical energies of an [[Abyss]] of untruth. Mages [[Awakening|Awaken]] when they confront the Lie, when they look deep inside themselves, or are shocked outside of themselves and see past the Lie to the symbols beneath.
+**This** is the Lie. A falsehood, created by invisible enemies from the symbolism of oppression and the Paradoxical energies of an [[The Abyss|Abyss]] of untruth. Mages [[Awakening|Awaken]] when they confront the Lie, when they look deep inside themselves, or are shocked outside of themselves and see past the Lie to the symbols beneath.
 
-The [[Fallen World]] is this Lie, hiding the [[Tapestry]] of truth that is the Supernal World.
+[[The Fallen World]] is this Lie, hiding the [[Tapestry]] of truth that is the Supernal World.
 
-It is believed that the masterminds behind this Lie are called the [[Lexicon/Exarchs]], the architects of the Lie.
+It is believed that the masterminds behind this Lie are called the [[Exarchs]], the architects of the Lie.
 
 ## The Lake
 
@@ -38,4 +40,3 @@ But very few ever do.\
 Why?
 
 Because they are in the grip of the Lie.
-

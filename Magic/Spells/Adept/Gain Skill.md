@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Mind]]\
-Practice: Patterning\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Expression, Science
 

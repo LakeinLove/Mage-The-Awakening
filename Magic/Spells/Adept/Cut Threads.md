@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Space]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Withstand: [[Sympathy]] (Connection)\
 Suggested Rote Skills: Persuasion, Politics, Weaponry

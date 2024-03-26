@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Life]]\
-Practice: Knowing\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Knowing\
 Primary Factor: Duration\
 Suggested Rote Skills: Animal Ken, Medicine, Survival
 
@@ -21,4 +21,4 @@ She may identify how many dots in Physical Attributes the subject has. Any illne
 This spell identifies supernatural (but still living) creatures as unknown species, even if they take a human form, unless the mage has studied their kind before.\
 Undead beings do not register to this spell.
 
-**+1 Reach:** The player may learn a specific Physical Attribute rating of the subject, rather than the total number of dots.
+**+1 Reach:** The player may learn a specific Physical [[Attribute]] rating of the subject, rather than the total number of dots.

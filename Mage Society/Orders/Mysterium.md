@@ -112,7 +112,7 @@ Willing servants of [[Lie|the Lie]], architects of Pancryptia. Betrayers of thei
 
 >“Knowledge is power.” An elegant concept, reduced to platitude. But you’ve felt it already — that burning desire to know, the sizzle of ecstasy upon sating that desire. You’ve wrought your will upon the world and felt it respond to your touch, felt it push back. By now you’ve heard the stereotype of us, wizards sequestering secrets in their libraries. All true. 
 >
->The hunger for magic is a pang we know well — to feed it, we gather knowledge, preserve it, share it, and when necessary, hunt for it. Shall I tell you of my own satiation? Of the long nights spent in private libraries, alarms silenced by Arcana, perusing centuries-old manuscripts?\
+>The hunger for magic is a pang we know well — to feed it, we gather knowledge, preserve it, share it, and when necessary, hunt for it. Shall I tell you of my own satiation? Of the long nights spent in private libraries, alarms silenced by [[Arcanum|Arcana]], perusing centuries-old manuscripts?\
 >Or maybe you’d rather hear about the wards around South American pyramids, the ones the tourists don’t get to see. I’ve fought [[Seers of the Throne|Seers]] in customs warehouses, gleaned truths from the tongues of spirits and angels, traded with charlatans for the slivers of true magic they possess. 
 >
 >Understanding and experience are marks of value. Ignorance and deception are tools of the wicked. Knowledge isn’t power, knowledge is everything — and that’s true beyond the tautological appeal. The secrets of magic are hidden in the dark places of the world.\

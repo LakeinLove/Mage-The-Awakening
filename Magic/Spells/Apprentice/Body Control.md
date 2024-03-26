@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Life]]\
-Practice: Ruling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Medicine, Survival
 

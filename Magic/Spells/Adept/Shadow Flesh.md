@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Death]]\
-Practice: Patterning\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Withstand: Stamina\
 Suggested Rote Skills: Occult, Medicine, Subterfuge

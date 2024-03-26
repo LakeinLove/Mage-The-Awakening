@@ -76,10 +76,10 @@ An environment has to link to the spell itself, not just the mage. The Obrimos i
 #### Supernal Verges
 
 In places where the Supernal touches the Fallen World, willworkers find it much easier to draw power through an Imago.\
-Such places are natural Yantras, lending their power to those within. Each Supernal Verge teems with the power of one of the Supernal Realms, and lends its power to the Ruling Arcana of that Realm.
+Such places are natural Yantras, lending their power to those within. Each Supernal Verge teems with the power of one of the Supernal Realms, and lends its power to the Ruling [[Arcanum|Arcana]] of that Realm.
 
-Supernal Verges are thus as valuable for their versatility as their power. In a Pandemonic Verge, any spells that use the Mind or Space Arcana can draw upon the Verge’s power, be that a long ritual to superimpose two locations or a simple spell to fuddle an opponent’s senses.\
-A mage in the appropriate Supernal Verge can use his mystic connection to the Watchtower to use it as a Yantra on any ritual spell that doesn’t involve the Path’s Inferior Arcanum but does use one of the Ruling Arcana.
+Supernal Verges are thus as valuable for their versatility as their power. In a Pandemonic Verge, any spells that use the [[Mind]] or [[Space]] [[Arcanum|Arcana]] can draw upon the Verge’s power, be that a long ritual to superimpose two locations or a simple spell to fuddle an opponent’s senses.\
+A mage in the appropriate Supernal Verge can use his mystic connection to the Watchtower to use it as a Yantra on any ritual spell that doesn’t involve the Path’s Inferior [[Arcanum]] but does use one of the Ruling [[Arcanum|Arcana]].
 
 **Effect:** Verges provide a 2-die bonus. (See [[Supernal Verge]] for more info)
 
@@ -174,7 +174,7 @@ While every Libertine may use complex mechanisms and systems as Order Tools, the
 
 Rather than defining the “what” of a spell, sympathetic tools define the “who” — the person, place, creature, or institution upon which the mage forces her will.\
 She may have a person’s Sympathetic Name or a lock of his hair, a ghost’s Anchor, a chunk of concrete taken from a building, or a company’s articles of incorporation.\
-Whatever the case, the Yantra represents the subject of the spell, allowing the mage to build it into the Imago or access an Attainment to use her own sympathetic connection to the subject in order to cast across Space or Time.
+Whatever the case, the Yantra represents the subject of the spell, allowing the mage to build it into the Imago or access an Attainment to use her own sympathetic connection to the subject in order to cast across [[Space]] or [[Time]].
 - Material sympathy represents the subject as he is now, or at the time the mage wants to affect him. It could be a piece of the target’s physical substance, or a recent photograph or recording; an item the subject created within a month is also acceptable.
 - Representational sympathy is something that represents the subject though she has changed since — an old lock of hair or photo of the subject as a child, for example.
 - Symbolic sympathy includes indirect representations of the subject — a person’s Sympathetic Name, drawings, caricatures, or posed and costumed photographs.

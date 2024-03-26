@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Fate]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Politics, Investigation
 

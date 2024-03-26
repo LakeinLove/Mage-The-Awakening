@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Compelling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Larceny, Politics, Subterfuge
 

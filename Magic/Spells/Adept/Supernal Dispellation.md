@@ -5,10 +5,10 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
-Withstand: Arcanum rating of the subject spell's caster\
+Withstand: [[Arcanum]] rating of the subject spell's caster\
 Suggested Rote Skills: Athletics, Intimidation, Occult
 
 ---

@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Expression, Firearms, Medicine
 

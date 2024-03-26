@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Fate]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Withstand: Subject effect's Potency\
 Suggested Rote Skills: Academics, Empathy, Survival

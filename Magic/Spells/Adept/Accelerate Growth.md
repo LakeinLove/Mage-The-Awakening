@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Life]]\
-Practice: Patterning\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Withstand: Stamina\
 Suggested Rote Skills: Animal Ken, Medicine, Science

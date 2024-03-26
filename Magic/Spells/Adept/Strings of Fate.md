@@ -5,15 +5,15 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Fate]]\
-Practice: Patterning\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Withstand: Resolve\
 Suggested Rote Skills: Academics, Persuasion, Stealth
 
 ---
 
-_The roads of destiny fork and converge, governing the probability of events. An adept of Fate can re-weave the strings of Fate on a subject, encouraging (if not ensuring) that a specified event will happen as long as the spell remains active._
+_The roads of destiny fork and converge, governing the probability of events. An adept of [[Fate]] can re-weave the strings of [[Fate]] on a subject, encouraging (if not ensuring) that a specified event will happen as long as the spell remains active._
 
 ---
 

@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Death]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Withstand: Rank\
 Suggested Rote Skills: Persuasion, Socialize, Occult

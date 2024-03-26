@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Making\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Expression, Occult
 

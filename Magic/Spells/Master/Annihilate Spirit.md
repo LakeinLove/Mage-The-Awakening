@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Rank\
 Suggested Rote Skills: Intimidation, Science, Weaponry

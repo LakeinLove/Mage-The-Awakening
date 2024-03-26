@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Time]]\
-Practice: Compelling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Computer, Larceny, Subterfuge
 

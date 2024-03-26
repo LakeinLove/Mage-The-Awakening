@@ -86,6 +86,6 @@ Forces is rarely subtle, but clever wizards find ways to use it so: hearing a so
 
 ## Related
 
-- Gross Arcanum of [[Aether]]
-- Ruling Arcana for the [[Obrimos]] path
-- The [[Transform Energy Table]] is an often useful tool for the Forces Arcanum
+- Gross [[Arcanum]] of [[Aether]]
+- Ruling [[Arcanum|Arcana]] for the [[Obrimos]] path
+- The [[Transform Energy Table]] is an often useful tool for the Forces [[Arcanum]]

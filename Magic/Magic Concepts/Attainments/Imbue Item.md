@@ -23,10 +23,10 @@ By spending Mana equal to the item’s rating, a mage can destroy an imbued item
 
 ### Creation
 
-The player must spend Mana equal to the rating of all Arcana used in the spell.
+The player must spend Mana equal to the rating of all [[Arcanum|Arcana]] used in the spell.
 
-**Dice Pool:** Gnosis + Prime\
-**Action:** Extended (required successes = (Arcana dots in all imbued spells) x 2, one hour per roll)\
+**Dice Pool:** Gnosis + [[Prime]]\
+**Action:** Extended (required successes = ([[Arcanum|Arcana]] dots in all imbued spells) x 2, one hour per roll)\
 **Cost:** See above
 
 ### Roll Results
@@ -53,4 +53,4 @@ The caster decides whether the spell imbued into the item is persistent (always 
 
 The item gains the ability to hold a single point of Mana, but the creator can give the item extra capacity by adding successes to the total required, each extra success adding two Mana.
 
-The imbuing mage can spend Mana to fill the object’s reserve, but this Mana is on top of any required to imbue the object. A mage with the Prime 3 spell Channel Mana can fill the item later
+The imbuing mage can spend Mana to fill the object’s reserve, but this Mana is on top of any required to imbue the object. A mage with the [[Prime]] 3 spell Channel Mana can fill the item later

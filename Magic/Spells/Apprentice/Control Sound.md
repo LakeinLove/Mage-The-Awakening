@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Forces]]\
-Practice: Ruling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Expression, Stealth, Science
 
@@ -20,7 +20,7 @@ She can make a loudspeaker into a thunderous blast or a barely audible squeak. E
 
 The mage can also influence the direction of existing sounds. She can focus sound waves from across the room to hear a whispered conversation, ensure her own voice does not reach anyone but her intended target, or cause noises to emanate from nearby locations instead of their original sources. The Scale factor determines the area she can affect.
 
-Loud enough sounds can cause the Deafened Tilt in combat. By directing her sound away from a subject that might possibly notice her, the mage inflicts a penalty equal to her Arcanum dots to the subject’s Perception rolls to hear her approach.
+Loud enough sounds can cause the Deafened Tilt in combat. By directing her sound away from a subject that might possibly notice her, the mage inflicts a penalty equal to her [[Arcanum]] dots to the subject’s Perception rolls to hear her approach.
 
 - Focusing sound waves to a specific point means that anyone outside of the chosen target (as determined by the Size of Target table) cannot hear the chosen sounds.
 - Listening to sounds across an area uses the Area of Effect Scale factor, determining the distance at which the mage can listen in on something. Doing so does not rob the source of its sound. To do that requires focusing the sound completely away from the source (above).

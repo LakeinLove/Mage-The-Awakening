@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Space]]\
-Practice: Patterning\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Firearms, Persuasion
 

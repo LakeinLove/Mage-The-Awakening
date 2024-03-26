@@ -25,7 +25,7 @@ Spirits with broader portfolios are usually stronger, but this is not always the
 
 ## System
 
-The Spirit Arcanum and other rules for spirits cover the rules for dealing with the Shadow. In addition, spells that utilize the Spirit Arcanum benefit from a –2 die penalty to Paradox rolls when cast in the Shadow.
+The [[Spirit]] [[Arcanum]] and other rules for spirits cover the rules for dealing with the Shadow. In addition, spells that utilize the [[Spirit]] [[Arcanum]] benefit from a –2 die penalty to Paradox rolls when cast in the Shadow.
 
 ## The Spirit Hierarchy
 
@@ -56,4 +56,4 @@ The Rank 7+ (“King/Queen” and “Emperor/Empress”) Celestines are spirits 
 ### Choir and Court
 
 Mages divide spirits into choirs, which represent a common concept. They note choirs of flowers and flames, for instance. In as much as spirits have a society, mages call it a local court, where powerful spirits rule over lesser ones, though always beneath the greater laws of the Shadow’s ecology.\
-Mastery of Spirit gives a sorcerer the power to assume a spirit Rank and rule her own court.
+Mastery of [[Spirit]] gives a sorcerer the power to assume a spirit Rank and rule her own court.

@@ -9,7 +9,7 @@ _Supernal Entities are beings that originate and live in the Supernal Realms. Th
 
 ---
 
-The Supernal Realms and their relative Ruling Arcana describe the nature of the Supernal Beings that originate from them.
+The Supernal Realms and their relative Ruling [[Arcanum|Arcana]] describe the nature of the Supernal Beings that originate from them.
 
 They are divided into #Recondite and #Manifest beings, depending on if their [[Arcanum|Arcana]] is #Subtle or #Gross.
 

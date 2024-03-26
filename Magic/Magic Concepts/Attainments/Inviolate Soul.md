@@ -5,7 +5,7 @@ tags:
 - Adept
 ---
 
-_The soul of an Adept of Death is almost impossible to affect, let alone harm or dislodge._
+_The soul of an Adept of [[Death]] is almost impossible to affect, let alone harm or dislodge._
 
 ---
 
@@ -18,4 +18,4 @@ The mage can reflexively use this Attainment under the following circumstances:
 - Anything attempts to possess her.
 
 The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of Mana.\
-The character enters a Clash of Wills with the intruding power, using her Gnosis + Death.
+The character enters a Clash of Wills with the intruding power, using her Gnosis + [[Death]].

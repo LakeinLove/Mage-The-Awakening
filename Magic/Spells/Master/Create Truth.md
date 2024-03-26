@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Prime]]\
-Practice: Making\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Cost: 5 Mana per Potency\
 Withstand: Hallow Rating of desired Hallow\

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Forces]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Suggested Rote Skills: Intimidation, Survival, Science
 

@@ -47,9 +47,9 @@ Surface information is the basic, concrete truth of a Mystery. This information 
 
 _In general, surface information should include the following:_
 - Whether the Mystery is the result of Awakened magic.
-- If so, what Arcana were involved and the [[Signature Nimbus]] of the caster (unless it was cast using a Rote).
+- If so, what [[Arcanum|Arcana]] were involved and the [[Signature Nimbus]] of the caster (unless it was cast using a Rote).
 - Roughly how old the Mystery is (hours, days, months, years, centuries).
-- Optionally, what Practice created the Mystery (if a non-Supernal Mystery, then what Practice the Mystery most closely resembles).
+- Optionally, what [[The 13 Practices|Practice]] created the Mystery (if a non-Supernal Mystery, then what [[The 13 Practices|Practice]] the Mystery most closely resembles).
 
 ## Deep Information
 
@@ -71,4 +71,4 @@ _Deep Information may include the following:_
 - Identification of a phenomenon as being linked to one the mage has Scrutinized before.
 - If not [[Awakened]] magic, the power level of the creator relative to the mage’s [[Gnosis]] (if applicable).
 - Whether the Mystery is related to the Supernal Realms or Abyss.
-- How the Arcanum used relates to the Mystery — for example, using [[Death]] Sight to scrutinize a vampire’s ghoul will reveal Deep Information relating to the undead blood in the subject’s system, and any powers the ghoul has gained from it. Using [[Fate]] Sight to assess a changeling’s powers will reveal that they are formed by mystical bargains.
+- How the [[Arcanum]] used relates to the Mystery — for example, using [[Death]] Sight to scrutinize a vampire’s ghoul will reveal Deep Information relating to the undead blood in the subject’s system, and any powers the ghoul has gained from it. Using [[Fate]] Sight to assess a changeling’s powers will reveal that they are formed by mystical bargains.

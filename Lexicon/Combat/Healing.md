@@ -3,7 +3,7 @@ tags:
 - Combat
 ---
 
-_Characters need time to heal once they’ve been beaten to a pulp. Mages can speed healing times, and even close wounds with a single spell given enough mastery of the Arcana, but absent any supernatural effects recovery takes time._
+_Characters need time to heal once they’ve been beaten to a pulp. Mages can speed healing times, and even close wounds with a single spell given enough mastery of the [[Arcanum|Arcana]], but absent any supernatural effects recovery takes time._
 
 ---
 

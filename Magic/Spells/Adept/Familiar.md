@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Patterning\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Expression, Intimidate
 
@@ -20,4 +20,4 @@ The spirit may not be greater than Rank 2.
 
 The mage gains the Familiar Merit and the spirit the Familiar Manifestation Condition for the Duration of the spell. Both parties must be willing, and can end the bond whenever they wish.
 
-**Substitute Death •••• or [[Mind]] ••••:** The mage may bind a ghost or a Goetia as a familiar instead.
+**Substitute [[Death]] •••• or [[Mind]] ••••:** The mage may bind a ghost or a Goetia as a familiar instead.

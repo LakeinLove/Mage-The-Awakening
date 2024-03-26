@@ -22,7 +22,7 @@ Each level of this Merit allows an additional ability:
 
 ### Mysteriorum Arche (•):
 
-: In a teamwork spellcasting roll in which the character is participating, she does not suffer the –3 penalty to contribute without the necessary Arcanum rating, and adds an automatic success if a full participant.\
+: In a teamwork spellcasting roll in which the character is participating, she does not suffer the –3 penalty to contribute without the necessary [[Arcanum]] rating, and adds an automatic success if a full participant.\
 All members of the ritual team must possess this Merit.
 
 ### Mysteriorum Anima (••):
@@ -32,7 +32,7 @@ At this level, your character’s full Mysterium Status applies to all Mysterium
 ### Mysteriorum Barathrum (•••):
 
 Your character is initiated sufficiently as to be part of the knowledge base.\
-She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the Informed Condition regarding the local Mysterium’s membership, specialties, Merits, [[Obsessions]], and Arcana.
+She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the Informed Condition regarding the local Mysterium’s membership, specialties, Merits, [[Obsessions]], and [[Arcanum|Arcana]].
 
 ### Mysteriorum Calamitas (••••):
 

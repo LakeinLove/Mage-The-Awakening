@@ -7,7 +7,7 @@ _The Immediate [[Nimbus]] is a powerful aura directly surrounding the mage, wrap
 
 ---
 
-When she casts a spell, her Immediate [[Nimbus]] becomes visible to those with any active [[Mage Sight]], regardless of the Arcana she’s using to cast. The Immediate [[Nimbus]] appears based mostly on the character’s [[Path]]. It’s a force, a halo of raw creation stuff. Sometimes, this is visible — sometimes it’s a sensation, a smell, or a muddy, primal emotion. 
+When she casts a spell, her Immediate [[Nimbus]] becomes visible to those with any active [[Mage Sight]], regardless of the [[Arcanum|Arcana]] she’s using to cast. The Immediate [[Nimbus]] appears based mostly on the character’s [[Path]]. It’s a force, a halo of raw creation stuff. Sometimes, this is visible — sometimes it’s a sensation, a smell, or a muddy, primal emotion. 
 
 Here are a handful of examples:\
 For [[Thyrsus]], this might look like a mist of blood, or might cause a deep rutting instinct.\
@@ -23,4 +23,3 @@ In this case, roll the character’s [[Gnosis]] and use successes as the [[Nimbu
 Compare the [[Nimbus]] strength to any witness’s [[Resolve]]. If a character’s [[Resolve]] is equal to or lower than the [[Nimbus]] strength, the [[Tilt]] takes effect. If for whatever reason a character is aware of the effects, she can willingly submit to the [[Tilt]] regardless of her [[Resolve]]. 
 
 Mages can pit their own [[Nimbus]] against the aura as per the [[Interactions with Other Auras]] rules. While characters without [[Mage Sight]] cannot see the aura, the subtle cues still affect them with the [[Tilt]]. This is almost always imperceptible, but some particularly clued-in witnesses may note when something’s awry.
-

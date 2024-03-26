@@ -16,7 +16,7 @@ Irises arise spontaneously, or in response to some epic event. Potent spells (�
 ## System
 
 Passing through an Iris from the material side brings a traveller to the connected realm as long as she utilizes the Iris’ [[Keys]].\
-Irises formed by phenomena other than Awakened spells possess Keys related to the manner of their creation. One need only burn a picture of the evil man who died there, walk widdershins around the boundary stones, or do whatever else is necessary.
+Irises formed by phenomena other than Awakened spells possess [[Keys]] related to the manner of their creation. One need only burn a picture of the evil man who died there, walk widdershins around the boundary stones, or do whatever else is necessary.
 
 The following Irises have been catalogued by the Awakened.
 
@@ -33,7 +33,7 @@ Natural examples occur in every graveyard and cemetery in the world, and many St
 
 ### Distortions
 
-These Irises offer travel from one place on Earth to another without crossing the distance between them, or to a pocket dimension. Mages create them with fifth-dot Space spells such as Pocket Dimension and potent variations of Teleportation, but many are naturally-occurring.
+These Irises offer travel from one place on Earth to another without crossing the distance between them, or to a pocket dimension. Mages create them with fifth-dot [[Space]] spells such as Pocket Dimension and potent variations of Teleportation, but many are naturally-occurring.
 
 ### Shadowed Doors
 
@@ -48,11 +48,11 @@ No spell can create a Scar into the Lower Depths, because it’s a place where r
 
 This Iris has an informal name because it describes a poorly understood phenomenon: gates leading to Wendings, the realms made of archmages’ manifested souls.
 
-All known Soul Eyes enter abandoned Wendings (as opposed to the “Golden Roads” of an archmage’s active presence) but most still retain complex Keys and potent defensive spells. Wendings that don’t allow physical journeys place visitors in a trance state, just as for Astral Synesi.
+All known Soul Eyes enter abandoned Wendings (as opposed to the “Golden Roads” of an archmage’s active presence) but most still retain complex [[Keys]] and potent defensive spells. Wendings that don’t allow physical journeys place visitors in a trance state, just as for Astral Synesi.
 
 ### Synesi
 
-These Irises provide direct access to an Astral Realm. Synesi allow anyone with the Key or another means of entrance to enter the linked realm while sleeping or meditating. Travelers don’t physically enter the Astral through a Synese, but enter the usual trance state for Astral journeys. Instead of going to a personal dream, they immediately arrive at the Iris’ destination in dream form.
+These Irises provide direct access to an Astral Realm. Synesi allow anyone with the [[Keys|Key]] or another means of entrance to enter the linked realm while sleeping or meditating. Travelers don’t physically enter the Astral through a Synese, but enter the usual trance state for Astral journeys. Instead of going to a personal dream, they immediately arrive at the Iris’ destination in dream form.
 
 ### Thurae
 

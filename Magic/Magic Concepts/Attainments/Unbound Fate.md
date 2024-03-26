@@ -18,4 +18,4 @@ The mage can reflexively use this Attainment under the following circumstances:
 
 The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of Mana.
 
-The character enters a Clash of Wills with the intruding power, using her Gnosis + Fate.
+The character enters a Clash of Wills with the intruding power, using her Gnosis + [[Fate]].

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Matter]]\
-Practice: Making\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Medicine, Occult
 

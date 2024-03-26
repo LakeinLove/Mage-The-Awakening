@@ -7,9 +7,9 @@ tags:
   - Shielding
 ---
 
-_Shielding spells, sometimes called Warding spells, offer protection against phenomena under the Arcanum’s purview. A Shielding spell might protect against a ghost’s Numina ([[Death]]), make the mage immune to fire ([[Forces]]) or disease ([[Life]]), or allow her to survive in a caustic atmosphere ([[Matter]])._
+_Shielding spells, sometimes called Warding spells, offer protection against phenomena under the [[Arcanum]]’s purview. A Shielding spell might protect against a ghost’s Numina ([[Death]]), make the mage immune to fire ([[Forces]]) or disease ([[Life]]), or allow her to survive in a caustic atmosphere ([[Matter]])._
 
-Mages protect themselves from general harm through the power of their Arcana with the [[Mage Armour]] Attainment rather than Shielding spells.
+Mages protect themselves from general harm through the power of their [[Arcanum|Arcana]] with the [[Mage Armour]] Attainment rather than Shielding spells.
 
 ---
 

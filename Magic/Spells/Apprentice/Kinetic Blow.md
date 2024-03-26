@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Forces]]\
-Practice: Ruling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Brawl, Science
 

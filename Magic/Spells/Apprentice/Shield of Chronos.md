@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Time]]\
-Practice: Veiling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Stealth, Subterfuge
 

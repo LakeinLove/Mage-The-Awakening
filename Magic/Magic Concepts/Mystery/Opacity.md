@@ -23,7 +23,7 @@ This leads nicely into...
 
 ### Complexity increases Opacity
 
-A spell that involves five different Arcana all at one dot would certainly have a supernal lore higher Opacity than a single-[[Arcanum]] spell. Increase Opacity by one per extra [[Arcanum]] used.
+A spell that involves five different [[Arcanum|Arcana]] all at one dot would certainly have a supernal lore higher Opacity than a single-[[Arcanum]] spell. Increase Opacity by one per extra [[Arcanum]] used.
 
 ### Remember the Math
 

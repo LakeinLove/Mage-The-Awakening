@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Prime]]\
-Practice: Making\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Potency\
 Cost: 1+ Mana\
 Suggested Rote Skills: Academics, Crafts, Occult

@@ -24,8 +24,8 @@ Certain Old Laws constrain native and visitor alike. An Old Law may make speech 
 
 ## System
 
-The Death Arcanum and rules for ghosts cover the relevant systems for dealing with the Underworld.\
-In the Underworld, spells that use the Death Arcanum benefit from a –2 die penalty to Paradox rolls. Finally, the Underworld has a curious effect on the psyches of the living: Their Virtues and Vices are reversed, such that fulfilling the Vice provides a full Willpower refresh while fulfilling the Virtue grants only a single point.
+The [[Death]] [[Arcanum]] and rules for ghosts cover the relevant systems for dealing with the Underworld.\
+In the Underworld, spells that use the [[Death]] [[Arcanum]] benefit from a –2 die penalty to Paradox rolls. Finally, the Underworld has a curious effect on the psyches of the living: Their Virtues and Vices are reversed, such that fulfilling the Vice provides a full Willpower refresh while fulfilling the Virtue grants only a single point.
 
 Chthonians use the same rules as ghosts, but don’t possess Anchors or an Integrity trait and may be any Size and appearance. They usually have disgusting, unsettling appearances, merging vaguely human characteristics with other traits like maggot-like bodies or insectile legs.
 

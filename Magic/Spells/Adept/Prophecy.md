@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Time]]\
-Practice: Patterning\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Expression, Investigation
 

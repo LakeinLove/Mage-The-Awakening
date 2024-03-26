@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Space]]\
-Practice: Fraying\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Fraying\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Firearms, Science
 

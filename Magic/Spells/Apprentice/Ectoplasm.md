@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Death]]\
-Practice: Ruling\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Expression, Academics
 

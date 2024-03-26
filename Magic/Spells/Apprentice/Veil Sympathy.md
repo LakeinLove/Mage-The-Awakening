@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Space]]\
-Practice: Veiling\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Withstand: [[Sympathy]] (Connection)\
 Suggested Rote Skills: Politics, Subterfuge, Survival

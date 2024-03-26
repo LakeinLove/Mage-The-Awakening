@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Time]]\
-Practice: Knowing\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Empathy, Investigation
 

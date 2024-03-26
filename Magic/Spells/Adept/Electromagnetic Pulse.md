@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Forces]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Computers, Science
 

@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Patterning\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Withstand: Rank\
 Suggested Rote Skills: Crafts, Medicine, Persuasion
@@ -20,7 +20,7 @@ _When no tool is ready to hand, the shaman shapes one from what is available._
 This spell allows the mage to reshape a spirit’s fundamental nature.\
 She may invoke a number of the following effects equal to the spell’s Potency:
 - Change the spirit’s fundamental nature; for example, making a mouse spirit into a spirit of bad luck and mischief.
-- Redistribute the spirit’s Attribute dots.
+- Redistribute the spirit’s [[Attribute]] dots.
 - Heal one box of lethal damage from the spirit’s Corpus.
 - Redefine and redistribute the spirit’s Influences.
 - Add, remove, or replace one Manifestation.

@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Life]]\
-Practice: Veiling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Withstand: Stamina\
 Suggested Rote Skills: Medicine, Stealth, Subterfuge
@@ -24,6 +24,6 @@ If someone were to compare the masked and regular appearances side by side, they
 
 Some biometric devices, such as fingerprint scanners, will still detect the difference. She cannot mimic specific people with this basic spell.
 
-The changes brought on by this spell are illusionary, and some supernatural powers (including Life Mage Sight) may see through them with a successful Clash of Wills.
+The changes brought on by this spell are illusionary, and some supernatural powers (including [[Life]] Mage Sight) may see through them with a successful Clash of Wills.
 
 **+2 Reach:** The mage can duplicate the appearance of a specific person, including scars and fingerprints.

@@ -92,5 +92,5 @@ She can bolster a soul, restore pleasure to a ghost, and reverse the effects of 
 ---
 
 ## Related
-- Subtle Arcanum of [[Stygia]]
-- Ruling Arcanum of the [[Moros]] path
+- Subtle [[Arcanum]] of [[Stygia]]
+- Ruling [[Arcanum]] of the [[Moros]] path

@@ -7,7 +7,7 @@ _She called it an interrogation but never asked you a thing, though she spoke as
 
 ---
 
-The Eleventh Question credits a 19th century Mystagogue named Lucy Caspian with the core of its philosophy. She said that every Arcanum answered an eternal question so that, for example, Mind revealed the nature of identity and thought, and Matter showed Awakened the truths of tangible, inert phenomena. Yet these were always incomplete answers, and the full Mystery of sorcery, even Ascension, required an Eleventh Question, beyond the domain of the Arcana.
+The Eleventh Question credits a 19th century Mystagogue named Lucy Caspian with the core of its philosophy. She said that every [[Arcanum]] answered an eternal question so that, for example, [[Mind]] revealed the nature of identity and thought, and [[Matter]] showed Awakened the truths of tangible, inert phenomena. Yet these were always incomplete answers, and the full Mystery of sorcery, even Ascension, required an Eleventh Question, beyond the domain of the [[Arcanum|Arcana]].
 
 While investigating a haunted estate, ghosts possessed members of Caspian’s cabal and used the victims’ own magic to not only kill each other, but cover it up as an apparent murder-suicide. A Guardian hermit named Sullivan helped Caspian’s protégé Jeremiah Moon uncover the truth, clearing the names of the deceased.\
 Combining Sullivan’s Guardian training with the philosophy Moon had learned under Caspian, the two founded the Eleventh Question and became nomadic consulting investigators. After Moon perished in their last “case,” Sullivan passed the Legacy to three Guardians before vanishing.
@@ -69,7 +69,7 @@ The Querent also may engage [[Active Mage Sight]] ([[Matter]]) upon arrival. If 
 **Prerequisites:** [[Time]] 2, [[Investigation]] 3
 
 Studying a person, place, or thing for a turn, the Querent peers into her subject’s recent past. She picks up this information by examining her target’s subtlest behaviours and sensory cues.\
-This duplicates the effects of the “[[Postcognition]]” spell with Potency equal to the Querent’s Time dots and has assigned Reach to instant use and sensory range.
+This duplicates the effects of the “[[Postcognition]]” spell with Potency equal to the Querent’s [[Time]] dots and has assigned Reach to instant use and sensory range.
 
 **Optional:** [[Matter]] 2
 
@@ -97,11 +97,11 @@ By building a profile of known data about a subject for a full scene, whether on
 
 **Optional:** [[Matter]] 4
 
-The Querent no longer requires a sympathy Yantra for a subject she wishes to affect with sympathetic spells. Time and Matter conspire to create one for her. Impressions from the past or emanations from the future shape present matter into a representational sympathy Yantra. This usually takes the form of a lucky find during an investigation.
+The Querent no longer requires a sympathy Yantra for a subject she wishes to affect with sympathetic spells. [[Time]] and [[Matter]] conspire to create one for her. Impressions from the past or emanations from the future shape present matter into a representational sympathy Yantra. This usually takes the form of a lucky find during an investigation.
 
 ### Fifth: The Penultimate Answer
 
-**Prerequisites:** Time 5.\
+**Prerequisites:** [[Time]] 5.\
 In addition to the [[Investigation]] 4 requirement from the previous Attainment, the Querent must increase the other Skill she used to meet the requirements of the Legacy to 4, or must attain three dots in a second Skill from the list of possible requirements, or two dots in a third Skill from the list.
 
 After a scene of meditation, the Querent projects her consciousness into the future, where she inhabits her own body and makes decisions as its ruling consciousness. The mage can project herself up to a year into the future.
@@ -114,4 +114,4 @@ The Querent may repeatedly visit the same future scene, but later visits (from t
 
 **Optional:** [[Matter]] 5.
 
-When the future she experiences comes due, the Querent may add or delete material objects (as per the spells “[[Ex Nihilo]]” or “[[Annihilate Matter]]” with combined factors equal to the lesser of the mage’s Time or Matter dots) from her person, or within sensory range. Instead of drowning, she happens to have a rebreather in her coat, or her enemy forgot his rifle’s ammunition. This cannot be used to create or delete magical items.
+When the future she experiences comes due, the Querent may add or delete material objects (as per the spells “[[Ex Nihilo]]” or “[[Annihilate Matter]]” with combined factors equal to the lesser of the mage’s [[Time]] or [[Matter]] dots) from her person, or within sensory range. Instead of drowning, she happens to have a rebreather in her coat, or her enemy forgot his rifle’s ammunition. This cannot be used to create or delete magical items.

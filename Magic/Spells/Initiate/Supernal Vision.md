@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Occult, Survival
 
@@ -19,9 +19,9 @@ _By opening her subject’s third eye, the mage reveals her fellows as the wells
 By studying a person, place, or location for one turn, the subject automatically knows whether it is connected to the Supernal (e.g. if a person is a mage, a Sleepwalker, a Proximus, or a Sleeper; if a place is a Demesne or Verge; if an object is Imbued, Enhanced, or an [[Artifact]]), and may ask a number of the following questions equal to the spell’s Potency:
 - How much Mana does the target have in her Pattern?
 - To which Supernal World is the target most closely aligned?
-- What is the target’s highest-rated Arcanum? (Subsequent asking of this question reveals the target’s second, third, etc. highest Arcana.)
-- How adept is the target at their highest-rated Arcanum?
-- How many Arcana does the subject know?
+- What is the target’s highest-rated [[Arcanum]]? (Subsequent asking of this question reveals the target’s second, third, etc. highest [[Arcanum|Arcana]].)
+- How adept is the target at their highest-rated [[Arcanum]]?
+- How many [[Arcanum|Arcana]] does the subject know?
 - What is the target’s Nimbus?
 - What is the target’s Gnosis?
 

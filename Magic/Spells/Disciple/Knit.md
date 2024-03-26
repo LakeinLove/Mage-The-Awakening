@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Life]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Potency\
 Suggested Rote Skills: Empathy, Medicine, Survival
 

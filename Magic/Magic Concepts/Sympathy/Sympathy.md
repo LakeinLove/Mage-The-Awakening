@@ -18,11 +18,11 @@ Sympathy is tied to both [[Shadow Name|Shadow Names]] and [[Sympathetic Name|Sym
 
 Naturally-occurring links are sometimes permanent, but just as often fade over time: a brief but passionate love affair’s link might fade within a few weeks of the breakup, while a murder weapon retains links to both killer and victim for years.
 
-Sympathetic links manipulated with the [[Space]] Arcanum echo from the Supernal to the Fallen, wreaking subtle but long-standing changes in the subjects.\
+Sympathetic links manipulated with the [[Space]] [[Arcanum]] echo from the Supernal to the Fallen, wreaking subtle but long-standing changes in the subjects.\
 Sever a man’s link to his husband and the relationship cools and grows distant.\
 Create a bond between a woman and a gun, and she’ll find herself thinking about it, dreaming about it — and left to their own devices odds are good woman and gun will cross paths.
 
-This isn’t precisely mind control, or even an expression of Fate magic: all [[Space]] can do is manipulate the connections, not control reactions or guarantee outcomes.\
+This isn’t precisely mind control, or even an expression of [[Fate]] magic: all [[Space]] can do is manipulate the connections, not control reactions or guarantee outcomes.\
 Maybe the chilled couple seeks counselling and repairs their relationship.\
 Maybe the woman tells herself she’s being crazy and deliberately ignores thoughts of firearms.
 

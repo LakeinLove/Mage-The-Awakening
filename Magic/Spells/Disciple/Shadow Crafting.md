@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Death]]\
-Practice: Weaving\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Intimidation, Academics, Occult
 

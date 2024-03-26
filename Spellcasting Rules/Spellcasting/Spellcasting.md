@@ -24,10 +24,10 @@ Having a concrete idea for what the magic will do will facilitate everything aft
 
 ### Step Two: Arcanum and Practice
 
-Using the descriptions of the ten [[Arcanum|Arcana]] and the 13 [[The 13 Practices|Practices]] determine which Arcanum and which practice the spell falls under.\
+Using the descriptions of the ten [[Arcanum|Arcana]] and the 13 [[The 13 Practices|Practices]] determine which [[Arcanum]] and which practice the spell falls under.\
 Depending on the intent of the spell, this might be obvious, or there might be several ways you could go about accomplishing your intent. 
 
-Don’t worry about whether the effect seems “too powerful” for its dot level or “unbalanced” compared to a similar effect under a different Arcanum; part of the fun of playing Mage is coming up with clever, unexpectedly-useful applications of magic.
+Don’t worry about whether the effect seems “too powerful” for its dot level or “unbalanced” compared to a similar effect under a different [[Arcanum]]; part of the fun of playing Mage is coming up with clever, unexpectedly-useful applications of magic.
 
 ### Step 3: Determine Effect and Cost
 
@@ -40,7 +40,7 @@ If she is interrupted or changes her mind part-way through, Mana spent is still 
 #### Damage
 
 A spell can deal damage directly, as in the case of a thunderbolt or an enervating touch, or indirectly, as in the case of rotting out a support beam to drop a house on someone.
-- Direct damage spells can use many Practices depending on Arcanum, but always inflict damage equal to Potency.
+- Direct damage spells can use many [[The 13 Practices|Practices]] depending on [[Arcanum]], but always inflict damage equal to Potency.
 - ••• spells inflict bashing damage, while •••• spells inflict lethal damage.
 - A lethal damage spell may be upgraded to aggravated damage for the cost of a point of Mana and one Reach.
 
@@ -57,7 +57,7 @@ Healing spells are usually Perfecting (•••) or Patterning (••••) s
 #### Conditions and Tilts
 
 Conditions are an excellent source of inspiration for long-lasting spells.\
-Because the effects of Conditions and Tilts are so broad, it’s difficult to assign hard-and-fast rules for Practices that inflict them. Use the Practice descriptions and the following list as a guideline:
+Because the effects of Conditions and Tilts are so broad, it’s difficult to assign hard-and-fast rules for [[The 13 Practices|Practices]] that inflict them. Use the [[The 13 Practices|Practice]] descriptions and the following list as a guideline:
 - Compelling (•) spells can’t create Conditions out of whole cloth, but can intensify phenomena that already exist to inflict Conditions. A Compelling spell can make someone who’s already nervous Spooked, for example, but can’t make someone who’s uninterested in the mage romantically Swooning.
 - Ruling (••) spells can create most non-Persistent, mundane Conditions. Supernatural Conditions, such as the Soulless Condition and its sequelae or Manifestation Conditions, generally require a Weaving (•••) spell.
 - Creating a Persistent Condition is almost always a Patterning (••••) or Unravelling (••••) effect.
@@ -71,11 +71,11 @@ Removing a condition with magic is always at least a Ruling (••) spell, but 
 
 #### Bonuses and Penalties
 
-Spells that grant bonus dots to traits can belong to nearly any Practice, depending on what the Trait represents.\
+Spells that grant bonus dots to traits can belong to nearly any [[The 13 Practices|Practice]], depending on what the Trait represents.\
 Obvious examples include Perfecting for directly increasing the Attributes and Skills of a target, but a Ruling spell to make a corpse rise up and serve you can be modelled as a spell that grants you Retainer dots.
 - Increasing a Merit is typically a Ruling (••) spell. Attributes and Skills can be increased by a Perfecting (•••) spell. Gaining a Skill that has no dots is a Patterning (••••) spell.
 - Spells that grant or increase equipment bonuses count as Trait bonuses. This also applies to spells that simply increase a dice pool.
-- A spell can grant a total number of Trait dots equal to its Potency. Advantages, such as Gnosis or a vampire’s Blood Potency, cannot be granted by spells, nor can supernatural abilities like Arcana or Disciplines.
+- A spell can grant a total number of Trait dots equal to its Potency. Advantages, such as Gnosis or a vampire’s Blood Potency, cannot be granted by spells, nor can supernatural abilities like [[Arcanum|Arcana]] or Disciplines.
 - Any spell that increases a Trait beyond the target’s natural maximum costs a point of Mana. Remember that high-Gnosis mages and other supernatural creatures may have Trait maximums higher than 5. The “Trait maximum” for an equipment bonus is always +5.
 - Trait dots granted by magic last only as long as the spell’s Duration, and are not subject to the Sanctity of Merits rule.
 
@@ -87,7 +87,7 @@ Obvious examples include Perfecting for directly increasing the Attributes and S
 
 #### Protection
 
-Most commonly with the Practice of Shielding (••), a spell may grant protection from forces under the Arcanum’s purview.\
+Most commonly with the [[The 13 Practices|Practice]] of Shielding (••), a spell may grant protection from forces under the [[Arcanum]]’s purview.\
 These spells usually provide blanket immunity to natural or mundane phenomena, while protecting against a number of supernatural attacks equal to the spell’s Potency. Such attacks must win a Clash of Wills to affect the target.
 
 #### Hiding

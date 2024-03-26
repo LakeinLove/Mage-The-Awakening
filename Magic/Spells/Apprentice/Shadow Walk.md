@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Veiling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Stealth, Streetwise
 

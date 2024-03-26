@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Matter]]\
-Practice: Ruling\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Persuasion, Science
 

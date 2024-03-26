@@ -16,7 +16,7 @@ Making the coin hover and spin in mid-air, making the worker walk into her boss�
 
 ## In Game:
 
-Overall, spells of the Practice of Compelling are the most surreptitious of the magics used to directly affect the world, interacting with its people, places and things through the use of the [[Arcanum|Arcana]] alone.
+Overall, spells of the [[The 13 Practices|Practice]] of Compelling are the most surreptitious of the magics used to directly affect the world, interacting with its people, places and things through the use of the [[Arcanum|Arcana]] alone.
 Compelling spells might grant a bonus to the mage properly exploiting the spell’s results, but such magics don’t usually create the circumstances under which the bonus would come into play. Think of it more like making temporary magical equipment: the willworker still has to set up the situation so as to make use of the bonus.
 
 Even as mages grow in power and experience, the Practice of Compelling remains an eminently useful one. You never know when you’ll need to adjust circumstances just a little bit. Even the most skillful master can find a reason to change this detail or that one every so often. 

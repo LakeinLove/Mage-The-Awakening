@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Time]]\
-Practice: Fraying\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Occult, Survival
 

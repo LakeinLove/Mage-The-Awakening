@@ -6,8 +6,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Fraying or Perfecting\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Fraying or Perfecting\
 Primary Factor: Potency\
 Withstand: Gauntlet Strength\
 Suggested Rote Skills: Academics, Expression, Survival

@@ -11,7 +11,7 @@ _The subtle Arcanum of Pandemonium, Mind is concerned with the collective consci
 
 ## General Description
 
-The Arcanum encompasses all mental realms from simple concepts and emotions, to complex communications and higher states of mental awareness. Initiates of the Mind tend to explore social interactions and the core concepts that make up language, communication, and shared experiences.\
+The [[Arcanum]] encompasses all mental realms from simple concepts and emotions, to complex communications and higher states of mental awareness. Initiates of the Mind tend to explore social interactions and the core concepts that make up language, communication, and shared experiences.\
 Those who explore its depths further find themselves embroiled in a dichotomy of introspection and social extroversion centred on the need to examine all aspects of the mind’s capacity for emotion, thought, and aspirations.
 
 Other mages tend to enjoy the Mind mage’s company insofar as she retains her grounding. Many an unwary mage has found himself pulled into conversations far too cerebral and esoteric for his liking without even knowing how he ended up there.
@@ -87,5 +87,5 @@ Other mages tend to enjoy the Mind mage’s company insofar as she retains her g
 
 ## Related
 
-- Subtle Arcanum of [[Pandemonium]]
-- Ruling Arcana for the [[Mastigos]] path
+- Subtle [[Arcanum]] of [[Pandemonium]]
+- Ruling [[Arcanum|Arcana]] for the [[Mastigos]] path

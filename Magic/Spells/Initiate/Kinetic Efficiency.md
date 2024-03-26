@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Forces]]\
-Practice: Compelling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Survival, Athletics, Science
 
@@ -20,4 +20,4 @@ This spell allows the subject to run a little faster, jump a little further, or 
 
 This has the following benefits:
 - The subject gains a bonus on rolls to resist fatigue equal to Potency. Actions are less strenuous when moving so efficiently
-- Add the caster’s Forces dots to the total distance covered on a jump, to the subject’s swimming and running [[Speed]], and to any climbing rolls.
+- Add the caster’s [[Forces]] dots to the total distance covered on a jump, to the subject’s swimming and running [[Speed]], and to any climbing rolls.

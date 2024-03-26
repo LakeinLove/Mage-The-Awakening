@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Practices
-  - The Practices
+- Practice
+- Practices
+- The Practices
 tags:
   - Practice
 ---

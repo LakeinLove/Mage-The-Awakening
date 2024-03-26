@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Fate]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Cost: 1 Mana\
 Suggested Rote Skills: Athletics, Crafts, Occult

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Mind]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Resolve\
 Suggested Rote Skills: Academics, Intimidation, Occult

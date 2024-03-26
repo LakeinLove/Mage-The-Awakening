@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Matter]]\
-Practice: Knowing\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Knowing\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Investigation, Science
 

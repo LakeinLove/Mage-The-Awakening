@@ -54,7 +54,7 @@ Eyes high in orbit can see every inch of the globe, and the Ministry spends a gr
 
 ### Paternoster
 
-_Servants of the Ministry_\
+_Servants of the Father_\
 **Faith is an unbreakable chain.**\
 Resplendent in ceremony and encouraged by the soft certitude of cultured piety, those of the Ministry of Paternoster style themselves priests of the Father, Exarch of control through faith and religion. Champions of all zealotry, the Ministry reinforces dogma and fear while quashing the positive aspects of religion. The Ministries scour Sleeper religions for hints of Supernal insight, that they can be grounded and guttered to promote the pure Exarchal religion.
 

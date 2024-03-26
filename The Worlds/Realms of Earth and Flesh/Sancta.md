@@ -15,7 +15,7 @@ Sancta include the following places:
 - **Athenaea and Lore-houses:** The Free Council and Mysterium both build communal sancta for their members. For Mystagogues, Athenaeum access depends on a member’s degree of initiation. Some archives might be guarded against all but the most trusted officers of the mystery cult. The Free Council allows any member in good standing to visit a Lore-house.
 - **Consilium and Caucus Sancta:** Many Consilia maintain sancta for occasions when the Consilium’s officials need to cast spells or provide ritual space for important visitors. Well-organized Caucuses build them for member use. In both cases they double as meeting places.
 - **Personal Sancta:** Most sancta are modest personal spaces, highly tailored to the mages who build them.
-- **Seer Nexuses:** Seers of the Throne build communal sancta to satisfy specific needs. The sect’s selfish focus means these are typically spartan places with just enough rooms and ritual design to support ritual casting, as no Seer wants to sacrifice too much of his own resources to keep it running. The most common Nexuses support Space spells for communication and transport.
+- **Seer Nexuses:** Seers of the Throne build communal sancta to satisfy specific needs. The sect’s selfish focus means these are typically spartan places with just enough rooms and ritual design to support ritual casting, as no Seer wants to sacrifice too much of his own resources to keep it running. The most common Nexuses support [[Space]] spells for communication and transport.
 
 ## System
 

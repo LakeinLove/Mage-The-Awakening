@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Mind]]\
-Practice: Ruling\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Withstand: Composure\
 Suggested Rote Skills: Empathy, Medicine, Persuasion

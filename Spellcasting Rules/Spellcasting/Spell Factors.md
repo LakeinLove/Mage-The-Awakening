@@ -14,8 +14,8 @@ The elements of a spell — the size or number of subjects — are called spell 
 
 A mage can increase her spell’s various factors, though she does so at the cost of dice penalties. She can change a spell factor’s chart from Standard to Advanced with a Reach.
 
-All spells have a primary spell factor of either Potency or Duration. After penalties have been applied for the desired spell factors, the player may move the primary factor up its chart a number of steps equal to the character’s rating in the spell’s highest Arcanum minus one.
-For example, a Forces spell with a primary spell factor of Duration would last for 5 turns when cast by a mage with her Forces Arcanum rated at 3 and a –2 penalty to her casting roll.\
+All spells have a primary spell factor of either Potency or Duration. After penalties have been applied for the desired spell factors, the player may move the primary factor up its chart a number of steps equal to the character’s rating in the spell’s highest [[Arcanum]] minus one.
+For example, a [[Forces]] spell with a primary spell factor of Duration would last for 5 turns when cast by a mage with her [[Forces]] [[Arcanum]] rated at 3 and a –2 penalty to her casting roll.\
 This advancement is voluntary — mages don’t always choose to cast at full power.
 
 The primary spell factor can be changed with a Reach.
@@ -63,7 +63,7 @@ If using Area of Effect for Scale, the factor instead determines how large the a
 
 ### Range
 
-_Range is how far the spell can be cast. Spells either require the mage to touch her subject, or be in sensory Range of her subject to cast. Mages with two dots in Time or Space may use Attainments to cast on a subject’s past existence, or across the world via sympathetic ties._
+_Range is how far the spell can be cast. Spells either require the mage to touch her subject, or be in sensory Range of her subject to cast. Mages with two dots in [[Time]] or [[Space]] may use Attainments to cast on a subject’s past existence, or across the world via sympathetic ties._
 
 ---
 
@@ -71,7 +71,7 @@ Range determines if the spell requires the mage to touch her subject, or simply 
 The standard Range factor for all spells is touch/self, meaning that the mage can cast the spell on herself or a subject she touches without any penalties. A mage can target an individual she cannot touch with a self/touch spell by succeeding on an Aimed Spell roll.
 
 The Advanced Range factor is sensory, meaning that the mage must be able to directly see, hear, or sense her subject. Viewing a subject remotely but in real-time, whether by security camera or magic scrying window, requires an additional Reach.\
-A spell cast with sensory range cannot be dodged by the subject, and does not require an Aimed Spell roll. If the mage has the Space Attainment Sympathetic Range or the Time Attainment Temporal Sympathy, she can cast spells without the need to sense her subject.
+A spell cast with sensory range cannot be dodged by the subject, and does not require an Aimed Spell roll. If the mage has the [[Space]] Attainment Sympathetic Range or the [[Time]] Attainment Temporal Sympathy, she can cast spells without the need to sense her subject.
 
 ### Casting Time
 

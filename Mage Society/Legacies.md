@@ -15,7 +15,7 @@ _The major Orders seek to provide general guidelines for how magic ought to be e
 Not all Awakened develop Legacies, but most do, because they confer several advantages:\
 - Yantras
 - Oblations
-- New or strengthened Ruling Arcanum
+- New or strengthened Ruling [[Arcanum]]
 - Legacy Attainments
 
 By adopting a Legacy, a mage alters her Gnosis, shaping her mystic self in accord with its principles. Some Legacies are initiatory traditions; others, deeply personal obsessions.
@@ -30,7 +30,7 @@ Normally, your mage must either belong to the Legacy’s Path or Order. However,
 
 #### Arcane (and Other) Knowledge
 
-Before initiation, your mage must possess at least two dots in the Legacy’s new Ruling Arcanum. She must also possess two dots of Gnosis. If she’s founding her own Legacy, the requirement is increased to three dots.
+Before initiation, your mage must possess at least two dots in the Legacy’s new Ruling [[Arcanum]]. She must also possess two dots of Gnosis. If she’s founding her own Legacy, the requirement is increased to three dots.
 
 Legacies also require other forms of knowledge based on their respective theories and beliefs. This normally takes the form of two or more dots in a particular Skill, but Storytellers and Legacy founders may specify additional requirements.
 

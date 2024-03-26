@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Matter]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Investigation, Science
 

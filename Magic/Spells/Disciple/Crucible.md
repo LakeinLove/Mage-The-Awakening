@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Matter]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Occult, Science
 

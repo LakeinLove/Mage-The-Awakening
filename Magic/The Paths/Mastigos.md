@@ -11,8 +11,8 @@ aliases:
 _A mage whose [[Path]] leads to [[Pandemonium]]. Also known as Warlocks or Psychonauts._
 
 Bonded to the [[Watchtower of the Iron Gauntlet]] in [[Pandemonium]]\
-Ruling Arcana: [[Magic/Arcana/Mind]] and [[Space]]\
-Inferior Arcanum: [[Matter]]\
+Ruling [[Arcanum|Arcana]]: [[Magic/Arcana/Mind]] and [[Space]]\
+Inferior [[Arcanum]]: [[Matter]]\
 Favoured [[Resistance]] [[Attribute]]: [[Resolve]]  
 
 ---
@@ -29,7 +29,7 @@ Warlocks rattle the chains of connection: the true nature of [[Space]], instead 
 ## Inferior Arcanum
 
 [[Matter]]\
-Matter sticks in the conceptual gullet of the Mastigos.\
+[[Matter]] sticks in the conceptual gullet of the Mastigos.\
 It seems to populate [[Lie|the Lie]] alone, a too-solid illusion to fill the empty spaces between [[Sleepers]]. Yet “base” elements undeniably possess Supernal vibrations and have a claim to the world of truth. Mastigos find it difficult to understand [[Matter]]’s faint, unthinking hum.
 
 ## Symbols and Myths
@@ -62,4 +62,4 @@ Magic not only lives, but possesses a soul made of [[Awakened]] wants and frailt
 Rule yourself to rule others. That describes more than a best practice — it’s the right to govern, for the allegorical Cave represents more than intellectual ignorance. It’s the darkness cast by desire, cloaking unpleasant truths. Leaders need to drag the flock out by ministering to their fears, encouraging their ambitions, and suffocating their destructive urges.
 
 [[Seers of the Throne]]:\
-They see your weakness and hate you for it. They know why the [[Seers of the Throne|Throne]] needs to keep you ignorant, limited to sins of the Fallen flesh. Mastigos Watchers respect the Eye, the [[Peoples/Exarchs|Exarch]] of [[Space]] and power of surveillance. People who know they’re being watched tend to behave. Channelling the Unity, [[Peoples/Exarchs|Exarch]] of Mind, Watchers strip dissent from resistant minds to better serve the [[Seers of the Throne|Throne]].
+They see your weakness and hate you for it. They know why the [[Seers of the Throne|Throne]] needs to keep you ignorant, limited to sins of the Fallen flesh. Mastigos Watchers respect the Eye, the [[Peoples/Exarchs|Exarch]] of [[Space]] and power of surveillance. People who know they’re being watched tend to behave. Channelling the Unity, [[Peoples/Exarchs|Exarch]] of [[Mind]], Watchers strip dissent from resistant minds to better serve the [[Seers of the Throne|Throne]].

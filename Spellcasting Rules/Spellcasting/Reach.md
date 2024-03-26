@@ -3,7 +3,7 @@ tags:
 - Spellcasting
 ---
 
-_The mage can utilize different techniques to get more out of her base spell after she determines the spell effects and the level of each Arcanum involved._
+_The mage can utilize different techniques to get more out of her base spell after she determines the spell effects and the level of each [[Arcanum]] involved._
 
 ---
 
@@ -11,8 +11,8 @@ Most changes affect the dice pool as either bonus or penalty dice, but other, mo
 
 Mages can Reach to move from a Standard to an Advanced spell factor chart, or create specialized effects in certain spells such as increasing damage type on attack spells. Each time she Reaches, she adds dice to the [[Paradox]] dice pool based on her Gnosis.
 
-A character receives a free Reach — which does not add [[Paradox]] dice — per dot of her highest-rated Arcanum that meets or exceeds the spell’s requirement.\
-For example a mage with four dots of the Mind Arcanum gains two free Reaches when casting a spell that requires Mind 3.
+A character receives a free Reach — which does not add [[Paradox]] dice — per dot of her highest-rated [[Arcanum]] that meets or exceeds the spell’s requirement.\
+For example a mage with four dots of the [[Mind]] [[Arcanum]] gains two free Reaches when casting a spell that requires [[Mind]] 3.
 
 ## Common Reach Effects
 

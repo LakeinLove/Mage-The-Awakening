@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Time]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Medicine, Intimidation
 

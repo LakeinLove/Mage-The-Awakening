@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Time]]\
-Practice: Ruling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Potency\
 Withstand: Resolve\
 Suggested Rote Skills: Athletics, Crafts, Investigation

@@ -9,6 +9,6 @@ _Changing an object’s nature and properties is easier than changing the nature
 
 ---
 
-An Apprentice of Matter need simply make a small investment of energy to an object to make any Matter spell’s effects last longer.
+An Apprentice of [[Matter]] need simply make a small investment of energy to an object to make any [[Matter]] spell’s effects last longer.
 
-The character may spend one Mana instead of using a Reach to use the Advanced Duration spell factor of a spell with Matter as its highest Arcanum.
+The character may spend one Mana instead of using a Reach to use the Advanced Duration spell factor of a spell with [[Matter]] as its highest [[Arcanum]].

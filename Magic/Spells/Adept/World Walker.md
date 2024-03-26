@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Patterning\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Withstand: Gauntlet Strength\
 Suggested Rote Skills: Athletics, Persuasion, Survival

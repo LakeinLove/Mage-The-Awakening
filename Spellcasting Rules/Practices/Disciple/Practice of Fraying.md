@@ -7,7 +7,7 @@ tags:
   - Fraying
 ---
 
-_Fraying spells degrade things, weakening them and enhancing their flaws. Fraying spells can weaken targets under the Arcanum’s purview: damping a fire ([[Forces]]), sapping Strength ([[Life]]), or eroding the barrier between worlds ([[Death]], [[Spirit]], or others, depending on the worlds in question). They can also directly attack targets using the energies of the Arcanum: inflicting damage via the chill of the grave ([[Death]]), psychic overload ([[Magic/Arcana/Mind]]), or a blast of electricity ([[Forces]]). Damage inflicted by a direct-attack Fraying spell is always bashing._
+_Fraying spells degrade things, weakening them and enhancing their flaws. Fraying spells can weaken targets under the [[Arcanum]]’s purview: damping a fire ([[Forces]]), sapping Strength ([[Life]]), or eroding the barrier between worlds ([[Death]], [[Spirit]], or others, depending on the worlds in question). They can also directly attack targets using the energies of the [[Arcanum]]: inflicting damage via the chill of the grave ([[Death]]), psychic overload ([[Magic/Arcana/Mind]]), or a blast of electricity ([[Forces]]). Damage inflicted by a direct-attack Fraying spell is always bashing._
 
 ---
 

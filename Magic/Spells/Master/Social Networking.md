@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Mind]]\
-Practice: Making\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Potency\
 Suggested Rote Skills: Persuasion, Politics, Socialise
 

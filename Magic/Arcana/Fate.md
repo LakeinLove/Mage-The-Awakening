@@ -76,6 +76,6 @@ Fate spells use [[Hexes]] and [[Boons]] to curse and bless their subjects as a m
 
 ## Related
 
-- Subtle Arcanum of [[Arcadia]]
-- Ruling Arcana for the [[Acanthus]] path
+- Subtle [[Arcanum]] of [[Arcadia]]
+- Ruling [[Arcanum|Arcana]] for the [[Acanthus]] path
 - [[Hexes]] and [[Boons]]

@@ -32,7 +32,7 @@ In their home realms, ephemeral entities are visible and solid, but in the physi
 
 Every ephemeral and Supernal entity has dots in an Advantage called Rank, which notes how self-aware and powerful the entity is. Rank technically ranges from 1 to 10 dots, but those with more than Rank 5 are overwhelmingly powerful and too alien to the physical world to support themselves with the Conditions that lesser beings use; their presence in a chronicle should come about through critical conjunctions and momentous events.
 
-Rank is used to determine the number of Attribute dots and the maximum ratings in other game traits that an ephemeral entity can have, as described in the table above. An ephemeral entity can sense the relative Rank of other beings of the same kind, and can attempt to conceal its own Rank with a contested Finesse roll. Success means that the entity appears to be the same Rank as the being it is concealing it from.
+Rank is used to determine the number of [[Attribute]] dots and the maximum ratings in other game traits that an ephemeral entity can have, as described in the table above. An ephemeral entity can sense the relative Rank of other beings of the same kind, and can attempt to conceal its own Rank with a contested Finesse roll. Success means that the entity appears to be the same Rank as the being it is concealing it from.
 
 Ghosts cannot increase in Rank outside of the Underworld, and come into existence as either Rank 1 or 2 depending on how much self-awareness they have. Ghosts summoned back from the Underworld may be of any Rank.
 
@@ -40,7 +40,7 @@ Goetia, Spirits, and Supernal Entities run the full range of Ranks depending on 
 
 ### Rank Chart
 
-| Rank | Trait Limits | Attribute Dots | Maximum Essence/Mana | Numina |
+| Rank | Trait Limits | [[Attribute]] Dots | Maximum Essence/Mana | Numina |
 | ---- | ------------ | -------------- | -------------------- | ------ |
 | 1    | 5 dots       | 5-8            | 10                   | 1-3    |
 | 2    | 7 dots       | 9-14           | 15                   | 3-5    |
@@ -58,7 +58,7 @@ Entities can use Mana or Essence in the following ways:
 - Ephemeral entities must spend a point of Essence per day to remain active in the material world. If they run out, they fall into hibernation until something happens to let them regain at least one point, which can be spent on returning to activity. Spirits and Goetia are pushed back into their home realms when they hibernate; ghosts are likewise forced to the Underworld as long as they don’t have any Anchors remaining. A ghost with remaining Anchors will begin to reform at the Anchor closest to where it fell into hibernation. Supernal beings do not spend Mana to remain active, but have much more limited lifespans in the Fallen World.
 - In their home realms, Goetia, ghosts, and Supernal Entities regain their Rank in Essence or Mana per day. Spirits are not sustained by the Shadow; they must always find sources of Essence even when in their own world.
 - Spirits, Goetia, and ghosts outside of a suitable Condition bleed one point of Essence per hour. Entities that run out of Essence due to bleed suffer a single point of lethal damage then enter hibernation. Supernal entities lose Corpus over time regardless of their remaining Mana.
-- Entities can spend Essence or Mana to boost their traits for a single scene on a point per dot basis. They can’t boost a single trait by more than Rank + 2 dots; boosting takes a turn and they can only boost a single Attribute in a turn.
+- Entities can spend Essence or Mana to boost their traits for a single scene on a point per dot basis. They can’t boost a single trait by more than Rank + 2 dots; boosting takes a turn and they can only boost a single [[Attribute]] in a turn.
 - Entities can sense sources of Essence or Mana appropriate for their needs from up to a mile away. The “Seek” Numen increases this range.
 - Ephemeral entities regain one point of Essence per day they are in proximity to any Condition relating to them — ghosts are sustained by staying near their Anchors and spirits in the Shadow feed upon Resonance.
 - Ephemeral entities can attempt to steal Essence or Mana from beings of the same type — ghosts from ghosts, spirits from spirits, etc. The attacking entity rolls Power + Finesse, contested by the victim’s Power + Resistance. If the attacker succeeds, it steals up to the successes in Essence or Mana, as long as the victim has Essence or Mana remaining to lose.
@@ -71,7 +71,7 @@ Invisible entities don’t have the nine Attributes familiar in material charact
 - Finesse describes how deft the entity is at imposing its desires with fine control. It is used for all rolls that call for Dexterity, Wits, or Manipulation.
 - Resistance describes how well the entity can avoid imposition from its peers and how easily it is damaged. It is used for all rolls that call for Stamina, Resolve, or Composure.
 
-Ephemeral beings don’t possess skills, but don’t suffer unskilled penalties as long as the actions they’re attempting are appropriate to their natures. They roll the appropriate Attribute + Rank for actions relating directly to their concepts, or Attribute + Attribute for actions like surprise and perception. When rolling Attribute + Rank for mundane (i.e., not magic) tasks, Supernal entities of Rank 4 or higher have the rote action quality.
+Ephemeral beings don’t possess skills, but don’t suffer unskilled penalties as long as the actions they’re attempting are appropriate to their natures. They roll the appropriate [[Attribute]] + Rank for actions relating directly to their concepts, or [[Attribute]] + [[Attribute]] for actions like surprise and perception. When rolling [[Attribute]] + Rank for mundane (i.e., not magic) tasks, Supernal entities of Rank 4 or higher have the rote action quality.
 
 ### Advantages
 

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Death]]\
-Practice: Making\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Occult, Persuasion
 

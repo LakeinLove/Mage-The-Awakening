@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Compelling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Withstand: Rank\
 Suggested Rote Skills: Brawl, Intimidation, Occult

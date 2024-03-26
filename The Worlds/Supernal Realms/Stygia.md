@@ -11,7 +11,7 @@ tags:
 
 Stygia is home to the [[Watchtower of Lead Coin]] and the endpoint for the [[Moros]] [[Path]].
 
-The Ruling Arcana of Stygia are the Gross Arcanum [[Matter]] and the Subtle Arcanum [[Death]].
+The Ruling [[Arcanum|Arcana]] of Stygia are the Gross [[Arcanum]] [[Matter]] and the Subtle [[Arcanum]] [[Death]].
 
 All places influenced by Stygia claim a price for entry, a toll for passage and entrance to the lands of death. The price for all of these is not in mundane lucre but in the treasure reaped by the soul during life.\
 Stygia claims the weighty and leaden parts of the soul, leaving only the precious metals to rise above its death finally relinquishing its hold on life.

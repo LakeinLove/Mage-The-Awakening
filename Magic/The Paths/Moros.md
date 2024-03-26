@@ -10,8 +10,8 @@ aliases:
 _A mage whose [[Path]] leads to [[Stygia]]. Also known as Alchemists or Necromancers._
 
 Bonded to the [[Watchtower of Lead Coin]] in [[Stygia]]\
-Ruling Arcana: [[Death]] and [[Matter]]\
-Inferior Arcanum: [[Spirit]]\
+Ruling [[Arcanum|Arcana]]: [[Death]] and [[Matter]]\
+Inferior [[Arcanum]]: [[Spirit]]\
 Favoured [[Resistance]] [[Attribute]]: [[Composure]]  
 
 ---
@@ -19,9 +19,9 @@ Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 ## Ruling Arcana
 
 [[Death]] and [[Matter]].\
-They’re the slow, quiet Arcana of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
+They’re the slow, quiet [[Arcanum|Arcana]] of endings and foundations. Move a mountain and the earth shudders. Errant souls can spin the world out of balance. 
 
-[[Death]] is the Arcanum of destructive change: the power to speed, slow, or shift the details of inevitable doom. Bodies shift from [[Life]] to [[Matter]]. Light scatters to the corners of the cosmos, allowing darkness to flourish. Although a soul’s components include every subtle Arcanum, [[Death]] is the loose thread that, once pulled, removes it from its living home or unravels it into its parts. Mages know that ghosts aren’t souls, but Necromancers point out that doesn’t mean they aren’t people. 
+[[Death]] is the [[Arcanum]] of destructive change: the power to speed, slow, or shift the details of inevitable doom. Bodies shift from [[Life]] to [[Matter]]. Light scatters to the corners of the cosmos, allowing darkness to flourish. Although a soul’s components include every subtle [[Arcanum]], [[Death]] is the loose thread that, once pulled, removes it from its living home or unravels it into its parts. Mages know that ghosts aren’t souls, but Necromancers point out that doesn’t mean they aren’t people. 
 
 [[Matter]] is the world’s skeleton. [[Forces]] shape it and [[Life]] puts flesh on its bones. It releases energy and accepts corpses into its embrace. The world constantly performs the Great Work Alchemists pursue, perfecting itself and, at the peak, falling apart to be rebuilt. Contemporary Moros also think of [[Matter]] in mechanical metaphors. Every speck of dust is part of a cosmic machine whose parts adapt to the tasks given it
 

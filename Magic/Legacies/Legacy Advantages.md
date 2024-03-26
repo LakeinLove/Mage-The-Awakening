@@ -22,9 +22,9 @@ Unlike ordinary Oblations, the mage does not need to perform Legacy Oblations at
 
 ### Ruling Arcanum
 
-Initiation into a Legacy confers an additional Ruling Arcanum, set by the Legacy’s creators.
+Initiation into a Legacy confers an additional Ruling [[Arcanum]], set by the Legacy’s creators.
 
-This normally raises an existing Common or Inferior Arcanum to Ruling Status, but in some cases the mage already possesses the Legacy Arcanum as a Ruling Arcanum. In this case, he develops an especially strong understanding of the Arcanum’s Mysteries. Every time she learns a new dot in this Arcanum she earns an Arcane Experience.
+This normally raises an existing Common or Inferior [[Arcanum]] to Ruling Status, but in some cases the mage already possesses the Legacy [[Arcanum]] as a Ruling [[Arcanum]]. In this case, he develops an especially strong understanding of the [[Arcanum]]’s Mysteries. Every time she learns a new dot in this [[Arcanum]] she earns an Arcane Experience.
 
 ### The Mentor-Student Bond
 

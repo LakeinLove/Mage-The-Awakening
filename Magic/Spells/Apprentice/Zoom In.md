@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Forces]]\
-Practice: Ruling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Investigation, Survival, Science
 
@@ -24,7 +24,7 @@ If a character magnifies vision to focus on small-scale occurrences, the Storyte
 
 Every level of Potency doubles the distance the mage can see clearly before suffering penalties, although atmospheric conditions can still cloud her view. Add Potency to dice rolls to notice small details.
 
-**+1 Reach:** The subject can see clearly out to a distance of 1 mile per dot of Forces.
+**+1 Reach:** The subject can see clearly out to a distance of 1 mile per dot of [[Forces]].
 
 **+1 Reach:** The subject can clearly discern dust-sized particles.
 

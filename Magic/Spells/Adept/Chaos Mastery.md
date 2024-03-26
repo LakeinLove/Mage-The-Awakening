@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Fate]]\
-Practice: Patterning\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Empathy, Occult, Science
 

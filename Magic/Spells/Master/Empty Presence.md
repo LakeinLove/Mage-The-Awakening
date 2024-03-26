@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Death]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Duration\
 Cost: One Mana\
 Withstand: Composure\

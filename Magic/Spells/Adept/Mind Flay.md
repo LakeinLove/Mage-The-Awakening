@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Mind]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Expression, Intimidation, Science
 

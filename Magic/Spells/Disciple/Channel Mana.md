@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Prime]]\
-Practice: Weaving\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Potency\
 Withstand: Composure (or Rank for Supernal Entities)\
 Suggested Rote Skills: Occult, Politics, Socialise

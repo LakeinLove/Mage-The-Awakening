@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Space]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Withstand: Composure\
 Suggested Rote Skills: Crafts, Empathy, Persuasion

@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Death]]\
-Practice: Shielding\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Potency\
 Suggested Rote Skills: Streetwise, Subterfuge, Survival
 

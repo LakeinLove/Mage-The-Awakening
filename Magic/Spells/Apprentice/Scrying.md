@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Space]]\
-Practice: Ruling\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Computers, Occult, Subterfuge
 
@@ -27,4 +27,4 @@ When cast on a subject within sensory range, the scrying window gives the mage a
 
 Casting spells on subjects the mage can see through the window counts as viewing them remotely.
 
-**Add Fate ••:** The mage may make the scrying window selectively one-way, allowing only specific people to perceive her from the other side of the window.
+**Add [[Fate]] ••:** The mage may make the scrying window selectively one-way, allowing only specific people to perceive her from the other side of the window.

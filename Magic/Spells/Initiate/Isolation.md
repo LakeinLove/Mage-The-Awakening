@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Space]]\
-Practice: Compelling\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Potency\
 Withstand: Composure\
 Suggested Rote Skills: Academics, Intimidation, Subterfuge

@@ -6,8 +6,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Matter]]\
-Practice: Fraying or Perfecting\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Fraying or Perfecting\
 Primary Factor: Potency\
 Withstand: Durability\
 Suggested Rote Skills: Crafts, Medicine, Subterfuge

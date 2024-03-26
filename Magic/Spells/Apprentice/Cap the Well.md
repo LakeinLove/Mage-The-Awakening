@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Shielding\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Persuasion, Politics, Survival
 

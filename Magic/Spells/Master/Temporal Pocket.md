@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Time]]\
-Practice: Making\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Science, Stealth
 

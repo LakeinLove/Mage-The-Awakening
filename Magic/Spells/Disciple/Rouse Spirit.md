@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Potency\
 Withstand: Rank\
 Suggested Rote Skills: Athletics, Expression, Investigation

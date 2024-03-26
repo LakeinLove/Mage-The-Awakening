@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Life]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Brawl, Intimidation, Medicine
 

@@ -3,7 +3,7 @@ tags:
   - Magesight
 ---
 
-_Focused Mage Sight allows a mage to scrutinize a subject through the lens of the chosen Arcana. Unlike Peripheral or [[Active Mage Sight]], Focused Mage Sight requires that the mage put all her attention on one target — a person, object, or location (roughly the size of a small room)._
+_Focused Mage Sight allows a mage to scrutinize a subject through the lens of the chosen [[Arcanum|Arcana]]. Unlike Peripheral or [[Active Mage Sight]], Focused Mage Sight requires that the mage put all her attention on one target — a person, object, or location (roughly the size of a small room)._
 
 ---
 

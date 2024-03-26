@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Life]]\
-Practice: Weaving\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Potency\
 Withstand: Stamina\
 Suggested Rote Skills: Animal Ken, Science, Survival

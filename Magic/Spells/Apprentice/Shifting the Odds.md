@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Fate]]\
-Practice: Ruling\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Investigation, Politics, Subterfuge
 

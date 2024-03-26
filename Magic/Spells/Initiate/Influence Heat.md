@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Forces]]\
-Practice: Compelling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Suggested Rote Skills: Survival, Occult, Science
 

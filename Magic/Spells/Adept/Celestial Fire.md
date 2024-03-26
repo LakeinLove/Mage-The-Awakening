@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Prime]]\
-Practice: Patterning\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Expression, Occult
 

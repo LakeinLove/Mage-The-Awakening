@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Life]]\
-Practice: Ruling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Withstand: Composure\
 Suggested Rote Skills: Animal Ken, Intimidation, Persuasion
@@ -17,7 +17,7 @@ _For all their intellectual powers, humans are animals, too, and animals are gov
 
 ---
 
-An Apprentice of Life can control these instinctual responses like a puppeteer pulling strings.\
+An Apprentice of [[Life]] can control these instinctual responses like a puppeteer pulling strings.\
 In so doing she can make any animal or plant behave in any fashion natural to its type.\
 She need not do so in the presence of circumstances that would provoke such behaviour normally
 

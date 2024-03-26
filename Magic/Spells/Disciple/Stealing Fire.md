@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Prime]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Withstand: Resolve\
 Suggested Rote Skills: Expression, Larceny, Persuasion

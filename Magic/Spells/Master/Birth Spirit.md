@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Making\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Medicine, Expression
 

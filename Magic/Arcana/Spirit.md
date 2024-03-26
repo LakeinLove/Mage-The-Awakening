@@ -12,9 +12,9 @@ _The subtle Arcanum of the Primal Wilds deals with repercussions: What we do in 
 ## General Description
 
 Spirit mages understand those repercussions, and know that it falls to them to act as intercessors between the Visible and the Invisible. Spirit’s purview is the Shadow Realm and its denizens, the spirits.\
-The flows of Essence that empower them and the Gauntlet that holds them apart from our world also fall under this Arcanum’s dominion.
+The flows of Essence that empower them and the Gauntlet that holds them apart from our world also fall under this [[Arcanum]]’s dominion.
 
-[[The Gauntlet]] is the membrane with which the Spirit Arcanum contends and interacts.
+[[The Gauntlet]] is the membrane with which the Spirit [[Arcanum]] contends and interacts.
 
 ---
 
@@ -81,6 +81,6 @@ The flows of Essence that empower them and the Gauntlet that holds them apart fr
 
 ## Related
 
-- Subtle Arcanum of the [[Primal Wild]]
-- Ruling Arcana for the [[Thyrsus]] path
-- [[The Gauntlet]] is a core part of spirits and thus the Arcanum Spirit
+- Subtle [[Arcanum]] of the [[Primal Wild]]
+- Ruling [[Arcanum|Arcana]] for the [[Thyrsus]] path
+- [[The Gauntlet]] is a core part of spirits and thus the [[Arcanum]] Spirit

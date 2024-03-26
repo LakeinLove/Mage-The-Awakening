@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Death]]\
-Practice: Fraying\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Fraying\
 Primary Factor: Potency\
 Withstand: Resolve\
 Suggested Rote Skills: Intimidation, Occult, Empathy

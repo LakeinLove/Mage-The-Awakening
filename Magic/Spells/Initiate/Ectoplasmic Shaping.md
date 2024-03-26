@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Death]]\
-Practice: Compelling\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Duration\
 Withstand: Resolve\
 Suggested Rote Skills: Crafts, Occult, Larceny

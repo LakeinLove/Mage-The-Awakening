@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Fate]]\
-Practice: Compelling\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Potency\
 Withstand: Composure\
 Suggested Rote Skills: Occult, Firearms, Crafts

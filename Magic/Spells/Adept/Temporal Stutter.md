@@ -5,15 +5,15 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Time]]\
-Practice: Patterning\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Withstand: Stamina\
 Suggested Rote Skills: Intimidation, Science, Survival
 
 ---
 
-_By redefining how a subject’s Time Pattern interacts with the present, the mage throws that subject forward through time, awaiting the moment the present catches up to him._
+_By redefining how a subject’s [[Time]] Pattern interacts with the present, the mage throws that subject forward through time, awaiting the moment the present catches up to him._
 
 ---
 

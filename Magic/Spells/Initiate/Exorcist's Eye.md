@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Socialise, Survival
 
@@ -21,4 +21,4 @@ Finally, she can see the conduit of any spirit with the Reaching Manifestation, 
 
 **+1 Reach:** The mage may shift her perceptions to see across the Gauntlet and into the Shadow (or into the physical world if she’s in the Shadow). The spell is Withstood by the Gauntlet Strength.
 
-**Add Death • or [[Mind]] •:** These benefits extend to ghosts or Goetia, respectively
+**Add [[Death]] • or [[Mind]] •:** These benefits extend to ghosts or Goetia, respectively

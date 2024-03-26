@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Space]]\
-Practice: Shielding\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Subterfuge, Weaponry
 

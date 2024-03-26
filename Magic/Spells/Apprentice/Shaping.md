@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Matter]]\
-Practice: Ruling\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Potency\
 Withstand: Durability\
 Suggested Rote Skills: Craft, Expression, Persuasion

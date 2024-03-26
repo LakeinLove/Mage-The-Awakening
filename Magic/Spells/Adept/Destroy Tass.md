@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Withstand: Durability\
 Suggested Rote Skills: Brawl, Intimidation, Occult

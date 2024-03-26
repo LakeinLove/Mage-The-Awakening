@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Space]]\
-Practice: Weaving\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Intimidation, Science, Stealth
 
@@ -22,4 +22,4 @@ Magic that manipulates space, like a teleportation power or the ability to step 
 
 Even light and air can’t pass through: From the outside, the space appears to “lens” as the observer approaches it, as light jumps directly across the Ban. From inside, it’s an island of light in a vast sea of darkness.
 
-**Add Any Arcanum ••:** Either exclude one or more phenomena under the Arcanum’s purview from the spell (for example, to let air or light through) or create a Ban that only prohibits phenomena under that Arcanum’s purview.
+**Add Any [[Arcanum]] ••:** Either exclude one or more phenomena under the [[Arcanum]]’s purview from the spell (for example, to let air or light through) or create a Ban that only prohibits phenomena under that [[Arcanum]]’s purview.

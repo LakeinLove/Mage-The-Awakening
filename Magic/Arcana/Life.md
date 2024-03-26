@@ -78,5 +78,5 @@ By harnessing the endless adaptability of living forms, mages can gain perspecti
 
 ## Related
 
-- Gross Arcanum of the [[Primal Wild]]
-- Ruling Arcana for the [[Thyrsus]] path
+- Gross [[Arcanum]] of the [[Primal Wild]]
+- Ruling [[Arcanum|Arcana]] for the [[Thyrsus]] path

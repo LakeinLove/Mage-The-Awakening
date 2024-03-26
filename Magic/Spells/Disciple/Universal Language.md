@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Mind]]\
-Practice: Weaving\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Investigation, Persuasion
 

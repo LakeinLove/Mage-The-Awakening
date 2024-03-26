@@ -6,7 +6,7 @@ tags:
 [[Merits|Merit]]\
 Cost: •\
 Prerequisites:
-- Prime •
+- [[Prime]] •
 - Wits •••
 
 ---

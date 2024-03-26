@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Fate]]\
-Practice: Making\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Intimidation, Occult, Science
 

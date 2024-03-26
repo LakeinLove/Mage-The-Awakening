@@ -5,13 +5,13 @@ tags:
   - Time
 ---
 
-_Time and Fate rule Arcadia; Time is the gross Arcanum of the pair, governing the progression of events through the ever-advancing present in a way perpendicular to Fate’s subtlety._
+_Time and Fate rule Arcadia; Time is the gross [[Arcanum]] of the pair, governing the progression of events through the ever-advancing present in a way perpendicular to Fate’s subtlety._
 
 ---
 
 ## General Description
 
-Some Acanthus liken Time to a loosed arrow, and Fate to the archer’s aim. Time governs the history and diverse potential futures of the Fallen World. All things must pass. Legends rise and fall.
+Some Acanthus liken Time to a loosed arrow, and [[Fate]] to the archer’s aim. Time governs the history and diverse potential futures of the Fallen World. All things must pass. Legends rise and fall.
 
 Even gods die and fade into obscurity. Nothing is eternal, save perhaps for time itself.
 
@@ -19,7 +19,7 @@ Even gods die and fade into obscurity. Nothing is eternal, save perhaps for time
 
 Sleeper philosophers and scientists debate and make inferences about the nature of Time, discussing theoretical problems and paradoxes, measuring the distortion in the light of distant stars, but always knowing that they are locked into Time’s endless march.
 
-Mages who study the Time Arcanum have practical experience to marry to Sleeping theory, and quickly discover that while some thinkers have approached something like the truth, thought experiments don’t fully prepare them for the reality of temporal magic.
+Mages who study the Time [[Arcanum]] have practical experience to marry to Sleeping theory, and quickly discover that while some thinkers have approached something like the truth, thought experiments don’t fully prepare them for the reality of temporal magic.
 
 Sleepers often describe time as a river, but traditional Acanthus instead describe it as a spinning wheel, gathering strands of unspun material and binding them into a tight thread.
 
@@ -107,6 +107,6 @@ Spells to travel into the future jump the subject out of time until the destinat
 
 ## Related
 
-- Gross Arcanum of [[Arcadia]]
-- Ruling Arcana for the [[Acanthus]] path
+- Gross [[Arcanum]] of [[Arcadia]]
+- Ruling [[Arcanum|Arcana]] for the [[Acanthus]] path
 - Involved with [[Temporal Sympathy]]

@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Life]]\
-Practice: Compelling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Medicine, Survival
 

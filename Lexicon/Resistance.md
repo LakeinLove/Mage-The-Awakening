@@ -8,7 +8,7 @@ _Sometimes, an action is resisted._
 
 ---
 
-You roll your Attribute + Skill, but apply a modifier of one of your opponent’s Resistance Attributes (Resolve, Stamina, or Composure), or your opponent’s Defence.\
+You roll your [[Attribute]] + Skill, but apply a modifier of one of your opponent’s Resistance Attributes (Resolve, Stamina, or Composure), or your opponent’s Defence.\
 This resistance is over and above any other modifiers applied to the dice pool.
 
 If you’re not sure whether to use resistance or a contested action, use this guideline:\

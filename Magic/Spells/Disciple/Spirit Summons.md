@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Withstand: Rank\
 Suggested Rote Skills: Occult, Persuasion, Socialise

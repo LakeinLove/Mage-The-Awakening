@@ -7,7 +7,7 @@ tags:
 Cost: ••\
 Prerequisites:
 - Firearms ••
-- Time •
+- [[Time]] •
 
 ---
 

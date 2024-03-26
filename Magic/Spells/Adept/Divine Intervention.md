@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Fate]]\
-Practice: Patterning\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Potency\
 Withstand: Resolve\
 Suggested Rote Skills: Intimidation, Occult, Subterfuge

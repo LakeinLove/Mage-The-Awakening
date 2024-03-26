@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Death]]\
-Practice: Veiling\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Subterfuge, Crafts, Medicine
 

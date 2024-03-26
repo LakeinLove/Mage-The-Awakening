@@ -9,7 +9,7 @@ tags:
 
 ## Brief Description:
 
-_Weaving spells can alter nearly any property of a target without transforming it into something completely different. Solid steel can be transmuted to liquid ([[Matter]]), a sword can be enchanted to damage beings in Twilight (Death or [[Spirit]]), or a few seconds of time can be rewritten ([[Time]])._
+_Weaving spells can alter nearly any property of a target without transforming it into something completely different. Solid steel can be transmuted to liquid ([[Matter]]), a sword can be enchanted to damage beings in Twilight ([[Death]] or [[Spirit]]), or a few seconds of time can be rewritten ([[Time]])._
 
 ---
 

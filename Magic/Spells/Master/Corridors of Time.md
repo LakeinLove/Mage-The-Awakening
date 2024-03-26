@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Time]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Investigation, Persuasion
 

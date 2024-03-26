@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Knowing\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Knowing\
 Primary Factor: Potency\
 Withstand: Rank\
 Suggested Rote Skills: Academics, Brawl, Socialise

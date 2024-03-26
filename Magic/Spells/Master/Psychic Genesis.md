@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Mind]]\
-Practice: Making\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Expression, Science
 

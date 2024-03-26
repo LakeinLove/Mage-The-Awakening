@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Space]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Subterfuge, Survival
 

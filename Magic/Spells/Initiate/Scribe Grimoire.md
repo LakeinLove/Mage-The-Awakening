@@ -5,11 +5,11 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Prime]]\
-Practice: Compelling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Compelling\
 Primary Factor: Potency\
 Cost: 1 Mana\
-Withstand: Total Arcanum dots of all Arcana used in the spell being scribed\
+Withstand: Total [[Arcanum]] dots of all [[Arcanum|Arcana]] used in the spell being scribed\
 Suggested Rote Skills: Crafts, Expression, Occult
 
 ---

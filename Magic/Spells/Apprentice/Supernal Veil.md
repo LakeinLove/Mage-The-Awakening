@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Prime]]\
-Practice: Veiling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Subterfuge, Survival
 

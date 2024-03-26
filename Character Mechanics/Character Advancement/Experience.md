@@ -17,7 +17,7 @@ You can expend Experiences at any time to increase your character traits. A sing
 
 | Trait                       | Experiences |
 | --------------------------- | ----------- |
-| Attribute                   | 4 per Dot   |
+| [[Attribute]]                   | 4 per Dot   |
 | Skill                       | 2 per Dot   |
 | Merit                       | 1 per Dot   |
 | Arcanum to Limit            | 4 per Dot   |
@@ -27,4 +27,4 @@ You can expend Experiences at any time to increase your character traits. A sing
 | Skill Speciality            | 1           |
 | Rebuy Willpower             | 1 per Dot   |
 
-Arcanum, Gnosis, and Legacy Attainments (tutored) can all be bought with a combination of Experience and [[Arcane Experience]].
+[[Arcanum]], Gnosis, and Legacy Attainments (tutored) can all be bought with a combination of Experience and [[Arcane Experience]].

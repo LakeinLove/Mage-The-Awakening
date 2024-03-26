@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Mind]]\
-Practice: Knowing\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Knowing\
 Primary Factor: Potency\
 Withstand: Composure\
 Suggested Rote Skills: Empathy, Investigation, Occult

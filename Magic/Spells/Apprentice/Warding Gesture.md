@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Fate]]\
-Practice: Shielding\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Brawl, Occult, Subterfuge
 

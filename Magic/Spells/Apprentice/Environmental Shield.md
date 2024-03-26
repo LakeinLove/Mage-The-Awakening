@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Forces]]\
-Practice: Shielding\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Occult, Survival, Science
 

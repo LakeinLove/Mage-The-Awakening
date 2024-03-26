@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Ruling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Potency\
 Withstand: Rank\
 Suggested Rote Skills: Athletics, Medicine, Persuasion

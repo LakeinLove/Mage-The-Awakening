@@ -10,8 +10,8 @@ aliases:
 _A mage whose [[Path]] leads to the [[Aether]]. Also known as Theurgists and Thaumaturges._
 
 Bonded to the [[Watchtower of the Golden Key]] in [[Aether]]\
-Ruling Arcana: [[Forces]] and [[Prime]]\
-Inferior Arcanum: [[Death]]\
+Ruling [[Arcanum|Arcana]]: [[Forces]] and [[Prime]]\
+Inferior [[Arcanum]]: [[Death]]\
 Favoured [[Resistance]] [[Attribute]]: [[Resolve]]
 
 ---

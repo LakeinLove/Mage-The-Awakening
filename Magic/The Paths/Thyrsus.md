@@ -10,8 +10,8 @@ aliases:
 _A mage whose [[Path]] leads to the [[Primal Wild]]. Also known as Shamans or Ecstatics._
 
 Bonded to the [[Watchtower of the Stone Book]] in the [[Primal Wild]]\
-Ruling Arcana: [[Life]] and [[Spirit]]\
-Inferior Arcanum: [[Magic/Arcana/Mind]]\
+Ruling [[Arcanum|Arcana]]: [[Life]] and [[Spirit]]\
+Inferior [[Arcanum]]: [[Magic/Arcana/Mind]]\
 Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 
 ---
@@ -24,7 +24,7 @@ The [[Primal Wild]]’s cosmic Moon leaves its reflection in the material realm�
 Life’s the seat of sex, hunger, and the fight or flight response. It’s everything we eat and the worms that devour us when we die, resurrect our flesh as theirs, and make us immortal.\
 The Ecstatic honours [[Life]]’s primal sensations and celebrates its lesson: We’re not individuals, but colonies of tissue and bacteria that divide, are broken, and are reborn in ecological miracles. 
 
-The world lives and speaks. Before the Fall, anyone could gaze into the Shadow. [[Lie|The Lie]] blinds Spirit-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond the Gauntlet. They know what we’ve forgotten: Material light and the Shadow are one realm.
+The world lives and speaks. Before the Fall, anyone could gaze into the Shadow. [[Lie|The Lie]] blinds [[Spirit]]-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond the Gauntlet. They know what we’ve forgotten: Material light and the Shadow are one realm.
 
 ## Inferior Arcanum
 
@@ -49,7 +49,7 @@ Thyrsus Shamans are more likely to call upon traditional gods and heroes. \Follo
 ## Shamans in the Orders
 
 [[Adamantine Arrow]]:\
-Look past the niceties of military culture to ask why the [[Adamantine Arrow|Arrow]]’s enemies need to die, and how to do it without self-indulgent posturing or inefficiency. Fools say animals don’t fight wars, but baboon troops slaughter each other and predators mark their territories with piss and claw marks. Thyrsus Arrows aren’t afraid to bloody their hands in direct combat (and those skilled in Life tend to be extremely good at it), but never for some pretentious point of honour.
+Look past the niceties of military culture to ask why the [[Adamantine Arrow|Arrow]]’s enemies need to die, and how to do it without self-indulgent posturing or inefficiency. Fools say animals don’t fight wars, but baboon troops slaughter each other and predators mark their territories with piss and claw marks. Thyrsus Arrows aren’t afraid to bloody their hands in direct combat (and those skilled in [[Life]] tend to be extremely good at it), but never for some pretentious point of honour.
 
 [[Free Council]]:\
 Shamanism is humanity’s first heritage. Ecstasy is its universal spiritual path. These twin truths tell the [[Free Council]] that [[Sleepers]] never forgot about the Supernal. They know the oldest ways to touch it, and soar so close to it in moments of pain and pleasure. It’s time to help ordinary people take up the tools they already know and call to the hidden realm that beckons, demanding to rekindle old loves and obligations.

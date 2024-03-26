@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Mind]]\
-Practice: Veiling\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Veiling\
 Primary Factor: Potency\
 Suggested Rote Skills: Science, Stealth, Subterfuge
 

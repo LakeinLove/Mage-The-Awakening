@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Time]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Potency\
 Cost: 1 Mana\
 Suggested Rote Skills: Athletics, Drive, Stealth

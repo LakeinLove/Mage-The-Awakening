@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Ruling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Athletics, Computers, Socialise
 

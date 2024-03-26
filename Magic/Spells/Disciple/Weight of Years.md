@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Time]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Potency\
 Suggested Rote Skills: Crafts, Intimidation, Medicine
 

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Matter]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Durability\
 Suggested Rote Skills: Athletics, Intimidation, Science

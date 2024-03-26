@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Fate]]\
-Practice: Fraying\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Intimidation, Occult, Weaponry
 

@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Time]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Potency\
 Suggested Rote Skills: Academics, Empathy, Investigation
 

@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Merit rating of the targeted magical object, or Durability if not measured in Merit dots\
 Suggested Rote Skills: Intimidation, Occult, Weaponry

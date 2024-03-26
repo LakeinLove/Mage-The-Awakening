@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Prime]]\
-Practice: Patterning\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Withstand: Resolve\
 Suggested Rote Skills: Occult, Persuasion, Socialise
@@ -25,4 +25,4 @@ While Awakened subjects may control the new Sight as though it were their own, f
 If the subject runs out of Willpower points and the spell is still active, he gains the Blind Condition as the Supernal vision burns out his eyes.\
 (At the Storyteller’s discretion, this might be replaced with Deafened or a similar Condition if the subject experiences Mage Sight with other senses).
 
-**+1 Reach and Add Any Other Arcanum •:** The mage may add an Arcanum to the granted Sight, but must pay Mana to add Common or Inferior Arcana as though she were activating Mage Sight herself.
+**+1 Reach and Add Any Other [[Arcanum]] •:** The mage may add an [[Arcanum]] to the granted Sight, but must pay Mana to add Common or Inferior [[Arcanum|Arcana]] as though she were activating Mage Sight herself.

@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Death]]\
-Practice: Unravelling\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Unravelling\
 Primary Factor: Potency\
 Withstand: Stamina\
 Suggested Rote Skills: Occult, Intimidation, Subterfuge

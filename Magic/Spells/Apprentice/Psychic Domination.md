@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Mind]]\
-Practice: Ruling\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Potency\
 Withstand: Resolve\
 Suggested Rote Skills: Expression, Intimidation, Subterfuge

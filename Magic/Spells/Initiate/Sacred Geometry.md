@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Occult, Survival
 
@@ -22,4 +22,4 @@ If there are no Ley Lines or Nodes within sensory range, the subject feels a tug
 
 **+1 Reach:** The mage’s perceptions expand to tell her when a node sits atop a Hallow.
 
-**Add [[Death]] • or [[Spirit]] •:** The mage’s senses are also attuned to the presence of Avernian Gates or Loci, respectively. Other Arcana may reveal stranger sacred spaces, as well.
+**Add [[Death]] • or [[Spirit]] •:** The mage’s senses are also attuned to the presence of Avernian Gates or Loci, respectively. Other [[Arcanum|Arcana]] may reveal stranger sacred spaces, as well.

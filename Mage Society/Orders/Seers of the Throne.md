@@ -42,7 +42,7 @@ The ultimate rewards of Fallen service are archmastery and, Seers pray, Ascensio
 
 Through varied means of Fallen divination — Tarot and dream interpretation being the two most popular methods — Seers gain insights into where to act and what to do to further the [[Peoples/Exarchs|Exarchs]]’ power. The Tyrants control the world, after all — the marks of their will are there, if only you look for them with the requisite wisdom to comprehend.  
 
-The Seers are obsessed with omens and signs, even beyond raw applications of the [[Fate]] and [[Time]] Arcana. They listen for [[High Speech]] in the white noise of radio telescopes, consult charts of bird migrations, and enslave Sleepers who have the gift of foresight. The more Seers work the [[Peoples/Exarchs|Exarchs]]’ will, the more rewards they find, including unique praxes (that still serve the Tyrants), artifacts of Atlantis, and Supernal Verges.
+The Seers are obsessed with omens and signs, even beyond raw applications of the [[Fate]] and [[Time]] [[Arcanum|Arcana]]. They listen for [[High Speech]] in the white noise of radio telescopes, consult charts of bird migrations, and enslave Sleepers who have the gift of foresight. The more Seers work the [[Peoples/Exarchs|Exarchs]]’ will, the more rewards they find, including unique praxes (that still serve the Tyrants), artifacts of Atlantis, and Supernal Verges.
 
 ### From the Iron Pyramid comes prestige and servitude
 

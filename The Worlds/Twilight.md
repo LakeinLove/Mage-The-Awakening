@@ -24,10 +24,10 @@ Attacks pass through a Twilight being, and even solid concrete in the material w
 
 Movement through Twilight roughly corresponds to that of the material world, even though there is no gravity, wind, or pressure. Flight is not possible unless appropriate for the entity’s form; a fiery-winged Goetia might take to the sky, but a clattering, rusting spirit of metal will stick to the material terrain.
 
-Ghosts, ghostly echoes of destroyed buildings and objects, and objects or people that have entered Twilight through the magic of the Death Arcanum are all considered in phase with each other.
+Ghosts, ghostly echoes of destroyed buildings and objects, and objects or people that have entered Twilight through the magic of the [[Death]] [[Arcanum]] are all considered in phase with each other.
 
-Spirits and objects or people that have entered Twilight through the magic of the Spirit Arcanum are considered in phase with each other.
+Spirits and objects or people that have entered Twilight through the magic of the [[Spirit]] [[Arcanum]] are considered in phase with each other.
 
-Goetia and mental projections through the Mind Arcanum are considered in phase with each other.
+Goetia and mental projections through the [[Mind]] [[Arcanum]] are considered in phase with each other.
 
-Supernal entities that have entered Fallen Reality and used their Arcana to enter Twilight are in phase with the appropriate type of entity.
+Supernal entities that have entered Fallen Reality and used their [[Arcanum|Arcana]] to enter Twilight are in phase with the appropriate type of entity.

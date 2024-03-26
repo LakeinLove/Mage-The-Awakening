@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Prime]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Hallow Rating, if applicable\
 Suggested Rote Skills: Athletics, Occult, Survival

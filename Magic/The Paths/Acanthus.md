@@ -12,8 +12,8 @@ aliases:
 _A mage whose [[Path]] leads to [[Arcadia]]. Also known as Witches or Enchanters._
 
 Bonded to the [[Watchtower of Lunargent Thorn]] in [[Arcadia]]\
-Ruling Arcana: [[Fate]] and [[Time]]\
-Inferior Arcanum: [[Forces]]\
+Ruling [[Arcanum|Arcana]]: [[Fate]] and [[Time]]\
+Inferior [[Arcanum]]: [[Forces]]\
 Favoured [[Resistance]] [[Attribute]]: [[Composure]] 
 
 ---

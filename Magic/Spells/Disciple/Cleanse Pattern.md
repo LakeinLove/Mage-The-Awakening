@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Prime]]\
-Practice: Fraying\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Fraying\
 Primary Factor: Potency\
 Suggested Rote Skills: Investigation, Occult, Stealth
 

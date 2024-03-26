@@ -30,11 +30,11 @@ Guardians cleave to Diamond symbolism with a concept they call the Diamond Wheel
 ### Paradox Strengthens the Abyss; Punishment Answers Pride
 
 The [[Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and [[Act of Hubris|Hubris]]. Humanity has the slim capacity for [[Awakening]] and Ascension, but even Awakened societies are corrupted by the [[Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to the [[Abyss]].\
-Guardians will help mages with their own Paradoxes when [[Abyssal]] taint threatens innocent bystanders. They encourage mages to examine the root causes of [[Paradox]], and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
+Guardians will help mages with their own Paradoxes when Abyssal taint threatens innocent bystanders. They encourage mages to examine the root causes of [[Paradox]], and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
 
 ### Merit must guide the Fallen World
 
-The [[Fallen World]] seemingly encourages every avenue to success except virtue. The Guardians deem only the righteous and the capable worthy of magic, defined by dedication to virtue and avoiding [[Paradox]]. Masters are wiser than apprentices; the [[Awakened]] are wiser than [[Sleepers]].\
+[[The Fallen World]] seemingly encourages every avenue to success except virtue. The Guardians deem only the righteous and the capable worthy of magic, defined by dedication to virtue and avoiding [[Paradox]]. Masters are wiser than apprentices; the [[Awakened]] are wiser than [[Sleepers]].\
 [[Quiescence]] damages the world, and [[Sleepers]] harm magic simply by encountering it. The worthy must be guided to seize enlightenment with virtuous action, while the unworthy must be dissuaded by obscure secrets and meaningless arcane lore. Guardians are not paragons, and do not always lead by example, but the Order is the most meritocratic of the Pentacle Orders.
 
 ### Sins for a just end grant Wisdom

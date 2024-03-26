@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Fate]]\
-Practice: Unmaking\
+[[Arcanum]]: [[Fate]]\
+[[The 13 Practices|Practice]]: Unmaking\
 Primary Factor: Potency\
 Withstand: Composure\
 Suggested Rote Skills: Investigation, Medicine, Politics

@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Forces]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Investigation, Stealth, Science
 

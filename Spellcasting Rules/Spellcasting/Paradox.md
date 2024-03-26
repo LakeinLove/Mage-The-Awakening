@@ -7,7 +7,7 @@ _As a mage envisions her spell’s Imago and determines spell factors, she runs 
 
 ---
 
-Once a spell’s factors have been determined, but before the spell is actually cast, the Storyteller determines if a Paradox occurs. Paradox dice are commonly added by Reaching further than the free Reach granted by skill in the Arcanum used for the spell — each Reach beyond those adds Paradox dice according to Gnosis.
+Once a spell’s factors have been determined, but before the spell is actually cast, the Storyteller determines if a Paradox occurs. Paradox dice are commonly added by Reaching further than the free Reach granted by skill in the [[Arcanum]] used for the spell — each Reach beyond those adds Paradox dice according to Gnosis.
 
 Once a single Paradox die is added to the Paradox dice pool, the Storyteller must check for the possibility of a Paradox, even if other factors reduce the Paradox dice pool to a chance die. The dice pool can be modified by certain factors.
 
@@ -23,7 +23,7 @@ If she does not contain it, she will be safer, but the Paradox may warp her spel
 
 | Dice Modifier | Situation                                                                                                                                                                                    |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Special       | The mage has Reached beyond the free Reach granted by Arcanum. This adds the dice amount listed for the character’s Gnosis for every Reach over the limit.                                   |
+| Special       | The mage has Reached beyond the free Reach granted by [[Arcanum]]. This adds the dice amount listed for the character’s Gnosis for every Reach over the limit.                                   |
 | +2            | The mage has become inured to the spell, so that it no longer risks Wisdom loss.                                                                                                             |
 | +1            | Each Paradox roll after the first made for the same caster within the same scene. This bonus accumulates with each roll, so the third roll made for a mage within a scene has a +2 modifier. |
 | +1            | One or more Sleepers witness an obvious casting of magic.                                                                                                                                    |

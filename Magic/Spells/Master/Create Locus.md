@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Making\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Withstand: Gauntlet Strength\
 Suggested Rote Skills: Crafts, Empathy, Survival

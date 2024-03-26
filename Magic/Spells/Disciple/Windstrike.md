@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Matter]]\
-Practice: Weaving\
+[[Arcanum]]: [[Matter]]\
+[[The 13 Practices|Practice]]: Weaving\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Brawl, Crafts
 

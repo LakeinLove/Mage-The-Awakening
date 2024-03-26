@@ -5,8 +5,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Mind]]\
-Practice: Perfecting\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Perfecting\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Expression, Survival
 

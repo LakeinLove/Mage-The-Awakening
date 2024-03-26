@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Spirit]]\
-Practice: Ruling\
+[[Arcanum]]: [[Spirit]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Withstand: Rank\
 Suggested Rote Skills: Expression, Occult, Weaponry

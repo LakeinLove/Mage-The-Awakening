@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Time]]\
-Practice: Ruling\
+[[Arcanum]]: [[Time]]\
+[[The 13 Practices|Practice]]: Ruling\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Occult, Expression
 
@@ -21,4 +21,4 @@ The subject must be a mage, who must deliberately build his Imago to take advant
 Hung Spell may entrap up to its Potency in spells, which remain in their caster’s spell control but do not take effect until Hung Spell is cancelled or runs out of Duration.\
 When Hung Spell ceases, the trapped spells immediately take effect and begin their own Durations.
 
-Many mages use the Fate 2 Attainment to set a Conditional Duration on Hung Spell, so that it releases the trapped spells in response to set conditions.
+Many mages use the [[Fate]] 2 Attainment to set a Conditional Duration on Hung Spell, so that it releases the trapped spells in response to set conditions.

@@ -6,8 +6,8 @@ tags:
 - Disciple
 ---
 
-Arcanum: [[Forces]]\
-Practice: Fraying or Perfecting\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Fraying or Perfecting\
 Primary Factor: Potency\
 Suggested Rote Skills: Athletics, Drive, Science
 

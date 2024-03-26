@@ -5,8 +5,8 @@ tags:
 - Apprentice
 ---
 
-Arcanum: [[Mind]]\
-Practice: Shielding\
+[[Arcanum]]: [[Mind]]\
+[[The 13 Practices|Practice]]: Shielding\
 Primary Factor: Duration\
 Suggested Rote Skills: Academics, Intimidation, Survival
 

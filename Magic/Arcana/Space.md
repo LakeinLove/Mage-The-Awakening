@@ -11,7 +11,7 @@ _The gross Arcanum of Pandemonium expresses that physical separation is as much 
 
 ## General Description
 
-Through this Arcanum, the mage can magnify or collapse the distance between places and objects, conjure things from distant locales, and twist the topography of space into strange and unnatural shapes.\
+Through this [[Arcanum]], the mage can magnify or collapse the distance between places and objects, conjure things from distant locales, and twist the topography of space into strange and unnatural shapes.\
 Space also allows a mage to manipulate the sympathetic connection between subjects.
 
 [[Sympathy]] is the core element of Space, and as such it must be understood in order to use Space spells well.
@@ -76,7 +76,7 @@ Space also allows a mage to manipulate the sympathetic connection between subjec
 
 ## Related
 
-- Gross Arcanum of [[Pandemonium]]
-- Ruling Arcana for the [[Mastigos]] path
+- Gross [[Arcanum]] of [[Pandemonium]]
+- Ruling [[Arcanum|Arcana]] for the [[Mastigos]] path
 - [[Keys]] are a part of the conceptual idea of pathways, and thus fall under Space's purview
 - [[Sympathy]] is the primary element in which Space manipulates

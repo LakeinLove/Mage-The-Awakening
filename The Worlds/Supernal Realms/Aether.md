@@ -9,7 +9,7 @@ tags:
 
 ---
 
-The Ruling Arcana of Aether are the Gross Arcanum [[Forces]] and the Subtle Arcanum [[Prime]].
+The Ruling [[Arcanum|Arcana]] of Aether are the Gross [[Arcanum]] [[Forces]] and the Subtle [[Arcanum]] [[Prime]].
 
 Only those truly elect may bask in the radiance of Aether, guarded by the Hosts with their swords of flame and righteousness. Lightning spears though the sky, as the Flame Supernal tests the mettle of everyone who wishes to wield its power. 
 

@@ -5,8 +5,8 @@ tags:
 - Adept
 ---
 
-Arcanum: [[Forces]]\
-Practice: Patterning\
+[[Arcanum]]: [[Forces]]\
+[[The 13 Practices|Practice]]: Patterning\
 Primary Factor: Duration\
 Suggested Rote Skills: Crafts, Occult, Science
 

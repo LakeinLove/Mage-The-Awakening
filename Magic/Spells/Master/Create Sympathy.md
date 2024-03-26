@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Space]]\
-Practice: Making\
+[[Arcanum]]: [[Space]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Potency\
 Withstand: Connection of desired link\
 Suggested Rote Skills: Empathy, Persuasion, Politics

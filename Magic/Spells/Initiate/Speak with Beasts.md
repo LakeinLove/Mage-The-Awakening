@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Life]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Life]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Empathy, Animal Ken, Survival
 

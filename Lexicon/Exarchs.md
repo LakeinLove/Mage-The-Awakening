@@ -1,6 +1,0 @@
----
-aliases:
-  - Exarch
-  - Tyrant
-  - Tyrants
----

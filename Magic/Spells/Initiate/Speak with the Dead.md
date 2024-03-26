@@ -5,8 +5,8 @@ tags:
 - Initiate
 ---
 
-Arcanum: [[Death]]\
-Practice: Unveiling\
+[[Arcanum]]: [[Death]]\
+[[The 13 Practices|Practice]]: Unveiling\
 Primary Factor: Duration\
 Suggested Rote Skills: Socialize, Expression, Investigation
 

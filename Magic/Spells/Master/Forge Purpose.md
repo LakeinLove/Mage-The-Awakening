@@ -5,8 +5,8 @@ tags:
 - Master
 ---
 
-Arcanum: [[Prime]]\
-Practice: Making\
+[[Arcanum]]: [[Prime]]\
+[[The 13 Practices|Practice]]: Making\
 Primary Factor: Duration\
 Withstand: Resolve\
 Suggested Rote Skills: Empathy, Expression, Medicine

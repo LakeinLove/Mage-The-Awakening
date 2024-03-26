@@ -7,13 +7,13 @@ _Active Mage Sight allows the mage a much greater sensory experience with regard
 
 ---
 
-Active Mage Sight requires more concentration from the mage, and overlays the mage’s perception with the Supernal World of her [[Path]]. It automatically uses the mage’s two [[Path]] Ruling Arcana, has no cost to add any third Ruling Arcanum, and costs one point of [[Mana]] per scene to include a Common or Inferior Arcanum.
+Active Mage Sight requires more concentration from the mage, and overlays the mage’s perception with the Supernal World of her [[Path]]. It automatically uses the mage’s two [[Path]] Ruling [[Arcanum|Arcana]], has no cost to add any third Ruling [[Arcanum]], and costs one point of [[Mana]] per scene to include a Common or Inferior [[Arcanum]].
 
-The mage hallucinates, seeing the connections of the Arcana all around her. [[Mage Sight]] highlights all phenomena related to the [[Arcanum|Arcana]] used, but making sense of the torrent of [[Patterns]] is often difficult, and the mage can only determine the symbols related to phenomena within her senses — her Sight won’t let her see through walls or perceive entities and objects in a state of [[Twilight]]. [[Practice of Unveiling|Unveiling]] spells and several [[Attainments]] allow more specialized analysis of a mage’s surroundings, either adding capabilities to [[Mage Sight]] or granting extra senses for more information.
+The mage hallucinates, seeing the connections of the [[Arcanum|Arcana]] all around her. [[Mage Sight]] highlights all phenomena related to the [[Arcanum|Arcana]] used, but making sense of the torrent of [[Patterns]] is often difficult, and the mage can only determine the symbols related to phenomena within her senses — her Sight won’t let her see through walls or perceive entities and objects in a state of [[Twilight]]. [[Practice of Unveiling|Unveiling]] spells and several [[Attainments]] allow more specialized analysis of a mage’s surroundings, either adding capabilities to [[Mage Sight]] or granting extra senses for more information.
 
 ## Mechanics
 
-Each Arcanum has a minor mechanical effect, relating to the base level of perception granted by Active Sight.
+Each [[Arcanum]] has a minor mechanical effect, relating to the base level of perception granted by Active Sight.
 
 [[Death]] Sight:\
 Allows a mage to detect the presence of the Anchor [[Condition]] or manifested ghosts and related phenomena. With a glance, a mage using [[Mage Sight]] can tell if someone has a soul, or if a body is, in fact, dead.
@@ -57,6 +57,6 @@ For example, a light-based invisibility spell would conceal a target from [[Magi
 
 ## Mechanics
 
-Entering Active Mage Sight is a reflexive action when only using Ruling Arcana, and an instant action otherwise. Leaving it is always reflexive. If the Storyteller determines that a mage’s Active Mage Sight could logically pierce a concealment effect, use a [[Clash of Wills]], pitting the observing mage’s [[Gnosis]] + [[Arcanum]] against the defender’s dice pool for the concealment power.
+Entering Active Mage Sight is a reflexive action when only using Ruling [[Arcanum|Arcana]], and an instant action otherwise. Leaving it is always reflexive. If the Storyteller determines that a mage’s Active Mage Sight could logically pierce a concealment effect, use a [[Clash of Wills]], pitting the observing mage’s [[Gnosis]] + [[Arcanum]] against the defender’s dice pool for the concealment power.
 
 While a character is using Active Mage Sight, she suffers a –2 modifier to all rolls unrelated to using or perceiving magic. In addition, [[Mage Sight]] is draining. A mage can maintain Active Mage Sight for a number of minutes equal to her [[Gnosis]]. After that, she must spend a [[Willpower]] point to keep it active for the remainder of the scene.
