@@ -13,23 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "70dcd5da14899b1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fallen World.md",
+                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
+                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
+                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md"
+                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md"
               }
             }
           }
@@ -163,18 +150,18 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
+    "Magic/Practices/Disciple/Practice of Fraying.md",
     "Fallen World.md",
-    "Spellcasting Rules/Practices/Disciple/Practice of Fraying.md",
     "Lexicon/Lie.md",
     "Lexicon/Keys.md",
     "Lexicon/Lexicon.md",
     "Magic/Spells/Adept/Alter Direction.md",
-    "Spellcasting Rules/Practices/The 13 Practices.md",
+    "Magic/Practices/The 13 Practices.md",
     "Magic/Spells/Disciple/Warp.md",
     "Magic/Spells/Apprentice/Gossamer Touch.md",
     "Lexicon/Arcanum.md",
     "Lexicon/Attribute.md",
-    "Spellcasting Rules/Spellcasting/Withstanding Magic.md",
+    "Magic/Spellcasting/Withstanding Magic.md",
     "Magic/Spells/Adept/Teleportation.md",
     "Magic/Magic Concepts/Gnosis/Gnosis Table.md",
     "Magic/Arcana/Time.md",
