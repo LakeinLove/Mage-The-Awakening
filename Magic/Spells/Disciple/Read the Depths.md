@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Medicine
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Investigation]], [[Medicine]]
 
 ---
 

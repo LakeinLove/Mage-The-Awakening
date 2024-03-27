@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Athletics, Occult
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Athletics]], [[Occult]]
 
 ---
 

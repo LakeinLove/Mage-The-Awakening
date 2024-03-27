@@ -10,7 +10,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]] or [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Durability\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Medicine, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Medicine]], [[Subterfuge]]
 
 ---
 

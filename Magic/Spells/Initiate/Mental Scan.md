@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Occult
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Investigation]], [[Occult]]
 
 ---
 

@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Science, Subterfuge
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Science]], [[Subterfuge]]
 
 ---
 

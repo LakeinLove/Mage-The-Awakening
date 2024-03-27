@@ -8,9 +8,9 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Cost: One Mana\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Subterfuge, Persuasion, Stealth
+Cost: One [[Mana]]\
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Subterfuge]], [[Persuasion]], [[Stealth]]
 
 ---
 
@@ -22,7 +22,7 @@ Any attempts to see the subject through mundane means of detection or observatio
 Not only is she invisible to the naked eye, but evidence of her life is scrubbed.
 
 All Doors she may have opened during social interactions with others, either on herself or on the other person, are removed.\
-All her Conditions, and all Conditions applying to her (except for [[Paradox]] Conditions), resolve without granting Beats.
+All her Conditions, and all Conditions applying to her (except for [[Paradox]] Conditions), resolve without granting [[Beats]].
 
 While invisible, the subject cannot make violent, overt actions without breaking the spell’s illusion.\
 Physically damaging or breaking objects, or attacking someone, causes the spell to end immediately

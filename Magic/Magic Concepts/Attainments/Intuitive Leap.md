@@ -9,5 +9,5 @@ _An Adept of Mind possesses a keen understanding of social responses and cues, a
 
 ---
 
-The player can spend a point of Mana whenever she rolls three or more successes on a Social or Mental roll.\
+The player can spend a point of [[Mana]] whenever she rolls three or more successes on a Social or Mental roll.\
 That roll is considered an exceptional success, meaning that the player can place a Condition on a subject.

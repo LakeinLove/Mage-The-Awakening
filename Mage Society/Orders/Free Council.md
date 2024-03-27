@@ -11,14 +11,14 @@ _The Free Council, a young organization of mages who espouse democratic ideals a
 
 ## Humanity is Magical
 
-Magic exists in the Fallen World, like a tree stunted by the Abyss, growing ever upward to touch the Supernal. The Awakened have always been sensitive to the spirit of an age, and the modern age is one of power and promise. All of humanity’s knowledge can be held in a pocket, while revolutions are given wings by invisible birds.\
+Magic exists in the Fallen World, like a tree stunted by [[The Abyss]], growing ever upward to touch the Supernal. The Awakened have always been sensitive to the spirit of an age, and the modern age is one of power and promise. All of humanity’s knowledge can be held in a pocket, while revolutions are given wings by invisible birds.\
 Mathematicians and theoretical scientists grasp the fundamental nature of reality, straining against the impossible. The Fallen World is a chain on human souls, but any chain can be reforged into a key…or a sword. 
 
 Upheaval and innovation lead to occult [[Wisdom]]: This is the basis of the Council of Free Assemblies, an Order comprised of modern idealists and ancient rebels united by a shared love of humanity and the belief that the traditions of the Fallen World hold a place equal to the Supernal. Geniuses, rebels, malcontents — all have places within Assemblies, fostering a flourishing idealism tempered by practical iconoclasm.  
 
-Larger and more varied than all other Orders, Libertine sancta ring with competing voices of anarchists, free-market capitalists, and doctrinaire demagogues. Ancient Legacies and formerly-Nameless societies that predate the Diamond share a table with cutting-edge technomancers, bound by the Libertine Creed and a vision of the future.
+Larger and more varied than all other Orders, Libertine [[Sancta]] ring with competing voices of anarchists, free-market capitalists, and doctrinaire demagogues. Ancient Legacies and formerly-Nameless societies that predate the Diamond share a table with cutting-edge technomancers, bound by the Libertine Creed and a vision of the future.
 
-**Mages join the Libertines** when they want to fight for Sleepers and democracy, when they find more value in the works of modern-day humanity than those of ancient mages, when they’re deeply invested in a Sleeper magical culture.
+**Mages join the Libertines** when they want to fight for [[Sleepers]] and democracy, when they find more value in the works of modern-day humanity than those of ancient mages, when they’re deeply invested in a [[Sleepers|Sleeper]] magical culture.
 
 ## Core Beliefs
 
@@ -29,15 +29,15 @@ The past is gone and the future ever-mutable, but the present is the most exciti
 
 ### Humanity is Magical
 
-Sleepers in groups evince Supernal inspiration. Other Orders hide within, control, and inspire Sleeper societies; but Council mages invest in them, finding new occult secrets in culture, science, technology, and art. Sleeper art corresponds to Supernal symbols that never existed before the moment of artistic inspiration.\
-Libertines admit that [[Quiescence]] can damage individual Sleepers, while insisting that the communal spirit of humanity reflects the Supernal. Even hardcore Libertines know it’s dangerous to teach secrets to the unworthy, so they strive to make all Sleepers worthy.
+[[Sleepers]] in groups evince Supernal inspiration. Other Orders hide within, control, and inspire [[Sleepers|Sleeper]] societies; but Council mages invest in them, finding new occult secrets in culture, science, technology, and art. [[Sleepers|Sleeper]] art corresponds to Supernal symbols that never existed before the moment of artistic inspiration.\
+Libertines admit that [[Quiescence]] can damage individual [[Sleepers]], while insisting that the communal spirit of humanity reflects the Supernal. Even hardcore Libertines know it’s dangerous to teach secrets to the unworthy, so they strive to make all [[Sleepers]] worthy.
 
-Libertines rarely work to uplift Sleepers individually; direct communion with the Supernal means the Awakened are, ironically, less capable of reflecting Above and Below. Instead, Libertines work to bridge the gap between Sleepers and Awakened by destroying the pernicious Lies that crush the human soul.\
+Libertines rarely work to uplift [[Sleepers]] individually; direct communion with the Supernal means the Awakened are, ironically, less capable of reflecting Above and Below. Instead, Libertines work to bridge the gap between [[Sleepers]] and Awakened by destroying the pernicious Lies that crush the human soul.\
 Doing so will draw forth the Abyssal shard within every human soul simultaneously rather than piecemealed Awakenings. Revolutions may centre on powerful individuals, but they are movements of peoples entire.
 
 ### Destroy the Followers of the Lie
 
-Sleepers are enslaved by [[Quiescence]]. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though [[Lie|the Lie]] themselves — it forces humanity into a hierarchy of Awakened and Sleeper merely by existing.  
+[[Sleepers]] are enslaved by [[Quiescence]]. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though [[Lie|the Lie]] themselves — it forces humanity into a hierarchy of Awakened and [[Sleepers|Sleeper]] merely by existing.  
 
 Radical columns advocate open war against the [[Seers of the Throne|Seers]] (and, sometimes, the [[Silver Ladder]]), but the Council as a whole cannot agree on the best way to reform Awakened society away from authoritarian origins. Most have settled on the idea that peaceful cooperation within the Pentacle will gradually grow the Awakened community away from outmoded governance. The Pentacle’s formation is a victory already, after all.
 
@@ -71,10 +71,10 @@ As the Free Council seeks to mix magic and science, the Libertines hold dear the
 
 ## Magical Symbolism: Culture
 
-Human genius drives the praxis of Libertine magic, considering the complex occult and scientific traditions of the Fallen World to be reciprocal Supernal symbols. Power and value ascribed symbolic importance by Sleepers creates magical resonance.  
+Human genius drives the praxis of Libertine magic, considering the complex occult and scientific traditions of the Fallen World to be reciprocal Supernal symbols. Power and value ascribed symbolic importance by [[Sleepers]] creates magical resonance.  
 Derided as techné (“Craft,”) by the conservative elements of the Diamond Orders, the Libertines adopted the term as a badge of honour, their unity and recognition of human power enabling a powerful and versatile Order praxis.  
 
-The Libertines dedicate complex Sleeper phenomena as magical tools, constantly seeking and inventing new Instruments to probe the Supernal, valuing their cultural power over potential Atlantean symbolism. Mathematical formulae hold a place alongside (and complementary to) Platonic gematria.\
+The Libertines dedicate complex [[Sleepers|Sleeper]] phenomena as magical tools, constantly seeking and inventing new Instruments to probe the Supernal, valuing their cultural power over potential Atlantean symbolism. Mathematical formulae hold a place alongside (and complementary to) Platonic gematria.\
 Stonehenge and Baghdad batteries can be occult devices as much as solar panels and microwave power emitters. Libertines exalt the process of science itself as a tool of wonder, humanity’s reach exceeding its imagination.
 
 ## Hubris
@@ -87,12 +87,12 @@ Mistakes stem further from abdicated responsibility for group actions, or justif
 
 ##### Radio Free Libertine
 
-The antenna clicks as I unfold it, spots of rust dotting an iron frame too dull to reflect the night sky. I grasp the iron and begin to speak, my will transforming words into waves across the night sky. Sleepers don’t need magic to hear me, just a working radio. This city needs a voice who can tell it like it is, one who didn’t blind herself in the sunlight when she left the cave. It’s easy to forget the people on the street when you’re in a tower.\
+The antenna clicks as I unfold it, spots of rust dotting an iron frame too dull to reflect the night sky. I grasp the iron and begin to speak, my will transforming words into waves across the night sky. [[Sleepers]] don’t need magic to hear me, just a working radio. This city needs a voice who can tell it like it is, one who didn’t blind herself in the sunlight when she left the cave. It’s easy to forget the people on the street when you’re in a tower.\
 It’s easy to forget what’s worth fighting for. Every night, I remind them. When I walk the streets these nights, I see my words painted over gang tags. The war for reality is won with hearts and minds.
 
 ##### Dreamer
 
-I tell the stories of long, long ago, when time first began for people after creation. Every night, I stoke the fire, telling all who will listen — Sleeper or Awakened alike. I speak of how the spirits made the world, placed man there, commanded obeisance.  
+I tell the stories of long, long ago, when time first began for people after creation. Every night, I stoke the fire, telling all who will listen — [[Sleepers|Sleeper]] or Awakened alike. I speak of how the spirits made the world, placed man there, commanded obeisance.  
 Idly, my hands trace sigils on a rock, speaking of how the spirits live within, how new life exudes from the stones to be reborn as men. There is power in stories, that much the Diamond tells true. Truth resides in the listener, though, not in the speaker. When I’m done speaking, I always ask the listener what he thought, and I’m not satisfied until I’ve learned something new.
 
 ## Stereotypes

@@ -12,7 +12,7 @@ Electrocution automatically causes bashing damage per turn of exposure. No attac
 
 If harm from electricity is more than just instantaneous — there’s a constant flow such as through power cables — a victim may not be able to escape.\
 His muscles contract, which can prevent him from pulling away.\
-Roll Strength as a reflexive action in each turn of contact. Failure means your character is still connected to the source and suffers its damage each turn until a successful roll is made.
+Roll [[Strength]] as a [[Reflexive Action]] in each turn of contact. Failure means your character is still connected to the source and suffers its damage each turn until a successful roll is made.
 
 | Source | Example                                     | Damage |
 | ------ | ------------------------------------------- | ------ |

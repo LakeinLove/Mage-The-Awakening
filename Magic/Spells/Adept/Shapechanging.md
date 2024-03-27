@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Stamina\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Athletics, Science
+[[Withstanding Magic|Withstand]]: [[Stamina]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Animal Ken]], [[Athletics]], [[Science]]
 
 ---
 
@@ -21,7 +21,7 @@ The Scale factor of the spell must cover the larger of the Size traits, before a
 
 The subject’s clothes and gear do not change, and she must also contend with powerful instincts in the animal form.
 
-When confronted by circumstances that would trigger a strong instinctive response, such as a male lion’s need to kill all competitors’ cubs, or if the subject is hungry in bear form and faced with a prey animal, she must roll Composure + Resolve reflexively to avoid acting on these impulses.\
+When confronted by circumstances that would trigger a strong instinctive response, such as a male lion’s need to kill all competitors’ cubs, or if the subject is hungry in bear form and faced with a prey animal, she must roll [[Composure]] + [[Resolve]] reflexively to avoid acting on these impulses.\
 Failure means that she gives in to the primal urges until they’re satisfied.
 
 Mages add [[Gnosis]] to this roll, and other supernatural beings add their own Tolerance Traits.

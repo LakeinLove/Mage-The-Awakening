@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Space]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Larceny, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Larceny]], [[Persuasion]]
 
 ---
 

@@ -21,4 +21,4 @@ So, an Enhanced Item with nine dots actually contains up to seven dots’ worth 
 Additionally, dots can be spent to directly enhance the item.\
 A dot can provide +1 to the item’s bonus as a tool, a point of Structure, or a point of Durability.
 
-This Merit can be combined with the Imbued Item Merit, but it cannot be combined with the [[Artifact]] Merit.
+This Merit can be combined with the [[Imbued Item]] Merit, but it cannot be combined with the [[Artifact]] Merit.

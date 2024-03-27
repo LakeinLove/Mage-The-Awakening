@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Science, Weaponry
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Science]], [[Weaponry]]
 
 ---
 

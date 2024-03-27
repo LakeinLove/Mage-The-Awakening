@@ -4,7 +4,7 @@ tags:
 - Objects
 ---
 
-_An object’s Structure is equivalent to its Health and equals its [[Durability]] + [[Size]]._
+_An object’s Structure is equivalent to its [[Health]] and equals its [[Durability]] + [[Size]]._
 
 ---
 

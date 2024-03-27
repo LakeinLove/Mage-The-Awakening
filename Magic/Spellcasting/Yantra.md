@@ -17,7 +17,7 @@ The Diamond calls these keys “Yantras,” after the Sanskrit word for a mystic
 The Free Council prefers the more prosaic “Instruments,” focusing on their grounding in humanity’s acts of creation.\
 The Seers know them as “Chains,” mystic signatures burned into the Fallen World by the hands of the [[Peoples/Exarchs|Exarchs]].
 
-Sleepwalkers and Sleepers alike often mistake the medium for the message, believing that the Yantras associated with a given working are in and of themselves sources of power.\
+[[Sleepwalkers]] and [[Sleepers]] alike often mistake the medium for the message, believing that the Yantras associated with a given working are in and of themselves sources of power.\
 This belief — that anyone can work Supernal magic with the right combination of items, motions, and words — is sadly mistaken.\
 To a mage, they are aids to concentration and keys that unlock parts of an Imago held in memories.
 
@@ -42,7 +42,7 @@ A mage can only get so much help from Yantras — after offsetting any penalties
 A mage may want to use as many Yantras as possible in her spellcasting, especially for powerful acts of magic. She can, however, only access so many pieces of Supernal knowledge at once.\
 To reflect this, the number of Yantras she can apply to a given spellcasting pool is limited by her [[Gnosis]]. If she uses one ritual item in many ways, each individual use counts as one Yantra for this limit.
 
-It takes time to draw upon the Supernal sympathy of objects and actions. A mage can draw upon one Yantra as a reflexive action when casting a spell; each further Yantra extends the casting time of instant spells by a turn.\
+It takes time to draw upon the Supernal sympathy of objects and actions. A mage can draw upon one Yantra as a [[Reflexive Action]] when casting a spell; each further Yantra extends the casting time of instant spells by a turn.\
 Ritual spells already take long enough to incorporate as many Yantras as the mage is able and willing to use. Someone who wants to interrupt an involved casting thus has plentiful opportunities to snatch away mystic items, block out the light of the full moon, or just shoot the mage in the head.
 
 ## List of Yantras
@@ -53,15 +53,15 @@ Mages seek out — or create — locations that border the Supernal in the hope 
 
 #### Demense
 
-A willworker might enhance her ritual space with a soul stone, turning it into a weak form of Verge. Mages most often decorate their ritual spaces according to their Orders — a Mystagogue’s ritual space may be a storehouse of knowledge that reflects the Order’s Tarsi Archive, while a given Libertine may fit hers out as a machine shop or embed the soul stone in a sacred tree.
+A willworker might enhance her ritual space with a soul stone, turning it into a weak form of [[Verges and Demesnes|Verge]]. Mages most often decorate their ritual spaces according to their Orders — a Mystagogue’s ritual space may be a storehouse of knowledge that reflects the Order’s Tarsi Archive, while a given Libertine may fit hers out as a machine shop or embed the soul stone in a sacred tree.
 
-A Demesne is of most use in ritual casting. It provides a prepared, sacred space where the mystic can work without the interruptions of [[Lie|the Lie]]; only a few (such as a dojo used by an Adamantine Arrow to practice sacred weapon forms) are of any use with instant spells and then only in defences of the Demesne.\
-Beyond that, the construction and sacred tools within a Demesne determine what magics it can apply to.\
+A [[Verges and Demesnes|Demesne]] is of most use in ritual casting. It provides a prepared, sacred space where the mystic can work without the interruptions of [[Lie|the Lie]]; only a few (such as a dojo used by an Adamantine Arrow to practice sacred weapon forms) are of any use with instant spells and then only in defences of the [[Verges and Demesnes|Demesne]].\
+Beyond that, the construction and sacred tools within a [[Verges and Demesnes|Demesne]] determine what magics it can apply to.\
 A Libertine’s machine shop helps with spells that build, repair, or dismantle.\
 An Arrow’s training room helps with spells involving duels, preparation for battle, and self-mastery.\
 A Guardian’s Veiled Room helps with spells of disguise, misdirection, and uncovering truths.
 
-**Effect:** Demesnes provide a 2-die bonus. (See [[Demense]] for more info)
+**Effect:** [[Verges and Demesnes|Demesnes]] provide a 2-die bonus. (See [[Demense]] for more info)
 
 #### Environment
 
@@ -69,19 +69,19 @@ Places and times in the Fallen World can bring about the Supernal if they reflec
 
 Location is just as important — many [[Obrimos]] seek out churches to perform spells of persuasion, command, and stewardship. Some wizards prepare ritual spaces that contain multiple Yantras — combining a favourable environment with Atlantean runes and magical tools into a summoning circle. Such a location combines three Yantras in one place — but inexperienced mystics must take their time, and a mage’s enemies will soon learn where best to strike.
 
-An environment has to link to the spell itself, not just the mage. The [[Obrimos]] in a church cannot use it as a Yantra to magically charge her cell phone. The magic must link to what Sleepers know about a place or time, not because their perceptions cause Supernal notice but because their actions unconsciously reflect the Supernal attributes of a place.
+An environment has to link to the spell itself, not just the mage. The [[Obrimos]] in a church cannot use it as a Yantra to magically charge her cell phone. The magic must link to what [[Sleepers]] know about a place or time, not because their perceptions cause Supernal notice but because their actions unconsciously reflect the Supernal attributes of a place.
 
 **Effect:** Casting in an appropriate location grants a 1-die bonus.
 
 #### Supernal Verges
 
 In places where the Supernal touches the Fallen World, willworkers find it much easier to draw power through an Imago.\
-Such places are natural Yantras, lending their power to those within. Each Supernal Verge teems with the power of one of the Supernal Realms, and lends its power to the Ruling [[Arcanum|Arcana]] of that Realm.
+Such places are natural Yantras, lending their power to those within. Each Supernal [[Verges and Demesnes|Verge]] teems with the power of one of the Supernal Realms, and lends its power to the Ruling [[Arcanum|Arcana]] of that Realm.
 
-Supernal Verges are thus as valuable for their versatility as their power. In a Pandemonic Verge, any spells that use the [[Mind]] or [[Space]] [[Arcanum|Arcana]] can draw upon the Verge’s power, be that a long ritual to superimpose two locations or a simple spell to fuddle an opponent’s senses.\
-A mage in the appropriate Supernal Verge can use his mystic connection to the Watchtower to use it as a Yantra on any ritual spell that doesn’t involve the Path’s Inferior [[Arcanum]] but does use one of the Ruling [[Arcanum|Arcana]].
+Supernal [[Verges and Demesnes|Verges]] are thus as valuable for their versatility as their power. In a Pandemonic [[Verges and Demesnes|Verge]], any spells that use the [[Mind]] or [[Space]] [[Arcanum|Arcana]] can draw upon the [[Verges and Demesnes|Verge]]’s power, be that a long ritual to superimpose two locations or a simple spell to fuddle an opponent’s senses.\
+A mage in the appropriate Supernal [[Verges and Demesnes|Verge]] can use his mystic connection to the Watchtower to use it as a Yantra on any ritual spell that doesn’t involve the Path’s Inferior [[Arcanum]] but does use one of the Ruling [[Arcanum|Arcana]].
 
-**Effect:** Verges provide a 2-die bonus. (See [[Supernal Verge]] for more info)
+**Effect:** [[Verges and Demesnes|Verges]] provide a 2-die bonus.
 
 ### Actions
 
@@ -103,7 +103,7 @@ In either case, she must focus on the spell and only the spell. If she wavers, t
 On a basic level, concentration is a mage exerting her will over even her own mind, forcing herself not to weaken. As such, it’s a symbol of ongoing action — and a means to have a spell last longer than it should.\
 The vast majority of mages focus on a spell over time in order to bolster its Duration. A few mages instead see concentration like a lens, focusing Supernal truth. While this interpretation can bolster a spell, it also leaves the mage open to disruption until she completes her spell.
 
-**Effect:** Concentrating on an spell with a Duration greater than a turn provides +2 extra dice. If the mage is hurt or takes a non-reflexive action while the spell is active, it ends immediately.
+**Effect:** Concentrating on an spell with a Duration greater than a turn provides +2 extra dice. If the mage is hurt or takes a non-[[Reflexive Action]] while the spell is active, it ends immediately.
 
 #### Mantras
 
@@ -111,7 +111,7 @@ A trained mage can use [[High Speech]] to intone her Imago, describing the chang
 
 As a Yantra, [[High Speech]] is very versatile. Many mages know enough to declaim control or dominance, or to repeat the words over and over again to build up a defence. It is, however, not subtle. She cannot work words of [[High Speech]] into a normal sentence to compel a listener to her will. The meta-language of the Supernal cannot hide in the shallow grammars and inflections of [[Lie|the Lie]].
 
-**Effect:** If the mage has the High Speech Merit, vocally intoning her Imago confers a 2-die bonus. As it takes time to speak the words, she cannot use this Yantra reflexively — it always increases the casting time.
+**Effect:** If the mage has the [[High Speech Merit]], vocally intoning her Imago confers a 2-die bonus. As it takes time to speak the words, she cannot use this Yantra reflexively — it always increases the casting time.
 
 #### Mudras
 
@@ -122,7 +122,7 @@ Mudras come in many forms — Buddhist Libertines may use zazen, while the Arrow
 
 Each Rote is unique to the mage who created it — some encode specific symbolism into the positioning of individual fingers to allow a student to form his own mnemonic; far more present a paternalistic approach that teaches the mudra and the magic without an intervening step to consider the actions’ meaning.
 
-**Effect:** Using a Rote’s mudra adds the user’s rating in the Rote’s encoded Skill to her dice pool up to +5. If the Skill is one of her Order’s specialized Rote Skills, she adds an extra die. Mudras do not require the mage to actually use the Skill beyond remembering the gestures of the mudra; a mage cannot spend a turn hacking in order to then claim a Computers mudra for a spell.
+**Effect:** Using a Rote’s mudra adds the user’s rating in the Rote’s encoded Skill to her dice pool up to +5. If the Skill is one of her Order’s specialized Rote Skills, she adds an extra die. Mudras do not require the mage to actually use the Skill beyond remembering the gestures of the mudra; a mage cannot spend a turn hacking in order to then claim a [[Computer|Computers]] mudra for a spell.
 
 #### Runes
 
@@ -143,7 +143,7 @@ Each mage maintains at least a handful of magical tools, mundane items that have
 #### Path Tools
 
 Each Supernal Realm has its reflections in the Fallen World, and a mage knows the Tools of magic that align closely to her Path.\
-While mages with a background in Sleeper occultism recognize that the Path tools show up in several traditions, their direct elemental or Tarot symbolism is [[Lie|the Lie]]’s corruption of the Supernal Realms’ truth.
+While mages with a background in [[Sleepers|Sleeper]] occultism recognize that the Path tools show up in several traditions, their direct elemental or Tarot symbolism is [[Lie|the Lie]]’s corruption of the Supernal Realms’ truth.
 
 Each Path has five Tools, each of which has a specific magical function:
 - **Coins** or other symbols of material wealth, which represent construction, repair, and inanimate or intangible things that last beyond mere human lifespans. It is the Tool closest to the Fallen World, and so is often used to manipulate it directly, for money or other resources.
@@ -168,16 +168,16 @@ The formal magical style of the Diamond Orders and the Seers of the Throne all r
 The Seers of the Throne each choose a sigil or word that they must display to use it as a Tool.
 
 The Free Council are an oddity among all the other Orders.\
-While every Libertine may use complex mechanisms and systems as Order Tools, the Techné Merit allows a Libertine to focus on a personal style of magic based on Sleeper culture, using it as an additional Tool in her magic.
+While every Libertine may use complex mechanisms and systems as Order Tools, the Techné Merit allows a Libertine to focus on a personal style of magic based on [[Sleepers|Sleeper]] culture, using it as an additional Tool in her magic.
 
 #### Sympathy
 
 Rather than defining the “what” of a spell, sympathetic tools define the “who” — the person, place, creature, or institution upon which the mage forces her will.\
-She may have a person’s Sympathetic Name or a lock of his hair, a ghost’s Anchor, a chunk of concrete taken from a building, or a company’s articles of incorporation.\
+She may have a person’s [[Sympathetic Name]] or a lock of his hair, a ghost’s Anchor, a chunk of concrete taken from a building, or a company’s articles of incorporation.\
 Whatever the case, the Yantra represents the subject of the spell, allowing the mage to build it into the Imago or access an [[Attainments|Attainment]] to use her own sympathetic connection to the subject in order to cast across [[Space]] or [[Time]].
 - Material sympathy represents the subject as he is now, or at the time the mage wants to affect him. It could be a piece of the target’s physical substance, or a recent photograph or recording; an item the subject created within a month is also acceptable.
 - Representational sympathy is something that represents the subject though she has changed since — an old lock of hair or photo of the subject as a child, for example.
-- Symbolic sympathy includes indirect representations of the subject — a person’s Sympathetic Name, drawings, caricatures, or posed and costumed photographs.
+- Symbolic sympathy includes indirect representations of the subject — a person’s [[Sympathetic Name]], drawings, caricatures, or posed and costumed photographs.
 
 **Effects:** Material sympathy gives a 2-die bonus to the spellcasting pool, while representational sympathy adds +1 die.\
 Symbolic sympathy is not close enough to the subject to give a bonus.\
@@ -198,19 +198,19 @@ Particularly twisted mages kill animals and murder humans for the magical power.
 
 #### Persona
 
-Some mages invest in their cabals and in their Shadow Names, coming up with whole new personas as willworkers, independent — or at least, significantly divergent — from who they were as Sleepers.
+Some mages invest in their cabals and in their [[Shadow Name|Shadow Names]], coming up with whole new personas as willworkers, independent — or at least, significantly divergent — from who they were as [[Sleepers]].
 
-A persona binds a mage’s magical style, her personal mysteries, and her Shadow Name into an identity that, over time, leaves its mark on the Fallen World.\
+A persona binds a mage’s magical style, her personal mysteries, and her [[Shadow Name]] into an identity that, over time, leaves its mark on the Fallen World.\
 By playing to this fictional persona, she can tap in to a level of Supernal sympathy. Her actions must play in to her personal story, however — a fortune-teller or faith healer can’t use her persona as a Yantra to harm another.\
 By contrast, the faith healer could use his persona not just for healing, but to bolster his reputation and give his words greater gravitas, making people more likely to believe him.
 
-**Effect:** A persona Yantra keys in to the mage’s Shadow Name and Cabal Theme Merits, providing +1 to +4 dice. Mana charged by ley resonance also allows a +1 Persona Yantra.
+**Effect:** A persona Yantra keys in to the mage’s [[Shadow Name]] and [[Cabal Theme]] [[Merits]], providing +1 to +4 dice. [[Mana]] charged by ley resonance also allows a +1 Persona Yantra.
 
 #### Dedicated Tools
 
-Each mage has a Dedicated Magical Tool — an item that synchronizes with her Nimbus and that feeds in to her understanding of magic.
+Each mage has a Dedicated Magical Tool — an item that synchronizes with her [[Nimbus]] and that feeds in to her understanding of magic.
 
-A [[Thyrsus]] who trusts to nature to provide may not have much by way of possessions, but his walking stick is his staff, and he uses it even for spells that do not benefit from its symbolism. A Botswanan Libertine who learned the magic of the Sangoma may tap a rhythm on her drum even when the noise has no bearing on her spells, as the drumming is part of her Nimbus.
+A [[Thyrsus]] who trusts to nature to provide may not have much by way of possessions, but his walking stick is his staff, and he uses it even for spells that do not benefit from its symbolism. A Botswanan Libertine who learned the magic of the Sangoma may tap a rhythm on her drum even when the noise has no bearing on her spells, as the drumming is part of her [[Nimbus]].
 
 The Dedicated tool is often the first Path tool that the mage used, or something that she grabbed at the moment of her [[Awakening]].\
 If it gets destroyed or lost, she can replace it — but at a price. She must use her chosen tool as a Yantra in every spell she casts for a month (counting against her limit), regardless of whether doing so gives any benefit.

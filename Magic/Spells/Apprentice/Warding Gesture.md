@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Shielding|Shielding]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Occult, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Brawl]], [[Occult]], [[Subterfuge]]
 
 ---
 

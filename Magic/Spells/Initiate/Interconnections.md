@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Medicine
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Investigation]], [[Medicine]]
 
 ---
 
@@ -21,4 +21,4 @@ In addition to allowing the mage to detect any [[Sympathy|sympathetic]] connecti
 
 **+1 [[Reach]]:** The mage can also detect possession, supernatural mind control, and alterations of destiny.
 
-**+2 [[Reach]]:** The mage can also discern specific information about a subject’s destiny — such as the Doom of a subject with the Destiny Merit or the the parameters of a conditional Duration.
+**+2 [[Reach]]:** The mage can also discern specific information about a subject’s destiny — such as the Doom of a subject with the [[Destiny Merit]] or the the parameters of a conditional Duration.

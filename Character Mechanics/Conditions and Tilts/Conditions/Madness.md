@@ -7,8 +7,8 @@ tags:
 _Your character saw or did something supernatural that jarred her loose from reality._
 
 Persistent [[Conditions|Condition]]\
-**Resolution:** Regain a dot of Integrity or Wisdom, lose another dot of Integrity or Wisdom, or achieve an exceptional success on a breaking point or Act of Hubris.\
-**Beat:** The character fails a roll because of this Condition.
+**Resolution:** Regain a dot of Integrity or Wisdom, lose another dot of Integrity or Wisdom, or achieve an exceptional success on a [[Breaking Point]] or [[Act of Hubris]].\
+**[[Beats|Beat]]:** The character fails a roll because of this Condition.
 
 ---
 

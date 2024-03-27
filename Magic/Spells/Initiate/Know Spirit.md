@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Brawl, Socialise
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Brawl]], [[Socialise]]
 
 ---
 

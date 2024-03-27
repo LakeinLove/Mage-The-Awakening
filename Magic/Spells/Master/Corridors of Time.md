@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Investigation, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Investigation]], [[Persuasion]]
 
 ---
 
@@ -16,11 +16,11 @@ _Where less-advanced Time mages can only undo actions leading directly up to the
 
 ---
 
-The subject arrives in the past at the specified time, inhabiting his own past body and is free to act, changing history by his actions, although the distortions to his timeline are visible under Active [[Time]] Mage Sight. He remains in the past for a time equal to Corridors of Time’s Duration factor, or until he “catches up” to the present.\
+The subject arrives in the past at the specified time, inhabiting his own past body and is free to act, changing history by his actions, although the distortions to his timeline are visible under Active [[Time]] [[Mage Sight]]. He remains in the past for a time equal to Corridors of Time’s Duration factor, or until he “catches up” to the present.\
 Once in the present, the new timeline sets and any changes the subject made to history become Lasting.
 
 Without temporal sympathy, the subject may only be sent back to a period with an Unchanged temporal sympathy to the present.\
 By using temporal sympathy, the mage may allow her subject to revisit old decisions and make different choices. The subject arrives in whatever location he was in at the time chosen.\
 By including the [[Sympathetic Range]] [[Attainments|Attainment]], the mage may send him somewhere else, but subjects cannot be sent back to periods outside their own lifetime.\
-Such unfettered time travel is the stuff of legend, temporal Irises, and whispers about the powers of archmages.
+Such unfettered time travel is the stuff of legend, temporal [[Irises]], and whispers about the powers of archmages.
 

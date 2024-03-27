@@ -9,8 +9,8 @@ _The human body is not conditioned to withstand extreme heat, cold, air pressure
 
 When exposed to a harsh environment, the Storyteller assigns a level to the environment, using the chart below as a guideline. Survival gear can reduce the effective environment level.
 
-While characters are exposed to these conditions, they suffer the level of the environment as a penalty to all actions. After a number of hours equal to the character’s Stamina, he takes bashing damage equal to the environment’s level once per hour.\
-In the case of a Level 3 exposure, the damage is lethal instead of bashing. Fourth-level environments cause lethal damage each turn after a number of turns equal to the character’s Stamina.
+While characters are exposed to these conditions, they suffer the level of the environment as a penalty to all actions. After a number of hours equal to the character’s [[Stamina]], he takes bashing damage equal to the environment’s level once per hour.\
+In the case of a Level 3 exposure, the damage is lethal instead of bashing. Fourth-level environments cause lethal damage each turn after a number of turns equal to the character’s [[Stamina]].
 
 Any damage caused by levels 2–4 exposure leaves lasting marks, scars, and tissue damage. Damage caused by Extreme Environments cannot be healed until the character is back in a safe environment.
 

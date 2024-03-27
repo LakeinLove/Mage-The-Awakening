@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Empathy, Socialise
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Empathy]], [[Socialise]]
 
 ---
 
@@ -17,9 +17,9 @@ _The mage synchronizes the surface thoughts of her subjects, making the surface 
 
 ---
 
-Apply the spell’s Potency as a bonus or penalty to relevant Skill rolls (such as Empathy or Subterfuge) between the subjects.
+Apply the spell’s Potency as a bonus or penalty to relevant Skill rolls (such as [[Empathy]] or [[Subterfuge]]) between the subjects.
 
-Subjects who carefully think of a message may use the effect to communicate telepathically along the link; this may require a Composure + Empathy roll for subjects unused to the sensation.
+Subjects who carefully think of a message may use the effect to communicate telepathically along the link; this may require a [[Composure]] + [[Empathy]] roll for subjects unused to the sensation.
 
 **+1 [[Reach]]:** Only thoughts the originating subject wishes to send are transmitted.
 

@@ -9,7 +9,7 @@ _Most mages belong to one of three sects — the Diamond, the Free Council, or t
 
 The Diamond and the Free Council maintain an alliance (called the Pentacle) against the Seers.
 
-The four Orders of the Diamond Precept claim a common origin as spiritual successors of the Awakened of the Time Before, modelling themselves after what they see as a perfected, Supernal society like a vast, shared, Shadow Name.\
+The four Orders of the Diamond Precept claim a common origin as spiritual successors of the Awakened of the Time Before, modelling themselves after what they see as a perfected, Supernal society like a vast, shared, [[Shadow Name]].\
 The evidence they present for their Supernal remit is inconclusive at best, but this shared symbolism has helped hold the sect together over centuries by giving its members a common set of cultural reference points.
 
 The four Diamond Orders are the Adamantine Arrow, the Guardians of the Veil, the Mysterium, and the Silver Ladder.

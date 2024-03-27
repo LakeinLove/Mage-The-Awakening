@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Cost: 1 Mana\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Crafts, Occult
+Cost: 1 [[Mana]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Crafts]], [[Occult]]
 
 ---
 

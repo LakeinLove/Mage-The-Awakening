@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computers, Crafts, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Computer|Computers]], [[Crafts]], [[Science]]
 
 ---
 

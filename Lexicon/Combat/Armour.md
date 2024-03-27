@@ -16,7 +16,7 @@ When applying armour to an attack dealing lethal damage, you always take at leas
 
 ## Armour Chart
 
-| Type                    | Rating | Str | Defence | Speed | Availability | Coverage          |
+| Type                    | Rating | Str | [[Defence]] | [[Speed]] | Availability | Coverage          |
 | ----------------------- | ------ | --- | ------- | ----- | ------------ | ----------------- |
 | Reinforced Clothing     | 1/0    | 1   | 0       | 0     | •            | Torso, arms, legs |
 | Kevlar Vest (concealed) | 1/3    | 1   | 0       | 0     | •            | Torso             |
@@ -27,8 +27,8 @@ When applying armour to an attack dealing lethal damage, you always take at leas
 | Plate                   | 4/2    | 3   | -2      | -3    | ••••         | Torso, arms, legs |
 
 - Rating: Armour provides protection against normal attacks and Firearms attacks. The number before the slash is for general armour, while the number after the slash is for ballistic armour.
-- Strength: If your character’s Strength is lower than that required for her armour, reduce her Brawl and Weaponry dice pools by –1.
-- Defence: The penalty imposed on your character’s Defence when wearing the armour.
-- Speed: The penalty to your character’s Speed when wearing the armour. 
+- [[Strength]]: If your character’s [[Strength]] is lower than that required for her armour, reduce her [[Brawl]] and [[Weaponry]] dice pools by –1.
+- [[Character Mechanics/Advantages/Defence|Defence]]: The penalty imposed on your character’s [[Character Mechanics/Advantages/Defence|Defence]] when wearing the armour.
+- [[Speed]]: The penalty to your character’s [[Speed]] when wearing the armour. 
 - Availability: The cost in Resources dots or level of Social Merit needed to acquire the armour.
 - Coverage: The areas of a character protected by the armour. Wearing a helmet increases the armour’s coverage to include a character’s head.

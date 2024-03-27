@@ -16,6 +16,6 @@ The mage can reflexively use this [[Attainments|Attainment]] under the following
 - A supernatural compulsion to do something she does not wish to do is directed at her.
 - A supernatural effect is changing her destiny.
 
-The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of Mana.
+The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of [[Mana]].
 
 The character enters a [[Clash of Wills]] with the intruding power, using her [[Gnosis]] + [[Fate]].

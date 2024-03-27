@@ -3,7 +3,7 @@ tags:
 - Combat
 ---
 
-_A character can move his Speed in a single turn and still take an instant action._
+_A character can move his [[Speed]] in a single turn and still take an [[Instant Action]]._
 
 ---
 

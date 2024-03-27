@@ -13,12 +13,12 @@ Players don’t buy Conditions; events in the game apply them and they remain un
 
 Characters can gain Conditions as a result of various factors.\
 Magic may inflict or grant a number of Conditions.\
-A player can also choose to take a Condition relevant to the situation as a result of an exceptional success, and breaking points can cause Conditions as your character deals with them.\
+A player can also choose to take a Condition relevant to the situation as a result of an exceptional success, and [[Breaking Point|breaking points]] can cause Conditions as your character deals with them.\
 Sometimes, the Storyteller will inflict Conditions based on the circumstances of the story.
 
-The listed resolutions for each Condition are the most common ways to end its effects; other actions may also resolve it if they would reasonably cause the Condition’s effects to end. Work with the Storyteller to determine Condition resolution. When your character resolves a Condition, take a Beat. If a Condition has a natural time limit and then fades away, don’t take a Beat — just waiting the Condition out isn’t enough to count as resolving it.
+The listed resolutions for each Condition are the most common ways to end its effects; other actions may also resolve it if they would reasonably cause the Condition’s effects to end. Work with the Storyteller to determine Condition resolution. When your character resolves a Condition, take a [[Beats|Beat]]. If a Condition has a natural time limit and then fades away, don’t take a [[Beats|Beat]] — just waiting the Condition out isn’t enough to count as resolving it.
 
-Some Conditions are marked as Persistent. These Conditions typically last for a long time, and can only be resolved permanently with a specific and impressive effort. Once per game session, a character can gain a Beat when a Persistent Condition impacts her life.
+Some Conditions are marked as Persistent. These Conditions typically last for a long time, and can only be resolved permanently with a specific and impressive effort. Once per game session, a character can gain a [[Beats|Beat]] when a Persistent Condition impacts her life.
 
 ## Improvised Conditions
 
@@ -33,9 +33,9 @@ If play would bog down as you search for the right Condition, just improvise one
 
 Conditions are designed as reminders that events that happened earlier in the story have repercussions later. Usually, Chekhov’s gun applies — if you put the Condition on stage, it should fire by the end of your story. But storytelling games are slippery things, and sometimes a story thread represented by a Condition is better to drop for the sake of the ongoing narrative.
 
-Some Conditions are Persistent, which is to say that they last longer than normal Conditions, and offer multiple Beats. These Conditions have a “Beat” entry in their descriptions. When that thing happens, no more than once per Chapter, take a Beat.
+Some Conditions are Persistent, which is to say that they last longer than normal Conditions, and offer multiple [[Beats]]. These Conditions have a “[[Beats|Beat]]” entry in their descriptions. When that thing happens, no more than once per Chapter, take a [[Beats|Beat]].
 
-For example, an emotional state like Wanton might no longer be relevant to events in the game because a long time has passed, or it might have been the result of a conflict with a character you don’t care about anymore. In those cases, it’s perfectly fine to just cross off the Condition. We recommend awarding a Beat as if resolving it, but that’s at the Storyteller’s discretion.
+For example, an emotional state like Wanton might no longer be relevant to events in the game because a long time has passed, or it might have been the result of a conflict with a character you don’t care about anymore. In those cases, it’s perfectly fine to just cross off the Condition. We recommend awarding a [[Beats|Beat]] as if resolving it, but that’s at the Storyteller’s discretion.
 
 We recommend doing this sparingly, but bottom line: If a Condition doesn’t feel relevant to the story anymore, just let it go.
 

@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Medicine, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Medicine]], [[Persuasion]]
 
 ---
 
@@ -31,4 +31,4 @@ She can also alter the spirit’s size, shape, and appearance as she sees fit, w
 The spirit’s new traits must stay within its Rank-derived maximums.\
 When the spell’s Duration expires, the spirit returns to its original form and capabilities.
 
-**+1 [[Reach]]:** For one Mana, the spell may heal aggravated damage.
+**+1 [[Reach]]:** For one [[Mana]], the spell may heal aggravated damage.

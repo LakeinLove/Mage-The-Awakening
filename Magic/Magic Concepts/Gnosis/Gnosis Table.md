@@ -1,7 +1,7 @@
 ---
 tags:
 - Gnosis
-- Mana
+- [[Mana]]
 - Ritual
 - Obsessions
 ---

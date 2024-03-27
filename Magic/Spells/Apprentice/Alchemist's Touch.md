@@ -8,11 +8,11 @@ tags:
 [[Arcanum]]: [[Matter]]\
 [[The 13 Practices|Practice]]: [[Practice of Shielding|Shielding]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Survival, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Survival]], [[Persuasion]]
 
 ---
 
-_Draped in the leaden shrouds of Stygia, the subject may handle even the most dangerous of substances without fear._
+_Draped in the leaden shrouds of [[Stygia]], the subject may handle even the most dangerous of substances without fear._
 
 ---
 

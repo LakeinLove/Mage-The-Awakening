@@ -8,7 +8,7 @@ _These are 2 example [[Awakening|Awakenings]] to the [[Acanthus]] path_
 
 Ancient souls reborn, [[Acanthus]] may tear old burdens away with their Watchtower’s thorns — but new duties beckon, written into [[Time]] and [[Fate]] made visible in [[Arcadia]]’s thorns and monsters. Before [[Awakening]] a [[Acanthus|Witch]] thought she was powerless, shackled by family, the state, poverty, unconfronted sins, addictions — the iron-plated road of a predictable life, where pain answers any deviation.
 
-Every Sleeper walks in lockstep with karma imposed by [[Lie|the Lie]], but before they Awakened, [[Acanthus]] felt particularly confined. They yearned to escape the way we all do after the hundredth blow from a bully, or the thousandth day at a desk. We dream of a different way; they jump from predetermined roads, into the unknown.
+Every [[Sleepers|Sleeper]] walks in lockstep with karma imposed by [[Lie|the Lie]], but before they Awakened, [[Acanthus]] felt particularly confined. They yearned to escape the way we all do after the hundredth blow from a bully, or the thousandth day at a desk. We dream of a different way; they jump from predetermined roads, into the unknown.
 
 [[Acanthus|Witches]] start by breaking patterns, rebelling against destiny with strange choices. He strays from his usual pub and takes a stranger home; he’s never been with another man. The nameless lover leaves a messy bed and a poem.
 

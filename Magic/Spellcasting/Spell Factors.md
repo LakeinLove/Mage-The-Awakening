@@ -45,9 +45,9 @@ _Duration is how long a spell lasts. Once the spell’s Duration elapses, the sp
 Duration is simply how long a spell lasts once cast. Standard spell Durations are measured in turns, while using a[[Reach]] to use the Advanced Duration chart makes the spell last much longer.\
 If a spell would logically have an immediate effect but is cast with Advanced Duration, the effect recurs at every multiple of the character’s [[Gnosis]]-based ritual casting time, until the Duration runs out.
 
-For example, a [[Gnosis]] 1 character’s healing spell with a Duration of a day heals its Potency in Health boxes every three hours. The highest level of the Advanced Duration chart is “indefinite,” meaning the spell lasts until dispelled or the caster cancels it.
+For example, a [[Gnosis]] 1 character’s healing spell with a Duration of a day heals its Potency in [[Health]] boxes every three hours. The highest level of the Advanced Duration chart is “indefinite,” meaning the spell lasts until dispelled or the caster cancels it.
 
-Moving to indefinite requires a second[[Reach]], and the caster must also spend a point of Mana.
+Moving to indefinite requires a second[[Reach]], and the caster must also spend a point of [[Mana]].
 
 ### Scale
 
@@ -110,7 +110,7 @@ Ritual spells can benefit from teamwork, while an immediate spell cannot.
 | One Week       | -4                                |
 | One Month      | -6                                |
 | One Year       | -8                                |
-| Indefinite     | -10 (Requires a[[Reach]] and 1 Mana) |
+| Indefinite     | -10 (Requires a[[Reach]] and 1 [[Mana]]na]]) |
 
 ### Scale Tables
 

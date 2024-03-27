@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Medicine, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Medicine]], [[Survival]]
 
 ---
 
@@ -26,7 +26,7 @@ _Heartbeat:_ By slowing down the subject’s heartbeat, she can double the inter
 
 _Metabolism:_ Regulating the subject’s metabolism allows her to subsist on half as much food, and doubles the amount of time between checks for deprivation or fatigue.
 
-_Reflexes:_ Add +1 to the subject’s Initiative.
+_Reflexes:_ Add +1 to the subject’s [[Initiative]].
 
 _Scent:_ The mage can change the subject’s scent to any that her body could naturally produce, eliminating (or increasing) body odours, controlling pheromone release.
 

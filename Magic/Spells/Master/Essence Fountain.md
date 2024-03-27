@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Spirit]]\
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Expression, Occult
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Expression]], [[Occult]]
 
 ---
 

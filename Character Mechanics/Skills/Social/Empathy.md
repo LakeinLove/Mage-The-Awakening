@@ -30,7 +30,7 @@ _Empathy is a character’s ability to read and understand others’ feelings an
 - Lies
 - Motives
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Shoulder to Cry On
 - Police Profiler

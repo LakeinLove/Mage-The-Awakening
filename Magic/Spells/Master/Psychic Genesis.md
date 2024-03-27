@@ -8,11 +8,11 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Expression, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Expression]], [[Science]]
 
 ---
 
-_The mage creates a consciousness as a self-aware intelligence with a Twilight presence._
+_The mage creates a consciousness as a self-aware intelligence with a [[Twilight]] presence._
 
 ---
 
@@ -21,4 +21,4 @@ The consciousness remains for the Duration of the spell as the mage’s loyal se
 
 **+1 [[Reach]]:** The consciousness works as a Sleepwalker for purposes of assisting in ritual casting.
 
-**+1 [[Reach]]:** For one Mana, the consciousness gains Rank 2.
+**+1 [[Reach]]:** For one [[Mana]], the consciousness gains Rank 2.

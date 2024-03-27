@@ -11,4 +11,4 @@ To cast a spell, she imagines the effect she desires, focuses her mind on the sy
 
 Magic is an extraordinarily useful tool for the observation and analysis of the [[Mystery|Mysteries]]. Virtually all phenomena in the Fallen World can be observed and described by one or more [[Arcanum|Arcana]]. 
 
-Mages largely agree that the rare exceptions are subjects that hail from Realms that are completely alien to human thought — including the Abyss. The Wise likewise recognize that not all [[Mystery|Mysteries]] are the result of Awakened magic — no more than the motion of the sea is caused by the existence of thermometers or barometers.
+Mages largely agree that the rare exceptions are subjects that hail from Realms that are completely alien to human thought — including [[The Abyss]]. The Wise likewise recognize that not all [[Mystery|Mysteries]] are the result of Awakened magic — no more than the motion of the sea is caused by the existence of thermometers or barometers.

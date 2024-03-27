@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computer, Larceny, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Computer]], [[Larceny]], [[Subterfuge]]
 
 ---
 

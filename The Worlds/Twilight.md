@@ -15,7 +15,7 @@ Beings in Twilight are invisible and intangible to anything not comprised of the
 Many types of ephemeral being can Manifest to affect the physical world. This might involve becoming fully physical, imprinting messages into the world, possessing victims, or just becoming visible. Not all ephemeral entities can Manifest, but even those that can require certain Conditions to do so.\
 A ghost requires Anchors — the places, objects, and people linked to its living days that reinforce its sense of identity. Spirits need the spiritual Resonance of the area or host to match their own. Goetia cannot naturally Manifest, and must be granted the ability to do so through magic.
 
-Supernal entities remain in the Supernal World, visible only to mages using the correct form of Mage Sight, unless fully Summoned or within overlapping regions of reality like a Supernal Verge. In these cases, they appear fully solid and visible unless they then use their own powers to enter Twilight.
+Supernal entities remain in the Supernal World, visible only to mages using the correct form of [[Mage Sight]], unless fully Summoned or within overlapping regions of reality like a Supernal [[Verges and Demesnes|Verge]]. In these cases, they appear fully solid and visible unless they then use their own powers to enter Twilight.
 
 ## The State of Twilight
 

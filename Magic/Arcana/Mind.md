@@ -5,7 +5,7 @@ tags:
   - Mind
 ---
 
-_The subtle Arcanum of Pandemonium, Mind is concerned with the collective consciousness that is formed from all creatures capable of thought._
+_The subtle Arcanum of [[Pandemonium]], Mind is concerned with the collective consciousness that is formed from all creatures capable of thought._
 
 ---
 
@@ -27,7 +27,7 @@ Other mages tend to enjoy the Mind mage’s company insofar as she retains her g
 - Thought
 - Memory
 - Mental Projection
-- The Astral Realms
+- [[The Astral Realms]]
 
 ---
 

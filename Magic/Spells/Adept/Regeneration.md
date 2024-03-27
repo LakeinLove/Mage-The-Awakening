@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Cost: 1 Mana\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Medicine, Survival
+Cost: 1 [[Mana]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Medicine]], [[Survival]]
 
 ---
 

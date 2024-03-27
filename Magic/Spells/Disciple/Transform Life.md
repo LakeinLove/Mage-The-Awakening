@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Stamina\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Science, Survival
+[[Withstanding Magic|Withstand]]: [[Stamina]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Animal Ken]], [[Science]], [[Survival]]
 
 ---
 
@@ -35,7 +35,7 @@ _Gills/Lungs:_ The subject may breathe underwater (or in air, if normally aquati
 
 _Immunities:_ The mage may grant resistance to toxins or poisonous materials, like a rat’s ability to devour even rotten food unharmed or herbivores’ ability to fully digest plant matter.
 
-_Leaping:_ Gaining powerful legs like a frog’s or kangaroo’s, the target gains a bonus to jumping rolls, increasing the distance leaped by each success on the Athletics roll.
+_Leaping:_ Gaining powerful legs like a frog’s or kangaroo’s, the target gains a bonus to jumping rolls, increasing the distance leaped by each success on the [[Athletics]] roll.
 
 _Prehensile Tail:_ Gain a bonus to rolls related to balance or climbing equal to Potency.
 

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Occult]], [[Science]]
 
 ---
 

@@ -28,7 +28,7 @@ _Persuasion is about using influence, charm, and careful arguments to change min
 - Seduction
 - Sermons
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Car Salesman
 - Speech Coach
@@ -58,7 +58,7 @@ _Examples and descriptions of someone at each level_
 ### Expert (4 dot)
 
 - At this rank, the character knows how to make people want what she’s selling, no matter what it is
-- She understands how to get around a person’s defenses and persuade them of things that they normally wouldn’t even consider
+- She understands how to get around a person’s Defences and persuade them of things that they normally wouldn’t even consider
 
 ### Master (5 dot)
 

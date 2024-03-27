@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Occult, Empathy
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Occult]], [[Empathy]]
 
 ---
 

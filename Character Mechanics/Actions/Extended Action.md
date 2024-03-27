@@ -1,6 +1,8 @@
 ---
 tags:
   - Action
+aliases:
+- Extended Actions
 ---
 
 An Extended Action is unique among actions, used to complete complex tasks.

@@ -5,7 +5,7 @@ aliases:
   - Awaken
   - Awakens
 ---
-_Awakening is when a Sleeper becomes a Mage_
+_Awakening is when a [[Sleepers|Sleeper]] becomes a Mage_
 
 The Awakening is the moment a [[Sleepers|Sleeper]] has an opportunity to wake from the [[Lie]]: 
 It is the culmination of stirrings they have had in Sleep, and their chance to seize sight from sightlessness.

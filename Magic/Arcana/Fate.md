@@ -5,7 +5,7 @@ tags:
   - Fate
 ---
 
-_Arcadia’s ruling Arcana are [[Time]] and Fate, and Fate is the subtle expression of that pair._
+_[[Arcadia]]’s ruling Arcana are [[Time]] and Fate, and Fate is the subtle expression of that pair._
 
 ---
 
@@ -26,7 +26,7 @@ Fate spells use [[Hexes]] and [[Boons]] to curse and bless their subjects as a m
 - Oaths
 - Promises
 - Intentions
-- Destiny
+- [[Destiny Merit|Destiny]]
 
 ---
 

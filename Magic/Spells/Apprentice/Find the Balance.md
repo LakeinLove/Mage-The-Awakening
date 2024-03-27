@@ -8,11 +8,11 @@ tags:
 [[Arcanum]]: [[Matter]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Persuasion, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Persuasion]], [[Science]]
 
 ---
 
-_Those initiated into the Stygian Mysteries know that understanding a tool is only the first step toward perfecting it._
+_Those initiated into the Stygian [[Mystery|Mysteries]] know that understanding a tool is only the first step toward perfecting it._
 
 ---
 

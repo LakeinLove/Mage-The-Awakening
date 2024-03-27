@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Firearms, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Firearms]], [[Science]]
 
 ---
 

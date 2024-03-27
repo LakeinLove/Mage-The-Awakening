@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Stamina\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Stealth, Subterfuge
+[[Withstanding Magic|Withstand]]: [[Stamina]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Medicine]], [[Stealth]], [[Subterfuge]]
 
 ---
 
@@ -24,6 +24,6 @@ If someone were to compare the masked and regular appearances side by side, they
 
 Some biometric devices, such as fingerprint scanners, will still detect the difference. She cannot mimic specific people with this basic spell.
 
-The changes brought on by this spell are illusionary, and some supernatural powers (including [[Life]] Mage Sight) may see through them with a successful [[Clash of Wills]].
+The changes brought on by this spell are illusionary, and some supernatural powers (including [[Life]] [[Mage Sight]]) may see through them with a successful [[Clash of Wills]].
 
 **+2 [[Reach]]:** The mage can duplicate the appearance of a specific person, including scars and fingerprints.

@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 [[Withstanding Magic|Withstand]]: Durability\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Persuasion, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Persuasion]], [[Science]]
 
 ---
 

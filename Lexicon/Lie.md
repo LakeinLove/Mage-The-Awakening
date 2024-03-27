@@ -2,7 +2,7 @@
 aliases:
   - The Lie
 ---
-_The Lie is the fundamental conception that the current world that Sleepers see is all there is to the world. The Lie is an all-encompassing blanket upon every sense and thought for every person._
+_The Lie is the fundamental conception that the current world that [[Sleepers]] see is all there is to the world. The Lie is an all-encompassing blanket upon every sense and thought for every person._
 
 ---
 

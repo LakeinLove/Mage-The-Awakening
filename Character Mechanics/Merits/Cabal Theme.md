@@ -1,12 +1,14 @@
 ---
 tags:
   - Merit
+aliases:
+  - Cabal Theme Merit
 ---
 
 [[Merits|Merit]]\
 Cost: •\
 Prerequisites:
-- In a Cabal, all members must have this Merit
+- In a [[Cabal]], all members must have this Merit
 
 ---
 

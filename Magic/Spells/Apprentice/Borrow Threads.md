@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 [[Withstanding Magic|Withstand]]: Connection\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Larceny, Occult, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Larceny]], [[Occult]], [[Subterfuge]]
 
 ---
 

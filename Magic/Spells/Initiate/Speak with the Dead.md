@@ -8,16 +8,16 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Socialize, Expression, Investigation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Socialise]], [[Expression]], [[Investigation]]
 
 ---
 
-_The mage is able to sense and communicate with ghosts within Twilight._
+_The mage is able to sense and communicate with ghosts within [[Twilight]]._
 
 ---
 
 She can sense all ghosts within the area of effect, and is capable of communicating with them by simply talking, as long as the ghost is capable of understanding a language she speaks.\
-She may sense Anchors within the area without using [[Death]] Mage Sight.\
+She may sense Anchors within the area without using [[Death]] [[Mage Sight]].\
 She can concentrate on a single ghost within the area and determine its Rank, if it has an Anchor, and how many Anchors it has.
 
 **+1 [[Reach]]:** The caster can determine if any of the Anchors she perceives are temporary (items in which the Anchor Condition has been placed temporarily through some kind of summoning) or permanent

@@ -33,7 +33,7 @@ Most spells dealing with sympathy use the connections themselves as the spells�
 Mages with [[Space]] 2 or more can also use links to cast other spells on subjects not within sensory range, by routing their magic along the lines of sympathy using an [[Attainments|Attainment]].\
 In these cases, the spell is Withstood by [[Space]] itself; weaker connections are more difficult to use.
 
-When affecting links with magic, each connection is treated as a subject for purposes of spell factors.\
+When affecting links with magic, each connection is treated as a subject for purposes of [[Spell Factors]].\
 For example, a spell that dampens a sympathetic connection can dampen multiple connections by increasing the Scale factor
 
 ---
@@ -47,7 +47,7 @@ For example, a spell that dampens a sympathetic connection can dampen multiple c
 | Medium               | 2                                | 2                             |
 | Weak                 | 1                                | 3                             |
 
-When affecting links with magic, each connection is treated as a subject for the purposes of spell factors. For example, a spell that dampens a sympathetic connection can dampen multiple connections by increasing the Scale factor.
+When affecting links with magic, each connection is treated as a subject for the purposes of [[Spell Factors]]. For example, a spell that dampens a sympathetic connection can dampen multiple connections by increasing the Scale factor.
 
 ---
 
@@ -75,7 +75,7 @@ The two subjects are closely metaphysically linked; a woman and her lifelong spo
 - **Withstand ([[Sympathetic Range]]):** 2
 
 **Description:**\
-The two subjects are linked; a mage and her own spells, items marked with a mage’s Signature nimbus, friends, siblings, lovers, items of emotional significance like medals, wedding rings, a soldier’s weapon, or a sportswoman’s bat.
+The two subjects are linked; a mage and her own spells, items marked with a mage’s [[Signature Nimbus]], friends, siblings, lovers, items of emotional significance like medals, wedding rings, a soldier’s weapon, or a sportswoman’s bat.
 
 ### Weak
 

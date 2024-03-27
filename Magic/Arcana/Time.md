@@ -5,7 +5,7 @@ tags:
   - Time
 ---
 
-_Time and Fate rule Arcadia; Time is the gross [[Arcanum]] of the pair, governing the progression of events through the ever-advancing present in a way perpendicular to Fate’s subtlety._
+_Time and Fate rule [[Arcadia]]; Time is the gross [[Arcanum]] of the pair, governing the progression of events through the ever-advancing present in a way perpendicular to Fate’s subtlety._
 
 ---
 
@@ -17,11 +17,11 @@ Even gods die and fade into obscurity. Nothing is eternal, save perhaps for time
 
 ### Spinning the Thread of Time
 
-Sleeper philosophers and scientists debate and make inferences about the nature of Time, discussing theoretical problems and paradoxes, measuring the distortion in the light of distant stars, but always knowing that they are locked into Time’s endless march.
+[[Sleepers|Sleeper]] philosophers and scientists debate and make inferences about the nature of Time, discussing theoretical problems and paradoxes, measuring the distortion in the light of distant stars, but always knowing that they are locked into Time’s endless march.
 
 Mages who study the Time [[Arcanum]] have practical experience to marry to Sleeping theory, and quickly discover that while some thinkers have approached something like the truth, thought experiments don’t fully prepare them for the reality of temporal magic.
 
-Sleepers often describe time as a river, but traditional [[Acanthus]] instead describe it as a spinning wheel, gathering strands of unspun material and binding them into a tight thread.
+[[Sleepers]] often describe time as a river, but traditional [[Acanthus]] instead describe it as a spinning wheel, gathering strands of unspun material and binding them into a tight thread.
 
 
 ### The Future is Unwritten
@@ -32,7 +32,7 @@ Advanced Time spells rewrite the future like any other Pattern, dictating how im
 
 ### The Past can be Rewritten
 
-In contrast, the past is like the spun thread — set and decided, unless magic alters it. Sleepers theorize about temporal paradoxes; if someone goes back in time to avert a disaster and succeeds, surely they would never then have to travel back, so would never have changed events?
+In contrast, the past is like the spun thread — set and decided, unless magic alters it. [[Sleepers]] theorize about temporal paradoxes; if someone goes back in time to avert a disaster and succeeds, surely they would never then have to travel back, so would never have changed events?
 
 Magic defies causality; a mage who travels back in time can alter the cause of his own trip and more, the magic accounting for any contradiction caused. When an object or person is in the past, the distortion is visible to onlookers using [[Active Mage Sight]] with Time, and as she changes history everything she alters also picks up a tell-tale temporal aura.
 

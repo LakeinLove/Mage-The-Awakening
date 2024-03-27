@@ -35,7 +35,7 @@ Chasing a Mystery is intoxicating to a mage, and the journey itself is in many w
 The [[Tapestry]] is vast and filled with Mysteries great and small. Although many have direct, obvious connections to the [[Supernal]], most do not.\
 Nothing external forces a mage to pursue the Mysteries, but those who do not have a natural curiosity and a willingness to go to great lengths to satisfy it simply do not [[Awakening|Awaken]]. 
 
-Mages see the world more deeply than Sleepers do, and when they notice something abnormal or out of place they feel an unmistakable impulse to examine it more closely.
+Mages see the world more deeply than [[Sleepers]] do, and when they notice something abnormal or out of place they feel an unmistakable impulse to examine it more closely.
 
 ---
 
@@ -67,8 +67,8 @@ In any case, the Storyteller controls how to parcel out deep information for Mys
 
 _Deep Information may include the following:_
 - If [[Awakened]] magic cast using a [[Rote]], or the effects of an [[Attainment]], the [[Signature Nimbus]] of the mage involved.
-- For [[Awakened]] spells, the spell factors involved (including the remaining duration), whether the spell caused a [[Paradox]] (and if so whether that [[Paradox]] was released or contained), and whether the spell has been relinquished.
+- For [[Awakened]] spells, the [[Spell Factors]] involved (including the remaining duration), whether the spell caused a [[Paradox]] (and if so whether that [[Paradox]] was released or contained), and whether the spell has been relinquished.
 - Identification of a phenomenon as being linked to one the mage has Scrutinized before.
 - If not [[Awakened]] magic, the power level of the creator relative to the mage’s [[Gnosis]] (if applicable).
-- Whether the Mystery is related to the Supernal Realms or Abyss.
+- Whether the Mystery is related to the Supernal Realms or [[The Abyss|Abyss]].
 - How the [[Arcanum]] used relates to the Mystery — for example, using [[Death]] Sight to scrutinize a vampire’s ghoul will reveal Deep Information relating to the undead blood in the subject’s system, and any powers the ghoul has gained from it. Using [[Fate]] Sight to assess a changeling’s powers will reveal that they are formed by mystical bargains.

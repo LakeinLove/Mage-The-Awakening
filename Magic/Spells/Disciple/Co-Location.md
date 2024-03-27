@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Space]]\
 [[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Firearms, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Firearms]], [[Science]]
 
 ---
 
@@ -20,7 +20,7 @@ The mage smears the distance between a number of locations equal to the spell’
 
 Only mages using [[Active Mage Sight]] with [[Space]] can perceive the overlap, seeing it as a confusing jumble of translucent images constantly interpenetrating each other; to others within the affected areas everything seems normal. The spell’s Scale factor determines how large each overlapped area can be.
 
-Each turn, as a reflexive action, anyone capable of perceiving the overlap may “move” an object, person, or other being she is touching (including herself, if desired) from one location to another, effectively teleporting it from place to place.\
+Each turn, as a [[Reflexive Action]], anyone capable of perceiving the overlap may “move” an object, person, or other being she is touching (including herself, if desired) from one location to another, effectively teleporting it from place to place.\
 Those capable of seeing the overlap can touch things in any of the co-located areas, but can otherwise only interact with the location they are physically in. The other location counts as being viewed remotely for purposes of further spellcasting, and individuals may not attack people in different locations.
 
 Objects cannot be teleported into other objects with this spell.

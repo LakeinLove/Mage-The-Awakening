@@ -20,6 +20,6 @@ The dot rating reflects the security of the place.
 
 Each place could be an apartment, a mansion, or a hidey-hole.
 
-Unlike most Merits, multiple characters can contribute dots to a single Safe Place, combining their points into something greater. A Safe Place gives an Initiative bonus equal to the Merit dots. This only applies to characters with dots invested in the Safe Place.
+Unlike most [[Merits]], multiple characters can contribute dots to a single Safe Place, combining their points into something greater. A Safe Place gives an [[Initiative]] bonus equal to the Merit dots. This only applies to characters with dots invested in the Safe Place.
 
-Any efforts to breach the Safe Place suffer a penalty equal to the Merit dots invested. If the character desires, the Safe Place can include traps that cause lethal damage (up to a maximum of the Merit rating) to intruders; it is the player’s choice as to how much damage a given trap inflicts. This requires that the character have at least a dot in Crafts. The traps may be avoided with a Dexterity + Larceny roll, penalized by the Safe Place dots.
+Any efforts to breach the Safe Place suffer a penalty equal to the Merit dots invested. If the character desires, the Safe Place can include traps that cause lethal damage (up to a maximum of the Merit rating) to intruders; it is the player’s choice as to how much damage a given trap inflicts. This requires that the character have at least a dot in [[Crafts]]. The traps may be avoided with a [[Dexterity]] + [[Larceny]] roll, penalized by the Safe Place dots.

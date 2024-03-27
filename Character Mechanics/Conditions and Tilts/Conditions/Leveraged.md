@@ -7,7 +7,7 @@ _Your character has been blackmailed, tricked, convinced, or otherwise leveraged
 
 [[Conditions|Condition]]\
 **Resolution:** Your character may either resolve the Condition by complying with a request as above, or if you apply the Leveraged Condition to the specified character.\
-**Beat:** n/a
+**[[Beats|Beat]]:** n/a
 
 ---
 

@@ -30,7 +30,7 @@ _Expression is the character’s ability to communicate his thoughts and emotion
 - Painting
 - Speeches
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Investigative Journalist
 - Political Speech Writer

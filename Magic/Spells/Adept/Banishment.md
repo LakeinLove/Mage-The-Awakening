@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Expression, Occult
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Brawl]], [[Expression]], [[Occult]]
 
 ---
 

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Occult, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Occult]], [[Science]]
 
 ---
 
@@ -16,7 +16,7 @@ _The mage creates chaotic conditions: rains of frogs, swarms of locusts, unsched
 
 ---
 
-This terrifying and obviously supernatural event wreaks havoc in the area, creating Environmental Tilts of the player’s choosing.
+This terrifying and obviously supernatural event wreaks havoc in the area, creating Environmental [[Tilts]] of the player’s choosing.
 
-Most Sleepers suffer an immediate Breaking Point when they witness this spell.
+Most [[Sleepers]] suffer an immediate [[Breaking Point]] when they witness this spell.
 

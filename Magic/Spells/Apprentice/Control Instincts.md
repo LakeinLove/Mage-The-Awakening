@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Intimidation, Persuasion
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Animal Ken]], [[Intimidation]], [[Persuasion]]
 
 ---
 
@@ -25,7 +25,7 @@ A raging bear can be made to flee by manipulating its fight-or-flight response, 
 A human may be made tired, hungry, or pumped with adrenaline.
 
 This spell works on any mundane life-form the mage can perceive.\
-Humans with Supernatural Merits count as “mundane” enough for this spell to affect them.
+Humans with Supernatural [[Merits]] count as “mundane” enough for this spell to affect them.
 
 Subjects suffer a Condition appropriate to the desired instinctive response.\
 Use the guidelines for creating a Condition in the section on Creative Thaumaturgy.

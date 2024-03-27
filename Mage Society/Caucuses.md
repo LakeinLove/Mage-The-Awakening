@@ -32,7 +32,7 @@ Arrow Caucuses have clear chains of command.
 
 ### Guardians of the Veil
 
-Most Guardian activity centres around its several Labyrinths — mystery cults intended to direct Sleeper attention away from real magic while giving the most dedicated seekers an opportunity to prove themselves worthy of Awakened secrets.
+Most Guardian activity centres around its several Labyrinths — mystery cults intended to direct [[Sleepers|Sleeper]] attention away from real magic while giving the most dedicated seekers an opportunity to prove themselves worthy of Awakened secrets.
 - Each **Cultor** maintains one such cult, acting either as the cult’s leader or as an important member who directs the cult’s activities from behind the scenes.
 - **Emissaries** act as messengers to mages of other Orders, delivering anything from intelligence to help a Consilium root out corruption, to dire threats to those who risk the Veil too often.
 - **Susceptors** investigate all the Orders for signs of internal corruption or agents of the enemy, which is as dangerous as any spymaster’s job.
@@ -43,16 +43,16 @@ Most Guardian activity centres around its several Labyrinths — mystery cults i
 Mysterium Caucuses spring up around a cluster of Athenaea. Mages outside of the Mysterium frequently envision specialized libraries of Grimoires, but an Athenaeum can take many other forms.
 
 They can be centres of learning like libraries, schools, and museums (collectively called Archives); or they can be Censoria, where potentially dangerous lore or artifacts are kept in quarantine against the day that their usefulness outweighs the risks.
-- Low-ranking **Acquisitors** seek out Mysteries to add to the Order’s network of Athenaea.
-- **Censors** police the use of dangerous Mysteries to keep them out of reckless hands — including those of mages who have shown poor judgment.
+- Low-ranking **Acquisitors** seek out [[Mystery|Mysteries]] to add to the Order’s network of Athenaea.
+- **Censors** police the use of dangerous [[Mystery|Mysteries]] to keep them out of reckless hands — including those of mages who have shown poor judgment.
 - **Savants** commit entire fields of arcane and mundane lore to memory to ensure that even the loss of an Athenaeum will not erase the Mysterium’s knowledge of any topic contained in it.
 - Each Athenaeum has a **Curator** who determines who may access and/or borrow the Mysterium treasures in his keeping, and the religious aspects of the Caucus are led by its **Hierophant**.
 
 ### Silver Ladder
 
-Silver Ladder Caucuses make extensive use of Cryptopolies — elaborate networks of mystery cults that serve the dual purpose of propagating Silver Ladder ideals (and guiding Sleepers to [[Awakening|Awaken]]) and allowing théarchs to wield social influence against [[Lie|the Lie]].
+Silver Ladder Caucuses make extensive use of Cryptopolies — elaborate networks of mystery cults that serve the dual purpose of propagating Silver Ladder ideals (and guiding [[Sleepers]] to [[Awakening|Awaken]]) and allowing théarchs to wield social influence against [[Lie|the Lie]].
 
-Théarchs do not control Cryptopolies directly, instead relying on Illuminated Retainers — Sleepers, Sleepwalkers, or Proximi initiated into the Order. Many organizations and laws common to Pentacle mages are Silver Ladder innovations — the Consilium, the Convocation, the Lex Magica, and even the Duel Arcane.
+Théarchs do not control Cryptopolies directly, instead relying on Illuminated Retainers — [[Sleepers]], [[Sleepwalkers]], or Proximi initiated into the Order. Many organizations and laws common to Pentacle mages are Silver Ladder innovations — the Consilium, the Convocation, the Lex Magica, and even the Duel Arcane.
 - Newly-initiated **Acolytes** run errands, carry messages, and perform a variety of ad hoc duties assigned to them by more senior théarchs.
 - **Lictors** act as itinerant investigators and judges throughout the Caucus.
 - A member of the Silver Ladder who masters the Lex Magica may rise in prestige by becoming a **Factotum** — a lawyer of the Order.

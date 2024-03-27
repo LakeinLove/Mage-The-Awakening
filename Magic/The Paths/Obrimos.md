@@ -47,7 +47,7 @@ They give particular reverence to sky and fire deities, aspects of the Creator, 
 ## Thaumaturges in the Orders
 
 [[Adamantine Arrow]]:\
-Booming storms and colliding ley lines demonstrate the truth of cosmic struggle. Warriors embody celestial conflict but guide it with will and moral purpose. The [[Adamantine Arrow|Arrow]] provides a refuge for Thaumaturges who might otherwise abuse their tempestuous Arts. The Order teaches them to calm their inner storms.
+Booming storms and colliding [[Ley Lines and Nodes|ley lines]] demonstrate the truth of cosmic struggle. Warriors embody celestial conflict but guide it with will and moral purpose. The [[Adamantine Arrow|Arrow]] provides a refuge for Thaumaturges who might otherwise abuse their tempestuous Arts. The Order teaches them to calm their inner storms.
 
 [[Free Council]]:\
 Reason’s furnace melts gods into their intellectual components: physics, anthropology and the rest. The [[Path]]’s tendency to seek out fundamental patterns draws [[Free Council|Libertines]] to science and technology, but also theology, psychology, and Masonic doctrine. Obrimos practice techné based on electrical engineering and mechanical principles, or Freemasonry and Jungian archetypes. They describe the path to power, teach it to [[Sleepers]], and hope a few will [[Awakening|Awaken]] to continue the process.
@@ -56,7 +56,7 @@ Reason’s furnace melts gods into their intellectual components: physics, anthr
 Morality follows from natural law, but a [[Sleepers|Sleeper]]’s ignorance pits her against the true order of things, triggering the original moral paradox: You can’t save some without punishing others, even if they aren’t aware of their crimes. In a principled universe your only solution is to limit the damage, do your work in the dark, and beg for forgiveness, even though you know that while the Creator might possess limitless compassion his angels are merciless.
 
 [[Mysterium]]:\
-Magic lives in [[Prime]]’s pulse. Its thoughts give Resonance to [[Mana]]. Its metabolism generates motion, heat, and light. Obrimos track ley lines and uncover Hallows to expand upon these facts, like an anatomist tracing veins and listening to blood’s hum. Religious Theurgists characterize it as quest to comprehend God, but many Obrimos search for ultimate patterns in the [[Prime]], or a storm that breeds all others.
+Magic lives in [[Prime]]’s pulse. Its thoughts give Resonance to [[Mana]]. Its metabolism generates motion, heat, and light. Obrimos track [[Ley Lines and Nodes|ley lines]] and uncover [[Hallows]] to expand upon these facts, like an anatomist tracing veins and listening to blood’s hum. Religious Theurgists characterize it as quest to comprehend God, but many Obrimos search for ultimate patterns in the [[Prime]], or a storm that breeds all others.
 
 [[Silver Ladder]]:\
 Obrimos come to the Order with a plan written by God and natural law. They’re natural théarchs, attracted to priestly duties and the urge to impose order on a broken world. The [[Aether]]’s angels reveal that logic and revelation work hand in hand. Obrimos join the [[Silver Ladder|Ladder]] to bring Earth in accord with Heaven because its ruling angels would themselves be ruled by us, if we would rise to claim the right.

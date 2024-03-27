@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Spirit]]\
 [[The 13 Practices|Practice]]: [[Practice of Shielding|Shielding]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Persuasion, Politics, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Persuasion]], [[Politics]], [[Survival]]
 
 ---
 

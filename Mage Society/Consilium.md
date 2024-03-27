@@ -5,11 +5,11 @@ aliases:
 - Consilia
 ---
 
-_Cabals dispute control of resources and real estate, to say nothing of access to contested Mysteries._
+_Cabals dispute control of resources and real estate, to say nothing of access to contested [[Mystery|Mysteries]]._
 
 ---
 
-Wherever many mages gather in a region with a compelling long-term Mystery or many smaller Mysteries, the danger of conflict arises.
+Wherever many mages gather in a region with a compelling long-term [[Mystery]] or many smaller [[Mystery|Mysteries]], the danger of conflict arises.
 
 The Pentacle manages these pressures by creating a Consilium — a panel of Councillors chaired by a Hierarch, who hear and resolve disputes.
 
@@ -37,7 +37,7 @@ Mages tasked with ensuring the council’s orders are carried out. Each member o
 
 ### Sentinel
 
-Enforcers appointed by the Hierarch to patrol the Consilium’s sancta and Demesnes and carry out its rulings.
+Enforcers appointed by the Hierarch to patrol the Consilium’s [[Sancta]] and [[Verges and Demesnes|Demesnes]] and carry out its rulings.
 
 The council dispatches a Sentinel whenever a mage or cabal has violated Consilium mandates. If Provosts ensure that member cabals adhere to council instructions, a Sentinel provides them with an incentive to cooperate. She may deliver a polite warning, command an immediate tribunal appearance before the council, or mete out a stern punishment — depending on the severity of the transgression and the orders of the Consilium.
 

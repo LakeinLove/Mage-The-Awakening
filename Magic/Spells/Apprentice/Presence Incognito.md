@@ -8,9 +8,9 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Cost: 1 Mana\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Stealth, Subterfuge
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Cost: 1 [[Mana]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Stealth]], [[Subterfuge]]
 
 ---
 

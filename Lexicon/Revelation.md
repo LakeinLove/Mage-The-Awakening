@@ -6,7 +6,7 @@ aliases:
   - Revealing
   - Revealed
 ---
-_Revelation is an instant action. It can be undertaken when a mage first encounters a [[Mystery]], revealing only the surface information, and also when a mage has unravelled some or all of the [[Mystery]]’s [[Opacity]]._
+_Revelation is an [[Instant Action]]. It can be undertaken when a mage first encounters a [[Mystery]], revealing only the surface information, and also when a mage has unravelled some or all of the [[Mystery]]’s [[Opacity]]._
 
 ---
 

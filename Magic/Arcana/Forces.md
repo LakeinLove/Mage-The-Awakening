@@ -5,7 +5,7 @@ tags:
   - Forces
 ---
 
-_The gross Arcanum of the Aether governs the mightiest energies of the Fallen World._
+_The gross Arcanum of the [[Aether]] governs the mightiest energies of the Fallen World._
 
 ---
 

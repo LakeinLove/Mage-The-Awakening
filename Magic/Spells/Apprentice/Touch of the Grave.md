@@ -8,14 +8,14 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Survival, Crafts, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Survival]], [[Crafts]], [[Persuasion]]
 
 ---
 
-_The mage can physically interact with ghosts and other things in [[Death]]-attuned Twilight._
+_The mage can physically interact with ghosts and other things in [[Death]]-attuned [[Twilight]]._
 
 ---
 
-She can “pull” items from Twilight, making them visible and solid; these items have a Durability of 1 and dissipate into ephemera if broken, or after the spell’s Duration ends. 
+She can “pull” items from [[Twilight]], making them visible and solid; these items have a Durability of 1 and dissipate into ephemera if broken, or after the spell’s Duration ends. 
 
-Items pulled from Twilight function as their material counterparts bestowing the same equipment bonuses.
+Items pulled from [[Twilight]] function as their material counterparts bestowing the same equipment bonuses.

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Matter]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computers, Science, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Computer|Computers]], [[Science]], [[Subterfuge]]
 
 ---
 

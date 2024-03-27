@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Expression, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Expression]], [[Science]]
 
 ---
 
@@ -24,4 +24,4 @@ The subject is incapable of multitasking spells, as they are more than just an e
 
 **+1 [[Reach]]:** The subject may perform two separate Mental instant tasks at the same time.
 
-**+2 [[Reach]]:** When in the Astral Realms, one of the actions may be purely “Physical.”
+**+2 [[Reach]]:** When in [[The Astral Realms]], one of the actions may be purely “Physical.”

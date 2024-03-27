@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Occult]], [[Science]]
 
 ---
 
@@ -26,4 +26,4 @@ The spell may affect energy of a level equal to Potency.
 
 **+1 [[Reach]]:** the mage may split a source of energy into two different kinds or leave part of the original source behind — for example, turning an inferno into light equivalent to daylight and sound equivalent to a scream.
 
-**+1 [[Reach]]:** For one Mana, the mage may increase the level of the energy transformed by one.
+**+1 [[Reach]]:** For one [[Mana]], the mage may increase the level of the energy transformed by one.

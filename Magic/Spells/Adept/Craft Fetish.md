@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Occult]], [[Persuasion]]
 
 ---
 
@@ -21,7 +21,7 @@ Fetishes work like an Imbued Items, save that a fetish is powered by Essence and
 
 Creating a fetish requires that the spell have one Potency per dot of Influence the object will possess, plus one Potency per Numen.\
 A fetish doesn’t have to host all of the spirit’s abilities.\
-Activating the powers within the fetish is an instant action and uses the spirit’s dice pool.
+Activating the powers within the fetish is an [[Instant Action]] and uses the spirit’s dice pool.
 
 The fetish has its slumbering spirit’s Essence pool and can recharge Essence in a Resonant location just like a hibernating spirit, or it can receive Essence from another spirit or via Channel Essence or similar magic.\
 The fetish’s user can pay Essence out of the fetish’s pool to power its abilities. If the bound spirit ever acquires Essence equal to its Corpus, however, the spell ends immediately.

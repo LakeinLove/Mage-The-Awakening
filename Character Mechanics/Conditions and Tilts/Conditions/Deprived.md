@@ -7,8 +7,8 @@ _Your character suffers from an addiction and is unable to get her fix, leaving 
 
 [[Conditions|Condition]]\
 **Resolution:** Your character indulges her addiction.\
-**Beat:** n/a
+**[[Beats|Beat]]:** n/a
 
 ---
 
-Remove one from her Stamina, Resolve, and Composure dice pools. This does not influence derived traits; it only influences dice pools that use these Attributes.
+Remove one from her [[Stamina]], [[Resolve]], and [[Composure]] dice pools. This does not influence derived traits; it only influences dice pools that use these Attributes.

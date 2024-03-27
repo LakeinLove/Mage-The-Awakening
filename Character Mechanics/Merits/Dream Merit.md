@@ -8,8 +8,8 @@ aliases:
 [[Merits|Merit]]\
 Cost: • to •••••\
 Prerequisites:
-- Composure •••
-- Wits •••
+- [[Composure]] •••
+- [[Wits]] •••
 
 ---
 

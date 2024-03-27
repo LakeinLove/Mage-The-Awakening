@@ -7,8 +7,8 @@ _Characters need time to heal once they’ve been beaten to a pulp. Mages can sp
 
 ---
 
-A human character heals her rightmost Health box at the rate below. The healing time is enough for the wound to fully recover — lethal damage doesn’t “downgrade” into bashing.\
-Normally, a character can heal without medical attention, though use of the Medicine Skill will doubtless help her recover. The only exception is if a human character has all her Health boxes full of lethal damage — she’s bleeding out.\
+A human character heals her rightmost [[Health]] box at the rate below. The healing time is enough for the wound to fully recover — lethal damage doesn’t “downgrade” into bashing.\
+Normally, a character can heal without medical attention, though use of the [[Medicine]] Skill will doubtless help her recover. The only exception is if a human character has all her [[Health]] boxes full of lethal damage — she’s bleeding out.\
 She can’t recover from that without urgent medical attention and emergency surgery.
 
 Wounds recover at the following rates:

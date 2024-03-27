@@ -30,7 +30,7 @@ _The Crafts [[Skill]] represents a character’s knowledge of repairing, designi
 - Sculpting
 - Welding
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Automotive engineer
 - 3d printing expert

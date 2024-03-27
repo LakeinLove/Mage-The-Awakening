@@ -16,4 +16,4 @@ These beings understand the raw power and potential of magic better than any oth
 They appear in a variety of forms, but they usually glow with [[Mana]] and often have multiple eyes. 
 
 Some of them appear in animal forms like their Biblical namesakes.\
-Mages summon Cherubim for advice on crafting Grimoires, Imbued Items, Demesnes, and other magical workings, as well as how to counter or alter longstanding spells.
+Mages summon Cherubim for advice on crafting Grimoires, Imbued Items, [[Verges and Demesnes|Demesnes]], and other magical workings, as well as how to counter or alter longstanding spells.

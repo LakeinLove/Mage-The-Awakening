@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Empathy, Investigation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Empathy]], [[Investigation]]
 
 ---
 

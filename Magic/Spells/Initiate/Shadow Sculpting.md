@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Science, Expression
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Science]], [[Expression]]
 
 ---
 

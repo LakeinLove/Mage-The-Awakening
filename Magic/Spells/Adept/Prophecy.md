@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Expression, Investigation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Expression]], [[Investigation]]
 
 ---
 

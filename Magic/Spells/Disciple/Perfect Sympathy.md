@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Space]]\
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Empathy, Larceny
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Empathy]], [[Larceny]]
 
 ---
 
@@ -20,6 +20,6 @@ With this spell, the subject becomes so like those with whom she has [[Sympathy]
 
 **+1 [[Reach]]:** The subject’s [[Sympathy|sympathetic]] connection is so great that it can fool even magic. When the subject of Perfect [[Sympathy]] is the target of a spell using the [[Sympathy|Sympathetic]] Range [[Attainments|Attainment]], it provokes a [[Clash of Wills]]. If the mage succeeds, she may redirect the spell’s effects to one of the subject’s Strong [[Sympathy|sympathetic]] connections instead.
 
-**+1 [[Reach]]:** For one point of Mana, the subject gains the rote action quality on a number of actions equal to the spell’s Potency, as long as those actions affect one of her Strong sympathetic connections.
+**+1 [[Reach]]:** For one point of [[Mana]], the subject gains the rote action quality on a number of actions equal to the spell’s Potency, as long as those actions affect one of her Strong sympathetic connections.
 
 **+1 [[Reach]]:** The benefits of this spell extend to the subject’s Medium [[Sympathy|sympathetic]] connections.

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Politics, Investigation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Politics]], [[Investigation]]
 
 ---
 
@@ -22,4 +22,4 @@ This triggering event must be something the mage could perceive if he were prese
 
 **+1 [[Reach]]:** The mage can track the subject until the spell’s Duration elapses. This doesn’t provide knowledge of the subject’s location, only of a path to the subject that is sure and swift.
 
-**+1 [[Reach]]:** The trigger event may be something the mage could only perceive using Mage Sight.
+**+1 [[Reach]]:** The trigger event may be something the mage could only perceive using [[Mage Sight]].

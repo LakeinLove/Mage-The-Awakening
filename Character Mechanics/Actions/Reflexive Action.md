@@ -1,6 +1,8 @@
 ---
 tags:
   - Action
+aliases:
+- Reflexive Actions
 ---
 A Reflexive Action is an action that:
 - Can be done without being thought about

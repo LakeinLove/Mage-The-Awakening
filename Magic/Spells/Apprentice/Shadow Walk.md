@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Spirit]]\
 [[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Stealth, Streetwise
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Stealth]], [[Streetwise]]
 
 ---
 

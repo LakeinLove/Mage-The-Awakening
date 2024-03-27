@@ -9,7 +9,7 @@ _Your character has made inroads with a specified group._
 Persistent [[Conditions|Condition]]\
 **Example Skills:** [[Politics]], [[Socialise]]\
 **Resolution:** The character loses her membership or otherwise loses her standing with the group.\
-**Beat:** The character is asked to perform a favour for the group that inconveniences her.
+**[[Beats|Beat]]:** The character is asked to perform a favour for the group that inconveniences her.
 
 ---
 

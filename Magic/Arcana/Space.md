@@ -5,7 +5,7 @@ tags:
   - Space
 ---
 
-_The gross Arcanum of Pandemonium expresses that physical separation is as much a lie as the isolation of the soul._
+_The gross Arcanum of [[Pandemonium]] expresses that physical separation is as much a lie as the isolation of the soul._
 
 ---
 

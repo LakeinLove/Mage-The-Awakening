@@ -6,7 +6,7 @@ tags:
 aliases:
   - Ladder
 ---
-_The Silver Ladder, a humanist Order dedicated to the ideal of lifting every human soul to its natural level of enlightenment, healing the Fallen World of the Exarchs’ influence._
+_The Silver Ladder, a humanist Order dedicated to the ideal of lifting every human soul to its natural level of enlightenment, healing the Fallen World of the [[Exarchs]]’ influence._
 
 ## Magic is Humanity’s Birthright
 
@@ -23,7 +23,7 @@ The Ladder is even responsible for the Diamond’s legal system, Lex Magica. It 
 
 Consequently, even when the mages of the Ladder don’t hold political positions, they remain interested in societal politics. A Hierarch from a different Order will often find himself picking up several unofficial advisors, and théarchs are the first to volunteer themselves as mediators and communicators.
 
-**Mages join the Silver Ladder** when they want to grasp control of their lives; when they want to help Sleepers become more enlightened, or to help individual loved ones to [[Awakening]]; when they admire classical Awakened society and wish to perpetuate it; or if they feel a call to public office not out of a need to serve but to lead.
+**Mages join the Silver Ladder** when they want to grasp control of their lives; when they want to help [[Sleepers]] become more enlightened, or to help individual loved ones to [[Awakening]]; when they admire classical Awakened society and wish to perpetuate it; or if they feel a call to public office not out of a need to serve but to lead.
 
 ## Core Beliefs
 
@@ -34,23 +34,23 @@ It’s simple, but all-encompassing. Much of the Diamond Orders’ cohesive phil
 
 ### Thunder: Imperium is the Sovereign Right of all Humanity
 
-There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the [[Peoples/Exarchs|Exarchs]]’ Lies. Sleepers can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.\
+There is no original sin, no deserving of the punishment levied by a Fallen World. Ascension is the birthright of all human souls, denied by the [[Peoples/Exarchs|Exarchs]]’ Lies. [[Sleepers]] can’t see past the distractions of a World that keeps them from self-actualization, destroying one another’s chances of escape in a vast prisoner’s dilemma.\
 In response, the Ladder strives toward a perfected society, defined by mastery of magic and progress towards [[Awakening]] and [[Ascension]].
 
 ### Diamond: The Awakened are One Nation
 
 Mages have a common bond to the Time Before and the Supernal, constituting a nation and rendering all citizens beholden to the law within a perfected and equivalent array. Banishers and [[Seers of the Throne|Seers]] are obviously in open rebellion and are to be treated as such, but they still have rights and privileges as mages.\
-The Awakened are bound to Consilia, which they must exalt above any Sleeper government. This principle was extended even in the Ladder’s ancient days, precipitating the formation and structure of the Diamond Orders and their millennia-long association.
+The Awakened are bound to Consilia, which they must exalt above any [[Sleepers|Sleeper]] government. This principle was extended even in the Ladder’s ancient days, precipitating the formation and structure of the Diamond Orders and their millennia-long association.
 
 ### Blood: The Sleepers Follow
 
 Once all souls are free, the [[Peoples/Exarchs|Exarchs]] will surrender or be annihilated, their conceptual identity relegated to mere theory. The perfect Awakened city will arise, not some time-lost ruin that Fell but a true utopia the Ladder will build.\
-Humanity will rise as one, and then the Ladder’s true work will begin. Until that point, the Ladder leads, commanding Sleepers for their own good and against their own unwise impulses.
+Humanity will rise as one, and then the Ladder’s true work will begin. Until that point, the Ladder leads, commanding [[Sleepers]] for their own good and against their own unwise impulses.
 
 ### Star: The Silver Ladder is the Path to Victory
 
 The Ladder defines the stages of enlightenment souls progress up, from laborers to Ascended Sages; but despite the [[Free Council]]’s rhetoric, the Ladder believes that everyone and anyone deserves the right to move to a rung that best suits her, even if it’s not at the top.\
-Let artists be artists, let managers, manage… and let mages work miracles. Awakened souls have a destiny and an obligation to uplift the Sleepers and bring Sleepwalkers to [[Awakening]].
+Let artists be artists, let managers, manage… and let mages work miracles. Awakened souls have a destiny and an obligation to uplift the [[Sleepers]] and bring [[Sleepwalkers]] to [[Awakening]].
 
 ## Origins
 
@@ -60,13 +60,13 @@ The creation of a mythic, respected past before the teachings of Plato was the f
 
 The Diamond systems of Consilium and Convocation were Ladder inventions, and they retain a slim majority of leadership roles still. Order philosophy has evolved from an enlightened ruler to describing the perfect mage as a Sage, a wise advisor who enables her charges and empowers those she leads. They take the roles of teachers, wise authority figures, and counsellors when dealing with Cryptopolies. 
 
-Théarchs have even been known to make common cause with the [[Seers of the Throne|Seers]], when something threatens the Awakened as a people. They did so during the First Crusade’s Siege of Jerusalem, to preserve their power over the Sleepers of the Holy Land and stave off mutual annihilation by the soul-stealing demon Desiderus. So again, when Atlantean symbolism failed in a Triangle centred on the Pirate Republic of Nassau, caused by a democracy-devoted Nameless Order seizing power.
+Théarchs have even been known to make common cause with the [[Seers of the Throne|Seers]], when something threatens the Awakened as a people. They did so during the First Crusade’s Siege of Jerusalem, to preserve their power over the [[Sleepers]] of the Holy Land and stave off mutual annihilation by the soul-stealing demon Desiderus. So again, when Atlantean symbolism failed in a Triangle centred on the Pirate Republic of Nassau, caused by a democracy-devoted Nameless Order seizing power.
 
 ## Mysteries
 
-Théarchs look for [[Mystery|Mysteries]] that give clues to the great ladder of being, especially Sleepwalkers who manifest magical abilities, ancient records of the Awakened, and [[Supernal Entities]]. Save perhaps the [[Mysterium]], the Ladder is the Order most obsessed with finding temples and artifacts of Atlantis. 
+Théarchs look for [[Mystery|Mysteries]] that give clues to the great ladder of being, especially [[Sleepwalkers]] who manifest magical abilities, ancient records of the Awakened, and [[Supernal Entities]]. Save perhaps the [[Mysterium]], the Ladder is the Order most obsessed with finding temples and artifacts of Atlantis. 
 
-Despite the dangerous, oddly contradictory, and often [[Paradox]]-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — Sleepers must be encouraged to [[Awakening|Awaken]], and the Awakened towards Ascension.
+Despite the dangerous, oddly contradictory, and often [[Paradox]]-ridden nature of the ruins, théarchs justify their actions in search of such relics, trying to grant the Awakened pride in their past and a vision of a united future. In doing so, they hope to continually climb their Ladder. Théarchs are dedicated to the goal of freeing every soul from its shackles — [[Sleepers]] must be encouraged to [[Awakening|Awaken]], and the Awakened towards Ascension.
 
 ### Magical Symbolism: Authority
 
@@ -84,7 +84,7 @@ They also succumb to [[Act of Hubris|Hubris]] when they mistake the role of a le
 
 ##### Cabal Negotiator
 
-“We’re agreed,” their leader says, a member of the Ladder himself. It’s been a hard month of negotiation; one cabal’s ley line configuration is another’s Resonance nightmare, and this [[Consilium]] has seen enough bloodshed.\
+“We’re agreed,” their leader says, a member of the Ladder himself. It’s been a hard month of negotiation; one cabal’s [[Ley Lines and Nodes|ley line]] configuration is another’s Resonance nightmare, and this [[Consilium]] has seen enough bloodshed.\
 I wear the title of solitary as a badge of honour. Because I’m beholden to none but myself, I can represent the interests of all within the [[Consilium]]. More than that, I can represent the interests of the [[Awakened]]. This particular Resonance will shepherd the [[Sleepers]] towards introspection, and hopefully, enlightenment. It’s been a good month.
 
 ##### Self-Help Guru

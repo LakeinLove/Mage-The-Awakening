@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Space]]\
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Occult, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Occult]], [[Science]]
 
 ---
 

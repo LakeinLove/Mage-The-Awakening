@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Intimidation, Medicine
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Intimidation]], [[Medicine]]
 
 ---
 
@@ -23,4 +23,4 @@ This damage directly affects the object’s Structure, and reduces its Durabilit
 When used against living things, the spell deals bashing damage equal to Potency.\
 At the Storyteller’s discretion, immortal creatures like vampires might be immune to the damaging properties of this spell.
 
-**+1 [[Reach]]:** The spell reduces living subjects’ Athletics by Potency through sheer exhaustion.
+**+1 [[Reach]]:** The spell reduces living subjects’ [[Athletics]] by Potency through sheer exhaustion.

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Investigation]], [[Survival]]
 
 ---
 

@@ -16,7 +16,7 @@ Short of archmastery, it’s impossible to Veil something against an abstract co
 
 ## In Game:
 
-In general, the larger or more complex the creature, place or thing to be affected, the more [[Arcanum|Arcana]] dots, [[Reach]] or spell factors the mage needs in the appropriate areas. These spells are also subtle in aspect as well as meant to be used for secrecy.\
+In general, the larger or more complex the creature, place or thing to be affected, the more [[Arcanum|Arcana]] dots, [[Reach]] or [[Spell Factors]] the mage needs in the appropriate areas. These spells are also subtle in aspect as well as meant to be used for secrecy.\
 This twofold subtlety serves to make Veiling effects especially popular among spies, thieves and even assassins. Such subtlety also makes the Practice of Veiling a fantastic toolkit for performing otherwise dangerously blatant magic in the vicinity of [[Sleepers]] without (as much) fear of [[Paradoxes]] or [[Dissonance]]. 
 
 A cunning willworker with time to prepare can, in theory, disguise even the most obvious acts of mystic prowess from [[Sleeper|Sleeping]] eyes by using Veiling spells. Important to note for the purposes of spell design is the fact that any magical effect intended primarily for concealment of any sort properly belongs to the Practice of Veiling.\

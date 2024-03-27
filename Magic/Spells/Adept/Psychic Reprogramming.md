@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Medicine, Persuasion
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Medicine]], [[Persuasion]]
 
 ---
 
@@ -18,10 +18,10 @@ _The mage rewrites the subject’s personality, changing the very essence of who
 ---
 
 The mage may change one of the following aspects of the subject for each Potency of the spell:
-- Virtue
-- Vice,
-- Short-Term Aspiration
-- Long-Term Aspiration
+- [[Virtue]]
+- [[Vice]],
+- Short-Term [[Aspirations|Aspiration]]
+- Long-Term [[Aspirations|Aspiration]]
 - [[Obsessions|Obsession]]
 - A non-Physical Persistent Condition
 - May move one dot between two Social Skills, or between two Mental Skills.

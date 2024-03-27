@@ -27,7 +27,7 @@ _Animal Ken represents a character’s understanding of animal behaviour. A char
 - Training
 - Wild Animals
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Crazy Cat Lady
 - Rodeo Horse Trainer

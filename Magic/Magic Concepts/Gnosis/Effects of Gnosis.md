@@ -14,7 +14,7 @@ _[[Gnosis]] affects Numerous factors in gameplay:_
 - Upon [[Awakening]], a mage can only use two [[Yantra|Yantras]] in a given spellcasting. At higher [[Gnosis]] levels, she becomes able to integrate more [[Yantra|Yantras]] into her casting.
 - [[Gnosis]] determines how many spells your character can have active before she needs to[[Reach]]. This is direct, one-for-one. Every dot equals a spell.
 - [[Gnosis]] determines the number of [[Obsessions]] your character may have at once.
-- Legacy Attainments are limited by [[Gnosis]]. As the character’s [[Gnosis]] increases, the number of potential Attainments does as well; the [[Arcanum]] limits of the specific Attainments also increase.
+- [[Legacy Attainments]] are limited by [[Gnosis]]. As the character’s [[Gnosis]] increases, the number of potential Attainments does as well; the [[Arcanum]] limits of the specific Attainments also increase.
 - [[Gnosis]] determines the number of [[Paradox]] dice that are incurred for each[[Reach]] above [[Arcanum]] limits.
 - [[Gnosis]] allows your character to combine multiple spells into a single casting, to get around limitations on numbers of active spells. At [[Gnosis]] 3, a mage can combine two spells into one casting. At [[Gnosis]] 6, she can combine three. And at [[Gnosis]] 9, she can combine four spells
 - [[Gnosis]] limits the upper limit of a mage’s [[Arcanum|Arcana]]. A mage’s highest [[Arcanum]] can be three dots at [[Gnosis]] 1, four dots at [[Gnosis]] 3, and five dots at [[Gnosis]] 5. That mage’s other [[Arcanum|Arcana]] are limited to a maximum of two dots at [[Gnosis]] 1, three dots at [[Gnosis]] 2, four dots at [[Gnosis]] 4, and five dots at [[Gnosis]] 6.

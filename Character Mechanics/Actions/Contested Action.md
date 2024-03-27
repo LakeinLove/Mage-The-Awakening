@@ -1,6 +1,8 @@
 ---
 tags:
   - Action
+aliases:
+- Contested Actions
 ---
 A Contested Action is an action that:
 - Involves 2 or more people fighting over a specific goal

@@ -5,7 +5,7 @@ aliases:
 - Obsession
 ---
 
-_Obsessions are just like long-term Aspirations, except they relate specifically to a mage’s compulsion to explore the mystical in her life._
+_Obsessions are just like long-term [[Aspirations]], except they relate specifically to a mage’s compulsion to explore the mystical in her life._
 
 ---
 

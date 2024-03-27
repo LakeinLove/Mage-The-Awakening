@@ -14,14 +14,14 @@ The character must have all [[Arcanum]] dots used in the spell.
 
 ## General Effects
 
-Spellcasting results in the following general effects, but each of these can be increased through changing spell factors or risking [[Paradox]].
+Spellcasting results in the following general effects, but each of these can be increased through changing [[Spell Factors]] or risking [[Paradox]].
 - The spell grants a one-die bonus or penalty, deals one point of weapon damage, or heals one wound.
 - The spell lasts for one turn.
 - The spell hits one subject of Size 5 or less, or an area equal to an arm’s-length circle around a point.
 - The mage must be touching the subject of the spell, or be casting on herself.
 - The spell takes an amount of time to cast based on [[Gnosis]].
 
-The magic casting dice pool is modified by [[Yantra|Yantras]] and spell factors. The penalties to spellcasting can exceed the normal –5 penalty cap to dice pools. In cases where the penalty would reduce the dice pool beyond 0 — and thereby a chance die — by an additional –5 even after including bonuses from [[Yantra|Yantras]], the spell is too complex for the mage to cast and it automatically fails.
+The magic casting dice pool is modified by [[Yantra|Yantras]] and [[Spell Factors]]. The penalties to spellcasting can exceed the normal –5 penalty cap to dice pools. In cases where the penalty would reduce the dice pool beyond 0 — and thereby a chance die — by an additional –5 even after including bonuses from [[Yantra|Yantras]], the spell is too complex for the mage to cast and it automatically fails.
 
-The mage may need to spend Mana as part of spellcasting.\
-Improvising a spell using a Common or Inferior [[Arcanum]] costs one point of Mana, in addition to any other Mana the spell may require.
+The mage may need to spend [[Mana]] as part of spellcasting.\
+Improvising a spell using a Common or Inferior [[Arcanum]] costs one point of [[Mana]], in addition to any other [[Mana]] the spell may require.

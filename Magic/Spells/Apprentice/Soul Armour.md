@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Shielding|Shielding]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Occult, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Occult]], [[Survival]]
 
 ---
 

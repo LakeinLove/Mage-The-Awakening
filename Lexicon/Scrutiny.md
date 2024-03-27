@@ -19,9 +19,9 @@ Scrutiny is an [[Extended Action]], but with a few variations. The time per roll
 
 For instance, if a mage begins Scrutinizing a lingering spell with [[Opacity]] 4, after the player accumulates four successes, the [[Opacity]] rating drops to three. If the mage continues (and the player accumulates three more successes), the [[Opacity]] rating drops to two.
 
-In addition, while most extended actions are limited by the number of dice in the player’s unmodified dice pool, Scrutiny does not suffer this limitation. Maintaining Scrutiny does, however, become more dangerous to the mage. After a number of rolls for Scrutinizing a given [[Mystery]] equal to the mage’s unmodified [[Gnosis]] + [[Arcanum]], the character’s own magic starts to leak into the [[Mystery]]. 
+In addition, while most [[Extended Action|Extended Actions]] are limited by the number of dice in the player’s unmodified dice pool, Scrutiny does not suffer this limitation. Maintaining Scrutiny does, however, become more dangerous to the mage. After a number of rolls for Scrutinizing a given [[Mystery]] equal to the mage’s unmodified [[Gnosis]] + [[Arcanum]], the character’s own magic starts to leak into the [[Mystery]]. 
 
-In game terms, every time the player fails a Scrutiny roll after reaching this limit, add half the mage’s [[Gnosis]] (round up) to the Mystery’s [[Opacity]]. Unfortunately, this doesn’t apply only to the mage in question; anyone who attempts to Scrutinize this [[Mystery]] later has to separate out the clumsy mage’s influence on it.
+In game terms, every time the player fails a Scrutiny roll after reaching this limit, add half the mage’s [[Gnosis]] (round up) to the [[Mystery]]’s [[Opacity]]. Unfortunately, this doesn’t apply only to the mage in question; anyone who attempts to Scrutinize this [[Mystery]] later has to separate out the clumsy mage’s influence on it.
 
 The player can spend [[Mana]] during Scrutiny, releasing it and watching the shapes it makes as it sublimates into Fallen reality to gain clues about the [[Mystery]] at hand. Each point of [[Mana]] spent adds one success to that turn’s roll, but only if the roll succeeds. If the roll fails, the [[Mana]] spent that turn is lost. The mage cannot spend more [[Mana]] per turn than her [[Gnosis]] allows.
 
@@ -34,20 +34,20 @@ The player can spend [[Mana]] during Scrutiny, releasing it and watching the sha
 
 #### Dramatic Failure
 
-The player accrues no successes, and adds two to the Mystery’s [[Opacity]]. If the player has already made a number of rolls equal to the unmodified dice pool, a [[Supernal Entities|Supernal Entity]] of the mage’s [[Path]] takes note of the mage and may affect him with its powers as long as he maintains his [[Mage Sight]].
+The player accrues no successes, and adds two to the [[Mystery]]’s [[Opacity]]. If the player has already made a number of rolls equal to the unmodified dice pool, a [[Supernal Entities|Supernal Entity]] of the mage’s [[Path]] takes note of the mage and may affect him with its powers as long as he maintains his [[Mage Sight]].
 
 #### Failure
 
-The player accrues no successes, but can continue to Scrutinize. If the player has already made a number of rolls equal to the unmodified dice pool, then a failed roll adds half the mage’s [[Gnosis]] (round up) to the Mystery’s [[Opacity]].
+The player accrues no successes, but can continue to Scrutinize. If the player has already made a number of rolls equal to the unmodified dice pool, then a failed roll adds half the mage’s [[Gnosis]] (round up) to the [[Mystery]]’s [[Opacity]].
 
 #### Success
 
-The player accrues successes, and can choose to spend [[Mana]] in order to add more, up to the normal per-turn limits of the character’s [[Gnosis]]. If the player accumulates enough successes to lower the Mystery’s [[Opacity]], all successes are reset and the mage can continue (that is, it is not possible to lower a Mystery’s [[Opacity]] by more than one level in a single turn).\
+The player accrues successes, and can choose to spend [[Mana]] in order to add more, up to the normal per-turn limits of the character’s [[Gnosis]]. If the player accumulates enough successes to lower the [[Mystery]]’s [[Opacity]], all successes are reset and the mage can continue (that is, it is not possible to lower a [[Mystery]]’s [[Opacity]] by more than one level in a single turn).\
 If the mage chooses to break off the Scrutiny, she can reinstate it later, with the [[Opacity]] rating at whatever level it was when the mage broke off the attempt
 
 #### Exceptional Success
 
-The player accrues successes and reveals mysteries as described above. In addition, since the exceptional success mechanics for normal [[Extended Action]]s do not apply, the player may choose one of the following options: She can apply all successes gained in this roll, even if doing so lowers the [[Opacity]] more than once; she can spend a point of [[Mana]] to blot out the [[Mystery|Mysteries]] she is seeing so that other mages have a more difficult time scrutinizing them (add the character’s [[Gnosis]] to the Mystery’s [[Opacity]]); or she can spend a point of [[Mana]] to cover her tracks, obscuring any trace of her [[Nimbus]] from the area (anyone magically searching for her Scrutiny suffers a penalty equal to her [[Gnosis]]).
+The player accrues successes and reveals mysteries as described above. In addition, since the exceptional success mechanics for normal [[Extended Action]]s do not apply, the player may choose one of the following options: She can apply all successes gained in this roll, even if doing so lowers the [[Opacity]] more than once; she can spend a point of [[Mana]] to blot out the [[Mystery|Mysteries]] she is seeing so that other mages have a more difficult time scrutinizing them (add the character’s [[Gnosis]] to the [[Mystery]]’s [[Opacity]]); or she can spend a point of [[Mana]] to cover her tracks, obscuring any trace of her [[Nimbus]] from the area (anyone magically searching for her Scrutiny suffers a penalty equal to her [[Gnosis]]).
 
 ---
 

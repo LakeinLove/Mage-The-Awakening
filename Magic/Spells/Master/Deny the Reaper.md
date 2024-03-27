@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Medicine, Subterfuge
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Medicine]], [[Subterfuge]]
 
 ---
 

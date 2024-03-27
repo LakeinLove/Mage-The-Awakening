@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Brawl, Intimidation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Brawl]], [[Intimidation]]
 
 ---
 

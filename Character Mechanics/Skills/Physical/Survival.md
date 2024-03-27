@@ -11,7 +11,7 @@ _Survival represents a character’s experience and ability to “live off the l
 - The Survival [[Skill]] is not limited to wilderness or rural locales
 - It can also be used to survive in an urban environment when you have no other way of getting food or shelter
 - The Survival [[Skill]] does not cover dealing with animals beyond hunting
-- The character can track an animal, but without the Animal Ken [[Skill]], doesn’t understand much about the animal’s behaviour
+- The character can track an animal, but without the [[Animal Ken]] [[Skill]], doesn’t understand much about the animal’s behaviour
 - He wouldn’t have much luck trying to calm a bear that found its way into his campsite
 
 ---
@@ -32,7 +32,7 @@ _Survival represents a character’s experience and ability to “live off the l
 - Shelter
 - Weather
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Homeless Person
 - Off-the-grid Survivalist

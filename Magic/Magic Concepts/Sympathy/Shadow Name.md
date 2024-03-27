@@ -19,12 +19,12 @@ Some mages change their voices or body language so much that at first glance the
 A Shadow Name serves two functions. First, it helps conceal the mage’s [[Sympathetic Name]] from enemy mages who might use that knowledge to cast spells on her Sympathetically. More importantly, though, it prevents the mage’s [[Nimbus]] from affecting those who only know her by her Sleeping identity.\
 So long as the mage practices magic within her Shadow Name, only those things close to her as a mage (her cabal, sanctum, apprentices, Dedicated tools, etc.) are affected by her [[Nimbus]].
 
-A Shadow Name’s protection works best, however, if a mage avoids using magic in the presence of the loved ones of his Sleeper life.\
+A Shadow Name’s protection works best, however, if a mage avoids using magic in the presence of the loved ones of his [[Sleepers|Sleeper]] life.\
 If he allows too much of a connection to form between his Shadow Name and his un-Awakened family and friends, they may yet fall under the influence of his magic.
 
 ## Isolation
 
-A Shadow Name is a representation not just of the mage themselves, but of their reformation and [[Awakening]]; it is a tangible reminder of the distance they have between themselves and the Sleepers in their life.
+A Shadow Name is a representation not just of the mage themselves, but of their reformation and [[Awakening]]; it is a tangible reminder of the distance they have between themselves and the [[Sleepers]] in their life.
 
 It is, unsurprisingly, a focus of the [[Sympathy]] the mage forms as they act under that name, but it is also their admission that they are now, fundamentally, disconnected from those who were once closest to them.
 

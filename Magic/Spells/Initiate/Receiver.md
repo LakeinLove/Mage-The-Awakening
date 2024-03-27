@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Stealth, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Investigation]], [[Stealth]], [[Science]]
 
 ---
 

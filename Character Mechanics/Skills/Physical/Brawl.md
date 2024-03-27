@@ -29,7 +29,7 @@ _The Brawl [[Skill]] is the fine art of hurting another person with no weapons o
 - Muay Thai
 - Throws
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Club Bouncer
 - Self-defence Teacher

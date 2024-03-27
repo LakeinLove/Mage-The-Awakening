@@ -10,7 +10,7 @@ Prerequisites:
 
 ---
 
-_A successful Seer who has served her patron Exarch well can cast spells in his name._
+_A successful Seer who has served her patron [[Exarchs|Exarch]] well can cast spells in his name._
 
 ---
 
@@ -32,7 +32,7 @@ The character gains an [[Attainments|Attainment]] based on her [[Peoples/Exarchs
 
 ### Temple (••••)
 
-If one of your character’s soul stones is incorporated into a Demesne, the Demesne becomes a Supernal Verge keyed to her [[Peoples/Exarchs|Exarch]], inhabited by Supernal Entities loyal to the Throne. Including Soul Stones from Seers with Prelacy linked to a different [[Peoples/Exarchs|Exarch]] causes the Temple to collapse and immediately destroys all soul stones involved.
+If one of your character’s soul stones is incorporated into a [[Verges and Demesnes|Demesne]], the [[Verges and Demesnes|Demesne]] becomes a Supernal [[Verges and Demesnes|Verge]] keyed to her [[Peoples/Exarchs|Exarch]], inhabited by Supernal Entities loyal to the Throne. Including Soul Stones from Seers with Prelacy linked to a different [[Peoples/Exarchs|Exarch]] causes the Temple to collapse and immediately destroys all soul stones involved.
 
 **Drawback:**\
 Once the [[Peoples/Exarchs|Exarchs]] have given a command, they expect it to be carried out without delay. The character may only earn [[Arcane Beats]] from their other [[Obsessions]] in a chapter when they have already earned one for following the one granted by Mystery Commands.

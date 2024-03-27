@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Subterfuge, Medicine, Academics
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Subterfuge]], [[Medicine]], [[Academics]]
 
 ---
 
@@ -18,4 +18,4 @@ _The mage can suppress the subject’s life signs; the subject appears for all i
 
 All physical symptoms of death appear to set in and the soul appears absent from the body to magical senses.
 
-**+2 [[Reach]]:** By spending a point of Mana, the mage may cast the spell reflexively in response to something that would reasonably cause the subject’s death.
+**+2 [[Reach]]:** By spending a point of [[Mana]], the mage may cast the spell reflexively in response to something that would reasonably cause the subject’s death.

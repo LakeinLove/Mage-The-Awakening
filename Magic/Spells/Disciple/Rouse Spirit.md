@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Rank\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Expression, Investigation
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Expression]], [[Investigation]]
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]] or [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Drive, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Drive]], [[Science]]
 
 ---
 

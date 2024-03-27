@@ -16,4 +16,4 @@ These creatures are terrifying and dangerous — they take the form of an image 
 Wraiths aren’t necessarily malicious, but they do insist on making their Trials as exacting on the mage’s psyche as possible. 
 
 Mages call them up for purposes of self-discovery, often to remember details about their lives that they can’t access any other way.\
-The mage might also summon a Wraith to learn some secret of the Astral Realms.
+The mage might also summon a Wraith to learn some secret of [[The Astral Realms]].

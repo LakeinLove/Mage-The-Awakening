@@ -16,7 +16,7 @@ _A Sympathetic Name is something that someone forms as they come into existence,
 
 This name is contrasted with the [[Shadow Name]], the moniker that a mage adopts to better represent their awakening, their revelation that the world they have lived in is a lie, and their supernal identity.
 
-Instead, the Sympathetic Name is a more fundamental element of the person, it is not just a performance of who they are but a closer representation to their inner self. It is the lynch-pin that ties all Sleeper [[Sympathy]] to them. Most mages will use their Shadow Name when around other Mages, but anyone who knows their Sympathetic Name will also gradually form [[Sympathy]] with them.
+Instead, the Sympathetic Name is a more fundamental element of the person, it is not just a performance of who they are but a closer representation to their inner self. It is the lynch-pin that ties all [[Sleepers|Sleeper]] [[Sympathy]] to them. Most mages will use their [[Shadow Name]] when around other Mages, but anyone who knows their Sympathetic Name will also gradually form [[Sympathy]] with them.
 
 A Sympathetic Name can be both a weakness and a strength, a vulnerability and a shield, as knowing it can be used as a [[Yantra]] to ease casting of Sympathetic spells.\
 Equally, not knowing it makes casting spells on her at range more difficult, increasing the [[Withstanding Magic|Withstand]] level against the [[Sympathetic Range]] [[Attainments|Attainment]] by one.

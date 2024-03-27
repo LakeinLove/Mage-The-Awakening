@@ -13,7 +13,7 @@ Attainments are available to all mages as their understanding of magic (as measu
 
 As a mage’s rating in an [[Arcanum]] increases, she gains access to new Attainments. The Orders instruct their members on how to use these abilities, but the instruction bears more resemblance to conditioning in athletics or fundamental principles in mathematics.
 
-In game terms, Attainments use a variety of mechanics. Some are instant actions, some extended, and some don’t require dice at all. Many of them require the expenditure of Mana, or allow the mage to use Mana to boost their power and effectiveness.\
+In game terms, Attainments use a variety of mechanics. Some are [[Instant Action]]s, some extended, and some don’t require dice at all. Many of them require the expenditure of [[Mana]], or allow the mage to use [[Mana]] to boost their power and effectiveness.\
 Attainments do not require Imagos and as such cannot be countered by [[Counterspell]], [[Universal Counterspell]], or any other Attainments that affect spells. Adding an Attainment to a spell, however, does not prevent it from being Countered.
 
 ---

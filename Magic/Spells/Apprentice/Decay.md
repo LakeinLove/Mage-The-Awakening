@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Subterfuge, Science, Occult
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Subterfuge]], [[Science]], [[Occult]]
 
 ---
 

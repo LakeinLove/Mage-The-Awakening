@@ -2,6 +2,8 @@
 tags:
   - Skill
   - Mental
+aliases:
+  - Computers
 ---
 ## Description
 
@@ -27,7 +29,7 @@ _Almost everyone in the modern day can turn on a computer, use the internet, and
 - Hacking
 - Programming
 - UI design
-### Sample Contacts
+### Sample [[Contacts]]
 
 - AI researcher
 - Computer parts specialist

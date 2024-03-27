@@ -11,7 +11,7 @@ _Temporal Sympathy allows a mage to cast a Time spell at the past of a subject._
 
 ---
 
-The mage must be casting a spell on the subject as it exists now, cast at sensory range, use a sympathy [[Yantra]], and spend one Mana.
+The mage must be casting a spell on the subject as it exists now, cast at sensory range, use a sympathy [[Yantra]], and spend one [[Mana]].
 
 The spell is Withstood by the fragility of the temporal sympathy between the mage and her subject, plus one [[Withstanding Magic|Withstand]] level if the mage does not know the [[Sympathetic Name]] of the subject.
 

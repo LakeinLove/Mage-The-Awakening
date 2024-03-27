@@ -7,7 +7,7 @@ _Your character is confident and resolved._
 
 [[Conditions|Condition]]\
 **Resolution:** Your character’s confidence carries him through and the worst is avoided; the Condition is resolved as described above.\
-**Beat:** n/a
+**[[Beats|Beat]]:** n/a
 
 ---
 

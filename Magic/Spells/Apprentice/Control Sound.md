@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Stealth, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Expression]], [[Stealth]], [[Science]]
 
 ---
 
@@ -20,13 +20,13 @@ She can make a loudspeaker into a thunderous blast or a barely audible squeak. E
 
 The mage can also influence the direction of existing sounds. She can focus sound waves from across the room to hear a whispered conversation, ensure her own voice does not reach anyone but her intended target, or cause noises to emanate from nearby locations instead of their original sources. The Scale factor determines the area she can affect.
 
-Loud enough sounds can cause the Deafened Tilt in combat. By directing her sound away from a subject that might possibly notice her, the mage inflicts a penalty equal to her [[Arcanum]] dots to the subject’s Perception rolls to hear her approach.
+Loud enough sounds can cause the [[Deafened]] [[Tilts|Tilt]] in combat. By directing her sound away from a subject that might possibly notice her, the mage inflicts a penalty equal to her [[Arcanum]] dots to the subject’s Perception rolls to hear her approach.
 
 - Focusing sound waves to a specific point means that anyone outside of the chosen target (as determined by the Size of Target table) cannot hear the chosen sounds.
 - Listening to sounds across an area uses the Area of Effect Scale factor, determining the distance at which the mage can listen in on something. Doing so does not rob the source of its sound. To do that requires focusing the sound completely away from the source (above).
 
-This spell can also be used to alter the tone of a given sound, including modifying a target’s voice to sound like another. Emulating a specific voice might require an Expression + Subterfuge roll to get it right.
+This spell can also be used to alter the tone of a given sound, including modifying a target’s voice to sound like another. Emulating a specific voice might require an [[Expression]] + [[Subterfuge]] roll to get it right.
 
-**+1 [[Reach]]:** The mage can create an echoing effect by “nudging” sound waves into nearby obstacles. This imposes a penalty to Stealth rolls in the affected area equal to the spell’s Potency, to a maximum of –5.
+**+1 [[Reach]]:** The mage can create an echoing effect by “nudging” sound waves into nearby obstacles. This imposes a penalty to [[Stealth]] rolls in the affected area equal to the spell’s Potency, to a maximum of –5.
 
 **+1 [[Reach]]:** The caster gains a bonus to hearing-based Perception rolls within the affected area equal to the Potency of the spell, to a maximum of +5.

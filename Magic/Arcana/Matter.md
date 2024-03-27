@@ -5,7 +5,7 @@ tags:
   - Matter
 ---
 
-_The gross Arcanum of Stygia, Matter is a study in contradictions._
+_The gross Arcanum of [[Stygia]], Matter is a study in contradictions._
 
 ---
 

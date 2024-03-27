@@ -7,7 +7,7 @@ _Sometimes characters desire to cast spells or create effects that should be eas
 
 ---
 
-Often these spells are effects that the mage creates on a regular basis, and the risk of failure is small and has little to no impact on the drama of the story. Determining spell factor penalties and [[Yantra]] bonuses for these kinds of spells is cumbersome.
+Often these spells are effects that the mage creates on a regular basis, and the risk of failure is small and has little to no impact on the drama of the story. Determining [[Spell Factors|spell factor]] penalties and [[Yantra]] bonuses for these kinds of spells is cumbersome.
 
 In these cases, just have players roll [[Gnosis]] + [[Arcanum]].
 

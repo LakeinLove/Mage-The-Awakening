@@ -11,7 +11,7 @@ _Drive is a broad [[Skill]] used for the operation of any motorized vehicle. It 
 - However, if a character gets involved in a high-speed chase or tries to elude a tail, Drive is used to determine how well they handle themselves.
 - The Drive [[Skill]] is needed when the character is in a dangerous or stressful situation, is trying to do something tricky, or is driving at very high speeds.
 - If you want your character to be capable of piloting aircraft as well, you need to take the [[Skill Specialty]] in Piloting.
-- A character without the [[Piloting]] Specialty is considered untrained if he attempts to operate a plane or other aircraft.
+- A character without the Piloting Specialty is considered untrained if he attempts to operate a plane or other aircraft.
 
 ---
 
@@ -31,7 +31,7 @@ _Drive is a broad [[Skill]] used for the operation of any motorized vehicle. It 
 - Racing
 - Stunts
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Bush Pilot
 - Mechanic

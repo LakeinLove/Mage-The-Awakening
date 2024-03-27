@@ -3,7 +3,7 @@ _Characters who overdose on drugs treat the drug like a poison, with a Toxicity 
 ---
 
 The overdose deals damage once per hour until the drug has run its course — if a character’s spent 8 hours drinking, then the poison takes another 8 hours to fade, with Toxicity between 3 (beer or wine) to 5 (rubbing alcohol).\
-A character who injects stronger heroin than expected takes damage for (8 – Stamina) hours, with Toxicity 7.
+A character who injects stronger heroin than expected takes damage for (8 – [[Stamina]]) hours, with Toxicity 7.
 
 Some sample severities for diseases, drugs, and poisons are listed below:
 

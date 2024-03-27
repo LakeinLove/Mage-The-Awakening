@@ -5,7 +5,7 @@ aliases:
   - Seers
   - Throne
 ---
-_The Seers of the Throne, willing servants of the Exarchs, who keep Sleepers in [[Lie|the Lie]] in exchange for temporal power._
+_The Seers of the Throne, willing servants of the [[Exarchs]], who keep [[Sleepers]] in [[Lie|the Lie]] in exchange for temporal power._
 
 ## Magic is Payment
 
@@ -42,11 +42,11 @@ The ultimate rewards of Fallen service are archmastery and, Seers pray, Ascensio
 
 Through varied means of Fallen divination — Tarot and dream interpretation being the two most popular methods — Seers gain insights into where to act and what to do to further the [[Peoples/Exarchs|Exarchs]]’ power. The Tyrants control the world, after all — the marks of their will are there, if only you look for them with the requisite wisdom to comprehend.  
 
-The Seers are obsessed with omens and signs, even beyond raw applications of the [[Fate]] and [[Time]] [[Arcanum|Arcana]]. They listen for [[High Speech]] in the white noise of radio telescopes, consult charts of bird migrations, and enslave Sleepers who have the gift of foresight. The more Seers work the [[Peoples/Exarchs|Exarchs]]’ will, the more rewards they find, including unique praxes (that still serve the Tyrants), artifacts of Atlantis, and Supernal Verges.
+The Seers are obsessed with omens and signs, even beyond raw applications of the [[Fate]] and [[Time]] [[Arcanum|Arcana]]. They listen for [[High Speech]] in the white noise of radio telescopes, consult charts of bird migrations, and enslave [[Sleepers]] who have the gift of foresight. The more Seers work the [[Peoples/Exarchs|Exarchs]]’ will, the more rewards they find, including unique praxes (that still serve the Tyrants), artifacts of Atlantis, and Supernal [[Verges and Demesnes|Verges]].
 
 ### From the Iron Pyramid comes prestige and servitude
 
-As the [[Peoples/Exarchs|Exarchs]] are above mages, so are mages above Sleepers, and the Seers direct minions in campaigns of surveillance and subversion. Among the Awakened, the Pyramid defines the hierarchy. Senior mages encourage their lessers to delegate tasks, offering less and less explanation further down the Pyramid while tolerating more and more personal exploitation.\
+As the [[Peoples/Exarchs|Exarchs]] are above mages, so are mages above [[Sleepers]], and the Seers direct minions in campaigns of surveillance and subversion. Among the Awakened, the Pyramid defines the hierarchy. Senior mages encourage their lessers to delegate tasks, offering less and less explanation further down the Pyramid while tolerating more and more personal exploitation.\
 It’s not easy — a Seer must split her time between utilizing and sabotaging subordinates while flattering and undermining her superiors. The various Ministries also wrestle for influence within the Pyramid. The net effect is that despite all the advantages the [[Peoples/Exarchs|Exarchs]]’ sponsorship brings, the Seers spend too much time jockeying for position and chasing their personal [[Mystery|Mysteries]] to fully wage war on the Pentacle.
 
 ## Origins
@@ -60,7 +60,7 @@ They fell with the rise of Republican Rome, scattered and crushed by circumstanc
 
 The Seers look for [[Mystery|Mysteries]] revealing the [[Peoples/Exarchs|Exarchs]]’ will, or are directed to them by their divinations. A great many Seers are directed to search for [[Mystery|Mysteries]] under the command of their hierarchy, ostensibly by the will of the [[Peoples/Exarchs|Exarchs]], but most often to satisfy the whims of their betters (though most Seers assume that if the [[Peoples/Exarchs|Exarchs]] took issue, they’d say so).  
 
-For their part, [[Peoples/Exarchs|Exarchs]] command the Seers to conquer the Watchtowers by studying Awakenings, control magic by hoarding secrets and mystic sites, enslave the Old Gods and various powers antithetical to Supernal magic, regulate the Abyss, divide humanity with rivalry and resentment to keep them Asleep, and destroy the Pentacle and the Nameless Orders.
+For their part, [[Peoples/Exarchs|Exarchs]] command the Seers to conquer the Watchtowers by studying Awakenings, control magic by hoarding secrets and mystic sites, enslave the Old Gods and various powers antithetical to Supernal magic, regulate [[The Abyss]], divide humanity with rivalry and resentment to keep them Asleep, and destroy the Pentacle and the Nameless Orders.
 
 By contrast, the [[Peoples/Exarchs|Exarchs]] also direct Seers to protect humanity from existential threats, and renew the vault-seals of ancient horrors called the Bound. Not even the Tyrants wish to rule a kingdom of ashes. More than once in history, this has required making common cause with the Diamond — primarily the [[Silver Ladder]], but occasionally the [[Guardians of the Veil]] and the [[Mysterium]].
 
@@ -70,13 +70,13 @@ Last but most important, the [[Peoples/Exarchs|Exarchs]] do take direct action o
 
 Seer tools transcend cultural boundaries, relying on the symbolism of their Ministry’s patron [[Peoples/Exarchs|Exarch]]. Seers incorporate [[Peoples/Exarchs|Exarch]] icons into [[High Speech]], runes, and illuminated scripture. Most often, this is an orison to his patron, a prayer for intercession of a Tyrant’s will.
 
-Repeatedly drawing on her [[Peoples/Exarchs|Exarch]] draws a Seer’s soul closer to alignment with her patron’s symbols. After successive castings of high magic, a doorway appears in her Oneiros, leading to a brutal Supernal test of loyalty in a dreamscape controlled by her patron’s servants, with a successful harrowing leading to Prelacy.
+Repeatedly drawing on her [[Peoples/Exarchs|Exarch]] draws a Seer’s soul closer to alignment with her patron’s symbols. After successive castings of high magic, a doorway appears in her Oneiros, leading to a brutal Supernal test of loyalty in a dreamscape controlled by her patron’s servants, with a successful harrowing leading to [[Prelacy]].
 
 ## Hubris
 
 No mage serves the Throne out of altruism. Even the deluded or willfully ignorant find themselves quickly disabused of notions of fighting the good fight. Yet there’s great profit in tyranny, and no shame in admitting that. Unfortunately for the [[Wisdom]] of Seers, the missions assigned them by superiors are often traumatic. 
 
-The Tyrants care not for those below them, and while they reward valued servants and Prelates, few make the leap from expendable to indispensable. Seers fall to [[Act of Hubris|Hubris]] when they follow orders no matter the cost to themselves or others, when they enslave Sleepers to work their will, or when they steal [[Artifact|Artifacts]] and other magical supplies from other groups without regard. Sadly, these actions neatly describe the Seers’ mandate.
+The Tyrants care not for those below them, and while they reward valued servants and Prelates, few make the leap from expendable to indispensable. Seers fall to [[Act of Hubris|Hubris]] when they follow orders no matter the cost to themselves or others, when they enslave [[Sleepers]] to work their will, or when they steal [[Artifact|Artifacts]] and other magical supplies from other groups without regard. Sadly, these actions neatly describe the Seers’ mandate.
 
 ## Concepts
 

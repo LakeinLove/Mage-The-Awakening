@@ -7,7 +7,7 @@ _She called it an interrogation but never asked you a thing, though she spoke as
 
 ---
 
-The Eleventh Question credits a 19th century Mystagogue named Lucy Caspian with the core of its philosophy. She said that every [[Arcanum]] answered an eternal question so that, for example, [[Mind]] revealed the nature of identity and thought, and [[Matter]] showed Awakened the truths of tangible, inert phenomena. Yet these were always incomplete answers, and the full Mystery of sorcery, even Ascension, required an Eleventh Question, beyond the domain of the [[Arcanum|Arcana]].
+The Eleventh Question credits a 19th century Mystagogue named Lucy Caspian with the core of its philosophy. She said that every [[Arcanum]] answered an eternal question so that, for example, [[Mind]] revealed the nature of identity and thought, and [[Matter]] showed Awakened the truths of tangible, inert phenomena. Yet these were always incomplete answers, and the full [[Mystery]] of sorcery, even Ascension, required an Eleventh Question, beyond the domain of the [[Arcanum|Arcana]].
 
 While investigating a haunted estate, ghosts possessed members of Caspian’s cabal and used the victims’ own magic to not only kill each other, but cover it up as an apparent murder-suicide. A Guardian hermit named Sullivan helped Caspian’s protégé Jeremiah Moon uncover the truth, clearing the names of the deceased.\
 Combining Sullivan’s Guardian training with the philosophy Moon had learned under Caspian, the two founded the Eleventh Question and became nomadic consulting investigators. After Moon perished in their last “case,” Sullivan passed the Legacy to three Guardians before vanishing.
@@ -30,7 +30,7 @@ Now that Caspianites initiate worthy individuals from any Order, Guardians consi
 **Prerequisites:** [[Time]] 2, [[Investigation]] 2 and one of the following additional Skills at 2 dots or higher:\
 [[Academics]], [[Larceny]], [[Medicine]], [[Occult]], or [[Science]].
 
-**Initiation:** The prospective Querent must solve the Mystery her tutor assigns.
+**Initiation:** The prospective Querent must solve the [[Mystery]] her tutor assigns.
 
 **Organization:** Querents don’t follow any formal hierarchy, though many work in pairs. If more than two gather for any reason, it’s to deal with a Legacy-wide emergency or something really, really strange.
 
@@ -41,7 +41,7 @@ Now that Caspianites initiate worthy individuals from any Order, Guardians consi
 Ruling [[Arcanum]]: [[Time]]
 
 [[Yantra|Yantras]]:
-- Succeeding on an Investigation roll relevant to the spell (+2)
+- Succeeding on an [[Investigation]] roll relevant to the spell (+2)
 - Verbally explaining a mysterious phenomenon to a trusted associate (+1)
 - Collecting samples or recording information (images, sounds, writings) relevant to the spell — note that the act of collection is the [[Yantra]] in this case, separate from possessing an item that might be used for sympathetic magic (+2)
 - Using stimulants to stay focused (+1, or +2 if this creates an adverse Condition).
@@ -74,11 +74,11 @@ This duplicates the effects of the “[[Postcognition]]” spell with Potency eq
 **Optional:** [[Matter]] 2
 
 The Querent may also cause liquid or particulate solid matter that has been diluted or diffused to take a shape it possessed in the past, as long as some residue remains. This might cause wiped fingerprints to reform and washed-away blood to pool in its old location. The mage must touch these spots. This duplicates the effects of the “[[Shaping]]” spell and applies to both liquids and particulate matter.\
-The Querent may make such changes obvious (by giving a murderer bloody hands) or subtle (recreating a clue for Sleepers who “might have missed it”).
+The Querent may make such changes obvious (by giving a murderer bloody hands) or subtle (recreating a clue for [[Sleepers]] who “might have missed it”).
 
 ### Third: The Chance Answer
 
-**Prerequisites:** [[Time]] 3. In addition to the Investigation 3 requirement from the previous Attainment, the Querent must increase the other Skill she used to meet the requirements of the Legacy to 3, or must attain two dots in a second skill from the list of possible requirements.
+**Prerequisites:** [[Time]] 3. In addition to the [[Investigation]] 3 requirement from the previous Attainment, the Querent must increase the other Skill she used to meet the requirements of the Legacy to 3, or must attain two dots in a second skill from the list of possible requirements.
 
 Confident that the truth of a thing will be revealed, the mage extrapolates her present situation to the future, learning what she will know in the fullness of time. She fetches information from a future where the truth has been revealed. This resembles the spell “[[Divination]]” with [[Reach]] assigned to instant use, sensory range, and specific questions.
 

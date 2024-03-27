@@ -14,8 +14,8 @@ Any incoming magical effect that would change her physical body can be immediate
 The mage can reflexively use this [[Attainments|Attainment]] under the following circumstances:
 - She is the target of a supernatural power that would alter her physical body in some way.
 - She is the target of a supernatural power that would injure her.
-- She is the target of an attack that would place a Personal Tilt on her (Arm Wrack, Blind, etc.).
+- She is the target of an attack that would place a Personal [[Tilts|Tilt]] on her ([[Arm Wrack]], [[Blind]], etc.).
 
-The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of Mana.
+The mage is immediately aware when one of the above circumstances applies, and may protect herself by spending a point of [[Mana]].
 
 The character enters a [[Clash of Wills]] with the intruding power, using her [[Gnosis]] + [[Life]].

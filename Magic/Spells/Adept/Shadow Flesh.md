@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Death]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Stamina\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Medicine, Subterfuge
+[[Withstanding Magic|Withstand]]: [[Stamina]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Medicine]], [[Subterfuge]]
 
 ---
 

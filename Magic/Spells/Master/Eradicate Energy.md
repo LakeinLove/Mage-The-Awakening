@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Survival, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Survival]], [[Science]]
 
 ---
 
@@ -20,4 +20,4 @@ See the Transform Energy table for the Potency required by different levels of e
 
 The destruction is spectacular, explosively scattering the affected energies into particles. 
 
-If used on a creature, this spell is instantly fatal but Withstood by Stamina
+If used on a creature, this spell is instantly fatal but Withstood by [[Stamina]]

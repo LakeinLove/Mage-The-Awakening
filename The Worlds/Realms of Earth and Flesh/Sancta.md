@@ -19,5 +19,5 @@ Sancta include the following places:
 
 ## System
 
-Sancta use the [[Safe Place]] and [[Sanctum]] Merits. Some sancta (particularly Athenaea and Lore-houses) typically provide other place-based Merits, though visitors use them on the sufferance of their true owners.\
-Characters must possess the Sanctum Merit or have requisitioned it through their Order to make use of the Merit’s mechanical effects such as extra Spell Control.
+Sancta use the [[Safe Place]] and [[Sanctum]] [[Merits]]. Some sancta (particularly Athenaea and Lore-houses) typically provide other place-based [[Merits]], though visitors use them on the sufferance of their true owners.\
+Characters must possess the [[Sanctum]] Merit or have requisitioned it through their Order to make use of the Merit’s mechanical effects such as extra [[Spell Control]].

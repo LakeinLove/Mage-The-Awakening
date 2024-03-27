@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Stamina\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Stealth, Subterfuge
+[[Withstanding Magic|Withstand]]: [[Stamina]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Medicine]], [[Stealth]], [[Subterfuge]]
 
 ---
 
@@ -21,6 +21,6 @@ Rather than an illusion as with Mutable Mask, the transformation caused by this 
 
 If the subject is missing organs or limbs, however, they remain gone in the new form, and injuries carry over from one form to the next.
 
-The mage may rearrange up to the spell’s Potency in Physical [[Attribute]] dots, for example moving a dot of Strength to Stamina, but cannot change the total number of dots, bring any to 0, or raise them above the subject’s limit.
+The mage may rearrange up to the spell’s Potency in Physical [[Attribute]] dots, for example moving a dot of [[Strength]] to [[Stamina]], but cannot change the total number of dots, bring any to 0, or raise them above the subject’s limit.
 
 **Add [[Time]] •••:** The mage may change the subject’s physical age as well.

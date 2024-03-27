@@ -8,7 +8,7 @@ _Your character cannot speak._
 
 Persistent [[Conditions|Condition]]\
 **Resolution:** The character regains her voice through mundane or supernatural means.\
-**Beat:** Your character suffers a limitation or communication difficulty that heightens immediate danger.
+**[[Beats|Beat]]:** Your character suffers a limitation or communication difficulty that heightens immediate danger.
 
 ---
 

@@ -25,7 +25,7 @@ She can bolster a soul, restore pleasure to a ghost, and reverse the effects of 
 - Decay
 - Ectoplasm
 - Ghosts
-- The Underworld
+- [[The Underworld]]
 - Souls
 - Cold
 - Absence

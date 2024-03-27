@@ -28,7 +28,7 @@ _The Occult [[Skill]] is a character’s knowledge of myth, folktales, and urban
 - Psychic Phenomena
 - Urban Legends
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Anthropology Professor
 - Neo-Pagan Author

@@ -28,7 +28,7 @@ _Stealth is a character’s ability to stay hidden, unseen, and unheard_
 - Shadowing
 - Stakeouts
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Bow Hunter
 - Burglar

@@ -32,7 +32,7 @@ When you’ve got plenty of training and the steps you need to follow are laid o
 
 ### Successive Attempts
 
-When you fail a roll, you may be able to try again. If time is not an issue and your character is under no pressure to perform, you may make successive attempts with your full dice pool. In the far more likely situation that time is short and the situation is tense, each subsequent attempt has a cumulative –1 die penalty — so the third time a character tries to break down the door that’s keeping her inside a burning building, her roll has a –2 die penalty. Successive attempts do not apply to extended actions.
+When you fail a roll, you may be able to try again. If time is not an issue and your character is under no pressure to perform, you may make successive attempts with your full dice pool. In the far more likely situation that time is short and the situation is tense, each subsequent attempt has a cumulative –1 die penalty — so the third time a character tries to break down the door that’s keeping her inside a burning building, her roll has a –2 die penalty. Successive attempts do not apply to [[Extended Action|Extended Actions]].
 
 ### Teamwork
 

@@ -7,7 +7,7 @@ _Your character is attracted to someone and is vulnerable where they are concern
 
 [[Conditions|Condition]]\
 **Resolution:** Your character does something for his love interest that puts him in danger, or he opts to fail a roll to resist a Social action by the specified character.\
-**Beat:** n/a
+**[[Beats|Beat]]:** n/a
 
 ---
 

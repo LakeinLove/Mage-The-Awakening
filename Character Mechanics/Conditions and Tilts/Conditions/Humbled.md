@@ -8,7 +8,7 @@ _You have been reminded of the power of humanity, and your arrogance and pride c
 [[Conditions|Condition]]\
 **Possible Sources:** Extreme sacrifice on your behalf. Certain Sleepwalker Merits.\
 **Resolution:** The character sacrifices of himself in dramatic fashion in the name of the person or symbol that humbled him in the first place.\
-**Beat:** Any time the character might act with hubris or arrogance, if the player chooses to take a dramatic failure on that roll rather attempt it, take a Beat.
+**[[Beats|Beat]]:** Any time the character might act with hubris or arrogance, if the player chooses to take a dramatic failure on that roll rather attempt it, take a [[Beats|Beat]].
 
 ---
 

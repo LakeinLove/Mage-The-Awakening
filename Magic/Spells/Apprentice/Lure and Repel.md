@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Resolve\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Survival, Persuasion
+[[Withstanding Magic|Withstand]]: [[Resolve]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Animal Ken]], [[Survival]], [[Persuasion]]
 
 ---
 
@@ -20,7 +20,7 @@ _The mage can create a magical lure or repellent for specific types of organisms
 While the mage could in theory specify any type of organism, she is likely to be quickly overwhelmed by numbers.\
 When casting this spell as a lure, a smart mage will specify only certain types of organisms (not microscopic ones, if she’s smarter still) to draw to her.
 
-Plants and microorganisms have Resolve 0 for purposes of [[Withstanding Magic|Withstanding]] the spell.
+Plants and microorganisms have [[Resolve]] 0 for purposes of [[Withstanding Magic|Withstanding]] the spell.
 
 Organisms drawn in are not necessarily friendly and will remain cautious or even hostile if it is within their nature to do so, but will not openly attack the subject unless cornered.
 

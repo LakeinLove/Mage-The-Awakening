@@ -30,7 +30,7 @@ _Science is a character’s understanding of the natural and physical sciences._
 - Optics
 - Particle Physics
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Experimental Physicist
 - Geology Professor

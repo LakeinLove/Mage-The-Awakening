@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Subject effect's Potency\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Empathy, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Empathy]], [[Survival]]
 
 ---
 
@@ -29,4 +29,4 @@ While the subject remains under the effects of Atonement, she must complete a ta
 
 Especially powerful curses, such as those levied by ephemeral entities of Rank 6 or more, will often demand more elaborate tasks to break.
 
-**+1 [[Reach]]:** The quest can be undertaken on the subject’s behalf by another person who wishes to champion her. If the subject is unwilling, this spell is Withstood with Resolve.
+**+1 [[Reach]]:** The quest can be undertaken on the subject’s behalf by another person who wishes to champion her. If the subject is unwilling, this spell is Withstood with [[Resolve]].

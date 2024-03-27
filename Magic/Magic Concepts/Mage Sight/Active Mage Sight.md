@@ -16,16 +16,16 @@ The mage hallucinates, seeing the connections of the [[Arcanum|Arcana]] all arou
 Each [[Arcanum]] has a minor mechanical effect, relating to the base level of perception granted by Active Sight.
 
 [[Death]] Sight:\
-Allows a mage to detect the presence of the Anchor [[Condition]] or manifested ghosts and related phenomena. With a glance, a mage using [[Mage Sight]] can tell if someone has a soul, or if a body is, in fact, dead.
+Allows a mage to detect the presence of the Anchor [[Conditions|Condition]] or manifested ghosts and related phenomena. With a glance, a mage using [[Mage Sight]] can tell if someone has a soul, or if a body is, in fact, dead.
 
 [[Fate]] Sight:\
-Highlights anyone the mage watches who experiences a dramatic failure or exceptional success. It reveals the presence and use of a Destiny a [[Merit]], but not the details of that destiny.
+Highlights anyone the mage watches who experiences a dramatic failure or exceptional success. It reveals the presence and use of a [[Destiny Merit|Destiny]] a [[Merit]], but not the details of that destiny.
 
 [[Forces]] Sight:\
 Detects motion and highlights the presence of environmental [[Tilts]], fire, electricity, and other hazards. With a glance, a mage can tell if a device is powered.
 
 [[Life]] Sight:\
-Detects life signs, revealing if a body is still alive, and allows a mage to gauge how injured a character is with a glance. The presence of toxins, diseases, and Personal Tilts is obvious to the mage.
+Detects life signs, revealing if a body is still alive, and allows a mage to gauge how injured a character is with a glance. The presence of toxins, diseases, and Personal [[Tilts]] is obvious to the mage.
 
 [[Matter]] Sight:\
 Allows the mage to determine the Structure and Durability of anything she looks at, as well as highlighting the value and quality of items (in game terms, telling the player the Availability and Equipment Bonus of any object).
@@ -40,7 +40,7 @@ Highlights anything the mage can use as a [[Yantra]], and the presence (if not t
 Allows the user to instantly judge distances, range bands, and cover, allowing the player to know what bonuses or penalties would be in effect before the character acts. It also detects spatial warps, scrying windows, and the presence of [[Iris|Irises]].
 
 [[Spirit]] Sight:\
-Reveals the strength of the local [[Gauntlet]], detects the presence and nature of the Resonance [[Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
+Reveals the strength of the local [[Gauntlet]], detects the presence and nature of the Resonance [[Conditions|Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
 
 [[Time]] Sight:\
 Reveals the split-second adjustments of time, allowing the player to know the [[Initiative]] ratings of all participants in combat. When a character is about to act, even with a [[Reflexive Action]], a mage watching with [[Time]] Sight is aware of it (if not what that action will be), and may pre-empt it if he is able. [[Time]] Sight also detects temporal warps, and the tell-tale signs that someone has come back into the past.
@@ -57,6 +57,6 @@ For example, a light-based invisibility spell would conceal a target from [[Magi
 
 ## Mechanics
 
-Entering Active Mage Sight is a reflexive action when only using Ruling [[Arcanum|Arcana]], and an instant action otherwise. Leaving it is always reflexive. If the Storyteller determines that a mage’s Active Mage Sight could logically pierce a concealment effect, use a [[Clash of Wills]], pitting the observing mage’s [[Gnosis]] + [[Arcanum]] against the defender’s dice pool for the concealment power.
+Entering Active Mage Sight is a [[Reflexive Action]] when only using Ruling [[Arcanum|Arcana]], and an [[Instant Action]] otherwise. Leaving it is always reflexive. If the Storyteller determines that a mage’s Active Mage Sight could logically pierce a concealment effect, use a [[Clash of Wills]], pitting the observing mage’s [[Gnosis]] + [[Arcanum]] against the defender’s dice pool for the concealment power.
 
 While a character is using Active Mage Sight, she suffers a –2 modifier to all rolls unrelated to using or perceiving magic. In addition, [[Mage Sight]] is draining. A mage can maintain Active Mage Sight for a number of minutes equal to her [[Gnosis]]. After that, she must spend a [[Willpower]] point to keep it active for the remainder of the scene.

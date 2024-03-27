@@ -27,7 +27,7 @@ _Medicine is a character’s knowledge of the human body and the medical techniq
 - Pharmacology
 - Surgery
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Bio-tech company researcher
 - EMT

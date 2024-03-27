@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Survival, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Investigation]], [[Survival]], [[Science]]
 
 ---
 
@@ -20,7 +20,7 @@ Without an [[Practice of Unveiling|Unveiling]] spell like Nightvision, the spell
 
 For example, a mage using this spell on herself could look closely at a bird circling high above, or zoom in to great detail to examine a layer of dust on an object, but she couldn’t see things that would only appear under a blacklight.
 
-If a character magnifies vision to focus on small-scale occurrences, the Storyteller may call for Intelligence + Science rolls to make sense of what she’s seeing.
+If a character magnifies vision to focus on small-scale occurrences, the Storyteller may call for [[Intelligence]] + [[Science]] rolls to make sense of what she’s seeing.
 
 Every level of Potency doubles the distance the mage can see clearly before suffering penalties, although atmospheric conditions can still cloud her view. Add Potency to dice rolls to notice small details.
 

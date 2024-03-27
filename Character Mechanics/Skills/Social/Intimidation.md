@@ -29,7 +29,7 @@ _Intimidation is the art of using fear to convince others to do what you want_
 - Torture
 - Veiled Threats
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Barroom Tough Guy
 - High-powered Executive

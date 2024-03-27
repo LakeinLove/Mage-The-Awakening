@@ -1,6 +1,8 @@
 ---
 tags:
 - Legacy
+alises:
+- Legacy Attainment
 ---
 
 _All Legacies teach special Attainments, built from Praxes the Legacy’s members have internalized._
@@ -22,16 +24,16 @@ These adjustments shouldn’t make Attainments significantly more or less powerf
 
 ### Automatic Activation
 
-In most cases, a Legacy Attainment can be activated with an instant action and does not require dice rolls.\
-Like a spell, the Attainment automatically acquires primary spell factor ranks (in Potency or Duration) equal to the mage’s dots in the Attainment’s highest prerequisite [[Arcanum]] minus one.
+In most cases, a Legacy Attainment can be activated with an [[Instant Action]] and does not require dice rolls.\
+Like a spell, the Attainment automatically acquires primary [[Spell Factors|spell factor]] ranks (in Potency or Duration) equal to the mage’s dots in the Attainment’s highest prerequisite [[Arcanum]] minus one.
 
-When required, the Attainment is also considered to have acquired additional spell factors that would incur a penalty (if cast as a spell) up to the Attainment’s lowest prerequisite [[Arcanum]].
+When required, the Attainment is also considered to have acquired additional [[Spell Factors]] that would incur a penalty (if cast as a spell) up to the Attainment’s lowest prerequisite [[Arcanum]].
 
 If the Attainment would require a measurement of its successes, it automatically scores a number of successes equal to the mage’s dots in the highest prerequisite [[Arcanum]].
 
 For example, if a member of a fire-summoning Legacy who possesses [[Forces]] 5 activates her [[Forces]]-based Legacy Attainment. Its primary factor is Potency. The Attainment scores 5 Potency automatically. If Duration is required, it lasts for three turns (as per Duration rating with –4 dice penalty). It scores 5 successes. If the Attainment also harnessed [[Spirit]] and the mage possessed three dots in that [[Arcanum]], the Duration would decrease to two turns, since the secondary factor uses the lower of the two ratings.
 
-Unless specified otherwise, activating an Attainment is an instant action.\
+Unless specified otherwise, activating an Attainment is an [[Instant Action]].\
 Attainments cannot be enhanced by longer “casting times.”
 
 ### Fixed Reach
@@ -48,11 +50,11 @@ A Greater Utility Attainment may offer the ability to counter all supernatural p
 
 ### Legacy Wisdom
 
-Using a Legacy Attainment is never considered an Act of Hubris; the mage’s mystic self is completely attuned to their use.
+Using a Legacy Attainment is never considered an [[Act of Hubris]]; the mage’s mystic self is completely attuned to their use.
 
-### Mana Break
+### [[Mana]] Break
 
-Legacy Attainments issue from the mage’s soul instead of the Supernal Realms, so Mana is only used to reinforce her will, not channel power from beyond. When adapting Attainments from spells, reduce any Mana cost higher than one point to one point.
+Legacy Attainments issue from the mage’s soul instead of the Supernal Realms, so [[Mana]] is only used to reinforce her will, not channel power from beyond. When adapting Attainments from spells, reduce any [[Mana]] cost higher than one point to one point.
 
 ### Optional Effect
 
@@ -60,18 +62,18 @@ Some Legacy Attainments include an additional or alternate effect if the mage po
 
 ### Praxis Refund
 
-If the mage knew the Legacy Attainment as a [[Praxes|Praxis]], she internalizes her understanding. She loses the [[Praxes|Praxis]], but receives a “refund” of one Arcane Experience plus one Arcane Beat. Legacy members often develop [[Praxes]] to train themselves for upcoming Legacy Attainments, including the first, for pupils who study under a tutor but have yet to be initiated.
+If the mage knew the Legacy Attainment as a [[Praxes|Praxis]], she internalizes her understanding. She loses the [[Praxes|Praxis]], but receives a “refund” of one [[Arcane Experience]] plus one [[Arcane Beats|Arcane Beat]]. Legacy members often develop [[Praxes]] to train themselves for upcoming Legacy Attainments, including the first, for pupils who study under a tutor but have yet to be initiated.
 
 ### Free from the Lie
 
-Legacy Attainments do not count as obvious magic to Sleepers, are immune to [[Dissonance]] and do not trigger [[Quiescence]] or Breaking Points in witnesses.
+Legacy Attainments do not count as obvious magic to [[Sleepers]], are immune to [[Dissonance]] and do not trigger [[Quiescence]] or [[Breaking Point|Breaking Points]] in witnesses.
 
 ### Transient Stacking
 
 Legacy Attainments may stack with spells, but only for a short time; doing so eradicates the spell, as the Attainment’s intuitive, personal nature unravels the spell’s Supernally charged Imago.
 
 Stacking a Legacy Attainment with a spell causes the spell’s Duration to end, as if cancelled, after one turn per dot the mage possesses in the spell’s highest [[Arcanum]] or its usual Duration, whichever comes first.\
-For example, if a Perfected Adept with three dots of [[Life]] casts a spell that increases his Strength by three dots for the day, activating his Attainment to add another three dots of Strength increases it by six dots, but his spell disperses after three turns.
+For example, if a Perfected Adept with three dots of [[Life]] casts a spell that increases his [[Strength]] by three dots for the day, activating his Attainment to add another three dots of [[Strength]] increases it by six dots, but his spell disperses after three turns.
 
 Transient stacking can only be performed on spells lingering within the mage’s own [[Gnosis]] (i.e. those that impose penalties for being actively maintained) and not spells cast by others, relinquished, or bound to enchanted items of any kind.
 
@@ -81,8 +83,8 @@ Transient stacking can only be performed on spells lingering within the mage’s
 A mage may either develop Attainments according to the orthodox teachings of her Legacy, or invent novel Attainments based on her personal approach to the Legacy’s doctrine.\
 Consult the accompanying chart to determine the minimum requirements.
 
-Each Legacy Attainment costs one Experience, and they must be purchased in order.\
-You may spend ordinary or Arcane Experiences to learn a Legacy Attainment from a tutor who already knows it, but you must spend an Arcane Experience to develop a new Attainment without a tutor — and this includes all novel Legacy Attainments.
+Each Legacy Attainment costs one [[Experience]], and they must be purchased in order.\
+You may spend ordinary or [[Arcane Experience|Arcane Experiences]] to learn a Legacy Attainment from a tutor who already knows it, but you must spend an [[Arcane Experience]] to develop a new Attainment without a tutor — and this includes all novel Legacy Attainments.
 
 Certain Legacy Attainments (such as those of the [[Eleventh Question]]) impose other prerequisites, typically in the form of Skill or Merit dots.
 

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Science, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Medicine]], [[Science]], [[Survival]]
 
 ---
 
@@ -23,11 +23,11 @@ What a mage can create is limited by little other than her imagination, though t
 
 The Size of Target Scale factor determines the maximum Size of the created organism. The creation has all the basic characteristics of an organism of its type; the mage need not impart the ability to breed or move in ways normal to that species.
 
-When the spell’s Duration expires, so does the created organism, which may count as an Act of Hubris against Enlightened Wisdom.\
-Simply creating the living creature knowing this may also count as an Act of Hubris.
+When the spell’s Duration expires, so does the created organism, which may count as an [[Act of Hubris]] against Enlightened Wisdom.\
+Simply creating the living creature knowing this may also count as an [[Act of Hubris]].
 
 Some mages use this spell to create bodies they can possess or alter with other [[Life]] magic, use to bribe spirits looking for a host body, or create a companion (often done with an Indefinite Duration).\
-Created human bodies are soulless and thus immediately gain the Soulless Condition.
+Created human bodies are soulless and thus immediately gain the [[Soulless]] Condition.
 
 **Add [[Mind]] •••••:** The caster gives her creation a true mind as appropriate for the organism’s type.
 

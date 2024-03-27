@@ -28,7 +28,7 @@ _Subterfuge is the fine art of deception. With Subterfuge, a character can lie c
 - Long Cons
 - Misdirection
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Con Artist
 - Crooked Politician

@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Mind]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Investigation, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Investigation]], [[Persuasion]]
 
 ---
 

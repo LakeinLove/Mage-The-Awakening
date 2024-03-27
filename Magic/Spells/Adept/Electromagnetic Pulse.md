@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Forces]]\
 [[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Computers, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Computer|Computers]], [[Science]]
 
 ---
 

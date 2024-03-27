@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Medicine, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Medicine]], [[Survival]]
 
 ---
 

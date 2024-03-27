@@ -30,7 +30,7 @@ _Academics represents general higher education and knowledge of arts and humanit
 - Linguistics
 - Research
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Rare Book Dealer
 - Law Processor

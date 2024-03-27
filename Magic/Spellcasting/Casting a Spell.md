@@ -25,9 +25,9 @@ The spell's effect takes place as imagined.
 
 #### Exceptional Success
 
-The spell’s effect takes place better than imagined. The character regains one spent point of Willpower, and the player may choose one of the following results:
-- A bonus step in the primary spell factor.
-- A[[Reach]] in the primary spell factor.
+The spell’s effect takes place better than imagined. The character regains one spent point of [[Willpower]], and the player may choose one of the following results:
+- A bonus step in the primary [[Spell Factors|spell factor]].
+- A[[Reach]] in the primary [[Spell Factors|spell factor]].
 - A Condition which will give [[Arcane Beats]] when resolved, on either the mage or her subject.
-- All Mana spent on the spell is refunded, and the mage receives one more point of Mana.
+- All [[Mana]] spent on the spell is refunded, and the mage receives one more point of [[Mana]].
 - The spell ignores any [[Withstanding Magic|Withstand]] levels and takes effect at full Potency.

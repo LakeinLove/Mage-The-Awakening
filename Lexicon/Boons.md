@@ -21,8 +21,8 @@ Grant a dice bonus equal to Potency on certain actions (usually a single Skill) 
 Multiple boons cannot grant their bonus to the same action; only the highest bonus counts.\
 The subject’s player chooses which of his rolls are affected by this Boon before rolling the dice.
 
-Grant a number of beneficial Conditions (such as Charmed, Informed, Inspired, or Steadfast) equal to Potency for the Duration of the spell.\
-None of these Conditions grant Beats when the subject resolves them (unless the caster achieved an exceptional success in the casting).
+Grant a number of beneficial Conditions (such as [[Charmed]], [[Informed]], [[Inspired]], or [[Steadfast]]) equal to Potency for the Duration of the spell.\
+None of these Conditions grant [[Beats]] when the subject resolves them (unless the caster achieved an exceptional success in the casting).
 
 ---
 

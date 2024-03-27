@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Prime]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Occult, Socialise
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Brawl]], [[Occult]], [[Socialise]]
 
 ---
 
@@ -21,4 +21,4 @@ Mages use this spell as a teaching aid, forming Imagos to display to their stude
 
 The spell has another role in mage society, though; it is the basis for the Duel Arcane, in which two rival mages display what they could do to one another.
 
-+2 [[Reach]]: For one Mana, any attempt to [[Counterspell]] a spell cast within the area gains the rote action quality, as the plainly visible Imago makes the spell easy to decipher. (In many duels, seconds are appointed to stand ready to [[Counterspell]] attempts at cheating.)
++2 [[Reach]]: For one [[Mana]], any attempt to [[Counterspell]] a spell cast within the area gains the rote action quality, as the plainly visible Imago makes the spell easy to decipher. (In many duels, seconds are appointed to stand ready to [[Counterspell]] attempts at cheating.)

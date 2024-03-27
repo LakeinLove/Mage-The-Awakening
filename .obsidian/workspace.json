@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
-                "mode": "source",
+                "file": "Magic/Spells/Adept/World Walker.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
+                "file": "Magic/Spells/Adept/World Walker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
+                "file": "Magic/Spells/Adept/World Walker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md"
+                "file": "Magic/Spells/Adept/World Walker.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
-    "Magic/Magic Concepts/Mage Sight/Peripheral Mage Sight.md",
-    "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
-    "Magic/Magic Concepts/Mage Sight/Focused Mage Sight.md",
-    "Magic/Magic Concepts/Mage Sight/Active Mage Sight.md",
-    "Magic/Magic Concepts/Gnosis/Increasing Gnosis.md",
-    "Magic/Magic Concepts/Gnosis/Gnosis Table.md",
-    "Magic/Magic Concepts/Gnosis/Gnosis.md",
-    "Magic/Magic Concepts/Gnosis/Effects of Gnosis.md",
-    "Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
-    "Magic/Magic Concepts/Awakening/The Obrimos Awakening.md",
-    "Magic/Magic Concepts/Awakening/The Moros Awakening.md",
-    "Magic/Magic Concepts/Awakening/The Mastigos Awakening.md",
-    "Magic/Magic Concepts/Awakening/The Acanthus Awakening.md",
-    "Magic/Magic Concepts/Awakening/Awakening.md",
-    "Magic/Magic Concepts/Awakened Will.md",
-    "Magic/Magic Concepts/Dissonance.md",
-    "Magic/Magic Concepts/Quiescence.md",
-    "Magic/Magic Concepts/High Speech.md",
-    "Magic/Magic Concepts/Attainments/Universal Counterspell.md",
-    "Magic/Magic Concepts/Attainments/Unbound Fate.md",
-    "Magic/Magic Concepts/Attainments/Time in a Bottle.md",
-    "Magic/Magic Concepts/Attainments/Temporal Sympathy Attainment.md",
-    "Magic/Magic Concepts/Attainments/Targeted Summoning.md",
-    "Magic/Magic Concepts/Attainments/Sympathetic Range.md",
-    "Magic/Magic Concepts/Attainments/Spirit Eyes.md",
-    "Magic/Magic Concepts/Attainments/Precise Force.md",
+    "Magic/Spells/Adept/Withering.md",
+    "Magic/Spells/Adept/Transubstantiation.md",
+    "Magic/Spells/Adept/Terrorize.md",
+    "Magic/Spells/Adept/Shapechanging.md",
+    "Magic/Spells/Adept/Supernal Dispellation.md",
+    "Magic/Spells/Adept/Teleportation.md",
+    "Magic/Spells/Adept/Strings of Fate.md",
+    "Magic/Spells/Adept/Shadow Scream.md",
+    "Magic/Spells/Adept/Gain Skill.md",
+    "Magic/Spells/Adept/Possession.md",
+    "Magic/Spells/Adept/Piercing Earth.md",
+    "Magic/Spells/Adept/Mind Flay.md",
+    "Magic/Spells/Adept/Mend.md",
+    "Magic/Spells/Adept/Life-Force Assault.md",
+    "Magic/Spells/Adept/Hallucination.md",
+    "Magic/Spells/Adept/Golem.md",
+    "Magic/Spells/Adept/Exorcism.md",
+    "Magic/Spells/Adept/Electromagnetic Pulse.md",
+    "Magic/Spells/Adept/Divine Intervention.md",
+    "Magic/Spells/Adept/Destroy Tass.md",
+    "Magic/Spells/Adept/Cut Threads.md",
+    "Magic/Spells/Adept/Craft Fetish.md",
+    "Magic/Spells/Adept/Celestial Fire.md",
+    "Magic/Spells/Adept/Atonement.md",
+    "Magic/Spells/Adept/Accelerate Growth.md",
+    "Character Mechanics/Breaking Point.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

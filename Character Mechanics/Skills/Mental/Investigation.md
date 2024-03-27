@@ -28,7 +28,7 @@ _Investigation is a character’s ability to find and put together clues and sol
 - Forensics
 - Riddles
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Conspiracy buff
 - Medical examiner

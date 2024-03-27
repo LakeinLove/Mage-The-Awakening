@@ -7,7 +7,7 @@ _Whether or not your character actually did something heinous in the past, the w
 
 [[Conditions|Condition]]\
 **Resolution:** The story is debunked or the character’s name is cleared.\
-**Beat:** n/a
+**[[Beats|Beat]]:** n/a
 
 ---
 

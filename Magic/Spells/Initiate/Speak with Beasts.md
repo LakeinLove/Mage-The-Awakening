@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Animal Ken, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Animal Ken]], [[Survival]]
 
 ---
 
@@ -20,7 +20,7 @@ She usually speaks to it by making noises similar to its own sounds, but this is
 
 This does not grant her any capability to control a creature, only to understand and be understood by it.
 
-Animals have limited ability to understand things that transpire around them, especially as pertains to humans, but the subject gains a bonus to any Animal Ken rolls made with that animal equal to the spell’s Potency.\
+Animals have limited ability to understand things that transpire around them, especially as pertains to humans, but the subject gains a bonus to any [[Animal Ken]] rolls made with that animal equal to the spell’s Potency.\
 A bird may not understand just why the people went into the house across the street last night, for example, but it could give a general estimate of their number and unusual features like being covered in tattoos ("skin patterns").
 
 **+1 [[Reach]]:** The subject may communicate with all animals, instead of only a single species.

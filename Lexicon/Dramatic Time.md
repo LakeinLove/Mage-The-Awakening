@@ -11,7 +11,7 @@ In addition to years, days, and hours, Mage also uses six units of dramatic time
 
 ### Turn
 
-The smallest increment of time, a turn lasts for about three seconds. A character can perform a single instant action in a turn. Turns normally only matter in combat or other dramatic and stressful situations.
+The smallest increment of time, a turn lasts for about three seconds. A character can perform a single [[Instant Action]] in a turn. Turns normally only matter in combat or other dramatic and stressful situations.
 
 ### Scene
 

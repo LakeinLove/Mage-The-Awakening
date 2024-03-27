@@ -31,7 +31,7 @@ _Larceny covers the generally-illegal skills of breaking and entering, lock pick
 - Safecracking
 - Sleight of Hand
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Shady Pawn Shop Owner
 - Parole Officer

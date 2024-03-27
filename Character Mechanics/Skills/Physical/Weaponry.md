@@ -29,7 +29,7 @@ _Weaponry is the ability to fight with hand-to-hand weapons. A character with th
 - Knives
 - Swords
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Fencing Instructor
 - Gang Member

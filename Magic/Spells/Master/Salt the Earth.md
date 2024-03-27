@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Science, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Medicine]], [[Science]], [[Survival]]
 
 ---
 

@@ -7,12 +7,12 @@ tags:
 Cost: •\
 Prerequisites:
 - [[Prime]] •
-- Wits •••
+- [[Wits]] •••
 
 ---
 
-_Your character’s awakened eye has sensed Mana enough that her mundane senses have begun picking up the cues of its presence._
+_Your character’s awakened eye has sensed [[Mana]] enough that her mundane senses have begun picking up the cues of its presence._
 
 ---
 
-Hallows and stored Mana trigger her [[Peripheral Mage Sight]], even without an active magical effect.
+[[Hallows]] and stored [[Mana]] trigger her [[Peripheral Mage Sight]], even without an active magical effect.

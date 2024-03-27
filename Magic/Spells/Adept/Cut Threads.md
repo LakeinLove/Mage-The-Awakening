@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: [[Sympathy]] (Connection)\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Persuasion, Politics, Weaponry
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Persuasion]], [[Politics]], [[Weaponry]]
 
 ---
 

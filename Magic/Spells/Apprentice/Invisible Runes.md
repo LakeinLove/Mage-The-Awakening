@@ -8,11 +8,11 @@ tags:
 [[Arcanum]]: [[Prime]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Intimidation, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Expression]], [[Intimidation]], [[Persuasion]]
 
 ---
 
-_The Awakened make use of signs others can’t see. This spell draws a short message in [[High Speech]], visible only to Mage Sight, onto its subject._
+_The Awakened make use of signs others can’t see. This spell draws a short message in [[High Speech]], visible only to [[Mage Sight]], onto its subject._
 
 ---
 

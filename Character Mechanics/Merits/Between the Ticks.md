@@ -14,4 +14,4 @@ _Your character has perceived the depths of Time, and thus can act with the utmo
 
 ---
 
-With this Merit, once per scene you can subtract –1 from your character’s Initiative for the turn to add a die to her action for the turn, or subtract a die from her action to add +1 to her Initiative.
+With this Merit, once per scene you can subtract –1 from your character’s [[Initiative]] for the turn to add a die to her action for the turn, or subtract a die from her action to add +1 to her [[Initiative]].

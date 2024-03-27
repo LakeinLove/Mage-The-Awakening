@@ -29,7 +29,7 @@ _Politics represents a character’s knowledge of political bodies, figures, and
 - Scandals
 - Specific Political Party
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Personal Assistant to the Governor
 - Political Blogger

@@ -9,20 +9,20 @@ _Merits reflect aspects of your character but are an out-of-game resource._
 ---
 
 Mage characters can take the following Merits. Unless otherwise noted, all these Merits have an additional prerequisite of “Awakened.” However, at Storyteller discretion, other characters may take these.\
-For example, in your chronicle, you may decide that the Sanctum Merit should be available to Sleepwalkers affiliated with the cabal.
+For example, in your chronicle, you may decide that the [[Sanctum]] Merit should be available to [[Sleepwalkers]] affiliated with the cabal.
 
-For example, your character may have friends, but you can choose to spend [[Experience|Experiences]] or Merit dots to purchase the Allies Merit.\
+For example, your character may have friends, but you can choose to spend [[Experience|Experiences]] or Merit dots to purchase the [[Allies|Allies Merit]].\
 This gives those friends a direct effect in the game. If something happens to a character’s friends, specifically supporting cast not represented by Merit dots, the story goes on and nothing happens in terms of game mechanics.
 
-If something happens to Allies, however, those points are not lost. The Allies dots disappear but you receive [[Experience|Experiences]] equal to the dots lost.\
+If something happens to [[Allies]], however, those points are not lost. The [[Allies]] dots disappear but you receive [[Experience|Experiences]] equal to the dots lost.\
 This is called the Sanctity of Merits rule.
 
 ---
 
 If your character loses a Merit, you may repurchase it in the next chapter of your chronicle.\
-You can’t just say, “All right, my Allies died. I’m buying new Allies to call.” You’d have to wait until the next chapter.
+You can’t just say, “All right, my [[Allies]] died. I’m buying new [[Allies]] to call.” You’d have to wait until the next chapter.
 
-Alternatively, you can spend those [[Experience|Experiences]] on other traits that are relevant to the situation. Maybe losing those Allies inspired a few trips to the firing range to let off steam, so you spend those points on a dot of Firearms.
+Alternatively, you can spend those [[Experience|Experiences]] on other traits that are relevant to the situation. Maybe losing those [[Allies]] [[inspired]] a few trips to the firing range to let off steam, so you spend those points on a dot of [[Firearms]].
 
 ## Merit List
 

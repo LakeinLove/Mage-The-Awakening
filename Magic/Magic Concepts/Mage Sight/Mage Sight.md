@@ -38,7 +38,7 @@ To the [[Obrimos]], the world is bursting with power. [[Obrimos|Theurgists]] see
 
 ### Thyrsus Mage Sight
 
-[[Thyrsus]] experience the world as ecstasy, the feeling of transcending the self to connect to the world around you. The world under a [[Thyrsus]]’ Mage Sight is alive — some [[Thyrsus|Shamans]] experience a pulse, a rhythm connecting every creature, or see magic lapping in and out of Hallows like breath. Under [[Focused Mage Sight]], every living being is clearly part of the superorganism, playing its part like an individual cell in a body.
+[[Thyrsus]] experience the world as ecstasy, the feeling of transcending the self to connect to the world around you. The world under a [[Thyrsus]]’ Mage Sight is alive — some [[Thyrsus|Shamans]] experience a pulse, a rhythm connecting every creature, or see magic lapping in and out of [[Hallows]] like breath. Under [[Focused Mage Sight]], every living being is clearly part of the superorganism, playing its part like an individual cell in a body.
 
 ---
 

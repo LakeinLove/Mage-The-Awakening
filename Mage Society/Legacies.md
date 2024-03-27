@@ -16,7 +16,7 @@ Not all Awakened develop Legacies, but most do, because they confer several adva
 - [[Yantra|Yantras]]
 - Oblations
 - New or strengthened Ruling [[Arcanum]]
-- Legacy Attainments
+- [[Legacy Attainments]]
 
 By adopting a Legacy, a mage alters her [[Gnosis]], shaping her mystic self in accord with its principles. Some Legacies are initiatory traditions; others, deeply personal obsessions.
 
@@ -26,7 +26,7 @@ By adopting a Legacy, a mage alters her [[Gnosis]], shaping her mystic self in a
 
 All Legacies possess an originating Path, and many (though not all) are connected to an Order.
 
-Normally, your mage must either belong to the Legacy’s Path or Order. However, it is possible for a mage of any Path or Order to join a Legacy if she learns a [[Praxes|Praxis]] that duplicates the Legacy’s first Attainment, and utilizes one of the Legacy’s [[Yantra|Yantras]]. She develops the understanding to join without other requirements. Note that some Legacies possess unusual Attainments that make this impossible. Once she learns the Legacy’s first Attainment, she loses the [[Praxes|Praxis]] it duplicates but receives one standard Experience and one Arcane Beat.
+Normally, your mage must either belong to the Legacy’s Path or Order. However, it is possible for a mage of any Path or Order to join a Legacy if she learns a [[Praxes|Praxis]] that duplicates the Legacy’s first Attainment, and utilizes one of the Legacy’s [[Yantra|Yantras]]. She develops the understanding to join without other requirements. Note that some Legacies possess unusual Attainments that make this impossible. Once she learns the Legacy’s first Attainment, she loses the [[Praxes|Praxis]] it duplicates but receives one standard [[Experience]] and one [[Arcane Beats|Arcane Beat]].
 
 #### Arcane (and Other) Knowledge
 
@@ -36,7 +36,7 @@ Legacies also require other forms of knowledge based on their respective theorie
 
 #### Indoctrination
 
-Finally, each Legacy demands that prospective pupils perform tasks, endure ordeals, and otherwise encounter the Legacy’s perspective through direct experience. Even a self-founded Legacy can’t be invented with a mere idea — the mage needs to explore its Mystery through action.
+Finally, each Legacy demands that prospective pupils perform tasks, endure ordeals, and otherwise encounter the Legacy’s perspective through direct experience. Even a self-founded Legacy can’t be invented with a mere idea — the mage needs to explore its [[Mystery]] through action.
 
 ### Initiation
 
@@ -45,7 +45,7 @@ To join, one must be initiated through the following methods, after meeting the 
 
 #### Founding a Legacy
 
-Your mage might be able to develop her own Legacy at [[Gnosis]] 3 or greater. You must expend one Arcane Experience to complete the process after designing the Legacy with your Storyteller.
+Your mage might be able to develop her own Legacy at [[Gnosis]] 3 or greater. You must expend one [[Arcane Experience]] to complete the process after designing the Legacy with your Storyteller.
 
 This is, however, the least common way to join a Legacy for the simple reason that most mages aren’t up to the task — anyone can join a Legacy, but few can found them.\
 There’s no hard and fast rule restricting who can found a Legacy. It rests entirely on what the troupe feels comfortable with.
@@ -54,11 +54,11 @@ Know, however, that a cabal of mages who have each founded their own Legacies wo
 
 #### Daimonomikon
 
-Your sorcerer may study a Daimonomikon: a special Grimoire that teaches the Legacy’s secrets.
+Your sorcerer may study a Daimonomikon: a special [[Grimoire]] that teaches the Legacy’s secrets.
 
 This requires a minimum [[Gnosis]] of 2.\
 Daimonomika are difficult to find, and often deliberately hidden or destroyed by rival Legacies or parties who believe the Legacy should be suppressed.\
-To join the Legacy described in a Daimonomikon’s pages, spend one Arcane Experience.
+To join the Legacy described in a Daimonomikon’s pages, spend one [[Arcane Experience]].
 
 #### Soul Study
 
@@ -66,7 +66,7 @@ Your mage may study the soul or soul stone of a mage belonging to a Legacy to jo
 
 This requires a minimum [[Gnosis]] of 2.\
 Outside certain Legacies that use this as a traditional way to instruct students, this is considered a serious crime — you’re not only ripping off the Legacy, but probably stealing a practitioner’s soul.\
-To learn a Legacy by studying a soul or soul stone directly, spend one Arcane Experience.
+To learn a Legacy by studying a soul or soul stone directly, spend one [[Arcane Experience]].
 
 #### Tutelage
 
@@ -74,7 +74,7 @@ This is by far the most common way to learn a Legacy.
 
 Once your mage reaches [[Gnosis]] 2, an established Legacy member may initiate her into its ways.\
 The tutor must possess the Legacy’s third Attainment.\
-To join the Legacy, spend one standard or Arcane Experience. Furthermore, both tutor and pupil earn one Arcane Beat. If the pupil elects to spend an Arcane Experience, she may use this Arcane Beat to contribute to it, though this is not mandatory.
+To join the Legacy, spend one standard or [[Arcane Experience]]. Furthermore, both tutor and pupil earn one [[Arcane Beats|Arcane Beat]]. If the pupil elects to spend an [[Arcane Experience]], she may use this [[Arcane Beats|Arcane Beat]] to contribute to it, though this is not mandatory.
 
 
 

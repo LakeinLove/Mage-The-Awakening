@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 [[Withstanding Magic|Withstand]]: [[Sympathy]] (Connection)\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Politics, Subterfuge, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Politics]], [[Subterfuge]], [[Survival]]
 
 ---
 

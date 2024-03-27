@@ -13,7 +13,7 @@ _These are 2 example [[Awakening|Awakenings]] to the [[Obrimos]] path_
 
 Before they Awakened, [[Obrimos]] usually arrayed their thoughts in ordered systems. They were physicists, philosophers, programmers, monks, priests, and linguists, or autodidacts able to blend insights from divergent fields. That doesn’t make them intelligent, but speaks to a love of structure and order.
 
-They hate inconsistencies and begin [[Awakening]] by spotting flaws in their own thinking. They see nonsense physics and mind-bending philosophical problems that even smarter Sleepers are too [[Lie]]-blind to notice. When nascent [[Obrimos]] try to describe these problems in papers, debates, or sermons they come off sounding like cranks.
+They hate inconsistencies and begin [[Awakening]] by spotting flaws in their own thinking. They see nonsense physics and mind-bending philosophical problems that even smarter [[Sleepers]] are too [[Lie]]-blind to notice. When nascent [[Obrimos]] try to describe these problems in papers, debates, or sermons they come off sounding like cranks.
 
 In one university, a mathematician on the verge of [[Awakening]] marshals Big Data to model the fates of nations. She tweaks simulations to map paths to Utopia, but it never works. Improve one indicator and another falls. Why?\
 Correlation isn’t causation, but the inexplicable connections keep coming, and the only solution is to postulate some basic field of utility using Vitalism, Platonic forms, and other concepts so far outside her wheelhouse that writing about them would rip her right off the tenure track.\

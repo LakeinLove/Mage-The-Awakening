@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Man
+aliases: []
 tags:
   - Attribute
   - Social

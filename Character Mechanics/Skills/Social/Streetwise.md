@@ -29,7 +29,7 @@ _A character with the Streetwise [[Skill]] understands how life on the streets w
 - Rumours
 - Undercover Work
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Bartender in a Rough Part of Town
 - Drug Dealer

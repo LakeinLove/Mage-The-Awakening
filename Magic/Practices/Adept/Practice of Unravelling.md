@@ -12,4 +12,4 @@ _Unravelling spells can significantly impair or damage phenomena under the [[Arc
 
 ---
 
-Damage inflicted by a direct Unravelling attack is lethal, but can be upgraded to aggravated by spending a point of Mana and one[[Reach]].
+Damage inflicted by a direct Unravelling attack is lethal, but can be upgraded to aggravated by spending a point of [[Mana]] and one[[Reach]].

@@ -13,7 +13,7 @@ This system resolves the entire fight in a single roll. Storyteller characters m
 ## Example
 
 **Action:** Contested; resistance is reflexive\
-**Dice Pool:** Combat pool (Dexterity + Firearms, Strength + Brawl, or Strength + Weaponry) versus either the opponent’s combat pool (as above) or an attempt to escape (Strength or Dexterity + Athletics). Ignore Defence on this roll.
+**Dice Pool:** Combat pool ([[Dexterity]] + [[Firearms]], [[Strength]] + [[Brawl]], or [[Strength]] + [[Weaponry]]) versus either the opponent’s combat pool (as above) or an attempt to escape ([[Strength]] or [[Dexterity]] + [[Athletics]]). Ignore [[Defence]] on this roll.
 
 ### Roll Results
 
@@ -31,4 +31,4 @@ The character wins the contest. She deals damage equal to the difference in succ
 
 #### Exceptional Success
 
-As a success, and the character also gains a point of Willpower from the rush of inflicting violence on an inferior opponent.
+As a success, and the character also gains a point of [[Willpower]] from the rush of inflicting violence on an inferior opponent.

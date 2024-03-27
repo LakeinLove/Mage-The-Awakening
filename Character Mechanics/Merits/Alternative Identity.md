@@ -10,7 +10,7 @@ Prerequisites:
 
 ---
 
-_Your character has established an alternate mundane identity; not a Shadow Name, but a second identity she can use among Sleepers and to lessen the risk of her real sympathetic name being uncovered by enemies._
+_Your character has established an alternate mundane identity; not a [[Shadow Name]], but a second identity she can use among [[Sleepers]] and to lessen the risk of her real sympathetic name being uncovered by enemies._
 
 ---
 
@@ -22,6 +22,6 @@ At two dots, she’s supported her identity with paperwork and identification. I
 
 At three dots, the identity can pass thorough inspection. The identity has been deeply entrenched in relevant databases.
 
-The Merit also reflects the time the character has spent honing the persona. At 1 or 2 dots, she adds 1 die to all Subterfuge rolls to defend the identity. At 3 dots, she adds 2.
+The Merit also reflects the time the character has spent honing the persona. At 1 or 2 dots, she adds 1 die to all [[Subterfuge]] rolls to defend the identity. At 3 dots, she adds 2.
 
 This Merit can be purchased multiple times, with each time representing an additional identity.

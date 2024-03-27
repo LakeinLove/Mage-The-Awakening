@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Connection of desired link\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Persuasion, Politics
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Persuasion]], [[Politics]]
 
 ---
 

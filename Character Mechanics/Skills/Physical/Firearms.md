@@ -32,7 +32,7 @@ _Firearms represents a character’s familiarity and comfort with guns. It refle
 - Shotguns
 - Sniping
 
-### Sample Contacts
+### Sample [[Contacts]]
 
 - Gun store owner
 - Local law enforcement

@@ -8,8 +8,8 @@ tags:
 [[Arcanum]]: [[Fate]]\
 [[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
-[[Withstanding Magic|Withstand]]: Composure\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Subterfuge, Weaponry
+[[Withstanding Magic|Withstand]]: [[Composure]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Occult]], [[Subterfuge]], [[Weaponry]]
 
 ---
 
@@ -22,6 +22,6 @@ The mage may apply a number of the following effects equal to Potency:
 - Change the effects of an active [[Boons|Boon]] or [[Hexes|Hex]]
 - Modify or negate an oath or other supernatural agreement reinforced by the dictates of [[Fate]]
 - Change or dispel a conditional trigger
-- Modify the Doom of a subject with the Destiny Merit
+- Modify the Doom of a subject with the [[Destiny Merit]]
 
 **+2 [[Reach]]:** The spell’s effects are Lasting.

@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: Merit rating of the targeted magical object, or Durability if not measured in Merit dots\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Occult, Weaponry
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Intimidation]], [[Occult]], [[Weaponry]]
 
 ---
 

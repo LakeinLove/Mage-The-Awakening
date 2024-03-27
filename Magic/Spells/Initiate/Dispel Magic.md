@@ -9,7 +9,7 @@ tags:
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 [[Withstanding Magic|Withstand]]: [[Arcanum]] rating of the subject spell's caster\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Intimidation, Occult
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Intimidation]], [[Occult]]
 
 ---
 
@@ -23,4 +23,4 @@ A successful casting suppresses the spell for the Duration of Dispel Magic.
 
 **Add [[Fate]] •:** The mage may suppress the subject spell selectively, for a number of subjects equal to Dispel Magic’s Scale factor.
 
-**+2 [[Reach]]:** For one point of Mana, the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.
+**+2 [[Reach]]:** For one point of [[Mana]], the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.

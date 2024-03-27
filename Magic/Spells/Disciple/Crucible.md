@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Matter]]\
 [[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Science
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Crafts]], [[Occult]], [[Science]]
 
 ---
 
@@ -22,6 +22,6 @@ Valuable objects, such as gold or diamonds, become incredibly pure and beautiful
 
 Add the spell’s Potency to the object’s Availability rating to determine its increased value. This spell cannot increase an object’s Availability to more than twice its original rating.
 
-**+1 [[Reach]]:** For one point of Mana, the object grants the rote action quality on a number of rolls equal to the spell’s Potency. As long as the spell’s Duration lasts, its wielder may spend one point of Mana at any time to “recharge” this effect, granting the rote action quality on an additional number of rolls equal to the spell’s Potency.
+**+1 [[Reach]]:** For one point of [[Mana]], the object grants the rote action quality on a number of rolls equal to the spell’s Potency. As long as the spell’s Duration lasts, its wielder may spend one point of [[Mana]] at any time to “recharge” this effect, granting the rote action quality on an additional number of rolls equal to the spell’s Potency.
 
 **+1 [[Reach]]:** The spell may increase the object’s Availability to three times its original rating.

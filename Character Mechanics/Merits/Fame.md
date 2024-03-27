@@ -20,4 +20,4 @@ As a rule of thumb, one dot means local recognition, or reputation within a conf
 Fame also scatters sympathetic links; the [[Withstanding Magic|Withstanding]] level of sympathy for spells targeting the character has a minimum of her Fame dots.
 
 **Drawback:**\
-Any rolls to find or identify the character by mundane means enjoy a +1 bonus per dot of the Merit. A character with Fame cannot have the Occultation Merit.
+Any rolls to find or identify the character by mundane means enjoy a +1 bonus per dot of the Merit. A character with Fame cannot have the [[Occultation]] Merit.

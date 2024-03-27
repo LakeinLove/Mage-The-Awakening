@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Life]]\
 [[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Medicine, Survival
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Empathy]], [[Medicine]], [[Survival]]
 
 ---
 
@@ -22,6 +22,6 @@ Each level of Potency heals two lethal damage.
 
 **+1 [[Reach]]:** The spell heals damage done by deprivation and charges the subject’s system as though she had received a full meal and plenty of water.
 
-**+1 [[Reach]]:** The spell reproduces the effects of a full night’s rest in the subject, including regaining a point of Willpower if applicable.
+**+1 [[Reach]]:** The spell reproduces the effects of a full night’s rest in the subject, including regaining a point of [[Willpower]] if applicable.
 
-**+1 [[Reach]]:** The spell heals aggravated damage. Cost: 1 Mana.
+**+1 [[Reach]]:** The spell heals aggravated damage. Cost: 1 [[Mana]].

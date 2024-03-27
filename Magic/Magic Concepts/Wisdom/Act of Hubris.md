@@ -30,11 +30,11 @@ These highest levels of [[Wisdom]] force the mage to walk a careful line. Any mi
 
 ### Wisdom 4–7, Medium / Understanding (3 dice)
 
-Most experienced and stable mages fall into this range of [[Wisdom]]. Sometimes, Acts of Hubris happen. But by and large, the mage acts with basic [[Wisdom]] most of the time. Allowing a Sleeper to witness obvious magic, thus risking greater [[Paradox]], can cause degeneration. Self-mutilating events such as soul stone creation risk degeneration. Not attempting to contain a severe [[Paradox]] risks degeneration as well. Forcing a sapient being (whether a Sleeper, spirit, or anything else) to act counter to its interests, altering its nature long-term, or binding it to a task all risk degeneration, as does deliberate and premeditated murder and violence that leaves its victim with long-term injury.
+Most experienced and stable mages fall into this range of [[Wisdom]]. Sometimes, Acts of Hubris happen. But by and large, the mage acts with basic [[Wisdom]] most of the time. Allowing a [[Sleepers|Sleeper]] to witness obvious magic, thus risking greater [[Paradox]], can cause degeneration. Self-mutilating events such as soul stone creation risk degeneration. Not attempting to contain a severe [[Paradox]] risks degeneration as well. Forcing a sapient being (whether a [[Sleepers|Sleeper]], spirit, or anything else) to act counter to its interests, altering its nature long-term, or binding it to a task all risk degeneration, as does deliberate and premeditated murder and violence that leaves its victim with long-term injury.
 
 ### Wisdom 1–3, Low / Falling (1 die)
 
-Hubris of this level concerns all mages. A mage at this precipice could be lost to his magic at any time. Only the darkest, most selfishly destructive acts risk degeneration at this point. Killing someone in a fit of rage, destroying an Awakened soul, allowing a Supernal being to be consumed by the Fallen World, or dealing with the Abyss can force the mage through her final loss of [[Wisdom]].
+Hubris of this level concerns all mages. A mage at this precipice could be lost to his magic at any time. Only the darkest, most selfishly destructive acts risk degeneration at this point. Killing someone in a fit of rage, destroying an Awakened soul, allowing a Supernal being to be consumed by the Fallen World, or dealing with [[The Abyss]] can force the mage through her final loss of [[Wisdom]].
 
 ### Wisdom 0
 

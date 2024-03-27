@@ -1,8 +1,7 @@
 ---
 tags:
   - Merit
-aliases:
-  - Dream
+aliases: []
 ---
 
 [[Merits|Merit]]\
@@ -12,11 +11,11 @@ Prerequisites:
 
 ---
 
-_This Merit reflects a deeper inclusion into Mysterium secrets than the Mysterium Status Merit normally grants._
+_This Merit reflects a deeper inclusion into Mysterium secrets than the Mysterium [[Status Merit]] normally grants._
 
 ---
 
-Mystery Initiation opens the doors to the communal experience of living magic the Mysterium calls the egregore. Access to the egregore opens certain techniques for use within Mysterium rituals.
+[[Mystery]] Initiation opens the doors to the communal experience of living magic the Mysterium calls the egregore. Access to the egregore opens certain techniques for use within Mysterium rituals.
 
 Each level of this Merit allows an additional ability:
 
@@ -32,7 +31,7 @@ At this level, your character’s full Mysterium Status applies to all Mysterium
 ### Mysteriorum Barathrum (•••):
 
 Your character is initiated sufficiently as to be part of the knowledge base.\
-She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the Informed Condition regarding the local Mysterium’s membership, specialties, Merits, [[Obsessions]], and [[Arcanum|Arcana]].
+She does not require physical access to any Library held by her cabal or Mysterium Caucus, and once per chapter may gain the [[Informed]] Condition regarding the local Mysterium’s membership, specialties, [[Merits]], [[Obsessions]], and [[Arcanum|Arcana]].
 
 ### Mysteriorum Calamitas (••••):
 
@@ -40,4 +39,4 @@ Your character has been granted secrets of techniques which decouple physical ob
 
 ### Mysteriorum Focus (•••••):
 
-Your character connects with the Order’s fundamental ethos, on a level beyond most any other members. When she’s in an Order Sanctum, she’s considered to have a Medium sympathetic connection to all members of the Order.
+Your character connects with the Order’s fundamental ethos, on a level beyond most any other members. When she’s in an Order [[Sanctum]], she’s considered to have a Medium sympathetic connection to all members of the Order.

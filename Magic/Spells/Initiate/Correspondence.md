@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Space]]\
 [[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Empathy, Medicine
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Academics]], [[Empathy]], [[Medicine]]
 
 ---
 
@@ -29,4 +29,4 @@ If the other half of the [[Sympathy|sympathetic]] link is within the mage’s se
 
 **+2 [[Reach]]:** The mage may specify the connections she wishes to uncover in general terms (“an object with a strong link to his childhood”) or (“those she hates”). Again, the knowledge is contextualized based on the subject’s perceptions.
 
-**+2 [[Reach]]:** If the subject is a [[Keys|Keyed]] spell or Iris, the mage may use one level of Potency to discover the [[Keys|Key]] instead of a link.
+**+2 [[Reach]]:** If the subject is a [[Keys|Keyed]] spell or [[Irises|Iris]], the mage may use one level of Potency to discover the [[Keys|Key]] instead of a link.

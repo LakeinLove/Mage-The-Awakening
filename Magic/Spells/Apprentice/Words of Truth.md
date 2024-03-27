@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Prime]]\
 [[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Intimidation, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Expression]], [[Intimidation]], [[Persuasion]]
 
 ---
 
@@ -21,7 +21,7 @@ Moreover, all subjects know, on a soul-deep level, that what the mage says is tr
 The spell only works on statements the mage knows to be true:\
 She can’t use it to confirm or reject theories.
 
-It also doesn’t necessarily compel the targets to act on the information in any particular way, but ignoring or refuting this Supernal truth may be grounds for a breaking point.\
+It also doesn’t necessarily compel the targets to act on the information in any particular way, but ignoring or refuting this Supernal truth may be grounds for a [[Breaking Point]].\
 In a Social manoeuvring action, this spell may remove one Door or improve the impression level by one step per point of Potency.
 
-**+1 [[Reach]]:** The mage’s words don’t merely ring with truth, they call to action. If a listener goes along with what the mage said, he gains the Inspired Condition. If, however, he ignores the mage’s words, he gains the Guilty Condition.
+**+1 [[Reach]]:** The mage’s words don’t merely ring with truth, they call to action. If a listener goes along with what the mage said, he gains the [[Inspired]] Condition. If, however, he ignores the mage’s words, he gains the [[Guilty]] Condition.

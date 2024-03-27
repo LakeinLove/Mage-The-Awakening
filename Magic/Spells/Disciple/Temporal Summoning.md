@@ -8,7 +8,7 @@ tags:
 [[Arcanum]]: [[Time]]\
 [[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
 Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
-Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Investigation, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: [[Athletics]], [[Investigation]], [[Persuasion]]
 
 ---
 
