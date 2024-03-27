@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Potency\
-Withstand: Resolve\
-Suggested Rote Skills: Intimidation, Medicine, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Medicine, Persuasion
 
 ---
 
@@ -26,4 +26,4 @@ The mage may change one of the following aspects of the subject for each Potency
 - A non-Physical Persistent Condition
 - May move one dot between two Social Skills, or between two Mental Skills.
 
-**+1 Reach:** The mage may also move dots between two Social Attributes, or two Mental Attributes per Potency of the spell.
+**+1 [[Reach]]:** The mage may also move dots between two Social Attributes, or two Mental Attributes per Potency of the spell.

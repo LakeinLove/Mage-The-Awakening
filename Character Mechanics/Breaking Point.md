@@ -3,7 +3,7 @@ aliases:
 - Breaking Points
 ---
 
-_Breaking Points are the Sleeper equivalent of Acts of Hubris, as their minds try to understand the Supernal against the forces of Quiescence and Dissonance_
+_Breaking Points are the Sleeper equivalent of Acts of Hubris, as their minds try to understand the Supernal against the forces of [[Quiescence]] and [[Dissonance]]_
 
 ---
 

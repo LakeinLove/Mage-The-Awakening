@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
-Suggested Rote Skills: Athletics, Brawl, Medicine
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Brawl, Medicine
 
 ---
 
@@ -18,4 +18,4 @@ _The mage twists the space her subject occupies, torqueing joints, bruising fles
 
 This is an attack spell; its damage rating is equal to the spell’s Potency, and it inflicts bashing damage.
 
-**+1 Reach:** The pain of the attack is such that the victim gains the Arm Wrack or Leg Wrack Tilt.
+**+1 [[Reach]]:** The pain of the attack is such that the victim gains the Arm Wrack or Leg Wrack Tilt.

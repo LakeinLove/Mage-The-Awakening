@@ -24,7 +24,7 @@ Magic leaves the practitioner transformed, and the journey of encountering the m
 
 And the world is teeming with Mysteries.
 
-The ubiquity of [[High Speech]] in the [[Fallen World]] is only one of the many phenomena mages describe as the Mysteries.\
+The ubiquity of [[High Speech]] in the [[The Fallen World|Fallen World]] is only one of the many phenomena mages describe as the Mysteries.\
 In essence, the Mysteries are that which begs to be explored and understood. The journey along the paths or symbols that accompany [[Awakening]] is only the beginning of the mage’s exploration of the Mysteries.\
 He cannot increase his understanding of the [[Supernal]] power he wields except by seeking them out and experiencing them. Books and mentors can put a mage on the scent of a Mystery, but they cannot bestow the spiritual epiphany a direct encounter offers.
 

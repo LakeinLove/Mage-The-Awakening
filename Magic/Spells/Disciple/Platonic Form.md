@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 Cost: 1+ Mana\
-Suggested Rote Skills: Academics, Crafts, Expression
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Crafts, Expression
 
 ---
 
@@ -30,6 +30,6 @@ When the spell’s Duration runs out, any unused Mana sublimates back into the w
 
 **Add [[Forces]] •••:** The object is not obviously magical.
 
-**+1 Reach:** If the object is a tool, it is a perfected ideal of that tool. It grants 8-Again.
+**+1 [[Reach]]:** If the object is a tool, it is a perfected ideal of that tool. It grants 8-Again.
 
-**+2 Reach:** The Mana construct can be a complex device.
+**+2 [[Reach]]:** The Mana construct can be a complex device.

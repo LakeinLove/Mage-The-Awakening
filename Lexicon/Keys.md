@@ -12,7 +12,7 @@ _Since the [[Space]] [[Arcanum]]’s purview includes portals, doors, and simila
 
 For example, a portal might only open on the summer solstice, or a hidden path might be visible to anyone of the mage’s bloodline.
 
-Spells that can be Keyed are called out in their descriptions, usually at the cost of a Reach.
+Spells that can be Keyed are called out in their descriptions, usually at the cost of a [[Reach]].
 
 The Key may have a number of requirements equal to the spell’s Potency.
 

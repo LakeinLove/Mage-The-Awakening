@@ -25,11 +25,11 @@ Spirits with broader portfolios are usually stronger, but this is not always the
 
 ## System
 
-The [[Spirit]] [[Arcanum]] and other rules for spirits cover the rules for dealing with the Shadow. In addition, spells that utilize the [[Spirit]] [[Arcanum]] benefit from a –2 die penalty to Paradox rolls when cast in the Shadow.
+The [[Spirit]] [[Arcanum]] and other rules for spirits cover the rules for dealing with the Shadow. In addition, spells that utilize the [[Spirit]] [[Arcanum]] benefit from a –2 die penalty to [[Paradox]] rolls when cast in the Shadow.
 
 ## The Spirit Hierarchy
 
-Mages don’t speak the language of spirits without magic to translate it. At best, they bastardize a few words of the language to fill in anything they can’t describe in the High Speech. Spirits usually find this presumptuous, even cause for outrage, and can’t be fooled by any means into thinking a mage barking “Dihar” (another name for Incarna) is a native.
+Mages don’t speak the language of spirits without magic to translate it. At best, they bastardize a few words of the language to fill in anything they can’t describe in the [[High Speech]]. Spirits usually find this presumptuous, even cause for outrage, and can’t be fooled by any means into thinking a mage barking “Dihar” (another name for Incarna) is a native.
 
 So the Awakened use terms that have evolved among human students of Shadow-lore. Spirits still don’t care for these, but at least the speaker acknowledges her foreign origin by using the following titles.
 

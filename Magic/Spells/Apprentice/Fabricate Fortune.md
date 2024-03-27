@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Veiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Larceny, Occult, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Larceny, Occult, Subterfuge
 
 ---
 
@@ -19,5 +19,5 @@ _Sometimes a mage wishes to hide a child of destiny from those who would abuse h
 It can be used to “trick” conditional Durations or spells with conditional triggers into ignoring an event that meets the defined condition or into acting as though the stipulated event has come to pass. 
 
 It can create false omens regarding the subject when she is scrutinized by [[Fate]] magic.\
-All such deceptions provoke a Clash of Wills against those attempting to overcome its protections.
+All such deceptions provoke a [[Clash of Wills]] against those attempting to overcome its protections.
 

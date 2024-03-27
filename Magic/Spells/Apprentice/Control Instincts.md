@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Withstand: Composure\
-Suggested Rote Skills: Animal Ken, Intimidation, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Intimidation, Persuasion
 
 ---
 
@@ -30,4 +30,4 @@ Humans with Supernatural Merits count as “mundane” enough for this spell to 
 Subjects suffer a Condition appropriate to the desired instinctive response.\
 Use the guidelines for creating a Condition in the section on Creative Thaumaturgy.
 
-**+1 Reach:** Control Instincts can affect living supernatural creatures.
+**+1 [[Reach]]:** Control Instincts can affect living supernatural creatures.

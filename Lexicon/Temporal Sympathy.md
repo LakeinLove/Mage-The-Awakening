@@ -21,9 +21,9 @@ Magic that affects the “unspun” time of the future is unaffected by temporal
 
 ### Unchanged
 
-The subject has not changed with intervening time. A sealed room left untouched, a diamond in the same setting, a person who has not spoken to anyone or been anywhere since the target time. The connection is unassailable without Unmaking magic and casting using the sympathy is not Withstood.
+The subject has not changed with intervening time. A sealed room left untouched, a diamond in the same setting, a person who has not spoken to anyone or been anywhere since the target time. The connection is unassailable without [[Practice of Unmaking|Unmaking]] magic and casting using the sympathy is not Withstood.
 
-- **Withstand (Connection):** 5 ("Unchanged" Sympathy may only be removed with Unmaking spells)
+- **Withstand (Connection):** 5 ("Unchanged" Sympathy may only be removed with [[Practice of Unmaking|Unmaking]] spells)
 - **Withstand (Temporal Sympathy):** 0
 
 ### Strong
@@ -42,7 +42,7 @@ The subject has significantly changed; a mage before joining a Legacy, a person 
 
 ### Weak
 
-The subject is vastly different; a mage before her Awakening, an item before being imbued, a different building on the same lot, a ruin when it was new.
+The subject is vastly different; a mage before her [[Awakening]], an item before being imbued, a different building on the same lot, a ruin when it was new.
 
 - **Withstand (Connection):** 1
 - **Withstand (Temporal Sympathy):** 3

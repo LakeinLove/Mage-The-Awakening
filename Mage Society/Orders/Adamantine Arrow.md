@@ -47,7 +47,7 @@ Oaths declare intent to the universe and sharpen focus on the challenge at hand,
 
 ### Enlightenment is Honour
 
-A warrior’s soul that expresses her intentions, then accomplishes those specific aims, reveals a vision unimpeded by distractions and uncompromised by the [[Fallen World]]. Challenges are more worthy when the challenger restricts his options to the path he chooses to fulfil his goals. Honourable mages act in accordance with their ideals, in true harmony with their perfect selves.
+A warrior’s soul that expresses her intentions, then accomplishes those specific aims, reveals a vision unimpeded by distractions and uncompromised by the [[The Fallen World|Fallen World]]. Challenges are more worthy when the challenger restricts his options to the path he chooses to fulfil his goals. Honourable mages act in accordance with their ideals, in true harmony with their perfect selves.
 
 ## Origins
 
@@ -63,7 +63,7 @@ The Order emerged with the conclusion that war itself had changed. Never again w
 
 Arrows look for [[Mystery|Mysteries]] that threaten their charges, seeking to understand malicious magic with superior knowledge and craft intent to better end the threat. They seek to aid other Diamond Orders in the often-perilous experience of investigating their own [[Mystery|Mysteries]].  
 
-Alternately, an Arrow will swear oaths to uncover a secret, proving dominance with self-mastery by pitting herself against a singular foe. An attractive [[Mystery]] for an Arrow involves a test or contest of his skill; Arrows are disappointed when the [[Fallen World]] gives up its secrets too easily.
+Alternately, an Arrow will swear oaths to uncover a secret, proving dominance with self-mastery by pitting herself against a singular foe. An attractive [[Mystery]] for an Arrow involves a test or contest of his skill; Arrows are disappointed when the [[The Fallen World|Fallen World]] gives up its secrets too easily.
 
 ## Magical Symbolism: Attack and Defence
 

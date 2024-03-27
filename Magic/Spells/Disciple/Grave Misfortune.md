@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
-Suggested Rote Skills: Intimidation, Occult, Weaponry
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Occult, Weaponry
 
 ---
 

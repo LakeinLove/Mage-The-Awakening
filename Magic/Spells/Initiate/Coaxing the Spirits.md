@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Withstand: Composure or Rank\
-Suggested Rote Skills: Athletics, Expression, Politics
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Composure or Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Expression, Politics
 
 ---
 

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Withstand: Stamina\
-Suggested Rote Skills: Medicine, Stealth, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Stealth, Subterfuge
 
 ---
 

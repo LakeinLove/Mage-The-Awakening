@@ -10,6 +10,6 @@ Prerequisites:
 
 ---
 
-_The character can use High Speech as a Yantra in spellcasting._
+_The character can use [[High Speech]] as a [[Yantra]] in spellcasting._
 
 ---

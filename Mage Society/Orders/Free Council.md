@@ -30,14 +30,14 @@ The past is gone and the future ever-mutable, but the present is the most exciti
 ### Humanity is Magical
 
 Sleepers in groups evince Supernal inspiration. Other Orders hide within, control, and inspire Sleeper societies; but Council mages invest in them, finding new occult secrets in culture, science, technology, and art. Sleeper art corresponds to Supernal symbols that never existed before the moment of artistic inspiration.\
-Libertines admit that Quiescence can damage individual Sleepers, while insisting that the communal spirit of humanity reflects the Supernal. Even hardcore Libertines know it’s dangerous to teach secrets to the unworthy, so they strive to make all Sleepers worthy.
+Libertines admit that [[Quiescence]] can damage individual Sleepers, while insisting that the communal spirit of humanity reflects the Supernal. Even hardcore Libertines know it’s dangerous to teach secrets to the unworthy, so they strive to make all Sleepers worthy.
 
 Libertines rarely work to uplift Sleepers individually; direct communion with the Supernal means the Awakened are, ironically, less capable of reflecting Above and Below. Instead, Libertines work to bridge the gap between Sleepers and Awakened by destroying the pernicious Lies that crush the human soul.\
 Doing so will draw forth the Abyssal shard within every human soul simultaneously rather than piecemealed Awakenings. Revolutions may centre on powerful individuals, but they are movements of peoples entire.
 
 ### Destroy the Followers of the Lie
 
-Sleepers are enslaved by Quiescence. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though [[Lie|the Lie]] themselves — it forces humanity into a hierarchy of Awakened and Sleeper merely by existing.  
+Sleepers are enslaved by [[Quiescence]]. The world is trapped under the power of hostile forces, further dilating the relation - ship between Supernal and Fallen. Libertines aren’t content with seeing though [[Lie|the Lie]] themselves — it forces humanity into a hierarchy of Awakened and Sleeper merely by existing.  
 
 Radical columns advocate open war against the [[Seers of the Throne|Seers]] (and, sometimes, the [[Silver Ladder]]), but the Council as a whole cannot agree on the best way to reform Awakened society away from authoritarian origins. Most have settled on the idea that peaceful cooperation within the Pentacle will gradually grow the Awakened community away from outmoded governance. The Pentacle’s formation is a victory already, after all.
 

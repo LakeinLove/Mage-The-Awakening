@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Expression, Intimidate
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Expression, Intimidate
 
 ---
 

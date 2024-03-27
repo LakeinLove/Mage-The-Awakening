@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Withstand: Stamina\
-Suggested Rote Skills: Athletics, Science, Survival
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Science, Survival
 
 ---
 

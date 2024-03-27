@@ -12,12 +12,12 @@ A mage who has cast a spell cannot increase the spell factors short of cancellin
 As an instant action, the mage can reduce the factors of one of her spells in any way she chooses, but although she can reduce the number of subjects if the spell used that form of Scale, all spell factors must still apply equally to all subjects – she can’t weaken a spell for a specific individual without further magic.
 
 A mage may cancel any of her active spells as a reflexive action.\
-A mage can have as many active spells as she has dots in Gnosis. Each additional spell requires a Reach, plus another Reach per spell already over the limit.
+A mage can have as many active spells as she has dots in [[Gnosis]]. Each additional spell requires a[[Reach]], plus another[[Reach]] per spell already over the limit.
 
-A mage may relinquish a spell, removing it from the spells counting against her Gnosis without cancelling it.\
+A mage may relinquish a spell, removing it from the spells counting against her [[Gnosis]] without cancelling it.\
 The player can spend a Willpower point to leave the spell as though cast by another mage.
 
-Without maintenance from the caster, the spell may go awry if left for very long periods. At the beginning of every chapter, the Storyteller rolls one die for every Reach the spell used above the caster’s free Reach, or a chance die if it was within her limits. A dramatic failure means the spell skips the roll for the next chapter; success grants the Storyteller a Reach as though the spell had gained a [[Paradox]]; and an exceptional success ends the spell, cancelling its remaining Duration.
+Without maintenance from the caster, the spell may go awry if left for very long periods. At the beginning of every chapter, the Storyteller rolls one die for every[[Reach]] the spell used above the caster’s free[[Reach]], or a chance die if it was within her limits. A dramatic failure means the spell skips the roll for the next chapter; success grants the Storyteller a[[Reach]] as though the spell had gained a [[Paradox]]; and an exceptional success ends the spell, cancelling its remaining Duration.
 
 Instead of risking the spell going wrong, the player may spend a Willpower *dot* to relinquish the spell safely. In this case, the spell continues until its Duration runs down or it is dispelled. Most mages only relinquish indefinite spells, as relinquishing safely is extremely taxing. Relinquishing unsafely is illegal in many Consilia, or at least seen as grossly negligent.
 

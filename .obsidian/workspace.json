@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
+                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
+                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md",
+                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Spells/Apprentice/Alchemist's Touch.md"
+                "file": "Magic/Magic Concepts/Mage Sight/Mage Sight.md"
               }
             }
           }
@@ -150,32 +150,32 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
-    "Magic/Practices/Disciple/Practice of Fraying.md",
-    "Fallen World.md",
-    "Lexicon/Lie.md",
-    "Lexicon/Keys.md",
-    "Lexicon/Lexicon.md",
-    "Magic/Spells/Adept/Alter Direction.md",
-    "Magic/Practices/The 13 Practices.md",
-    "Magic/Spells/Disciple/Warp.md",
-    "Magic/Spells/Apprentice/Gossamer Touch.md",
-    "Lexicon/Arcanum.md",
-    "Lexicon/Attribute.md",
-    "Magic/Spellcasting/Withstanding Magic.md",
-    "Magic/Spells/Adept/Teleportation.md",
+    "Magic/Magic Concepts/Mage Sight/Peripheral Mage Sight.md",
+    "Magic/Magic Concepts/Mage Sight/Mage Sight.md",
+    "Magic/Magic Concepts/Mage Sight/Focused Mage Sight.md",
+    "Magic/Magic Concepts/Mage Sight/Active Mage Sight.md",
+    "Magic/Magic Concepts/Gnosis/Increasing Gnosis.md",
     "Magic/Magic Concepts/Gnosis/Gnosis Table.md",
-    "Magic/Arcana/Time.md",
-    "Magic/Arcana/Spirit.md",
-    "Magic/Arcana/Space.md",
-    "Magic/Arcana/Prime.md",
-    "Magic/Arcana/Mind.md",
-    "Magic/Arcana/Matter.md",
-    "Magic/Arcana/Life.md",
-    "Magic/Arcana/Forces.md",
-    "Magic/Arcana/Fate.md",
-    "Magic/Arcana/Death.md",
-    "Magic/Legacies/Legacy Attainments.md",
-    "Magic/Legacies/Legacy Advantages.md",
+    "Magic/Magic Concepts/Gnosis/Gnosis.md",
+    "Magic/Magic Concepts/Gnosis/Effects of Gnosis.md",
+    "Magic/Magic Concepts/Awakening/The Thyrsus Awakening.md",
+    "Magic/Magic Concepts/Awakening/The Obrimos Awakening.md",
+    "Magic/Magic Concepts/Awakening/The Moros Awakening.md",
+    "Magic/Magic Concepts/Awakening/The Mastigos Awakening.md",
+    "Magic/Magic Concepts/Awakening/The Acanthus Awakening.md",
+    "Magic/Magic Concepts/Awakening/Awakening.md",
+    "Magic/Magic Concepts/Awakened Will.md",
+    "Magic/Magic Concepts/Dissonance.md",
+    "Magic/Magic Concepts/Quiescence.md",
+    "Magic/Magic Concepts/High Speech.md",
+    "Magic/Magic Concepts/Attainments/Universal Counterspell.md",
+    "Magic/Magic Concepts/Attainments/Unbound Fate.md",
+    "Magic/Magic Concepts/Attainments/Time in a Bottle.md",
+    "Magic/Magic Concepts/Attainments/Temporal Sympathy Attainment.md",
+    "Magic/Magic Concepts/Attainments/Targeted Summoning.md",
+    "Magic/Magic Concepts/Attainments/Sympathetic Range.md",
+    "Magic/Magic Concepts/Attainments/Spirit Eyes.md",
+    "Magic/Magic Concepts/Attainments/Precise Force.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

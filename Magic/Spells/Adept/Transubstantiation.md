@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Empathy, Science
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Empathy, Science
 
 ---
 
@@ -24,4 +24,4 @@ Both the initial substance and the transubstantiated substance must be relativel
 
 **Add [[Life]] ••••:** Transform matter into living things, or transform a living being into inert matter (but see rules on permanently transforming someone with magic). Unless the mage also adds [[Mind]] •••••, any organism created is mindless, driven purely by instinct.
 
-**+1 Reach:** The mage may transmute multiple substances into a single substance or vice versa.
+**+1 [[Reach]]:** The mage may transmute multiple substances into a single substance or vice versa.

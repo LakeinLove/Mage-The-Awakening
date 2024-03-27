@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Potency\
-Withstand: Composure\
-Suggested Rote Skills: Empathy, Investigation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Occult
 
 ---
 
@@ -27,4 +27,4 @@ Sample Questions:
 - What does the subject most desire? _Images of money, a person’s face flashing by, or a flashy car._
 - What, if any, psychosis does the subject suffer? _Thoughts that seem to stem from many sources. Paralysing fear associated with a specific thought._
 
-**+1 Reach:** The mage is capable of reading through the surface thoughts of her subject, reading snippets of ideas and catching the words and phrases before he says them. The mage cannot scan deeper than whatever the subject is thinking of right at this moment, but through conversation she can direct the subject’s thoughts to specific topics.
+**+1 [[Reach]]:** The mage is capable of reading through the surface thoughts of her subject, reading snippets of ideas and catching the words and phrases before he says them. The mage cannot scan deeper than whatever the subject is thinking of right at this moment, but through conversation she can direct the subject’s thoughts to specific topics.

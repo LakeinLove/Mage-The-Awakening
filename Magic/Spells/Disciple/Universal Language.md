@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Suggested Rote Skills: Academics, Investigation, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Investigation, Persuasion
 
 ---
 
@@ -19,4 +19,4 @@ _The spell’s subject is capable of understanding and translating any language.
 This is true for the spoken word, written language, symbols, encoded signals, body language, hand symbols, and concepts that only exist as thought.
 
 She must be able to perceive the language to understand it (for example, using telepathy for thoughts in another’s mind).\
-This spell does not allow non-Awakened characters to understand High Speech.
+This spell does not allow non-Awakened characters to understand [[High Speech]].

@@ -3,7 +3,7 @@ aliases:
 - Fallen World
 ---
 
-_The world of Sleep; the Lie made manifest; the Material realm. The Fallen World is the world in which we all live._
+_The world of Sleep; [[Lie|the Lie]] made manifest; the Material realm. The Fallen World is the world in which we all live._
 
 ---
 

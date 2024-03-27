@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Withstand: Resolve\
-Suggested Rote Skills: Academics, Persuasion, Stealth
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Persuasion, Stealth
 
 ---
 
@@ -25,4 +25,4 @@ If she casts it on a Sleepwalker ally and specifies that he will recover a stole
 
 The spell cannot deal damage directly, though it can put subjects in harm’s way. For example, a mage could curse a victim with this spell specifying that she will be in a car wreck, or exposed to a disease.
 
-**+1 Reach:** The spell presents opportunities to work toward the specified event once per day.
+**+1 [[Reach]]:** The spell presents opportunities to work toward the specified event once per day.

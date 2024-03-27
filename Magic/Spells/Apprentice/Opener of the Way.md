@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Computers, Socialise
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Computers, Socialise
 
 ---
 

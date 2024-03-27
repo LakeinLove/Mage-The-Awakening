@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Suggested Rote Skills: Intimidation, Survival, Science
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Survival, Science
 
 ---
 

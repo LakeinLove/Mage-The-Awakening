@@ -34,7 +34,7 @@ It’s considered good manners for a mage to let his cabal know what lines of in
 ## Common Cause
 
 While each mage has her own personal obsessions, the mages of a cabal quite frequently pursue Mysteries together. This allows them to pool their resources and cover more ground than they could alone.\
-Each Mystery solved increases the Gnosis of the cabal as a whole, which makes all the members better-equipped to pursue deeper Mysteries.
+Each Mystery solved increases the [[Gnosis]] of the cabal as a whole, which makes all the members better-equipped to pursue deeper Mysteries.
 
 ## Collective Bargaining Power
 

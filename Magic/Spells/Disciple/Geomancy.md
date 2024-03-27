@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Suggested Rote Skills: Academics, Expression, Occult
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Expression, Occult
 
 ---
 

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Withstand: Durability\
-Suggested Rote Skills: Crafts, Persuasion, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Durability\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Persuasion, Science
 
 ---
 
@@ -24,4 +24,4 @@ When the Duration wears off, the substance returns to its natural state, but kee
 
 **Add [[Forces]] •••:** The mage may transmute matter into plasma.
 
-**+1 Reach:** The mage may transform a solid directly into a gas, or a gas directly into a solid.
+**+1 [[Reach]]:** The mage may transform a solid directly into a gas, or a gas directly into a solid.

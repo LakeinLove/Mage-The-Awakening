@@ -8,7 +8,7 @@ _A Sleeper is, to put it bluntly, us. We are the Sleepers. We go to work every d
 
 ---
 
-Sleepers are beset by [[Lie|The Lie]], [[Quiescence]], and[[Dissonance]], all acting to keep them asleep and under control. Naïve.
+Sleepers are beset by [[Lie|The Lie]], [[Quiescence]], and [[Dissonance]], all acting to keep them asleep and under control. Naïve.
 
 Sleepers live in a veiled world, one covered by [[Lie|The Lie]], and distorted to retain control over them and their lives. They live surrounded by lies: 
 - You are powerless and small
@@ -20,7 +20,7 @@ Sleepers live in a veiled world, one covered by [[Lie|The Lie]], and distorted t
 - Don't look around
 - Don't look.
 
-A Sleeper is so saddled by the Lie of the world, by the endless tasks put upon them, that they cannot even think about Awakening. The dream is so disturbing it must be reality, and the [[Quiescence]] makes sure to keep it that way.
+A Sleeper is so saddled by [[Lie|the Lie]] of the world, by the endless tasks put upon them, that they cannot even think about [[Awakening]]. The dream is so disturbing it must be reality, and the [[Quiescence]] makes sure to keep it that way.
 
 The [[Peoples/Exarchs|Exarchs]] sculpt the world as the Seers subtly move pieces around just enough so that humanities nature is twisted and warped in the right ways to keep everyone asleep.
 

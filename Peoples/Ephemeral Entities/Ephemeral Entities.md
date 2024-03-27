@@ -117,7 +117,7 @@ Spirits speak the harsh, strange tongue of the Shadow-World, and often learn the
 
 Goetia from the Oneiros know the languages of the mind they originate from; Goetia from the Temenos speak whatever languages are appropriate for their concepts or origins.
 
-Supernal beings use High Speech as a true language of communication, but may also speak a range of other languages if they care to do so.
+Supernal beings use [[High Speech]] as a true language of communication, but may also speak a range of other languages if they care to do so.
 
 ### Bans and Banes
 
@@ -139,7 +139,7 @@ Rank 4 and 5 entities have complicated bans that put an end to whatever the crea
 
 ---
 
-actions, but esoteric requirements. The spirit of Mount Iliamna, a volcano in Alaska, must use its Numina to kill a victim named by anyone who makes it an offering of platinum that was mined from its foothills. The goetic concept of the Teenage Rebel from the Temenos can never submit to or obey any authority, order, or demand, and is driven to lash out against such.
+They are not necessarily limited by specific actions, but esoteric requirements. The spirit of Mount Iliamna, a volcano in Alaska, must use its Numina to kill a victim named by anyone who makes it an offering of platinum that was mined from its foothills. The goetic concept of the Teenage Rebel from the Temenos can never submit to or obey any authority, order, or demand, and is driven to lash out against such.
 
 #### Banes
 

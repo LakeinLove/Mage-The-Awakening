@@ -4,7 +4,7 @@ tags:
 aliases:
   - Paths
 ---
-_The Path of a mage refers to which of the 5 major paths they traverse in order to regain and maintain their connection to the [[Supernal]]_
+_The Path of a mage refers to which of the 5 major paths they traverse in order to regain and maintain their connection to the Supernal_
 
 ---
 

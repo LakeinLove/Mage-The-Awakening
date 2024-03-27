@@ -6,11 +6,11 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 Cost: 1 Mana\
-Withstand: Total [[Arcanum]] dots of all [[Arcanum|Arcana]] used in the spell being scribed\
-Suggested Rote Skills: Crafts, Expression, Occult
+[[Withstanding Magic|Withstand]]: Total [[Arcanum]] dots of all [[Arcanum|Arcana]] used in the spell being scribed\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Expression, Occult
 
 ---
 
@@ -25,4 +25,4 @@ A large book can hold anywhere from 10–15 Rotes, while a fist-sized carved sto
 
 When the spell’s Duration expires, the inscribed Rotes fade and cannot be recovered.
 
-**+1 Reach:** For one point of Mana, the spell’s Duration is Lasting.
+**+1 [[Reach]]:** For one point of Mana, the spell’s Duration is Lasting.

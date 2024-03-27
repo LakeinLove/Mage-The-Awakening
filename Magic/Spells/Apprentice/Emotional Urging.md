@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Potency\
-Withstand: Composure\
-Suggested Rote Skills: Empathy, Intimidation, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Intimidation, Subterfuge
 
 ---
 

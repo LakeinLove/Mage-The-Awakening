@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Withstand: Hallow Rating, if applicable\
-Suggested Rote Skills: Athletics, Occult, Survival
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Hallow Rating, if applicable\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Occult, Survival
 
 ---
 
@@ -23,6 +23,6 @@ The spell has the following effects:
 - Ley Lines within the area dry up and die. Nodes similarly cease to function.
 - Hallows whose rating is less than the spell’s Potency fall dormant.
 - Sleepers who spend more than a day within the area gain the Enervated condition (This is not soul-loss and victims do not progress further)
-- Any attempt to reawaken a Hallow within the area adds the Potency of this spell to the Hallow’s dot rating for purposes of Withstanding the effect.
+- Any attempt to reawaken a Hallow within the area adds the Potency of this spell to the Hallow’s dot rating for purposes of [[Withstanding Magic|Withstanding]] the effect.
 
-**+2 Reach:** The effects are Lasting, though without major geomantic workings to maintain the barren state, within a month or so natural rhythms will reassert themselves and Ley Lines, Nodes, and the health of the Sleepers will return. Hallows, however, remain dormant.
+**+2 [[Reach]]:** The effects are Lasting, though without major geomantic workings to maintain the barren state, within a month or so natural rhythms will reassert themselves and Ley Lines, Nodes, and the health of the Sleepers will return. Hallows, however, remain dormant.

@@ -11,7 +11,7 @@ _The player spends a point of [[Willpower]] to activate Scrutiny. While Scrutini
 
 ---
 
-The influx of information she receives renders her unable to interact with the [[Fallen World]] in any meaningful way. If the mage employs Scrutiny on a subject protected by some kind of magical concealment, the Storyteller should use the same metric as [[Active Mage Sight]] for determining whether a [[Clash of Will]] is appropriate. If a Clash of Wills is appropriate, the mage’s player receives the rote quality on the roll.
+The influx of information she receives renders her unable to interact with the [[The Fallen World|Fallen World]] in any meaningful way. If the mage employs Scrutiny on a subject protected by some kind of magical concealment, the Storyteller should use the same metric as [[Active Mage Sight]] for determining whether a [[Clash of Wills]] is appropriate. If a [[Clash of Wills]] is appropriate, the mage’s player receives the rote quality on the roll.
 
 Scrutiny of a subject allows a mage to determine its [[Mystery|Mysteries]]. The number and nature of [[Mystery|Mysteries]] in a subject is up to the Storyteller.
 

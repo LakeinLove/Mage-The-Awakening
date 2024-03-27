@@ -6,7 +6,7 @@ tags:
 _These are 2 example [[Awakening|Awakenings]] to the [[Moros]] path_
 
 [[Moros]] don’t reach for the Leaden Coin. They’re already carrying it. We all drag it through life. It’s the weight of everything precious and hateful that hums in our souls. In the best of deaths we use it to pay the Ferryman and free ourselves, growing light enough to travel across the Styx.\
-[[Moros]] leave their burdens in [[Stygia]], paying Death’s toll without dying. [[Moros]] Awakening is an alchemical transformation that trades the Leaden Coin for the gold of a fearless life.
+[[Moros]] leave their burdens in [[Stygia]], paying Death’s toll without dying. [[Moros]] [[Awakening]] is an alchemical transformation that trades the Leaden Coin for the gold of a fearless life.
 
 It starts with the Death card’s message: unavoidable change.\
 

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Duration\
-Withstand: Rank\
-Suggested Rote Skills: Brawl, Intimidation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Intimidation, Occult
 
 ---
 

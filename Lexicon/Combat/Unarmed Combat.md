@@ -30,4 +30,4 @@ The winner picks a move from the list below, or two moves on an exceptional succ
 - **Restrain** your opponent with duct tape, zip ties, or a painful joint lock. Your opponent is immobilized. You can only use this move if you’ve already succeeded in a Hold move. If you use equipment to Restrain your opponent, you can leave the grapple.
 - **Take Cover** using your opponent’s body. Any ranged attacks made until the end of the turn automatically hit him (see “Human Shields”).
 
-A mage can cast spells in a grapple regardless of if she wins the grapple, but she will suffer a –3 penalty to the spellcasting roll if she failed, and she must operate under restrictions regarding Yantra use. (See [[Casting During a Grapple]])
+A mage can cast spells in a grapple regardless of if she wins the grapple, but she will suffer a –3 penalty to the spellcasting roll if she failed, and she must operate under restrictions regarding [[Yantra]] use. (See [[Casting During a Grapple]])

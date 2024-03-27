@@ -15,4 +15,4 @@ _Your character’s awakened eye has sensed Mana enough that her mundane senses 
 
 ---
 
-Hallows and stored Mana trigger her Peripheral Mage Sight, even without an active magical effect.
+Hallows and stored Mana trigger her [[Peripheral Mage Sight]], even without an active magical effect.

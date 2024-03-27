@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Duration\
-Suggested Rote Skills: Academics, Larceny, Socialise
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Larceny, Socialise
 
 ---
 
@@ -22,7 +22,7 @@ A building with a Quarantined 12th floor appears to only have 11 stories — tho
 
 They are, in effect, in a Pocket Dimension — albeit one that, because it is actually an excised piece of the Fallen World, possesses its own [[Time]], Twilight, and so forth.
 
-**+1 Reach:** The mage may specify a [[Keys|Key]] that allows access to and from the Quarantined area.
+**+1 [[Reach]]:** The mage may specify a [[Keys|Key]] that allows access to and from the Quarantined area.
 
 **Add [[Mind]] ••••:** For as long as the Quarantine exists, no one remembers that the Quarantined area, or anyone caught within it, exists. Memories are altered as necessary (so the new neighbours remember always being neighbours, and the office workers are sure the “12” button in the elevator was a weird construction gaffe and there never was an advertising firm on 12, and so on).
 

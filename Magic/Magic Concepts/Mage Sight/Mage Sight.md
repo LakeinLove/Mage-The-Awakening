@@ -11,7 +11,7 @@ Mage Sight has three levels:
 - [[Active Mage Sight|Active]] 
 - [[Focused Mage Sight|Focused]]
 
-Although a mage regains awareness of the world when his [[Awakening]] ends, he never again sees the world without the [[Supernal]] symbols underlying it. This [[Peripheral Mage Sight]] cannot be turned off, but a mage soon grows used to the Supernal symbols that outline phenomena closest to his [[Path]].\
+Although a mage regains awareness of the world when his [[Awakening]] ends, he never again sees the world without the Supernal symbols underlying it. This [[Peripheral Mage Sight]] cannot be turned off, but a mage soon grows used to the Supernal symbols that outline phenomena closest to his [[Path]].\
 If the mage chooses to concentrate on the symbols — an exercise known as [[Active Mage Sight]] — he perceives all the attributes related to those [[Arcanum|Arcana]] of which he has at least a rudimentary understanding. 
 
 Finally, the mage can direct all his attention toward a single subject, blotting out all material distractions to closely examine the Supernal symbols that surround it. Such [[Focused Mage Sight]] can reveal the subject’s deepest [[Mystery|Mysteries]], but it can attract unwanted attention from the Supernal World.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Socialise, Streetwise
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Socialise, Streetwise
 
 ---
 
@@ -20,6 +20,6 @@ A turn or two of studying the scene before acting is acceptable, but extensive r
 
 The subject does not suffer untrained penalties during the spell’s Duration. If entering an unfamiliar social situation, the subject’s impression level also improves by one.
 
-**+1 Reach:** The subject receives a dice bonus equal to Potency on a number of dice rolls (not including spellcasting rolls) equal to Potency during the Duration. The subject’s player chooses which rolls are affected (before the dice are rolled), and they can include any action or task, so long as they are instant or reflexive actions taken “in the moment” and not arranged ahead of time.
+**+1 [[Reach]]:** The subject receives a dice bonus equal to Potency on a number of dice rolls (not including spellcasting rolls) equal to Potency during the Duration. The subject’s player chooses which rolls are affected (before the dice are rolled), and they can include any action or task, so long as they are instant or reflexive actions taken “in the moment” and not arranged ahead of time.
 
-**+3 Reach:** Same as the first Reach effect, but this bonus can also affect spellcasting rolls.
+**+3[[Reach]]:** Same as the first[[Reach]] effect, but this bonus can also affect spellcasting rolls.

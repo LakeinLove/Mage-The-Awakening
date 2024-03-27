@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Expression, Science
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Expression, Science
 
 ---
 
@@ -21,4 +21,4 @@ She can shorten or lengthen the transmission, and even change frequency, such as
 At this level, she must still work with a signal already present.\
 Mimicking specific sounds or information requires a Skill roll or access to the data to be transmitted.
 
-**+1 Reach:** The signal sent can be “encrypted” so that only certain actions, like specific keystrokes or frequencies, can receive them properly. Otherwise, they simply turn up as unintelligible “noise".
+**+1 [[Reach]]:** The signal sent can be “encrypted” so that only certain actions, like specific keystrokes or frequencies, can receive them properly. Otherwise, they simply turn up as unintelligible “noise".

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Withstand: Rank\
-Suggested Rote Skills: Crafts, Occult, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Persuasion
 
 ---
 

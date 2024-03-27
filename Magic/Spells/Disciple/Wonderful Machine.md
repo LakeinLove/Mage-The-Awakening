@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Suggested Rote Skills: Crafts, Politics, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Politics, Science
 
 ---
 

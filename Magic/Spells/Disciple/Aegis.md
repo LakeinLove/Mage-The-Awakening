@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Crafts, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Crafts, Science
 
 ---
 
@@ -23,4 +23,4 @@ For each level of Potency, the player chooses one of the following effects:
 - Raise or lower general Armour rating by 1
 - Raise or lower Defence penalty by 1
 
-**+1 Reach:** The armour becomes immune to the Armor-Piercing effect.
+**+1 [[Reach]]:** The armour becomes immune to the [[Armour-Piercing]] effect.

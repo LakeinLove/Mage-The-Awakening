@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Perfecting\
-Primary Factor: Duration\
-Withstand: Composure\
-Suggested Rote Skills: Academics, Athletics, Occult
+[[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Athletics, Occult
 
 ---
 
@@ -19,4 +19,4 @@ _The mage controls the subject’s sleep cycle, allowing her to remain awake wit
 
 The mage may also control what she dreams about, or create a lucid dreaming state where the subject has control.
 
-Anything attempting to enter or influence the dream state provokes a Clash of Wills.
+Anything attempting to enter or influence the dream state provokes a [[Clash of Wills]].

@@ -6,20 +6,20 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Computers, Occult, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computers, Occult, Subterfuge
 
 ---
 
-_By means of this spell, the mage parts the curtain of the Lie and reveals a distant location to her senses._
+_By means of this spell, the mage parts the curtain of [[Lie|the Lie]] and reveals a distant location to her senses._
 
 ---
 
 She creates a “window” that allows her to perceive the subject, much like a television screen.\
 When she casts the spell, she may choose whether the spell is one way, or whether people at the location can see back through the window.
 
-When casting this spell sympathetically, exactly what the mage sees depends on the [[Sympathy|sympathetic]] Yantra she employs.\
+When casting this spell sympathetically, exactly what the mage sees depends on the [[Sympathy|sympathetic]] [[Yantra]] she employs.\
 Sympathy to a location shows her a broad overview of the area, analogous to a cinematic wide shot, but one that remains static.\
 Sympathy to a person or object tends to show a “close up” of the subject — the window will follow the subject if it moves, but the mage may not be able to make out details of where the subject is or who else might be present.
 

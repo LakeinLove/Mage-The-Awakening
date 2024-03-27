@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Perfecting\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Medicine, Survival
+[[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Medicine, Survival
 
 ---
 
@@ -22,6 +22,6 @@ The effects are subtle in appearance; the affected target doesn’t grow or gain
 
 The affected [[Attribute]] cannot be raised above the subject’s maximum [[Attribute]] dots (5 for normal human beings).
 
-**+1 Reach:** The spell affects an additional [[Attribute]], dividing the spell’s Potency between both. This effect may be applied twice to affect all three Attributes.
+**+1 [[Reach]]:** The spell affects an additional [[Attribute]], dividing the spell’s Potency between both. This effect may be applied twice to affect all three Attributes.
 
-**+1 Reach:** By spending a point of Mana, the mage may raise an [[Attribute]] above the maximum rating for the subject.
+**+1 [[Reach]]:** By spending a point of Mana, the mage may raise an [[Attribute]] above the maximum rating for the subject.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
-Suggested Rote Skills: Intimidation, Athletics, Expression
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Athletics, Expression
 
 ---
 
@@ -22,4 +22,4 @@ When the spell’s Duration ends, the Sleeper’s soul returns to him, unless ot
 
 If this spell is cast on a subject who is already under the effects of the Soulless Condition, he is stepped up to the Enervated Condition — though the mage does not gain immediate access to his soul, since it is already missing.
 
-**+1 Reach:** The subject’s soul leaves his body and enters Twilight, but he is instead under the effects of the Enervated Condition immediately, skipping the Soulless Condition. With an additional Reach, the subject can be placed under the effects of the Thrall Condition.
+**+1 [[Reach]]:** The subject’s soul leaves his body and enters Twilight, but he is instead under the effects of the Enervated Condition immediately, skipping the Soulless Condition. With an additional[[Reach]], the subject can be placed under the effects of the Thrall Condition.

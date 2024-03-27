@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Investigation, Larceny, Science
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Larceny, Science
 
 ---
 

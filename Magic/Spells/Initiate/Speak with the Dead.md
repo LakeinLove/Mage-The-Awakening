@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Socialize, Expression, Investigation
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Socialize, Expression, Investigation
 
 ---
 
@@ -20,6 +20,6 @@ She can sense all ghosts within the area of effect, and is capable of communicat
 She may sense Anchors within the area without using [[Death]] Mage Sight.\
 She can concentrate on a single ghost within the area and determine its Rank, if it has an Anchor, and how many Anchors it has.
 
-**+1 Reach:** The caster can determine if any of the Anchors she perceives are temporary (items in which the Anchor Condition has been placed temporarily through some kind of summoning) or permanent
+**+1 [[Reach]]:** The caster can determine if any of the Anchors she perceives are temporary (items in which the Anchor Condition has been placed temporarily through some kind of summoning) or permanent
 
-**+1 Reach:** The caster can make herself understood by ghosts of Rank 2+ even if they do not speak the same language as her.
+**+1 [[Reach]]:** The caster can make herself understood by ghosts of Rank 2+ even if they do not speak the same language as her.

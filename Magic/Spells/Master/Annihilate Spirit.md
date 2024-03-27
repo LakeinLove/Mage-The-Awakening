@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Withstand: Rank\
-Suggested Rote Skills: Intimidation, Science, Weaponry
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Science, Weaponry
 
 ---
 
@@ -17,6 +17,6 @@ _The most fearsome spell in most shamans’ arsenal, this terrible magic utterly
 
 ---
 
-The target spirit may spend an Essence to roll Power + Finesse in a Clash of Wills, a last-ditch attempt to reassert its existence through its Influences.\
+The target spirit may spend an Essence to roll Power + Finesse in a [[Clash of Wills]], a last-ditch attempt to reassert its existence through its Influences.\
 If the spell is successfully cast, the spirit is instantly and utterly destroyed — even if it still has Essence, it does not retreat into hibernation, it is simply gone.\
 Short of archmastery, this spell cannot affect spirits of Rank 6 or higher.

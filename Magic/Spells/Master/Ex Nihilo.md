@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Potency\
-Suggested Rote Skills: Crafts, Expression, Science
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Expression, Science
 
 ---
 
@@ -21,4 +21,4 @@ The object may be any simple tool or relatively uncomplicated machine (a revolve
 The object’s size is determined by the Scale factor.\
 The spell’s Potency may be allocated as the mage wishes between Durability or equipment bonus.
 
-**+1 Reach:** Create a complex machine or electronic device, like a car or a smartphone. The device must still be something that operates according to known physical principles: no teleporters or warp drives.
+**+1 [[Reach]]:** Create a complex machine or electronic device, like a car or a smartphone. The device must still be something that operates according to known physical principles: no teleporters or warp drives.

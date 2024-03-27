@@ -3,16 +3,16 @@ tags:
 - Legacy
 ---
 
-_The benefits of initiation are many, from a connection to other Legacy members to the magical advantages of an altered Gnosis._
+_The benefits of initiation are many, from a connection to other Legacy members to the magical advantages of an altered [[Gnosis]]._
 
 ---
 
 ### Yantras
 
-Initiates learn the Legacy’s Yantras.
+Initiates learn the Legacy’s [[Yantra|Yantras]].
 
 Most require one turn to deploy and add +1 to spellcasting rolls. A few add +2 but either impose a disadvantageous Condition or require rare materials, extra time, or special care.\
-The required effort is part of the Yantra, so sidestepping its disadvantages (by eliminating the stupor created by a sacred drug, for example) reduces its bonus accordingly.
+The required effort is part of the [[Yantra]], so sidestepping its disadvantages (by eliminating the stupor created by a sacred drug, for example) reduces its bonus accordingly.
 
 ### Oblations
 
@@ -30,7 +30,7 @@ This normally raises an existing Common or Inferior [[Arcanum]] to Ruling Status
 
 Most Legacy tutors remain involved with their students long after first teaching the Legacy, creating a web of relationships that binds members together.
 
-Through Legacy secrets and the teachings they specifically share, student and tutor have both shaped their Gnosis in the same fashion. Mentors and students have a Strong sympathetic link to one another.\
+Through Legacy secrets and the teachings they specifically share, student and tutor have both shaped their [[Gnosis]] in the same fashion. Mentors and students have a Strong sympathetic link to one another.\
 After a scene where they interact over some mystically meaningful or emotional and intimate matter, both earn an Arcane Beat.\
 This Beat can only be earned once per chapter (game session), even if the tutor interacts with multiple students, or the student is also a tutor, and meets with both teacher and pupil over a short period of time.
 

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Duration\
-Suggested Rote Skills: Investigation, Medicine, Survival
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Medicine, Survival
 
 ---
 

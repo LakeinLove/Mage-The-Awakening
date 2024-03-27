@@ -13,7 +13,7 @@ Imbued items are granted a single spell.
 
 In effect, whoever wields the imbued item gains the benefits of its spell, even though she did not necessarily cast it. See the Imbued Item Merit.
 
-The mage can imbue an item with any spell she is capable of casting. Imbued items retain their magic indefinitely; a spell cast using an imbued item might run out, but the imbued item itself does not. Attainments may only be included if they modify a spell; for example, mages can imbue items with spells using Sympathetic Range, but may not imbue an item with Mage Armour or the ability to create Rotes.
+The mage can imbue an item with any spell she is capable of casting. Imbued items retain their magic indefinitely; a spell cast using an imbued item might run out, but the imbued item itself does not. [[Attainments]] may only be included if they modify a spell; for example, mages can imbue items with spells using [[Sympathetic Range]], but may not imbue an item with [[Mage Armour]] or the ability to create Rotes.
 
 The spell imbued into an item remains in the item’s creator’s spell control, even if the item only casts that spell when activated. If an imbued item casts its spell multiple times, however, it still only takes up one spell control “slot".
 
@@ -25,7 +25,7 @@ By spending Mana equal to the item’s rating, a mage can destroy an imbued item
 
 The player must spend Mana equal to the rating of all [[Arcanum|Arcana]] used in the spell.
 
-**Dice Pool:** Gnosis + [[Prime]]\
+**Dice Pool:** [[Gnosis]] + [[Prime]]\
 **Action:** Extended (required successes = ([[Arcanum|Arcana]] dots in all imbued spells) x 2, one hour per roll)\
 **Cost:** See above
 

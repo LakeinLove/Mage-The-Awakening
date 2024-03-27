@@ -43,7 +43,7 @@ Ruling [[Arcanum]]: [[Time]]
 [[Yantra|Yantras]]:
 - Succeeding on an Investigation roll relevant to the spell (+2)
 - Verbally explaining a mysterious phenomenon to a trusted associate (+1)
-- Collecting samples or recording information (images, sounds, writings) relevant to the spell — note that the act of collection is the Yantra in this case, separate from possessing an item that might be used for sympathetic magic (+2)
+- Collecting samples or recording information (images, sounds, writings) relevant to the spell — note that the act of collection is the [[Yantra]] in this case, separate from possessing an item that might be used for sympathetic magic (+2)
 - Using stimulants to stay focused (+1, or +2 if this creates an adverse Condition).
 
 Oblations:
@@ -69,7 +69,7 @@ The Querent also may engage [[Active Mage Sight]] ([[Matter]]) upon arrival. If 
 **Prerequisites:** [[Time]] 2, [[Investigation]] 3
 
 Studying a person, place, or thing for a turn, the Querent peers into her subject’s recent past. She picks up this information by examining her target’s subtlest behaviours and sensory cues.\
-This duplicates the effects of the “[[Postcognition]]” spell with Potency equal to the Querent’s [[Time]] dots and has assigned Reach to instant use and sensory range.
+This duplicates the effects of the “[[Postcognition]]” spell with Potency equal to the Querent’s [[Time]] dots and has assigned [[Reach]] to instant use and sensory range.
 
 **Optional:** [[Matter]] 2
 
@@ -80,7 +80,7 @@ The Querent may make such changes obvious (by giving a murderer bloody hands) or
 
 **Prerequisites:** [[Time]] 3. In addition to the Investigation 3 requirement from the previous Attainment, the Querent must increase the other Skill she used to meet the requirements of the Legacy to 3, or must attain two dots in a second skill from the list of possible requirements.
 
-Confident that the truth of a thing will be revealed, the mage extrapolates her present situation to the future, learning what she will know in the fullness of time. She fetches information from a future where the truth has been revealed. This resembles the spell “[[Divination]]” with Reach assigned to instant use, sensory range, and specific questions.
+Confident that the truth of a thing will be revealed, the mage extrapolates her present situation to the future, learning what she will know in the fullness of time. She fetches information from a future where the truth has been revealed. This resembles the spell “[[Divination]]” with [[Reach]] assigned to instant use, sensory range, and specific questions.
 
 The nature of this Attainment imposes an additional restriction, however: The Querent must ask questions she believes her future self knows the answer to (not counting the predestination paradox created by the Attainment)! If she would not have personally discovered the answer, she intuits that answer as “Irrelevant.”
 
@@ -93,11 +93,11 @@ The mage needs matching raw materials but no tools, and from her perspective mig
 
 **Prerequisites:** [[Time]] 4, [[Investigation]] 4 and the other Skill requirements of the previous Attainment.
 
-By building a profile of known data about a subject for a full scene, whether on a pin-board or entirely in her mind, the Querent may predict his future actions. If the Querent possesses at least a Representational sympathetic Yantra of her subject, she does not require his presence to construct her prediction. This duplicates the effects of the “[[Prophecy]]” spell with Reach assigned to sensory range.
+By building a profile of known data about a subject for a full scene, whether on a pin-board or entirely in her mind, the Querent may predict his future actions. If the Querent possesses at least a Representational sympathetic [[Yantra]] of her subject, she does not require his presence to construct her prediction. This duplicates the effects of the “[[Prophecy]]” spell with [[Reach]] assigned to sensory range.
 
 **Optional:** [[Matter]] 4
 
-The Querent no longer requires a sympathy Yantra for a subject she wishes to affect with sympathetic spells. [[Time]] and [[Matter]] conspire to create one for her. Impressions from the past or emanations from the future shape present matter into a representational sympathy Yantra. This usually takes the form of a lucky find during an investigation.
+The Querent no longer requires a sympathy [[Yantra]] for a subject she wishes to affect with sympathetic spells. [[Time]] and [[Matter]] conspire to create one for her. Impressions from the past or emanations from the future shape present matter into a representational sympathy [[Yantra]]. This usually takes the form of a lucky find during an investigation.
 
 ### Fifth: The Penultimate Answer
 

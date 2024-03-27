@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Veiling\
-Primary Factor: Duration\
-Withstand: Resolve\
-Suggested Rote Skills: Academics, Politics, Survival
+[[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Politics, Survival
 
 ---
 

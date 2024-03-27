@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Duration\
-Suggested Rote Skills: Computers, Empathy, Science
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computers, Empathy, Science
 
 ---
 

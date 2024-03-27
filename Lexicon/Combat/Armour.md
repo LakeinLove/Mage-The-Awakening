@@ -3,11 +3,11 @@ tags:
 - Combat
 ---
 
-_Armor provides protection against attacks, including bullets and knives._
+_Armour provides protection against attacks, including bullets and knives._
 
 ---
 
-Though most mages rely on their Mage Armor Attainments to protect them instead of physical armour, police officers and other law enforcement agencies rely on it, and some highly combatant mages wear it as well.
+Though most mages rely on their [[Mage Armour]] [[Attainments]] to protect them instead of physical armour, police officers and other law enforcement agencies rely on it, and some highly combatant mages wear it as well.
 - Ballistic armour applies to incoming firearms attacks. Each point of ballistic armour downgrades one point of damage from lethal to bashing.
 - General armour applies to all attacks. Each point of general armour reduces the total damage taken by one point, starting with the most severe type of damage.
 
@@ -26,7 +26,7 @@ When applying armour to an attack dealing lethal damage, you always take at leas
 | Chainmail               | 3/1    | 3   | -2      | -2    | ••           | Torso, arms       |
 | Plate                   | 4/2    | 3   | -2      | -3    | ••••         | Torso, arms, legs |
 
-- Rating: Armor provides protection against normal attacks and Firearms attacks. The number before the slash is for general armour, while the number after the slash is for ballistic armour.
+- Rating: Armour provides protection against normal attacks and Firearms attacks. The number before the slash is for general armour, while the number after the slash is for ballistic armour.
 - Strength: If your character’s Strength is lower than that required for her armour, reduce her Brawl and Weaponry dice pools by –1.
 - Defence: The penalty imposed on your character’s Defence when wearing the armour.
 - Speed: The penalty to your character’s Speed when wearing the armour. 

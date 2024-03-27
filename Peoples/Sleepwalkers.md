@@ -1,14 +1,14 @@
 
-_Sleepwalkers don’t suffer the Curse. They don’t see the Truth the way that the Awakened do, they don’t understand the Supernal, but it doesn’t bother them the way it does Sleepers. They don’t increase Paradox. They don’t cause Dissonance, and they don’t forget what they’ve seen._
+_Sleepwalkers don’t suffer the Curse. They don’t see the Truth the way that the Awakened do, they don’t understand the Supernal, but it doesn’t bother them the way it does Sleepers. They don’t increase [[Paradox]]. They don’t cause [[Dissonance]], and they don’t forget what they’ve seen._
 
 ---
 
-By its nature, the Lie is imperfect. As insidious as the Curse is, it is not flawless, and entropy works on everything given enough time. For these reasons, and in certain cases, out of very specific design, there are people who escape the Curse without fully Awakening.
+By its nature, [[Lie|the Lie]] is imperfect. As insidious as the Curse is, it is not flawless, and entropy works on everything given enough time. For these reasons, and in certain cases, out of very specific design, there are people who escape the Curse without fully [[Awakening]].
 
 ## All Shapes and Sizes
 
 Some people are Sleepwalkers because they just don’t experience the Curse.\
-A minority, though, have their own unique powers and strange innate abilities that set them apart from humanity. Perhaps it’s a connection to the Supernal that the human mind cannot fathom, even the Awakened mind. Perhaps they draw on a connection to some other source, and that shields them in some ways from the Lie.
+A minority, though, have their own unique powers and strange innate abilities that set them apart from humanity. Perhaps it’s a connection to the Supernal that the human mind cannot fathom, even the Awakened mind. Perhaps they draw on a connection to some other source, and that shields them in some ways from [[Lie|the Lie]].
 
 Maybe it’s just that the strange accept the strange.
 
@@ -22,10 +22,10 @@ Being a kin to shapeshifters and half-spirits would make you a Sleepwalker.
 
 ## Sleeper to Sleepwalker
 
-Forcing a Sleeper to become a Sleepwalker is possible with the [[Prime]] spell [[Stealing Fire]], something desperate or conniving Awakened have always known. It’s a brutal experience, though, and is always considered an obvious Supernal power for the sake of determining if the spell causes a breaking point and Wisdom roll. Even if the spell is successful, the Sleeper is not a Sleepwalker until after it is cast. Even then, once the spell’s duration expires, Quiescence takes effect on any memories of obvious magic the temporary Sleepwalker witnessed.
+Forcing a Sleeper to become a Sleepwalker is possible with the [[Prime]] spell [[Stealing Fire]], something desperate or conniving Awakened have always known. It’s a brutal experience, though, and is always considered an obvious Supernal power for the sake of determining if the spell causes a breaking point and Wisdom roll. Even if the spell is successful, the Sleeper is not a Sleepwalker until after it is cast. Even then, once the spell’s duration expires, [[Quiescence]] takes effect on any memories of obvious magic the temporary Sleepwalker witnessed.
 
-Aside from the brute-force method, mages don’t know how to make people Sleepwalkers any more than they know how to make people Awaken.\
-Any of the potential roads to Awakening could, falling short of triggering an actual Awakening, coax a Sleeper into Sleepwalking.
+Aside from the brute-force method, mages don’t know how to make people Sleepwalkers any more than they know how to make people [[Awakening|Awaken]].\
+Any of the potential roads to [[Awakening]] could, falling short of triggering an actual [[Awakening]], coax a Sleeper into Sleepwalking.
 
 The Orders have dedicated countless studies to determine if being the blood relative of mages makes someone more likely to Sleepwalk, but if it does influence things it does so in such a subtle way that it’s impossible to prove. The raw power of the relative has no effect; for every apprentice whose child sees her cast spells and remembers, there’s a near-archmage with only Sleeping children and grandchildren.
 
@@ -34,7 +34,7 @@ While it’s unlikely that any Awakened polity would put a Sleepwalker in a posi
 
 ## Moments of Genius
 
-Some Awakened believe that a Sleepwalker who is exposed to Awakened society or magic on a secondary level is less likely to Awaken than, say, a totally ignorant Sleeper who just stumbled across the Truth.\
+Some Awakened believe that a Sleepwalker who is exposed to Awakened society or magic on a secondary level is less likely to [[Awakening|Awaken]] than, say, a totally ignorant Sleeper who just stumbled across the Truth.\
 The logic goes that by regularly exposing them to the radiation of the Supernal, they’ll tend to not have moments of complete Gnostic revelation, much like the Thai nuns who do not allow themselves to learn among the priests and believe that understanding and enlightenment will simply come to them while they go about their mundane tasks.
 
 There is no solid way to study this phenomenon, to prove or disprove it, and so it remains a traditional assumption, but one that is challenged from time to time.

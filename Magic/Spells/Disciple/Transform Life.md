@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Withstand: Stamina\
-Suggested Rote Skills: Animal Ken, Science, Survival
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Science, Survival
 
 ---
 
@@ -39,7 +39,7 @@ _Leaping:_ Gaining powerful legs like a frog’s or kangaroo’s, the target gai
 
 _Prehensile Tail:_ Gain a bonus to rolls related to balance or climbing equal to Potency.
 
-_Scaly Armor/Thick Hide:_ The subject gains 2/1 armour (must be at least Size 2).
+_Scaly Armour/Thick Hide:_ The subject gains 2/1 armour (must be at least Size 2).
 
 _Senses:_ The subject gains a new sense, such as echolocation, primitive infra-vision, or a keen sense for vibrations, granting a bonus to Perception rolls and the ability to perceive phenomena outside the human senses.
 
@@ -49,4 +49,4 @@ _Venom:_ The subject gains fangs or small stingers (damage bonus 0) capable of i
 
 _Wall-Crawling:_ The subject (which can be no larger than Size 7) gains the ability to climb on surfaces without equipment or even handholds, provided the surface can bear her weight.
 
-**+2 Reach:** The bestowed traits, if made indefinite, can be passed on to the creature’s descendants.
+**+2 [[Reach]]:** The bestowed traits, if made indefinite, can be passed on to the creature’s descendants.

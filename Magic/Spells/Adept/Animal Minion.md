@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Withstand: Stamina\
-Suggested Rote Skills: Animal Ken, Science, Survival
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Science, Survival
 
 ---
 
@@ -28,4 +28,4 @@ Damage inflicted on her body will immediately alert her to the threat and she ma
 
 Unlike Control Instincts, this spell allows the mage to command the subject completely. It is not simple instinctive responses and triggered urges, but a total bodily takeover that allows her to do anything the possessed body could normally do.
 
-**+1 Reach:** The target behaves more normally as the mage gains an understanding of its normal movements, bodily tics, and habits.
+**+1 [[Reach]]:** The target behaves more normally as the mage gains an understanding of its normal movements, bodily tics, and habits.

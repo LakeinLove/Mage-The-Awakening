@@ -6,14 +6,14 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Withstand: Resolve\
-Suggested Rote Skills: Crafts, Intimidation, Medicine
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Intimidation, Medicine
 
 ---
 
-_The soul of a mage cannot be removed with Fraying alone; Awakened Gnosis holds it tight, requiring mastery to prise lose._
+_The soul of a mage cannot be removed with [[Practice of Fraying|Fraying]] alone; Awakened [[Gnosis]] holds it tight, requiring mastery to prise lose._
 
 ---
 
@@ -24,5 +24,5 @@ While without a soul, the subject suffers from the Soulless Condition. If this s
 
 If the mage chooses not to capture her subject’s soul immediately, it goes into Twilight where it waits to return to its owner.
 
-**+1 Reach:** The subject falls immediately under the effects of the Enervated Condition.\
-With an additional Reach, the subject can be placed under the effects of the Thrall Condition.
+**+1 [[Reach]]:** The subject falls immediately under the effects of the Enervated Condition.\
+With an additional[[Reach]], the subject can be placed under the effects of the Thrall Condition.

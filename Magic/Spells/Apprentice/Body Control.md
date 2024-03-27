@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Medicine, Survival
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Medicine, Survival
 
 ---
 
@@ -33,6 +33,6 @@ _Scent:_ The mage can change the subject’s scent to any that her body could na
 Each level of Potency also halves the healing time of bashing wounds by controlling internal bleeding, preventing bruises or helping them to heal quickly.\
 With Potency 3, for example, she would recover one bashing wound per minute
 
-**+1 Reach:** The subject also gains 1/0 armour for the spell’s Duration as her body becomes much more resistant to minor injuries.
+**+1 [[Reach]]:** The subject also gains 1/0 armour for the spell’s Duration as her body becomes much more resistant to minor injuries.
 
-**+2 Reach:** The subject also halves the healing time for lethal damage for each level of Potency.
+**+2 [[Reach]]:** The subject also halves the healing time for lethal damage for each level of Potency.

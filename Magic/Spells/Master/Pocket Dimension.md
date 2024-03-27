@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Expression, Survival
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Expression, Survival
 
 ---
 
@@ -23,11 +23,11 @@ Someone within the dimension can walk forever in any direction, but when she tur
 
 The Pocket Dimension is divorced from physical reality; unless the mage chooses to anchor the realm to a point in the world, the only way to reach it is to teleport there.\
 Spells cast within the Pocket Dimension do not incur [[Paradox]], unless they are cast sympathetically on someone outside the Pocket Dimension.\
-The mage counts as a material [[Sympathy|sympathetic]] Yantra for her own Pocket Dimension.
+The mage counts as a material [[Sympathy|sympathetic]] [[Yantra]] for her own Pocket Dimension.
 
 If the Pocket Dimension is ever destroyed, or if its Duration expires, everything inside reappears in the world at the exact location from which it or they entered the Dimension.
 
-**+1 Reach:** The mage may create an Iris to the Pocket Dimension in the material realm, allowing anyone to enter and leave it. For an additional Reach, she may specify a [[Keys|Key]] for the Iris.
+**+1 [[Reach]]::** The mage may create an Iris to the Pocket Dimension in the material realm, allowing anyone to enter and leave it. For an additional[[Reach]], she may specify a [[Keys|Key]] for the Iris.
 
 **Add [[Time]] ••:** [[Time]] flows normally within the pocket dimension, matching the flow of [[Time]] in the material realm. Wise mages supplement this conjunction with [[Matter]] spells or similar effects to ensure a continuous air supply.
 

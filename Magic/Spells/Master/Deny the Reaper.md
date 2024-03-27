@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Suggested Rote Skills: Occult, Medicine, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Medicine, Subterfuge
 
 ---
 
@@ -21,5 +21,5 @@ The mage reverses the effects of decay, restoring the subject to its physical st
 On a living subject, the spell can restore eyesight, the use of limbs, reversing irreparable damage, and restoring all bodily functions.\
 On inanimate subjects the spell can restore time-ravaged photos, make old books pristine, or return old electronics to working order.
 
-**+1 Reach:** The mage may return the recently dead to life. No matter how long the subject has been dead, minutes or hours, the person’s soul has already moved on, and the subject immediately suffers soul loss.\
+**+1 [[Reach]]:** The mage may return the recently dead to life. No matter how long the subject has been dead, minutes or hours, the person’s soul has already moved on, and the subject immediately suffers soul loss.\
 When the spell’s Duration ends, the subject dies again.

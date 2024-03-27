@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
-Suggested Rote Skills: Academics, Intimidation, Medicine
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Intimidation, Medicine
 
 ---
 
@@ -20,4 +20,4 @@ This spell forces the subject’s brain into a dangerously overactive state, mim
 
 The subject takes bashing damage equal to Potency.
 
-**+1 Reach:** The subject also suffers a –1 penalty to Mental rolls for the Duration of the spell due to the mental trauma. This effect may be applied up to three times, for a maximum penalty of –3 for three Reach.
+**+1 [[Reach]]:** The subject also suffers a –1 penalty to Mental rolls for the Duration of the spell due to the mental trauma. This effect may be applied up to three times, for a maximum penalty of –3 for three[[Reach]].

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Withstand: Durability\
-Suggested Rote Skills: Crafts, Expression, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Durability\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Expression, Science
 
 ---
 
@@ -22,4 +22,4 @@ This in turn causes the Supernal to cast a larger or smaller shadow into the Fal
 Each level of Potency either adds or subtracts one from the subject’s Size.\
 Size 0 objects can be shrunk down to roughly the size of a dime.
 
-**Add [[Life]] •••:** The spell can affect living subjects. Unwilling subjects may Withstand with Stamina.
+**Add [[Life]] •••:** The spell can affect living subjects. Unwilling subjects may [[Withstanding Magic|Withstand]] with Stamina.

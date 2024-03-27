@@ -36,10 +36,10 @@ Attainments cannot be enhanced by longer “casting times.”
 
 ### Fixed Reach
 
-Attainments do not use Reach in the usual way. Instead, Attainments receive only the Paradox-free Reach for meeting and exceeding [[Arcanum]] requirements, and may not Reach further. They also use the [[Arcanum]] rating of their dot, not that of the user.
+Attainments do not use [[Reach]] in the usual way. Instead, Attainments receive only the [[Paradox]]-free [[Reach]] for meeting and exceeding [[Arcanum]] requirements, and may not [[Reach]] further. They also use the [[Arcanum]] rating of their dot, not that of the user.
 
-For example, a two-dot spell that becomes a three-dot Attainment should be designed as if it automatically has +2 Reach, even if the user actually has four dots.\
-This lack of dynamism is one of an Attainment’s disadvantages. To utilize a comparable power more flexibly, the mage should cast a spell instead. Most Attainments use one Reach for instant “casting”; those that don’t (being based on ritual spells) take one scene of preparation to use.
+For example, a two-dot spell that becomes a three-dot Attainment should be designed as if it automatically has +2 [[Reach]], even if the user actually has four dots.\
+This lack of dynamism is one of an Attainment’s disadvantages. To utilize a comparable power more flexibly, the mage should cast a spell instead. Most Attainments use one [[Reach]] for instant “casting”; those that don’t (being based on ritual spells) take one scene of preparation to use.
 
 ### Immune to Countering and Supernal Dispellation
 
@@ -60,11 +60,11 @@ Some Legacy Attainments include an additional or alternate effect if the mage po
 
 ### Praxis Refund
 
-If the mage knew the Legacy Attainment as a Praxis, she internalizes her understanding. She loses the Praxis, but receives a “refund” of one Arcane Experience plus one Arcane Beat. Legacy members often develop Praxes to train themselves for upcoming Legacy Attainments, including the first, for pupils who study under a tutor but have yet to be initiated.
+If the mage knew the Legacy Attainment as a [[Praxes|Praxis]], she internalizes her understanding. She loses the [[Praxes|Praxis]], but receives a “refund” of one Arcane Experience plus one Arcane Beat. Legacy members often develop [[Praxes]] to train themselves for upcoming Legacy Attainments, including the first, for pupils who study under a tutor but have yet to be initiated.
 
 ### Free from the Lie
 
-Legacy Attainments do not count as obvious magic to Sleepers, are immune to Dissonance and do not trigger Quiescence or Breaking Points in witnesses.
+Legacy Attainments do not count as obvious magic to Sleepers, are immune to [[Dissonance]] and do not trigger [[Quiescence]] or Breaking Points in witnesses.
 
 ### Transient Stacking
 
@@ -73,7 +73,7 @@ Legacy Attainments may stack with spells, but only for a short time; doing so er
 Stacking a Legacy Attainment with a spell causes the spell’s Duration to end, as if cancelled, after one turn per dot the mage possesses in the spell’s highest [[Arcanum]] or its usual Duration, whichever comes first.\
 For example, if a Perfected Adept with three dots of [[Life]] casts a spell that increases his Strength by three dots for the day, activating his Attainment to add another three dots of Strength increases it by six dots, but his spell disperses after three turns.
 
-Transient stacking can only be performed on spells lingering within the mage’s own Gnosis (i.e. those that impose penalties for being actively maintained) and not spells cast by others, relinquished, or bound to enchanted items of any kind.
+Transient stacking can only be performed on spells lingering within the mage’s own [[Gnosis]] (i.e. those that impose penalties for being actively maintained) and not spells cast by others, relinquished, or bound to enchanted items of any kind.
 
 
 ## Learning legacy Attainments
@@ -88,7 +88,7 @@ Certain Legacy Attainments (such as those of the [[Eleventh Question]]) impose o
 
 ### Legacy Attainment Learning Table
 
-| Attainment Rank (Dots) | Minimum Legacy Ruling [[Arcanum]] | Minimum Gnosis |
+| Attainment Rank (Dots) | Minimum Legacy Ruling [[Arcanum]] | Minimum [[Gnosis]] |
 | ---------------------- | ----------------------------- | -------------- |
 | First                  | 1                             | 2/3            |
 | Second                 | 2                             | 2/3            |

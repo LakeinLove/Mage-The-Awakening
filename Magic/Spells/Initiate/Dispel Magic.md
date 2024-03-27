@@ -6,14 +6,14 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Potency\
-Withstand: [[Arcanum]] rating of the subject spell's caster\
-Suggested Rote Skills: Athletics, Intimidation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: [[Arcanum]] rating of the subject spell's caster\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Intimidation, Occult
 
 ---
 
-_All Awakened magic contains the capacity to end, to allow the Fallen World’s laws to reassert themselves. By Compelling these flaws in an extant spell, the mage may temporarily suppress it — or even destroy it entirely_
+_All Awakened magic contains the capacity to end, to allow the Fallen World’s laws to reassert themselves. By [[Practice of Compelling|Compelling]] these flaws in an extant spell, the mage may temporarily suppress it — or even destroy it entirely_
 
 ---
 
@@ -23,4 +23,4 @@ A successful casting suppresses the spell for the Duration of Dispel Magic.
 
 **Add [[Fate]] •:** The mage may suppress the subject spell selectively, for a number of subjects equal to Dispel Magic’s Scale factor.
 
-**+2 Reach:** For one point of Mana, the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.
+**+2 [[Reach]]:** For one point of Mana, the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.

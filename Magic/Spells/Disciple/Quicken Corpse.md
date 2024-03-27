@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Suggested Rote Skills: Medicine, Crafts, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Crafts, Persuasion
 
 ---
 
@@ -22,6 +22,6 @@ The corpse’s physical capabilities are impaired, making them slow and clumsy c
 
 Zombies have as much Health as the living creature their corpse came from had, but suffer damage as though they are under the effects of [[Death]] [[Mage Armour]]. They do not fall unconscious through damage, or bleed when filled with lethal damage, and are only destroyed when their last Health box is filled with aggravated damage.
 
-**+1 Reach:** The mage may create a zombie suitable for combat. It uses its dot-rating as a dice pool for attacks, and has a Defence 3, Initiative 1, and Speed 6.
+**+1 [[Reach]]:** The mage may create a zombie suitable for combat. It uses its dot-rating as a dice pool for attacks, and has a Defence 3, Initiative 1, and Speed 6.
 
-**+2 Reach:** The mage may spend a point of Mana to imbue the zombie with exceptional physical prowess. zombie has Defence 5, Initiative 3, and Speed 8.
+**+2 [[Reach]]:** The mage may spend a point of Mana to imbue the zombie with exceptional physical prowess. zombie has Defence 5, Initiative 3, and Speed 8.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Suggested Rote Skills: Crafts, Drive, Intimidate
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Drive, Intimidate
 
 ---
 
@@ -21,4 +21,4 @@ Anything that’s within the bounds of a single instant action, and which the su
 
 Should the action require a Skill roll, treat the spell’s Potency as its successes.
 
-**+1 Reach:** The subject can perform more complex tasks while controlling the object, including extended actions or maintaining continuous control of the object as long as the spell’s Duration lasts.
+**+1 [[Reach]]:** The subject can perform more complex tasks while controlling the object, including extended actions or maintaining continuous control of the object as long as the spell’s Duration lasts.

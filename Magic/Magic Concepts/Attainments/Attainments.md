@@ -24,7 +24,7 @@ Attainments do not require Imagos and as such cannot be countered by [[Countersp
 
 ### Two-Dot Attainments
 
-_The second dot of an Arcanum grants a Lesser Utility Attainment and a form of Mage Armour._
+_The second dot of an Arcanum grants a Lesser Utility Attainment and a form of [[Mage Armour]]._
 
 Lesser Utilities are Attainments that fit into the purview of the [[Arcanum|Arcana]], but don’t map to [[The 13 Practices|the Practices]] and rely more on a general understanding of the [[Arcanum]] in question than of specific spells.
 

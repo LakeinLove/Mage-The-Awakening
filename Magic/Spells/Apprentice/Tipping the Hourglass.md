@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Potency\
-Withstand: Resolve\
-Suggested Rote Skills: Athletics, Crafts, Investigation
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Crafts, Investigation
 
 ---
 

@@ -6,11 +6,11 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 Cost: 5 Mana per Potency\
-Withstand: Hallow Rating of desired Hallow\
-Suggested Rote Skills: Expression, Occult, Persuasion
+[[Withstanding Magic|Withstand]]: Hallow Rating of desired Hallow\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Occult, Persuasion
 
 ---
 
@@ -26,4 +26,4 @@ The sudden emergence of such a mystically potent site causes massive ripples and
 
 Hallows “cap out” at a rating of •••••; any Potency in excess has no effect.
 
-**+2 Reach:** For 5 Mana, the effect becomes Lasting.
+**+2 [[Reach]]:** For 5 Mana, the effect becomes Lasting.

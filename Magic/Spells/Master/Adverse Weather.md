@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Occult, Science
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Science
 
 ---
 
@@ -22,4 +22,4 @@ This allows the mage to create Extreme Environments of nearly any kind up to Lev
 
 She does not have to call up disasters; she can make a rainstorm appear in a cloudless blue sky if she desires.
 
-**+1 Reach:** The mage can create weather drastically different from the local conditions, such as a monsoon during the savannah’s dry season.
+**+1 [[Reach]]:** The mage can create weather drastically different from the local conditions, such as a monsoon during the savannah’s dry season.

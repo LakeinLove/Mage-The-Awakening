@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Unravelling\
-Primary Factor: Potency\
-Withstand: Durability\
-Suggested Rote Skills: Brawl, Intimidation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Durability\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Intimidation, Occult
 
 ---
 

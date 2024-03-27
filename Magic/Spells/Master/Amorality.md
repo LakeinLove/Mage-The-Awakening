@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Duration\
-Withstand: Resolve\
-Suggested Rote Skills: Crafts, Empathy, Expression
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Empathy, Expression
 
 ---
 

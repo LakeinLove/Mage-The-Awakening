@@ -21,15 +21,15 @@ A Mage’s [[Gnosis]] determines her [[Patterns|Pattern]]’s capacity for Mana 
 _Mana can be spent as a reflexive action to:_
 - Improvise a spell not based on your character’s Ruling [[Arcanum|Arcana]]. Improvising a spell outside your character’s Ruling [[Arcanum|Arcana]] requires a point of Mana.
 - Reduce [[Paradox]] risk on a spell by one die per point of Mana spent.
-- Attainments often cost Mana to activate, as noted in their rules.
+- [[Attainments]] often cost Mana to activate, as noted in their rules.
 - Some powerful spells that push the boundaries of natural physics or violate [[Lie|the Lie]] require Mana.
 
 ## Mana Costs
 
 Some quick reminders of spellcasting effects that cost Mana:
 
-- Each improvised spell (not Praxes or Rotes) outside Ruling [[Arcanum|Arcana]] costs a point of Mana.
-- Many Attainments require Mana or are more efficient with its use.
+- Each improvised spell (not [[Praxes]] or Rotes) outside Ruling [[Arcanum|Arcana]] costs a point of Mana.
+- Many [[Attainments]] require Mana or are more efficient with its use.
 - Spells that directly call upon the perfection of the Supernal Realms require a point of Mana.
 
 This includes the following effects:

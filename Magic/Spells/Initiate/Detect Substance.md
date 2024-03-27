@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Investigation, Science
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Investigation, Science
 
 ---
 

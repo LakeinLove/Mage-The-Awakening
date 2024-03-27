@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Veiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Academics, Medicine, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Medicine, Subterfuge
 
 ---
 

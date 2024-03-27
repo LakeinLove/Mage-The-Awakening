@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Shielding\
-Primary Factor: Potency\
-Suggested Rote Skills: Streetwise, Subterfuge, Survival
+[[The 13 Practices|Practice]]: [[Practice of Shielding|Shielding]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Streetwise, Subterfuge, Survival
 
 ---
 
@@ -16,6 +16,6 @@ _The caster creates a shield that protects her subject from ghostly Numina, Infl
 
 ---
 
-Any power attempting to pierce the shield provokes a Clash of Wills roll.
+Any power attempting to pierce the shield provokes a [[Clash of Wills]] roll.
 
-**+1 Reach:** The protection afforded by this spell extends to ghosts’ physical attacks.
+**+1 [[Reach]]:** The protection afforded by this spell extends to ghosts’ physical attacks.

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Unravelling\
-Primary Factor: Potency\
-Withstand: [[Arcanum]] rating of the subject spell's caster\
-Suggested Rote Skills: Athletics, Intimidation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: [[Arcanum]] rating of the subject spell's caster\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Intimidation, Occult
 
 ---
 
@@ -23,4 +23,4 @@ This spell is not potent enough to dispel archmages’ spells.
 
 **Add [[Fate]] •:** The mage may suppress the subject spell selectively, for a number of subjects equal to the Dispel’s Scale factor.
 
-**+2 Reach:** For one point of Mana, the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.
+**+2 [[Reach]]:** For one point of Mana, the effect is Lasting. If the spell’s original caster is still alive and has not relinquished the spell, she knows one of her spells was destroyed.

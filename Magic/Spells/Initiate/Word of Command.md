@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 Cost: Variable\
-Suggested Rote Skills: Crafts, Occult, Persuasion
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Persuasion
 
 ---
 

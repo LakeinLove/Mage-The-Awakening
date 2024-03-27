@@ -13,7 +13,7 @@ _Death is the Subtle [[Arcanum]] governing souls, absence, and the cessation of 
 
 Those who study Death find themselves deeply involved in matters of endings, decay, and darkness.\
 This tends to make practitioners seem morbid, though few are. Mages who delve into the mysteries of Death find solace and understanding in the fact that all things come to an end.\
-While such thoughts may look fatalistic on the surface, a mage who sees past the Lie realizes she has the power to not only create these states, but to control, manipulate, and even prevent them.
+While such thoughts may look fatalistic on the surface, a mage who sees past [[Lie|the Lie]] realizes she has the power to not only create these states, but to control, manipulate, and even prevent them.
 
 She can bolster a soul, restore pleasure to a ghost, and reverse the effects of aging just as well as she can destroy souls, rip ghosts from anchors, and steal the life from another.
 

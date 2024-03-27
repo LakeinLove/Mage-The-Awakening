@@ -12,7 +12,7 @@ _Many [[Fate]] spells hex the subject, imposing a variety of negative effects up
 **Hexes can impose one of the following effects:**
 
 Impose a dice penalty equal to Potency to all mundane actions the subject takes for a number of rolls equal to the Potency of the hex, or until the Duration expires.\
-With +2 Reach, this can include spellcasting rolls and the use of other supernatural powers.
+With +2 [[Reach]], this can include spellcasting rolls and the use of other supernatural powers.
 
 Impose a number of the following Tilts equal to the Potency of the hex:\
 Arm Wrack\

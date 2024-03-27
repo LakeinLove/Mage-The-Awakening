@@ -6,11 +6,11 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 Cost: 1 Mana\
-Withstand: Stamina\
-Suggested Rote Skills: Academics, Occult, Intimidation
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Occult, Intimidation
 
 ---
 
@@ -24,6 +24,6 @@ She can’t even speak normally to others while affected — while from her pers
 Divide the subject’s Speed by Potency, rounding down. If Speed reaches 0, the subject is effectively moving so slowly she appears rooted to the spot. While under the spell’s effect, the subject always goes last in a turn.\
 The subject’s Defence is also reduced by Potency
 
-**+1 Reach:** For a point of Mana, the subject loses Defence against attacks.
+**+1 [[Reach]]:** For a point of Mana, the subject loses Defence against attacks.
 
-**+1 Reach:** Multiply the time per roll of extended actions taken by the subject by Potency. The spell has no effect on the ritual casting interval of mages.
+**+1 [[Reach]]:** Multiply the time per roll of extended actions taken by the subject by Potency. The spell has no effect on the ritual casting interval of mages.

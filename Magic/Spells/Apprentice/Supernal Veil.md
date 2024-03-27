@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Veiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Occult, Subterfuge, Survival
+[[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Subterfuge, Survival
 
 ---
 
@@ -18,4 +18,4 @@ _This spell wards its subject, which can be a spell, object, mage, supernatural 
 
 Sometimes even the greatest magician must hide her light under a bushel.
 
-Passive abilities (such as Peripheral Mage Sight) automatically fail to detect the veiled phenomenon, while active attempts provoke a Clash of Wills.
+Passive abilities (such as [[Peripheral Mage Sight]]) automatically fail to detect the veiled phenomenon, while active attempts provoke a [[Clash of Wills]].

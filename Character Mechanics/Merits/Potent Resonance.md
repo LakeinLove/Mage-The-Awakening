@@ -6,7 +6,7 @@ tags:
 [[Merits|Merit]]\
 Cost: ••\
 Prerequisites:
-- Gnosis 3+
+- [[Gnosis]] 3+
 
 ---
 

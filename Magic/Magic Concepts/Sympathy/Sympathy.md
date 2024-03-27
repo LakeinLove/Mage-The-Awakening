@@ -30,7 +30,7 @@ The point is that playing with people’s sympathetic links has a real, tangible
 
 Most spells dealing with sympathy use the connections themselves as the spells’ subjects, and are Withstood by the links’ relative strength — deeper bonds are more difficult to affect.
 
-Mages with [[Space]] 2 or more can also use links to cast other spells on subjects not within sensory range, by routing their magic along the lines of sympathy using an Attainment.\
+Mages with [[Space]] 2 or more can also use links to cast other spells on subjects not within sensory range, by routing their magic along the lines of sympathy using an [[Attainments|Attainment]].\
 In these cases, the spell is Withstood by [[Space]] itself; weaker connections are more difficult to use.
 
 When affecting links with magic, each connection is treated as a subject for purposes of spell factors.\
@@ -40,9 +40,9 @@ For example, a spell that dampens a sympathetic connection can dampen multiple c
 
 ## Sympathy Table
 
-| Sympathetic Strength | Withstand (Connection)           | Withstand (Sympathetic Range) |
+| Sympathetic Strength | [[Withstanding Magic|Withstand]] (Connection)           | [[Withstanding Magic|Withstand]] ([[Sympathetic Range]]) |
 | -------------------- | -------------------------------- | ----------------------------- |
-| Connected            | 5 (Only removable with Unmaking) | 0                             |
+| Connected            | 5 (Only removable with [[Practice of Unmaking|Unmaking]]) | 0                             |
 | Strong               | 3                                | 1                             |
 | Medium               | 2                                | 2                             |
 | Weak                 | 1                                | 3                             |
@@ -55,16 +55,16 @@ When affecting links with magic, each connection is treated as a subject for the
 
 ### Connected
 
-- **Withstand (Connection):** 5, Only removable with Unmaking
-- **Withstand (Sympathetic Range):** 0
+- **Withstand (Connection):** 5, Only removable with [[Practice of Unmaking|Unmaking]]
+- **Withstand ([[Sympathetic Range]]):** 0
 
 **Description:**\
-The two subjects are metaphysically one e.g. a mage and her familiar or soul stone. The connection is unassailable without Unmaking magic and casting using the connection is not Withstood.
+The two subjects are metaphysically one e.g. a mage and her familiar or soul stone. The connection is unassailable without [[Practice of Unmaking|Unmaking]] magic and casting using the connection is not Withstood.
 
 ### Strong
 
 - **Withstand (Connection):** 3
-- **Withstand (Sympathetic Range):** 1
+- **Withstand ([[Sympathetic Range]]):** 1
 
 **Description:**\
 The two subjects are closely metaphysically linked; a woman and her lifelong spouse, a mage and his dedicated magical tool or an item she has imbued, a Legacy mentor and her student, best friends, parents, children, bodily samples (blood, locks of hair,) murder weapons.
@@ -72,7 +72,7 @@ The two subjects are closely metaphysically linked; a woman and her lifelong spo
 ### Medium
 
 - **Withstand (Connection):** 2
-- **Withstand (Sympathetic Range):** 2
+- **Withstand ([[Sympathetic Range]]):** 2
 
 **Description:**\
 The two subjects are linked; a mage and her own spells, items marked with a mage’s Signature nimbus, friends, siblings, lovers, items of emotional significance like medals, wedding rings, a soldier’s weapon, or a sportswoman’s bat.
@@ -80,7 +80,7 @@ The two subjects are linked; a mage and her own spells, items marked with a mage
 ### Weak
 
 - **Withstand (Connection):** 1
-- **Withstand (Sympathetic Range):** 3
+- **Withstand ([[Sympathetic Range]]):** 3
 
 **Description:**\
-The two subjects have barely touched one another metaphysically; the subjects of a mage’s spells, or items she has used as Yantras. Casual acquaintances, co-workers, replaceable belongings.
+The two subjects have barely touched one another metaphysically; the subjects of a mage’s spells, or items she has used as [[Yantra|Yantras]]. Casual acquaintances, co-workers, replaceable belongings.

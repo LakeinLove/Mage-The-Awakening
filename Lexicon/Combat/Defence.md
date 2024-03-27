@@ -12,7 +12,7 @@ Spending a point of Willpower increases her Defence by +2, but only against one 
 
 You can choose not to apply your character’s Defence against some attacks. If two unarmed gangbangers attack before a chainsaw-wielding lunatic, you might want to let the gangbangers get their blows in, and apply your full Defence against the maniac swinging a chainsaw at your head.
 
-You cannot apply your character’s Defence against firearms attacks without supernatural assistance, whether it’s from a spell, an Attainment, or some other power that grants Defence against gunfire.
+You cannot apply your character’s Defence against firearms attacks without supernatural assistance, whether it’s from a spell, an [[Attainments|Attainment]], or some other power that grants Defence against gunfire.
 
 ---
 

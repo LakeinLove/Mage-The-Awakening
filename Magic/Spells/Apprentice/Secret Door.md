@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Veiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Occult, Stealth, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Veiling|Veiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Stealth, Subterfuge
 
 ---
 
@@ -18,6 +18,6 @@ _Doorways, roads, and portals represent a liminal point between two distinct loc
 
 This spell cloaks a door, intersection, or similar aperture between two locations, such that one’s mundane perceptions simply slide ride past it.
 
-All magical attempts to uncover the door provoke a Clash of Wills.
+All magical attempts to uncover the door provoke a [[Clash of Wills]].
 
-**+1 Reach:** The mage may specify a [[Keys|Key]] that allows the Secret Door to be seen.
+**+1 [[Reach]]:** The mage may specify a [[Keys|Key]] that allows the Secret Door to be seen.

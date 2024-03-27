@@ -33,7 +33,7 @@ Natural examples occur in every graveyard and cemetery in the world, and many St
 
 ### Distortions
 
-These Irises offer travel from one place on Earth to another without crossing the distance between them, or to a pocket dimension. Mages create them with fifth-dot [[Space]] spells such as Pocket Dimension and potent variations of Teleportation, but many are naturally-occurring.
+These Irises offer travel from one place on Earth to another without crossing the distance between them, or to a pocket dimension. Mages create them with fifth-dot [[Space]] spells such as Pocket Dimension and potent variations of [[Teleportation]], but many are naturally-occurring.
 
 ### Shadowed Doors
 

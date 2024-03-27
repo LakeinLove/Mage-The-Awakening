@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Duration\
-Suggested Rote Skills: Athletics, Brawl, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Brawl, Science
 
 ---
 
@@ -21,4 +21,4 @@ Apply the spell’s Potency to one of the force’s Strength (raw lifting/pushin
 Moving objects using Telekinesis requires concentration as an instant action each turn; if the mage fails to concentrate on moving the force, it simply hangs suspended, holding any objects it held before but no longer pushing or pulling (or manipulating objects, if used for that).\
 The mage may then resume directing the telekinetic force until the spell’s Duration expires.
 
-**+1 Reach:** The player may divide Potency among two of Strength, Dexterity, and Speed. This Reach may be performed twice.
+**+1 [[Reach]]:** The player may divide Potency among two of Strength, Dexterity, and Speed. This[[Reach]] may be performed twice.

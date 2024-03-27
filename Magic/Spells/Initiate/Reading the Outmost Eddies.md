@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Withstand: Composure\
-Suggested Rote Skills: Occult, Firearms, Crafts
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Firearms, Crafts
 
 ---
 
@@ -21,4 +21,4 @@ As long as the spell remains active the subject experiences an event within the 
 The mage can exert limited control over the nature of the fortune (or misfortune), but ultimately fate decides the details.\
 Hostile applications of this spell are Withstood by Composure.
 
-**+1 Reach:** The twist of fate occurs within one hour.
+**+1 [[Reach]]:** The twist of fate occurs within one hour.

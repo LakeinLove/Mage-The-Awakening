@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Potency\
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
 Cost: 1+ Mana\
-Suggested Rote Skills: Academics, Crafts, Occult
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Crafts, Occult
 
 ---
 

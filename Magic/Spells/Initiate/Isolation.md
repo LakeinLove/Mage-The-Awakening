@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Withstand: Composure\
-Suggested Rote Skills: Academics, Intimidation, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Intimidation, Subterfuge
 
 ---
 

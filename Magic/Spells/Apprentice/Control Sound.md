@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Expression, Stealth, Science
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Stealth, Science
 
 ---
 
@@ -27,6 +27,6 @@ Loud enough sounds can cause the Deafened Tilt in combat. By directing her sound
 
 This spell can also be used to alter the tone of a given sound, including modifying a target’s voice to sound like another. Emulating a specific voice might require an Expression + Subterfuge roll to get it right.
 
-**+1 Reach:** The mage can create an echoing effect by “nudging” sound waves into nearby obstacles. This imposes a penalty to Stealth rolls in the affected area equal to the spell’s Potency, to a maximum of –5.
+**+1 [[Reach]]:** The mage can create an echoing effect by “nudging” sound waves into nearby obstacles. This imposes a penalty to Stealth rolls in the affected area equal to the spell’s Potency, to a maximum of –5.
 
-**+1 Reach:** The caster gains a bonus to hearing-based Perception rolls within the affected area equal to the Potency of the spell, to a maximum of +5.
+**+1 [[Reach]]:** The caster gains a bonus to hearing-based Perception rolls within the affected area equal to the Potency of the spell, to a maximum of +5.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Potency\
-Suggested Rote Skills: Investigation, Streetwise, Survival
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Streetwise, Survival
 
 ---
 
@@ -22,6 +22,6 @@ The spell itself does not tell the mage exactly what will happen, only whether i
 
 Although often used to assess potential dangers, mages can cast this spell with themselves as the only subject, assessing whether their own actions will help or harm them.
 
-Mages with [[Time]] •• may use the Temporal Sympathy Attainment to cast this spell on a subject in the past, but the spell still reveals positive or negative outcomes for the future. The spell is Withstood by temporal sympathy.
+Mages with [[Time]] •• may use the Temporal Sympathy [[Attainments|Attainment]] to cast this spell on a subject in the past, but the spell still reveals positive or negative outcomes for the future. The spell is Withstood by temporal sympathy.
 
-**+1 Reach:** When reacting to the information gained from this spell, the mage gains a bonus to Initiative equal to Potency.
+**+1 [[Reach]]:** When reacting to the information gained from this spell, the mage gains a bonus to Initiative equal to Potency.

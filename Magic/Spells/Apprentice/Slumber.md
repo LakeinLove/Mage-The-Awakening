@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Withstand: Rank\
-Suggested Rote Skills: Expression, Occult, Weaponry
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Occult, Weaponry
 
 ---
 

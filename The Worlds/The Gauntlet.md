@@ -16,7 +16,7 @@ The tumult of human emotion and activity keeps the worlds of Flesh and Spirit ap
 Any spell cast on a subject on the other side of the Gauntlet or on the Gauntlet itself is Withstood by the Gauntlet Strength.\
 If the Gauntlet Strength at the caster’s location and the Gauntlet Strength at the subject’s location are different, apply the lower value (the mage can either direct the Supernal energies to cross the Gauntlet and then seek out the subject, or vice versa).
 
-If a mage casts on a subject she can see across the Gauntlet in real time (e.g. with the Reach effect of the Exorcist’s Eye spell), it counts as viewing that subject remotely.
+If a mage casts on a subject she can see across the Gauntlet in real time (e.g. with the [[Reach]] effect of the Exorcist’s Eye spell), it counts as viewing that subject remotely.
 
 ---
 

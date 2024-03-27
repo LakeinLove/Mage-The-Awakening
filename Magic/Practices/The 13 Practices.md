@@ -36,7 +36,7 @@ The Practices are divided along the 5 levels of mastery one is considered to be 
 - [[Practice of Ruling]]
    _Exert elementary command and control over phenomena_
 - [[Practice of Shielding]]
-  _Protect a target against attacks by providing points of Armor_
+  _Protect a target against attacks by providing points of Armour_
 - [[Practice of Veiling]]
    _Conceal, camouflage or hide phenomena from [[Scrutiny]]_
    

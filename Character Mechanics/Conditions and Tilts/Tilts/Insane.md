@@ -13,6 +13,6 @@ _The character suffers from a panic attack, sudden imbalance, or a full-on psych
 
 The Insane Tilt can also be triggered by a breaking point or Act of Hubris. If a character loses a dot of Wisdom or Integrity during combat, the Storyteller may apply the Insane Tilt then as well.
 
-Some supernatural creatures possess mind-affecting powers that can apply this Tilt, even to characters who do not have an appropriate Condition. This includes mages using the Mind Flay spell.
+Some supernatural creatures possess mind-affecting powers that can apply this Tilt, even to characters who do not have an appropriate Condition. This includes mages using the [[Mind Flay]] spell.
 
 **Ending the Tilt:** The specific effects of this Tilt don’t normally last beyond the end of the scene. A character can try to force her mind to a state of balance, but it’s not easy. She must sit and focus on blocking out the craziness. She rolls Resolve + Composure as an instant action contested by a dice pool of (10 – her Willpower). She can’t take any other actions that turn and doesn’t apply Defense against any attacks.

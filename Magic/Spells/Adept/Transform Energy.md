@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Suggested Rote Skills: Crafts, Occult, Science
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Science
 
 ---
 
@@ -22,8 +22,8 @@ She can change a room full of light into heat, at once turning it into a pitch-b
 
 The spell may affect energy of a level equal to Potency.
 
-**+1 Reach:** the mage may decrease the level of the energy transformed by one. This Reach may be applied multiple times.
+**+1 [[Reach]]:** the mage may decrease the level of the energy transformed by one. This[[Reach]] may be applied multiple times.
 
-**+1 Reach:** the mage may split a source of energy into two different kinds or leave part of the original source behind — for example, turning an inferno into light equivalent to daylight and sound equivalent to a scream.
+**+1 [[Reach]]:** the mage may split a source of energy into two different kinds or leave part of the original source behind — for example, turning an inferno into light equivalent to daylight and sound equivalent to a scream.
 
-**+1 Reach:** For one Mana, the mage may increase the level of the energy transformed by one.
+**+1 [[Reach]]:** For one Mana, the mage may increase the level of the energy transformed by one.

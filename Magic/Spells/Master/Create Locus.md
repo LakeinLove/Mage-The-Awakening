@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Withstand: Gauntlet Strength\
-Suggested Rote Skills: Crafts, Empathy, Survival
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Gauntlet Strength\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Empathy, Survival
 
 ---
 
@@ -21,4 +21,4 @@ A Locus is a location in which the Shadow world is especially close.
 
 Spirits don’t need the Reaching Manifestation Effect to use their powers across the Gauntlet at a Locus, attempts to cross over are at +2 dice, and spirits whose natures match the Locus’ Resonant Condition heal at twice the normal rate.
 
-**+1 Reach:** The Locus generates a number of Essence per day equal to the spell’s Potency.
+**+1 [[Reach]]:** The Locus generates a number of Essence per day equal to the spell’s Potency.

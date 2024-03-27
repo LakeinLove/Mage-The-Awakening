@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Matter]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Suggested Rote Skills: Computers, Science, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Computers, Science, Subterfuge
 
 ---
 
@@ -24,4 +24,4 @@ The object must still be in contact with an appropriate source of electricity to
 
 Reducing electrical damage to zero also shuts electrical devices down — for example, completely snuffing a subway rail’s conductivity shuts the trains down.
 
-**+1 Reach:** The mage can alter the subject’s ability to transmit other forms of energy, such as heat, sound, or even light. Each additional form of energy is an extra Reach.
+**+1 [[Reach]]:** The mage can alter the subject’s ability to transmit other forms of energy, such as heat, sound, or even light. Each additional form of energy is an extra[[Reach]].

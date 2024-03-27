@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Potency\
-Suggested Rote Skills: Medicine, Athletics, Survival
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Athletics, Survival
 
 ---
 

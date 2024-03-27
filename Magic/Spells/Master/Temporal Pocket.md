@@ -6,13 +6,13 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Suggested Rote Skills: Occult, Science, Stealth
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Science, Stealth
 
 ---
 
-_The mage grants her subject a gift of hours, Making extra time on her timeline._
+_The mage grants her subject a gift of hours, [[Practice of Making|Making]] extra time on her timeline._
 
 ---
 

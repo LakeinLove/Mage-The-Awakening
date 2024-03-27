@@ -7,9 +7,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Fraying or Perfecting\
-Primary Factor: Potency\
-Suggested Rote Skills: Athletics, Drive, Science
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]] or [[Practice of Perfecting|Perfecting]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Drive, Science
 
 ---
 
@@ -25,4 +25,4 @@ Likewise, if the mage reduces its speed, the same car would slow to about 13 KPH
 
 The mage must be able to affect the target’s entire Size to affect it with this spell; she cannot target only the front tire of an 18-wheeler with its trailer (Size 30) and bring it to a stop.
 
-The velocity change affects damage based on collisions. It also adds or subtracts one point of damage from projectile attacks and can reduce them to 0. The spell cannot reduce a moving object’s speed to 0 (that would require an Unmaking spell).
+The velocity change affects damage based on collisions. It also adds or subtracts one point of damage from projectile attacks and can reduce them to 0. The spell cannot reduce a moving object’s speed to 0 (that would require an [[Practice of Unmaking|Unmaking]] spell).

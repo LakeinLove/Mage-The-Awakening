@@ -14,4 +14,4 @@ If the mage has a full turn to calculate her action, she can take the 9-Again qu
 If she’s applying force to a stationary object, she can ignore two points of Durability, and a successful hit automatically causes two additional Structure damage.\
 Against a stationary, armoured target, this strike destroys (and ignores) 1/1 armour if successful.
 
-This Attainment doesn’t work against anything moving faster than a casual walk.
+This [[Attainments|Attainment]] doesn’t work against anything moving faster than a casual walk.

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Fraying\
-Primary Factor: Potency\
-Withstand: Resolve\
-Suggested Rote Skills: Intimidation, Medicine, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Fraying|Fraying]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Intimidation, Medicine, Persuasion
 
 ---
 
@@ -24,8 +24,8 @@ For each level of Potency, the mage may take one point of Willpower (up to the s
 
 Using this spell counts towards the limit of times per day a mage can gain Mana through Scouring.
 
-**+1 Reach:** The mage may affect a healthy subject with this spell instead of one who has recently taken damage. 
+**+1 [[Reach]]:** The mage may affect a healthy subject with this spell instead of one who has recently taken damage. 
 
-**+1 Reach:** The spell does not count toward the limit of times per day a mage can gain Mana through Scouring.
+**+1 [[Reach]]:** The spell does not count toward the limit of times per day a mage can gain Mana through Scouring.
 
-**+1 Reach:** The mage may affect a ghost with this spell, damaging its Corpus to gain either Willpower or Mana on a one for one basis. The mage must choose when casting the spell to take either Willpower or Mana, and cannot take a mix of the two from the ghost.
+**+1 [[Reach]]:** The mage may affect a ghost with this spell, damaging its Corpus to gain either Willpower or Mana on a one for one basis. The mage must choose when casting the spell to take either Willpower or Mana, and cannot take a mix of the two from the ghost.

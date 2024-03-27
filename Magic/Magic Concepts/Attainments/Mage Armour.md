@@ -4,7 +4,7 @@ tags:
 - Apprentice
 ---
 
-_Mage Armour is a set of 10 Attainments, one per [[Arcanum]], that allows a mage to protect herself magically._
+_Mage Armour is a set of 10 [[Attainments]], one per [[Arcanum]], that allows a mage to protect herself magically._
 
 ---
 
@@ -52,7 +52,7 @@ Matter Armour applies the mage’s full [[Matter]] rating as general armour, app
 Mind Armour causes minute doubt and hesitations in the mind of an enemy as to where the mage is and how best to hit him.\
 This allows the mage to be highly effective at dodging incoming attacks, but provides no protection against threats with no cognition to affect (explosions, natural disasters, automatons).
 
-Mind Armour adds the character’s [[Mind]] [[Arcanum]] to her Defence. In addition, if the mage Dodges a target’s attack, the player can spend a point of Mana to cause the target to gain the Beaten Down Tilt; the target just doesn’t want to continue the fight. A supernatural being can contest this with a Clash of Wills.
+Mind Armour adds the character’s [[Mind]] [[Arcanum]] to her Defence. In addition, if the mage Dodges a target’s attack, the player can spend a point of Mana to cause the target to gain the Beaten Down Tilt; the target just doesn’t want to continue the fight. A supernatural being can contest this with a [[Clash of Wills]].
 
 ### Prime
 

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Suggested Rote Skills: Medicine, Science, Survival
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Science, Survival
 
 ---
 
@@ -31,4 +31,4 @@ Created human bodies are soulless and thus immediately gain the Soulless Conditi
 
 **Add [[Mind]] •••••:** The caster gives her creation a true mind as appropriate for the organism’s type.
 
-**+1 Reach:** The organism may be created with additional features for every level of Potency above the base required, as per Transform Life.
+**+1 [[Reach]]:** The organism may be created with additional features for every level of Potency above the base required, as per Transform Life.

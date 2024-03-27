@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Potency\
-Suggested Rote Skills: Persuasion, Politics, Socialise
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Persuasion, Politics, Socialise
 
 ---
 

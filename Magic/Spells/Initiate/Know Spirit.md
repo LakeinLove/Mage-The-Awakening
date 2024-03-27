@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Potency\
-Withstand: Rank\
-Suggested Rote Skills: Academics, Brawl, Socialise
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Brawl, Socialise
 
 ---
 

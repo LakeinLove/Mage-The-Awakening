@@ -24,11 +24,11 @@ Your character gains the Persistent Mystery Commands Condition.
 
 ### Sword (••)
 
-The character may use the patron [[Peoples/Exarchs|Exarch]]’s symbolism as a patron Yantra in spellcasting, worth half her Prelacy dots in dice (round up).
+The character may use the patron [[Peoples/Exarchs|Exarch]]’s symbolism as a patron [[Yantra]] in spellcasting, worth half her Prelacy dots in dice (round up).
 
 ### Crown (•••)
 
-The character gains an Attainment based on her [[Peoples/Exarchs|Exarch]]’s symbolism.
+The character gains an [[Attainments|Attainment]] based on her [[Peoples/Exarchs|Exarch]]’s symbolism.
 
 ### Temple (••••)
 

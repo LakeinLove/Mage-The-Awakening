@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Suggested Rote Skills: Athletics, Firearms, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Firearms, Science
 
 ---
 
@@ -29,10 +29,10 @@ The redirected object maintains all its original momentum.
 
 By default, the Storyteller determines a random direction for the object to travel when redirected.
 
-**+1 Reach:** The mage can use Turn Momentum’s effect as a Reflexive Action instead.
+**+1 [[Reach]]:** The mage can use Turn Momentum’s effect as a Reflexive Action instead.
 
-**+1 Reach:** The mage may control where the object is redirected to, as long as it is within 90 degrees of the original arc in any direction.
+**+1 [[Reach]]:** The mage may control where the object is redirected to, as long as it is within 90 degrees of the original arc in any direction.
 
-**+2 Reach:** The object’s momentum can be fully reversed. Thrown and Ranged weapons strike their users.
+**+2 [[Reach]]:** The object’s momentum can be fully reversed. Thrown and Ranged weapons strike their users.
 
-**Add [[Time]] •:** With [[Time]] 1 and a Reach, the mage can turn objects too fast for her target to gain Defence against them.
+**Add [[Time]] •:** With [[Time]] 1 and a[[Reach]], the mage can turn objects too fast for her target to gain Defence against them.

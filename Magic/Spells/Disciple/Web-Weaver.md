@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Perfecting\
-Primary Factor: Duration\
-Withstand: Composure\
-Suggested Rote Skills: Crafts, Empathy, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Perfecting|Perfecting]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Empathy, Persuasion
 
 ---
 

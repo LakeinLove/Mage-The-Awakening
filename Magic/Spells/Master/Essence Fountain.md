@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Potency\
-Suggested Rote Skills: Empathy, Expression, Occult
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Expression, Occult
 
 ---
 
@@ -20,4 +20,4 @@ This spell generates a quantity of Essence equal to the spell’s Potency within
 
 The Essence has a Resonance of the mage’s choosing, as long as she’s encountered it before.
 
-**+1 Reach:** The mage may “flavour” the Essence with multiple Resonances she has previously encountered.
+**+1 [[Reach]]:** The mage may “flavour” the Essence with multiple Resonances she has previously encountered.

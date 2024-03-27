@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Mind]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Potency\
-Suggested Rote Skills: Academics, Expression, Investigation
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Expression, Investigation
 
 ---
 

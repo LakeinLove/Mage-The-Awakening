@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Prime]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Potency\
-Suggested Rote Skills: Empathy, Occult, Survival
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Occult, Survival
 
 ---
 
@@ -23,9 +23,9 @@ By studying a person, place, or location for one turn, the subject automatically
 - How adept is the target at their highest-rated [[Arcanum]]?
 - How many [[Arcanum|Arcana]] does the subject know?
 - What is the target’s Nimbus?
-- What is the target’s Gnosis?
+- What is the target’s [[Gnosis]]?
 
 The subject perceives the answers as Supernal symbols and visions unfolding around the target. If the subject desires more information about a particular phenomenon, she may study it for multiple turns, as long as the spell’s Duration lasts.\
-Effects that would cloak the target’s nature provoke a Clash of Wills as normal.
+Effects that would cloak the target’s nature provoke a [[Clash of Wills]] as normal.
 
-**+1 Reach:** The spell reveals the nature of supernatural beings and effects other than Supernal phenomena — though there’s no guarantee the mage knows what the aura of, for example, a Promethean looks like, and most of the questions will return nonsensical imagery that best translates as “not applicable.”
+**+1 [[Reach]]:** The spell reveals the nature of supernatural beings and effects other than Supernal phenomena — though there’s no guarantee the mage knows what the aura of, for example, a Promethean looks like, and most of the questions will return nonsensical imagery that best translates as “not applicable.”

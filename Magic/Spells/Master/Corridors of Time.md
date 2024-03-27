@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Potency\
-Suggested Rote Skills: Academics, Investigation, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Investigation, Persuasion
 
 ---
 
@@ -21,6 +21,6 @@ Once in the present, the new timeline sets and any changes the subject made to h
 
 Without temporal sympathy, the subject may only be sent back to a period with an Unchanged temporal sympathy to the present.\
 By using temporal sympathy, the mage may allow her subject to revisit old decisions and make different choices. The subject arrives in whatever location he was in at the time chosen.\
-By including the Sympathetic Range Attainment, the mage may send him somewhere else, but subjects cannot be sent back to periods outside their own lifetime.\
+By including the [[Sympathetic Range]] [[Attainments|Attainment]], the mage may send him somewhere else, but subjects cannot be sent back to periods outside their own lifetime.\
 Such unfettered time travel is the stuff of legend, temporal Irises, and whispers about the powers of archmages.
 

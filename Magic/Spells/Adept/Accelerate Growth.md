@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Duration\
-Withstand: Stamina\
-Suggested Rote Skills: Animal Ken, Medicine, Science
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Stamina\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Animal Ken, Medicine, Science
 
 ---
 
@@ -26,4 +26,4 @@ The targets gain no life experience beyond that which they undergo during the sp
 
 If the subject exceeds its natural lifespan, it dies of old age.
 
-**+1 Reach:** When the spell’s Duration lapses, its effects wear off at an even greater rate than they took hold, rapidly de-aging the subject within a matter of minutes. This places great stress on the mind and body of the target, requiring a Stamina roll to avoid falling into an induced coma for a number of days equal to Potency. Subjects that have been aged to death do not return to life when they de-age, instead appearing to be their original age and yet having died of natural causes.
+**+1 [[Reach]]:** When the spell’s Duration lapses, its effects wear off at an even greater rate than they took hold, rapidly de-aging the subject within a matter of minutes. This places great stress on the mind and body of the target, requiring a Stamina roll to avoid falling into an induced coma for a number of days equal to Potency. Subjects that have been aged to death do not return to life when they de-age, instead appearing to be their original age and yet having died of natural causes.

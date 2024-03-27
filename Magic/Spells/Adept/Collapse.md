@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Unravelling\
-Primary Factor: Potency\
-Suggested Rote Skills: Academics, Firearms, Intimidation
+[[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Firearms, Intimidation
 
 ---
 
@@ -21,6 +21,6 @@ The mage forces her subject to momentarily occupy the same space as another obje
 This is an attack spell; its damage rating is equal to the spell’s Potency, and it inflicts lethal damage.\
 Collapsing multiple subjects into each other, thereby damaging them all, is an application of increased Subject Factor.
 
-**+1 Reach:** For one point of Mana, the damage is aggravated.
+**+1 [[Reach]]:** For one point of Mana, the damage is aggravated.
 
-**+1 Reach:** The co-located object remains inside the subject, preventing natural or magical healing of the wound until it’s surgically excised or ripped out.
+**+1 [[Reach]]:** The co-located object remains inside the subject, preventing natural or magical healing of the wound until it’s surgically excised or ripped out.

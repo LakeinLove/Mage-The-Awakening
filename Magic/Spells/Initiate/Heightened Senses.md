@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Empathy, Investigation, Survival
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Empathy, Investigation, Survival
 
 ---
 
@@ -22,4 +22,4 @@ A mage's strength lies in her preparation and knowledge, after all, and keen sen
 
 The spell grants a bonus to Perception rolls equal to its Potency.
 
-**+1 Reach:** The mage instinctively knows how to track by scent while this spell is active, making use of her increased olfactory powers.
+**+1 [[Reach]]:** The mage instinctively knows how to track by scent while this spell is active, making use of her increased olfactory powers.

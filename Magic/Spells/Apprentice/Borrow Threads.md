@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Withstand: Connection\
-Suggested Rote Skills: Larceny, Occult, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Connection\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Larceny, Occult, Subterfuge
 
 ---
 
@@ -24,6 +24,6 @@ She can either steal links from her targets or give her own to others.
 If the mage transfers a link to someone who already has a connection to the same thing, the new connection overwrites the old one for the Duration of the spell.\
 The mage has to be aware of a connection (either through magic or just knowing the subject) to manipulate it.
 
-**+1 Reach:** The mage may redirect the [[Sympathy|sympathetic]] connection between other subjects of the spell directly.
+**+1 [[Reach]]:** The mage may redirect the [[Sympathy|sympathetic]] connection between other subjects of the spell directly.
 
-**+1 Reach:** Instead of transferring [[Sympathy|sympathetic]] connections, the mage may copy them.
+**+1 [[Reach]]:** Instead of transferring [[Sympathy|sympathetic]] connections, the mage may copy them.

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Withstand: Resolve\
-Suggested Rote Skills: Crafts, Occult, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Crafts, Occult, Persuasion
 
 ---
 

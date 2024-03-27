@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Potency\
-Suggested Rote Skills: Larceny, Politics, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Larceny, Politics, Subterfuge
 
 ---
 
@@ -20,4 +20,4 @@ When a character fails a roll using this spell’s subject as equipment, the spe
 
 The spell converts a number of failures equal to its Potency. If the object’s user is a player’s character, the player gains a Beat as normal.
 
-**+1 Reach:** As long as the object is within sensory range, the mage can choose which failures become dramatic failures.
+**+1 [[Reach]]:** As long as the object is within sensory range, the mage can choose which failures become dramatic failures.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Compelling\
-Primary Factor: Duration\
-Suggested Rote Skills: Survival, Crafts, Science
+[[The 13 Practices|Practice]]: [[Practice of Compelling|Compelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Survival, Crafts, Science
 
 ---
 
@@ -20,4 +20,4 @@ This lets her cause flames to arc or stretch, command them to burn along a parti
 
 At this level the mage cannot increase the flames in size or intensity, though she could direct them into a source of fuel.
 
-**+1 Reach:** By efficient use of fuel and direction, the mage can increase or decrease the size of a fire by one level (see Transform Energy table).
+**+1 [[Reach]]:** By efficient use of fuel and direction, the mage can increase or decrease the size of a fire by one level (see Transform Energy table).

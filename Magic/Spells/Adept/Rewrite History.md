@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Time]]\
-[[The 13 Practices|Practice]]: Patterning\
-Primary Factor: Potency\
-Withstand: Resolve\
-Suggested Rote Skills: Expression, Investigation, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Patterning|Patterning]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Resolve\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Expression, Investigation, Persuasion
 
 ---
 
@@ -26,8 +26,8 @@ Once the Duration expires, the subject instantly reverts to its original history
 
 This spell does not normally affect supernatural creatures.
 
-**+1 Reach:** The spell may reassign up to Potency Skill or Merit dots, as the subject’s training and background shift. Skills may not exceed the subject’s maximum.
+**+1 [[Reach]]:** The spell may reassign up to Potency Skill or Merit dots, as the subject’s training and background shift. Skills may not exceed the subject’s maximum.
 
-**+1 Reach:** The spell may reassign [[Attribute]] dots up to Potency, but may not move any category of Attributes below the character creation amount for its priority, or take any [[Attribute]] over the maximum for the subject
+**+1 [[Reach]]:** The spell may reassign [[Attribute]] dots up to Potency, but may not move any category of Attributes below the character creation amount for its priority, or take any [[Attribute]] over the maximum for the subject
 
-**+2 Reach:** This spell can affect supernatural creatures. While this cannot remove the supernatural Advantages of creatures born to their condition (like werewolves, spirits, or demons), creatures transformed at some point during their lives, like vampires or changelings, can briefly experience life as though they hadn’t been changed.
+**+2 [[Reach]]:** This spell can affect supernatural creatures. While this cannot remove the supernatural Advantages of creatures born to their condition (like werewolves, spirits, or demons), creatures transformed at some point during their lives, like vampires or changelings, can briefly experience life as though they hadn’t been changed.

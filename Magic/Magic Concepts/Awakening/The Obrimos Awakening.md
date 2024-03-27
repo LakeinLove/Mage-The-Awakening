@@ -5,7 +5,7 @@ tags:
 ---
 _These are 2 example [[Awakening|Awakenings]] to the [[Obrimos]] path_
 
-[[Obrimos]] Awaken as the inevitable, logical consequence of their personal theories and esoteric research. That doesn’t mean their [[Awakening]] is itself a sober, rational thing. [[Obrimos|Thaumaturges]] argue themselves into bizarre, catastrophic situations that require intuitive leaps.
+[[Obrimos]] [[Awakening|Awaken]] as the inevitable, logical consequence of their personal theories and esoteric research. That doesn’t mean their [[Awakening]] is itself a sober, rational thing. [[Obrimos|Thaumaturges]] argue themselves into bizarre, catastrophic situations that require intuitive leaps.
 
 [[Obrimos]] don’t like to feel before they think, or seek refuge in slippery, wordless knowledge before binding it to a system; yet it happens every time, and they come out the other side aware of the flaws in their personal sciences. That’s when it’s time to refine, rebuild, and give more perfect names to cosmic energies. 
 

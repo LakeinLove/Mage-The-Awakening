@@ -6,11 +6,11 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Duration\
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
 Cost: One Mana\
-Withstand: Composure\
-Suggested Rote Skills: Subterfuge, Persuasion, Stealth
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Subterfuge, Persuasion, Stealth
 
 ---
 
@@ -27,5 +27,5 @@ All her Conditions, and all Conditions applying to her (except for [[Paradox]] C
 While invisible, the subject cannot make violent, overt actions without breaking the spell’s illusion.\
 Physically damaging or breaking objects, or attacking someone, causes the spell to end immediately
 
-Mages using Active Mage Sight make a Clash of Wills test against the subject, and the use of Focused Mage Sight reveals her to the mage using it. \
+Mages using [[Active Mage Sight]] make a [[Clash of Wills]] test against the subject, and the use of [[Focused Mage Sight]] reveals her to the mage using it. \
 Conditions do not return when the spell ends, but Doors return to their previous states.

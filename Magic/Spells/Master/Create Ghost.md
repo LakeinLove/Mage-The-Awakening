@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Death]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Suggested Rote Skills: Occult, Expression, Academics
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Expression, Academics
 
 ---
 
@@ -20,4 +20,4 @@ She can fashion the ghost as an echo of another person, either alive or dead, th
 
 The ghost is created at Rank 1 and remains for the Duration of the spell as the mage’s loyal servant, and she is able to direct it to take actions without the use of any additional spells.
 
-**+1 Reach:** For one Mana, the ghost created is Rank 2.
+**+1 [[Reach]]:** For one Mana, the ghost created is Rank 2.

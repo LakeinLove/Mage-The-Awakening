@@ -50,7 +50,7 @@ They can be centres of learning like libraries, schools, and museums (collective
 
 ### Silver Ladder
 
-Silver Ladder Caucuses make extensive use of Cryptopolies — elaborate networks of mystery cults that serve the dual purpose of propagating Silver Ladder ideals (and guiding Sleepers to Awaken) and allowing théarchs to wield social influence against the Lie.
+Silver Ladder Caucuses make extensive use of Cryptopolies — elaborate networks of mystery cults that serve the dual purpose of propagating Silver Ladder ideals (and guiding Sleepers to [[Awakening|Awaken]]) and allowing théarchs to wield social influence against [[Lie|the Lie]].
 
 Théarchs do not control Cryptopolies directly, instead relying on Illuminated Retainers — Sleepers, Sleepwalkers, or Proximi initiated into the Order. Many organizations and laws common to Pentacle mages are Silver Ladder innovations — the Consilium, the Convocation, the Lex Magica, and even the Duel Arcane.
 - Newly-initiated **Acolytes** run errands, carry messages, and perform a variety of ad hoc duties assigned to them by more senior théarchs.

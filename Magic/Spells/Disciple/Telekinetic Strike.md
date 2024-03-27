@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Weaving\
-Primary Factor: Potency\
-Suggested Rote Skills: Athletics, Firearms, Science
+[[The 13 Practices|Practice]]: [[Practice of Weaving|Weaving]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Athletics, Firearms, Science
 
 ---
 
@@ -18,4 +18,4 @@ _The mage manipulates kinetic forces to crush subjects or form a “ball” of h
 
 The spell inflicts bashing damage equal to its Potency.
 
-**+1 Reach:** The spell inflicts the Knocked Down or Stunned Tilt.
+**+1 [[Reach]]:** The spell inflicts the Knocked Down or Stunned Tilt.

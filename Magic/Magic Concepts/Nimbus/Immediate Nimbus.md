@@ -18,7 +18,7 @@ For [[Thyrsus]], this might look like a mist of blood, or might cause a deep rut
 
 When the Immediate Nimbus flares, it causes a [[Nimbus]] [[Tilt]] unique to your character, with a strength depending on what caused the flare. If the [[Nimbus]] flared because of a spell, use the spell’s Potency as the [[Nimbus]]’ strength, and the [[Tilt]] lasts for the spell’s [[Reach]] in turns or one turn at a minimum.\
 Alternatively, once per scene a mage can force her immediate Nimbus to flare for a single turn without casting a spell by spending a [[Mana]].\
-In this case, roll the character’s [[Gnosis]] and use successes as the [[Nimbus]]’ strength. Deliberate flares like this are visible even in the [[Fallen World]] and can therefore affect characters not using [[Mage Sight]], although [[Sleepers]] will suffer [[Quiescence]] after the [[Tilt]] ends.
+In this case, roll the character’s [[Gnosis]] and use successes as the [[Nimbus]]’ strength. Deliberate flares like this are visible even in the [[The Fallen World|Fallen World]] and can therefore affect characters not using [[Mage Sight]], although [[Sleepers]] will suffer [[Quiescence]] after the [[Tilt]] ends.
 
 Compare the [[Nimbus]] strength to any witness’s [[Resolve]]. If a character’s [[Resolve]] is equal to or lower than the [[Nimbus]] strength, the [[Tilt]] takes effect. If for whatever reason a character is aware of the effects, she can willingly submit to the [[Tilt]] regardless of her [[Resolve]]. 
 

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Spirit]]\
-[[The 13 Practices|Practice]]: Unravelling\
-Primary Factor: Potency\
-Withstand: Rank\
-Suggested Rote Skills: Brawl, Expression, Occult
+[[The 13 Practices|Practice]]: [[Practice of Unravelling|Unravelling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+[[Withstanding Magic|Withstand]]: Rank\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Brawl, Expression, Occult
 
 ---
 
@@ -21,4 +21,4 @@ This spell strips a number of Manifestation Conditions from the spirit (or its h
 
 **Add [[Death]] or [[Mind]] ••••:** The spell’s effects extend to ghosts or Goetia.
 
-**+1 Reach:** The target cannot attempt to recreate the destroyed Conditions on the same victim or location until the spell’s Duration elapses.
+**+1 [[Reach]]:** The target cannot attempt to recreate the destroyed Conditions on the same victim or location until the spell’s Duration elapses.

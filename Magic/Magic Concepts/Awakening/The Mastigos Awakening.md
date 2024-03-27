@@ -5,7 +5,7 @@ tags:
 ---
 _These are 2 example [[Awakening|Awakenings]] to the [[Mastigos]] path_
 
-Discipline and crisis. Pain and transcendence. [[Mastigos]] Awakening is the Devil’s gift: the torment that liberates, pleasure that paradoxically destroys sensual obsessions. [[Mastigos]] Awaken to confront spiritual wounds, obsessions, and destructive thought patterns. 
+Discipline and crisis. Pain and transcendence. [[Mastigos]] [[Awakening]] is the Devil’s gift: the torment that liberates, pleasure that paradoxically destroys sensual obsessions. [[Mastigos]] [[Awakening|Awaken]] to confront spiritual wounds, obsessions, and destructive thought patterns. 
 
 They’re the ones who didn’t fuck to feel good, but to feel something. They cut themselves. They’re manic artists chained to illness as a source of inspiration. They’re faithless priests and experiment-tampering scientists who’ve grown dependent on appearance over reality. They’re survivors with unstable coping mechanisms, headed for a reckoning.
 

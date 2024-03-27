@@ -11,11 +11,11 @@ _The Supernal and the Fallen World intersect, but the gap between them is repres
 
 Quiescence causes Sleepers to forget any revelation of the Mysteries they happen to encounter. It reinforces the learned impulse to rationalize away the supernatural, causing memories of overt magic to fade like half-remembered dreams.\
 Only the Awakened remember the truth.\
-This aspect of Quiescence presents an obstacle to the work of those mages who hope to open the eyes of all of humanity to the Lie.
+This aspect of Quiescence presents an obstacle to the work of those mages who hope to open the eyes of all of humanity to [[Lie|the Lie]].
 
 Simply put, a Sleeper cannot remember witnessing the Supernal and Abyssal after the fact.
 
-If there is grace written into the Curse of Quiescence, it’s here. The mercy of forgetting is bittersweet. It means that the Sleeper protects the Lie and even feeds into it, preventing her own ability to Awaken.
+If there is grace written into the Curse of Quiescence, it’s here. The mercy of forgetting is bittersweet. It means that the Sleeper protects [[Lie|the Lie]] and even feeds into it, preventing her own ability to [[Awakening|Awaken]].
 
 The alternative is too awful, though. If she could remember the event, she would be confronted with her conflict and suffer it all over again. This would mean each time she thought about the day, the people, the time, those symbols too painful to understand would cause her to break all over again.
 
@@ -26,4 +26,4 @@ Forgetting entirely, or more commonly, self-editing the memories to remove Super
 **In the scene directly following exposure to the Supernal or Abyssal, a Sleeper forgets what she saw, or else changes how she remembers it toward the mundane.**
 
 Any serious attempt to prod at those false memories, bring them into question, or correct them with magic triggers a breaking point as if she were witnessing the traumatic event again for the first time, followed by the memory being removed again.\
-It is as harrowing in memory is it is in reality; the conflict brought on by the Curse is that powerful. Quiescence, like Dissonance, is not limited to the spells of mages; Sleepers’ memories are also clouded by the interior of ruins of the Time Before, the presence of the Mad, Emanation Realms, and sighting Supernal or Abyssal entities.
+It is as harrowing in memory is it is in reality; the conflict brought on by the Curse is that powerful. Quiescence, like [[Dissonance]], is not limited to the spells of mages; Sleepers’ memories are also clouded by the interior of ruins of the Time Before, the presence of the Mad, Emanation Realms, and sighting Supernal or Abyssal entities.

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Firearms, Investigation, Occult
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Firearms, Investigation, Occult
 
 ---
 
@@ -24,4 +24,4 @@ In essence, it’s as though everything happening around her were spread out on 
 The subject is also nearly impossible to ambush or surprise — barring exceptional camouflage or a tremendous distraction to draw her attention, all such attempts are reduced to a chance die.\
 Finally, the subject may reduce any penalties due to range, cover, or concealment (but not darkness or similar poor visibility) by the spell’s Potency.
 
-**+2 Reach:** The mage may use the spell to see through an existing warp or shortcut through [[Space]]; a Distortion Iris, the effects of a Scrying spell, or a magical portal created with Co-Location are all applicable. With additional [[Arcanum|Arcana]] based on the nature of the portal, other kinds of Iris may be seen through at the Storyteller’s discretion.
+**+2 [[Reach]]:** The mage may use the spell to see through an existing warp or shortcut through [[Space]]; a Distortion Iris, the effects of a Scrying spell, or a magical portal created with Co-Location are all applicable. With additional [[Arcanum|Arcana]] based on the nature of the portal, other kinds of Iris may be seen through at the Storyteller’s discretion.

@@ -6,10 +6,10 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Making\
-Primary Factor: Duration\
-Withstand: Composure\
-Suggested Rote Skills: Occult, Intimidation, Persuasion
+[[The 13 Practices|Practice]]: [[Practice of Making|Making]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+[[Withstanding Magic|Withstand]]: Composure\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Occult, Intimidation, Persuasion
 
 ---
 

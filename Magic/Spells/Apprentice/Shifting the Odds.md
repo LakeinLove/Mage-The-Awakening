@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Fate]]\
-[[The 13 Practices|Practice]]: Ruling\
-Primary Factor: Duration\
-Suggested Rote Skills: Investigation, Politics, Subterfuge
+[[The 13 Practices|Practice]]: [[Practice of Ruling|Ruling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Politics, Subterfuge
 
 ---
 
@@ -23,4 +23,4 @@ The spell can find someone with a specific Trait, occupation, or context-specifi
 Alternatively, the mage gains temporary access to certain Social Merits (Ally, Contacts, Mentor, Resources, or Retainer) with a rating no greater than Potency. Fate guides her to dropped cash, unattended mundane items, or useful strangers she can easily convince to do her a quick favour.\
 The mage may benefit from this Merit a number of times no greater than Potency, after which the money runs out or the ally of convenience goes his own way unless the mage’s character spends [[Experience|Experiences]] to purchase the Merit.
 
-**+1 Reach:** The mage locates the desired object within one hour.
+**+1 [[Reach]]:** The mage locates the desired object within one hour.

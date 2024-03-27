@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Space]]\
-[[The 13 Practices|Practice]]: Knowing\
-Primary Factor: Potency\
-Suggested Rote Skills: Academics, Empathy, Medicine
+[[The 13 Practices|Practice]]: [[Practice of Knowing|Knowing]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Potency|Potency]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Academics, Empathy, Medicine
 
 ---
 
@@ -23,10 +23,10 @@ She understands these connections in the same manner the subject thinks of them 
 
 If the other half of the [[Sympathy|sympathetic]] link is within the mage’s sensory range, she knows that and knows its exact location.
 
-**+1 Reach:** The mage can “follow” a trail of [[Sympathy|sympathetic]] links. When she learns of one of her initial subject’s sympathetic connections, she may choose to learn one of that subject’s connections, and so on. For example, she might follow a wedding ring to its owner, then its owner’s spouse, then the spouse’s place of employment.
+**+1 [[Reach]]:** The mage can “follow” a trail of [[Sympathy|sympathetic]] links. When she learns of one of her initial subject’s sympathetic connections, she may choose to learn one of that subject’s connections, and so on. For example, she might follow a wedding ring to its owner, then its owner’s spouse, then the spouse’s place of employment.
 
-**+1 Reach:** The mage understands the emotional character of the connection in broad terms. “My childhood home” might carry notes of comfort and safety or fear and loathing, depending on the subject’s upbringing.
+**+1 [[Reach]]:** The mage understands the emotional character of the connection in broad terms. “My childhood home” might carry notes of comfort and safety or fear and loathing, depending on the subject’s upbringing.
 
-**+2 Reach:** The mage may specify the connections she wishes to uncover in general terms (“an object with a strong link to his childhood”) or (“those she hates”). Again, the knowledge is contextualized based on the subject’s perceptions.
+**+2 [[Reach]]:** The mage may specify the connections she wishes to uncover in general terms (“an object with a strong link to his childhood”) or (“those she hates”). Again, the knowledge is contextualized based on the subject’s perceptions.
 
-**+2 Reach:** If the subject is a [[Keys|Keyed]] spell or Iris, the mage may use one level of Potency to discover the [[Keys|Key]] instead of a link.
+**+2 [[Reach]]:** If the subject is a [[Keys|Keyed]] spell or Iris, the mage may use one level of Potency to discover the [[Keys|Key]] instead of a link.

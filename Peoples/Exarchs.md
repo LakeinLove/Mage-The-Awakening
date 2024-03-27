@@ -3,22 +3,22 @@ aliases:
 - Exarch
 ---
 
-_The Exarchs are the architects of the Lie, the masters of the Seers, and rules of reality at large. It is not a war. They have already won._
+_The Exarchs are the architects of [[Lie|the Lie]], the masters of the Seers, and rules of reality at large. It is not a war. They have already won._
 
 ---
 
-The Orders agree that the Lie is too elaborate and too finely targeted to be an accident.\
+The Orders agree that [[Lie|the Lie]] is too elaborate and too finely targeted to be an accident.\
 There’s a guiding intelligence behind it.
 
 Mages know that some symbols have a semblance of life. They summon Supernal entities, pulling them from the Supernal World into the Fallen.\
-Most are content to let mages come to them, but the occult symbols bound up in the Lie are evidence that something, deep in the unseen Supernal Realms, is actively trying to cripple humanity’s ability to perceive beyond the Fallen World.\
+Most are content to let mages come to them, but the occult symbols bound up in [[Lie|the Lie]] are evidence that something, deep in the unseen Supernal Realms, is actively trying to cripple humanity’s ability to perceive beyond the Fallen World.\
 More than trying — it’s succeeding.
 
 What this enemy is depends on the tale, but mages use the Greek word for “rule from the outside” — “Exarch.”
 
-The Exarchs are the Lie's creators, auditors, and caretakers. Through missives passed through the dreams of the [[Seers of the Throne|Seers]], they instil direct influence on politics and happenings, but through far grander workings they administrate reality and humanity.
+The Exarchs are [[Lie|the Lie]]'s creators, auditors, and caretakers. Through missives passed through the dreams of the [[Seers of the Throne|Seers]], they instil direct influence on politics and happenings, but through far grander workings they administrate reality and humanity.
 
-Humanity must suffer, it must remain blind.\ 
+Humanity must suffer, it must remain blind.\
 **It. Must. Be. Controlled.**
 
 The Exarchs are never directly in contact with individuals as a face to face discussion, and even processing their visions feels like interpreting the will of a greater being though the messages are always clear; an Exarch's will is absolute.

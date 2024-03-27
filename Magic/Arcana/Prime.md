@@ -11,9 +11,9 @@ _Just as a language must have words to describe itself, so too must the Supernal
 
 ## General Description
 
-Its purview is the manipulation of magic itself: Mana and tass, the Nimbus and Hallows, High Speech and the runes of the ancient masters. Through Prime, a mage becomes attuned to the Supernal Truth, capable of piercing illusions and calling forth perfected images of the symbol-beings of the Aether.
+Its purview is the manipulation of magic itself: Mana and tass, the Nimbus and Hallows, [[High Speech]] and the runes of the ancient masters. Through Prime, a mage becomes attuned to the Supernal Truth, capable of piercing illusions and calling forth perfected images of the symbol-beings of the Aether.
 
-Arrogant Obrimos sometimes claim that this makes Prime the greatest of the [[Arcanum|Arcana]], but that is an oversimplification. Prime is the [[Arcanum]] through which the Supernal knows itself, but without the other [[Arcanum|Arcana]], it is as empty as a language whose only vocabulary is parts of speech.
+Arrogant [[Obrimos]] sometimes claim that this makes Prime the greatest of the [[Arcanum|Arcana]], but that is an oversimplification. Prime is the [[Arcanum]] through which the Supernal knows itself, but without the other [[Arcanum|Arcana]], it is as empty as a language whose only vocabulary is parts of speech.
 
 ---
 
@@ -23,7 +23,7 @@ Arrogant Obrimos sometimes claim that this makes Prime the greatest of the [[Arc
 - The Supernal World
 - Nimbus
 - Truth
-- Yantras
+- [[Yantra|Yantras]]
 - Mana
 - Hallows
 - Tass

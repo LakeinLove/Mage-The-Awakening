@@ -18,4 +18,4 @@ If what matters is just whether the roll succeeds or not, use a contested action
 For example, combat applies Defence as a resistance because the number of successes on the roll determines how badly the attacker messes up his victim. Awakened spells, however, are Withstood rather than resisted or contested.
 
 When uncanny powers other than Awakened magic are involved, they may be resisted or contested as noted in their rules. Supernatural creatures can sometimes add an additional trait, called Supernatural Tolerance.\
-The Supernatural Tolerance trait for Mages is Gnosis.
+The Supernatural Tolerance trait for Mages is [[Gnosis]].

@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Life]]\
-[[The 13 Practices|Practice]]: Unmaking\
-Primary Factor: Duration\
-Suggested Rote Skills: Medicine, Science, Survival
+[[The 13 Practices|Practice]]: [[Practice of Unmaking|Unmaking]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Medicine, Science, Survival
 
 ---
 
@@ -23,4 +23,4 @@ Finally, the spell prevents anything affected from becoming fertilized, though e
 
 The spell creates an Extreme Environment effect equal to Potency.
 
-**+1 Reach:** Individual living things that survive the assault on their vitality will find themselves unable to grow or heal naturally, and suffer an additional –1 from any wound penalties they currently bear.
+**+1 [[Reach]]:** Individual living things that survive the assault on their vitality will find themselves unable to grow or heal naturally, and suffer an additional –1 from any wound penalties they currently bear.

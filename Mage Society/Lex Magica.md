@@ -25,6 +25,6 @@ The standard Silver and Bronze laws are often but not limited to:
 
 ---
 
-Consilia also take action against Left-Handed mages. While the exact definition varies from Consilium to Consilium, a mage is frequently regarded as Left-Handed if her Obsessions or magical practices involve the abuse or destruction of souls, the destruction of the world’s magical potential, routine interference with a Sleeper’s Awakening, the cavalier abuse of Sleepers, Abyssal corruption, contact with the Lower Depths, or the evasion of death by extraordinary and ethically questionable deeds.
+Consilia also take action against Left-Handed mages. While the exact definition varies from Consilium to Consilium, a mage is frequently regarded as Left-Handed if her Obsessions or magical practices involve the abuse or destruction of souls, the destruction of the world’s magical potential, routine interference with a Sleeper’s [[Awakening]], the cavalier abuse of Sleepers, Abyssal corruption, contact with the Lower Depths, or the evasion of death by extraordinary and ethically questionable deeds.
 
 When a Consilium finds a mage guilty of a crime against the Lex Magica, it levies one of several punishments. Lesser crimes merit public reprimand, payment of debts, or acts of penance on the behalf of the Consilium or wronged party. Serious crimes result in imprisonment, banishment, death, and for the most terrible crimes, death combined with the destruction of the accused’s soul.

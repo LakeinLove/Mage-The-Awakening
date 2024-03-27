@@ -6,9 +6,9 @@ tags:
 ---
 
 [[Arcanum]]: [[Forces]]\
-[[The 13 Practices|Practice]]: Unveiling\
-Primary Factor: Duration\
-Suggested Rote Skills: Investigation, Stealth, Science
+[[The 13 Practices|Practice]]: [[Practice of Unveiling|Unveiling]]\
+Primary [[Spell Factors|Factor]]: [[Spell Factors#Duration|Duration]]\
+Suggested [[Rotes|Rote]] [[Skill|Skills]]: Investigation, Stealth, Science
 
 ---
 
@@ -22,4 +22,4 @@ She can still see and make out details, even in the dark, although colours are s
 This spell has the side effect of making the caster much more vulnerable to light; while in effect, she suffers no penalties from dim or even no lighting, but suffers penalties from bright lights as she normally would from darkness.\
 Bright lights and extremely loud sounds can disorient or even inflict the Blind Condition on her for the spell’s Duration.
 
-**+1 Reach:** The spell automatically compensates for and allows the mage to ignore the deleterious effects of sudden extreme stimulus.
+**+1 [[Reach]]:** The spell automatically compensates for and allows the mage to ignore the deleterious effects of sudden extreme stimulus.
