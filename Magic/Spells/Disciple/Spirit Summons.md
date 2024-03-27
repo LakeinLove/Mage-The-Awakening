@@ -25,6 +25,6 @@ She may send a general call and the nearest spirit will answer, or she can speci
 
 **+1 [[Reach]]:** The mage may give the spirit a single, one-word command to follow. The spirit is not compelled to complete a task if it cannot finish the command before the Duration of the spell elapses.
 
-**+1 [[Reach]]:** The mage may summon spirits from across [[the Gauntlet]]. If she is in the vicinity of an open [[Irises|Iris]] to the other side, the spell functions as normal. If not, the spell is Withstood by the greater of Rank or the [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]]. Spirits may only cross [[the Gauntlet]] if they have the ability to do so.
+**+1 [[Reach]]:** The mage may summon spirits from across [[The Gauntlet]]. If she is in the vicinity of an open [[Irises|Iris]] to the other side, the spell functions as normal. If not, the spell is Withstood by the greater of Rank or the [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]]. Spirits may only cross [[The Gauntlet]] if they have the ability to do so.
 
 **+2 [[Reach]]:** The mage may give the spirit a complex command to follow. The command must be a single task, but the mage can describe the task within a sentence or two.

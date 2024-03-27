@@ -29,7 +29,7 @@ In addition to the effects of a failure, the first roll on a further attempt suf
 
 #### Failure
 
-You face a setback. The Storyteller will offer you a choice: take a Condition of her choice or abandon the action. You can offer a different Condition if you think it makes sense. If you refuse or cannot agree on a Condition, you lose all accumulated successes.
+You face a setback. The Storyteller will offer you a choice: take a [[Conditions|Condition]] of her choice or abandon the action. You can offer a different [[Conditions|Condition]] if you think it makes sense. If you refuse or cannot agree on a [[Conditions|Condition]], you lose all accumulated successes.
 
 #### Success
 

@@ -13,4 +13,4 @@ _The character’s eyes are damaged or removed, or the character is placed in a 
 
 Blindness can also be inflicted by dealing damage to the target’s eyes — a specified attack with a –5 penalty. A successful attack normally damages one eye. It takes an exceptional success to totally blind an attacker.
 
-**Ending the [[Tilts|Tilt]]:** If an attack against the character’s eye does any points of damage, mark an “x” under the leftmost [[Health]] box inflicted in that attack. If the damage inflicted is aggravated the character loses vision in that eye permanently. Otherwise, the Condition ends when the damage that caused the [[Tilts|Tilt]] is healed.
+**Ending the [[Tilts|Tilt]]:** If an attack against the character’s eye does any points of damage, mark an “x” under the leftmost [[Health]] box inflicted in that attack. If the damage inflicted is aggravated the character loses vision in that eye permanently. Otherwise, the [[Conditions|Condition]] ends when the damage that caused the [[Tilts|Tilt]] is healed.

@@ -23,6 +23,6 @@ It does not, however, prepare the target for how to interpret the visions receiv
 While Awakened subjects may control the new Sight as though it were their own, focusing it and pushing it back to the Periphery like their own, other subjects gain [[Active Mage Sight]] and cannot shut the Sight off — it lasts until the spell’s Duration expires, but still applies dice pool penalties and [[Willpower]] costs as per [[Mage Sight]].
 
 If the subject runs out of [[Willpower]] points and the spell is still active, he gains the [[Blind]] Condition as the Supernal vision burns out his eyes.\
-(At the Storyteller’s discretion, this might be replaced with [[Deafened]] or a similar Condition if the subject experiences [[Mage Sight]] with other senses).
+(At the Storyteller’s discretion, this might be replaced with [[Deafened]] or a similar [[Conditions|Condition]] if the subject experiences [[Mage Sight]] with other senses).
 
 **+1[[Reach]] and Add Any Other [[Arcanum]] •:** The mage may add an [[Arcanum]] to the granted Sight, but must pay [[Mana]] to add Common or Inferior [[Arcanum|Arcana]] as though she were activating [[Mage Sight]] herself.

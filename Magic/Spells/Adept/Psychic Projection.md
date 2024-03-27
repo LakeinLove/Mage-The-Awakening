@@ -25,4 +25,4 @@ While mentally projected, her body lies in a comatose state, and she has no way 
 
 If her projection dies, she returns to her body with the [[Soul Shocked]] Condition..
 
-**Add [[Spirit]] ••:** The mage may project the subject’s consciousness beyond [[the Gauntlet]] into [[The Shadow|the Shadow Realm]]. The spell is also Withstood by [[the Gauntlet]] rating.
+**Add [[Spirit]] ••:** The mage may project the subject’s consciousness beyond [[The Gauntlet]] into [[The Shadow|the Shadow Realm]]. The spell is also Withstood by [[The Gauntlet]] rating.

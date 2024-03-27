@@ -7,7 +7,7 @@ tags:
   - Unveiling
 ---
 
-_Unveiling spells expose hidden things to the mage’s senses. She might gain the ability to hear radio waves ([[Forces]]), peer across [[the Gauntlet]] or perceive things in [[Twilight]] ([[Spirit]]), or see the flow of [[Mana]] across the landscape ([[Prime]])._
+_Unveiling spells expose hidden things to the mage’s senses. She might gain the ability to hear radio waves ([[Forces]]), peer across [[The Gauntlet]] or perceive things in [[Twilight]] ([[Spirit]]), or see the flow of [[Mana]] across the landscape ([[Prime]])._
 
 ---
 

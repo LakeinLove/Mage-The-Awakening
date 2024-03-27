@@ -25,7 +25,7 @@ Impose a number of the following [[Tilts]] equal to the Potency of the hex:\
 [[Sick]].\
 This lasts for the Duration of the hex unless the subject resolves the [[Tilts|Tilt]] sooner.
  
-Impose a number of custom [[Tilts]] equal to the Potency of the hex for the Duration of the hex. These can be built using the rules for Generic Conditions.
+Impose a number of custom [[Tilts]] equal to the Potency of the hex for the Duration of the hex. These can be built using the rules for Generic [[Conditions]].
 
 ---
 

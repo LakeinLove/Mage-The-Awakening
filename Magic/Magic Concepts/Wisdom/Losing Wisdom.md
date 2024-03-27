@@ -27,7 +27,7 @@ Roll the resulting dice pool. You may not spend [[Willpower]] on this roll.
 
 #### Dramatic Failure
 
-Your character not only loses a dot of [[Wisdom]] from her complete disregard for the world around her, but she also gains a Persistent Condition pertaining to the hubris. Take [[Megalomaniacal]] or [[Rampant]]. The normal resolution gives a [[Beats|Beat]]. Your character may only resolve the Condition permanently by gaining a dot of [[Wisdom]].
+Your character not only loses a dot of [[Wisdom]] from her complete disregard for the world around her, but she also gains a Persistent Condition pertaining to the hubris. Take [[Megalomaniacal]] or [[Rampant]]. The normal resolution gives a [[Beats|Beat]]. Your character may only resolve the [[Conditions|Condition]] permanently by gaining a dot of [[Wisdom]].
 
 #### Failure
 

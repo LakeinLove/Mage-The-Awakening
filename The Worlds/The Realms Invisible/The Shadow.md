@@ -9,13 +9,13 @@ _You’ve entered the land of spirits, where animism is the basic fact of existe
 
 ---
 
-To get to the Shadow you must either cross [[the Gauntlet]] between worlds or find one of the Spirit [[Irises]] called Loci. If you do, the Shadow arises in an exaggerated parallel.
+To get to the Shadow you must either cross [[The Gauntlet]] between worlds or find one of the Spirit [[Irises]] called Loci. If you do, the Shadow arises in an exaggerated parallel.
 
 Werewolves are natives of the Shadow and material realms. Mages invade the Shadow instead. They’re almost never welcome visitors, and the spirits offer them grudging respect at best.
 
 Every location in the material realm possesses a Shadow counterpart. So do most objects, though in some cases, fallen trees and wrecked buildings still stand, maintained by the spiritual significance they possessed while they stood in the ordinary world. They’re made of ephemera, like everything else in the Shadow. Anyone and anything that crosses over changes into ephemeral matter, and automatically changes back when it returns to the material plane. Anything that began as ephemera arrives in the material world in [[Twilight]].
 
-Some places in the Shadow are of different shapes and sizes than their material counterparts. An old mansion has extra rooms, or a forest that has been cut back to a modest stand of trees in the material realm might contain miles of twisted old growth in the Shadow. A few places have no material parallel at all. To reach them, you need to cross [[the Gauntlet]] and travel the Shadow, beyond mirrored locations. Mysterium texts say that some of these places are [[Irises]] to other realms: the Lower Depths, certain Emanations, and even the Astral Realm (though falling unconscious in the Shadow to enter the Astral is probably a bad idea).
+Some places in the Shadow are of different shapes and sizes than their material counterparts. An old mansion has extra rooms, or a forest that has been cut back to a modest stand of trees in the material realm might contain miles of twisted old growth in the Shadow. A few places have no material parallel at all. To reach them, you need to cross [[The Gauntlet]] and travel the Shadow, beyond mirrored locations. Mysterium texts say that some of these places are [[Irises]] to other realms: the Lower Depths, certain Emanations, and even the Astral Realm (though falling unconscious in the Shadow to enter the Astral is probably a bad idea).
 
 The dominant Resonance of a place determines its characteristics, because it generates Essence that permeates the region, and hosts the spirits best able to feed on it. Places with no parallel are emergent phenomena, growing from the energies of adjacent realms and greater spiritual connections that mages don’t fully understand.
 

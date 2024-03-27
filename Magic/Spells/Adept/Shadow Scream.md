@@ -26,4 +26,4 @@ This spell can target physical beings or spirits in [[Twilight]].
 
 **+1 [[Reach]]:** The target becomes more vulnerable to spiritual predation: she gains the Open condition.
 
-**+1 [[Reach]]:** The spell can target beings on the other side of [[the Gauntlet]].
+**+1 [[Reach]]:** The spell can target beings on the other side of [[The Gauntlet]].

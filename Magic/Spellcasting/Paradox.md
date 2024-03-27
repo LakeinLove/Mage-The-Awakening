@@ -11,7 +11,7 @@ Once a spell’s factors have been determined, but before the spell is actually 
 
 Once a single Paradox die is added to the Paradox dice pool, the Storyteller must check for the possibility of a Paradox, even if other factors reduce the Paradox dice pool to a chance die. The dice pool can be modified by certain factors.
 
-Certain Conditions affecting the mage may also modify the Paradox dice pool. A mage may reflexively spend [[Mana]] to mitigate the chance of a Paradox, removing one Paradox die per [[Mana]] spent in this manner.\
+Certain [[Conditions]] affecting the mage may also modify the Paradox dice pool. A mage may reflexively spend [[Mana]] to mitigate the chance of a Paradox, removing one Paradox die per [[Mana]] spent in this manner.\
 The mage cannot spend more [[Mana]] than she is normally allowed to spend per turn — including the amount of [[Mana]] that is spent for the spellcasting itself — though she can spend the [[Mana]] over multiple turns prior to casting the spell.
 
 Multiple [[Sleepers|Sleeper]] witnesses do not add Paradox dice, but increase the chances of a Paradox occurring. If a few [[Sleepers]] witness the magic casting, the Paradox roll gains the 9-Again quality, a large group grants the Paradox roll the 8-Again quality, and a full crowd grants the Paradox roll the rote quality.

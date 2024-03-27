@@ -24,7 +24,7 @@ The [[Primal Wild]]’s cosmic Moon leaves its reflection in the material realm�
 Life’s the seat of sex, hunger, and the fight or flight response. It’s everything we eat and the worms that devour us when we die, resurrect our flesh as theirs, and make us immortal.\
 The Ecstatic honours [[Life]]’s primal sensations and celebrates its lesson: We’re not individuals, but colonies of tissue and bacteria that divide, are broken, and are reborn in ecological miracles. 
 
-The world lives and speaks. Before the Fall, anyone could gaze into [[The Shadow]]. [[Lie|The Lie]] blinds [[Spirit]]-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond [[the Gauntlet]]. They know what we’ve forgotten: Material light and [[The Shadow]] are one realm.
+The world lives and speaks. Before the Fall, anyone could gaze into [[The Shadow]]. [[Lie|The Lie]] blinds [[Spirit]]-senses, and even [[Awakened]] souls must practice to reclaim them, but Thyrsus see with fully open eyes, and their hands easily caress the gods beyond [[The Gauntlet]]. They know what we’ve forgotten: Material light and [[The Shadow]] are one realm.
 
 ## Inferior Arcanum
 

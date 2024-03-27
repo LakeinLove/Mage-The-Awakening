@@ -3,7 +3,7 @@ tags:
 - Nimbus
 ---
 
-_Other supernatural creatures tend to have aura effects that force Conditions. Sometimes this is a defence mechanism; sometimes this is a way to assert dominance._
+_Other supernatural creatures tend to have aura effects that force [[Conditions]]. Sometimes this is a defence mechanism; sometimes this is a way to assert dominance._
 
 ---
 

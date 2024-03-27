@@ -42,7 +42,7 @@ This includes the following effects:
 
 ## Pattern Restoration
 
-As an [[Instant Action]], a mage can bolster her [[Patterns|Pattern]] and heal mentally or physically. Three Mana points can heal a level of bashing or lethal damage. Alternatively, the mage can remove a Mental Condition (this does not offer a [[Beats|Beat]]) or a Physical [[Tilts|Tilt]].
+As an [[Instant Action]], a mage can bolster her [[Patterns|Pattern]] and heal mentally or physically. Three Mana points can heal a level of bashing or lethal damage. Alternatively, the mage can remove a Mental [[Conditions|Condition]] (this does not offer a [[Beats|Beat]]) or a Physical [[Tilts|Tilt]].
 
 Mages attempting a feat that requires Mana above their [[Gnosis]]-derived spending limits may take as many Turns as needed before the action to spend the required Mana. If they are interrupted or change their minds part-way through, Mana spent is still lost.
 

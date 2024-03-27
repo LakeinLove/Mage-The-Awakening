@@ -11,6 +11,6 @@ _Your character is attracted to someone and is vulnerable where they are concern
 
 ---
 
-He may have the proverbial “butterflies in his stomach” or just be constantly aware of the object of his affection. A character may have multiple instances of this Condition, reflecting affection for multiple characters.
+He may have the proverbial “butterflies in his stomach” or just be constantly aware of the object of his affection. A character may have multiple instances of this [[Conditions|Condition]], reflecting affection for multiple characters.
 
 He suffers a –2 to any rolls that would adversely affect the specified character, who also gains +2 on any Social rolls against him. If the specified character is attempting Social manoeuvring on the Swooned character, the impression level is considered one higher.

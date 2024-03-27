@@ -60,4 +60,4 @@ Thurae lead to an Emanation Realm. No known spell can create them — instead, t
 
 ### Enigmatic Gates
 
-Finally, certain Irises lead to places mages know very little about. One type leads inside [[the Gauntlet]], not across it, compressing visitors so that the world outside looks enormous and distorted. Another takes travellers to an airless landscape where the stars are wrong. Their particulars are up to the Storyteller.
+Finally, certain Irises lead to places mages know very little about. One type leads inside [[The Gauntlet]], not across it, compressing visitors so that the world outside looks enormous and distorted. Another takes travellers to an airless landscape where the stars are wrong. Their particulars are up to the Storyteller.

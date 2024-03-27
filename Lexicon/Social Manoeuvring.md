@@ -94,7 +94,7 @@ Hard Leverage can only be used in conjunction with forcing Doors; remove the Doo
 ## Resolution
 
 Once her final Door is open, the victim has to do something. Storyteller characters do what the persuading character wants in pursuit of his declared goal. A players’ character may offer an alternative, which must be something he believes the persuading character would want, but if he acquiesces the player takes a [[Beats|Beat]].\
-If no alternative is acceptable but the player does not wish his character to give in, the Storyteller should apply a Condition to the character instead.
+If no alternative is acceptable but the player does not wish his character to give in, the Storyteller should apply a [[Conditions|Condition]] to the character instead.
 
 If a character tries to use Social manoeuvring on the same victim again, that affects how many Doors she throws up in his path. If the attempt succeeded by opening Doors, subsequent influence attempts begin with one fewer Door.\
 If the attempt failed, or the persuader used Hard Leverage, successive influence attempts begin with two more Doors. A victim always starts an influence attempt with at least one Door.

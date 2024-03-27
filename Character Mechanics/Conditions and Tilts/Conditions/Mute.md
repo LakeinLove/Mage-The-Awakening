@@ -12,4 +12,4 @@ Persistent [[Conditions|Condition]]\
 
 ---
 
-Any communication must be done through writing, gestures, or hand signs. Illness, injury, or supernatural powers can inflict this Condition on a temporary basis.
+Any communication must be done through writing, gestures, or hand signs. Illness, injury, or supernatural powers can inflict this [[Conditions|Condition]] on a temporary basis.

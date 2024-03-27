@@ -13,4 +13,4 @@ _Your character is consumed by her own aptitude._
 
 She sees greatness in her every action, and that sense of greatness breeds righteousness. She cannot see her behaviour as hubris, and she refuses to acknowledge any failings. After all, she’s mastered the forces of the universe, right?
 
-Your character automatically fails any actions using the [[Empathy]] Skill. As well, she gains an additional “Selfish” [[Vice]] and a “Dominate Others” [[Obsessions|Obsession]] that replaces one of her current [[Obsessions]] so long as she maintains this Condition.
+Your character automatically fails any actions using the [[Empathy]] Skill. As well, she gains an additional “Selfish” [[Vice]] and a “Dominate Others” [[Obsessions|Obsession]] that replaces one of her current [[Obsessions]] so long as she maintains this [[Conditions|Condition]].

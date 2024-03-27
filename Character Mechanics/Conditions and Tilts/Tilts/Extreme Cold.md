@@ -10,7 +10,7 @@ Environmental [[Tilts|Tilt]]
 
 ---
 
-Any time the temperature gets down below 0 degrees Celsius, a character can suffer from the cold’s effects. This [[Tilts|Tilt]] can sometimes be personal, either as a result of a medical Condition such as hypothermia or a supernatural power.
+Any time the temperature gets down below 0 degrees Celsius, a character can suffer from the cold’s effects. This [[Tilts|Tilt]] can sometimes be personal, either as a result of a medical [[Conditions|Condition]] such as hypothermia or a supernatural power.
 
 **Effect:** When the temperature is below freezing, characters can’t heal bashing damage — the extreme temperature deals damage at the same rate normal characters heal it (a cut might turn to frostbite, for instance). Supernatural beings and characters who heal faster than normal instead halve their normal healing rate. For every hour that a character is continuously affected by this [[Tilts|Tilt]], he accrues a –1 penalty to all rolls. When that penalty hits –5 dice, he instead suffers one point of lethal damage per hour.
 

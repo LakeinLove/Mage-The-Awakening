@@ -16,4 +16,4 @@ She will not hesitate to use it to solve any minor problem.
 If your character has a reasonable magical solution to a problem, to use a mundane solution requires a point of [[Willpower]].\
 This [[Willpower]] does not add to the dice roll.
 
-As well, she gains a “Wield Magic Indiscriminately” [[Obsessions|Obsession]] that replaces one of her current [[Obsessions]] so long as she maintains this Condition.
+As well, she gains a “Wield Magic Indiscriminately” [[Obsessions|Obsession]] that replaces one of her current [[Obsessions]] so long as she maintains this [[Conditions|Condition]].

@@ -20,4 +20,4 @@ This is an attack spell; its damage rating is equal to the spell’s Potency, an
 
 **+1 [[Reach]]:** The subject becomes more vulnerable to spiritual predation: she gains the Open condition.
 
-**+1 [[Reach]]:** The spell can target beings on the other side of [[the Gauntlet]], but is Withstood by the [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].
+**+1 [[Reach]]:** The spell can target beings on the other side of [[The Gauntlet]], but is Withstood by the [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].

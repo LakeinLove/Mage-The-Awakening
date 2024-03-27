@@ -32,7 +32,7 @@ Don’t worry about whether the effect seems “too powerful” for its dot leve
 ### Step 3: Determine Effect and Cost
 
 The effects of a spell can be incredibly broad, and it’s impossible to categorize every conceivable thing a mage might want to do with a spell, but this section will highlight some of the more common effects, how to adjudicate them, and what they should cost.\
-Don’t think of this section as a “menu”; any individual spell should have a single, clear effect. If you start designing a spell that deals damage and grants bonus dice and imposes a Condition, you’re probably creating a [[Combined Spells|Combined Spell]] not a single spell.
+Don’t think of this section as a “menu”; any individual spell should have a single, clear effect. If you start designing a spell that deals damage and grants bonus dice and imposes a [[Conditions|Condition]], you’re probably creating a [[Combined Spells|Combined Spell]] not a single spell.
 
 All [[Mana]] costs are cumulative. A mage attempting a feat that requires [[Mana]] above her [[Gnosis]]-derived spending limit may take as many turns as needed before the action to spend the required [[Mana]].\
 If she is interrupted or changes her mind part-way through, [[Mana]] spent is still lost.
@@ -56,16 +56,16 @@ Healing spells are usually [[Practice of Perfecting|Perfecting]] (•••) or 
 
 #### Conditions and Tilts
 
-Conditions are an excellent source of inspiration for long-lasting spells.\
-Because the effects of Conditions and [[Tilts]] are so broad, it’s difficult to assign hard-and-fast rules for [[The 13 Practices|Practices]] that inflict them. Use the [[The 13 Practices|Practice]] descriptions and the following list as a guideline:
-- [[Practice of Compelling|Compelling]] (•) spells can’t create Conditions out of whole cloth, but can intensify phenomena that already exist to inflict Conditions. A [[Practice of Compelling|Compelling]] spell can make someone who’s already nervous [[Spooked]], for example, but can’t make someone who’s uninterested in the mage romantically Swooning.
-- [[Practice of Ruling|Ruling]] (••) spells can create most non-Persistent, mundane Conditions. Supernatural Conditions, such as the [[Soulless]] Condition and its sequelae or Manifestation Conditions, generally require a [[Practice of Weaving|Weaving]] (•••) spell.
-- Creating a Persistent Condition is almost always a Patterning (••••) or Unravelling (••••) effect.
-- Spells most often inflict Conditions that harm, hinder, or inconvenience characters. Spells can mimic the effects of a helpful Condition, but using magic to gain a benefit and a [[Beats|Beat]] is double-dipping. Beneficial Conditions created by magic don’t grant [[Beats]] unless they’re the result of an exceptional success.
+[[Conditions]] are an excellent source of inspiration for long-lasting spells.\
+Because the effects of [[Conditions]] and [[Tilts]] are so broad, it’s difficult to assign hard-and-fast rules for [[The 13 Practices|Practices]] that inflict them. Use the [[The 13 Practices|Practice]] descriptions and the following list as a guideline:
+- [[Practice of Compelling|Compelling]] (•) spells can’t create [[Conditions]] out of whole cloth, but can intensify phenomena that already exist to inflict [[Conditions]]. A [[Practice of Compelling|Compelling]] spell can make someone who’s already nervous [[Spooked]], for example, but can’t make someone who’s uninterested in the mage romantically Swooning.
+- [[Practice of Ruling|Ruling]] (••) spells can create most non-Persistent, mundane [[Conditions]]. Supernatural [[Conditions]], such as the [[Soulless]] Condition and its sequelae or Manifestation Conditions, generally require a [[Practice of Weaving|Weaving]] (•••) spell.
+- Creating a Persistent [[Conditions|Condition]] is almost always a Patterning (••••) or Unravelling (••••) effect.
+- Spells most often inflict [[Conditions]] that harm, hinder, or inconvenience characters. Spells can mimic the effects of a helpful [[Conditions|Condition]], but using magic to gain a benefit and a [[Beats|Beat]] is double-dipping. Beneficial [[Conditions]] created by magic don’t grant [[Beats]] unless they’re the result of an exceptional success.
 - [[Tilts]] are usually created by applying a[[Reach]] to an attack spell, but if you want to create one on its own, it’s usually a [[Practice of Fraying|Fraying]] (•••) or Patterning (••••) spell.
 
-Conditions created with magic only last as long as the Duration factor of the spell. If the target resolves the Condition before the Duration expires, the spell ends early and the target gains a [[Beats|Beat]] as normal. (It’s the Storyteller’s call whether the [[Beats|Beat]] is normal or Arcane.)\
-If the Duration runs out, the Condition goes away; but that doesn’t count as resolving the Condition.
+[[Conditions]] created with magic only last as long as the Duration factor of the spell. If the target resolves the [[Conditions|Condition]] before the Duration expires, the spell ends early and the target gains a [[Beats|Beat]] as normal. (It’s the Storyteller’s call whether the [[Beats|Beat]] is normal or Arcane.)\
+If the Duration runs out, the [[Conditions|Condition]] goes away; but that doesn’t count as resolving the Condition.
 
 Removing a condition with magic is always at least a [[Practice of Ruling|Ruling]] (••) spell, but otherwise follows the same guidelines as creating one.
 
@@ -104,7 +104,7 @@ This is a catch-all category for spell effects that influence the fiction of the
 
 [[Withstanding Magic|Withstanding]] is to resist a spell.\
 Spells that directly target a subject’s body, mind, or soul are usually Withstood by one of the subject’s Resistance Attributes.\
-Spells that cross [[the Gauntlet]] are Withstood by the local [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].\
+Spells that cross [[The Gauntlet]] are Withstood by the local [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].\
 Other spells might be Withstood by more esoteric values.
 
 Look at the intended subject of your spell. Is it something that could “fight back” against the magic, or is there something that seems like it would require the mage to put more effort than usual into the spell? If so, that’s the value that Withstands it.\

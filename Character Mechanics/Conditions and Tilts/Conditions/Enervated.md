@@ -7,7 +7,7 @@ tags:
 _The character is in the second stage of soul loss._
 
 Persistent [[Conditions|Condition]]\
-**Resolution:** This Condition is only removed if the character regains her soul.\
+**Resolution:** This [[Conditions|Condition]] is only removed if the character regains her soul.\
 **[[Beats|Beat]]:** You lose a dot of [[Willpower]]
 
 ---

@@ -89,7 +89,7 @@ To breach the Anima Mundi, the mage again concentrates, making the same [[Resolv
 Now she must contend with the Ecstatic Wind: the inhuman, cosmic consciousness of the Anima Mundi which might smother the mage’s individual identity. The better handle a mage has on transcendental reality, the worse the Wind affects her, flaying identity away and inflicting damage as follows.
 
 When a mage is killed by Ecstatic Wind, she returns with the [[Soul Shocked]] Condition and loses a [[Willpower]] dot due to depersonalization. Finally, since her soul momentarily escapes its usual confines of self to be smeared across raw celestial Being, it often brings back some sign of its deformity: a [[Paradox]] Condition.\
-This crosses metaphysical lines and can even affect the mage’s physical body and surroundings. The Condition resolves itself as usual.
+This crosses metaphysical lines and can even affect the mage’s physical body and surroundings. The [[Conditions|Condition]] resolves itself as usual.
 
 The mage encounters a challenge every time she moves from one region of the Anima Mundi to the next. Again, unearthing a hidden truth within the challenge often earns an [[Arcane Beats|Arcane Beat]]. The Ecstatic Wind vanishes when a mage reaches the shores of Ouroboros and the homes of the Aeons.
 

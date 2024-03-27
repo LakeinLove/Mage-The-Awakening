@@ -12,7 +12,7 @@ In order to create a Rote, the mage needs to have cast the spell in question man
 
 The mage can create a Rote out of any spell she can cast, provided that she has Mastered all of the [[Arcanum|Arcana]] to be included. She needs to choose a Skill to encode and fix the Imago in her mind. Doing so is an [[Extended Action]] ([[Arcanum]] + the encoded Skill, each roll equals three hours of study and practice, 5 successes required per dot of [[Arcanum|Arcana]] involved in the spell).\
 The mage can devote three hours at a time to this working over a period of weeks — the successes need not be accrued sequentially. The player spends one [[Mana]] for each roll. The usual rules for failure apply.\
-If the player fails one of these rolls, the character must either break off the attempt or take a Condition, which cannot resolve until the Rote is complete or the mage gives up.
+If the player fails one of these rolls, the character must either break off the attempt or take a [[Conditions|Condition]], which cannot resolve until the Rote is complete or the mage gives up.
 
 Once the character has mastered the Imago, the player spends a point of [[Willpower]] and an [[Arcane Experience]], and the Rote is complete.\
 The character can then teach it to other mages, or use the [[Prime]] 1 spell Scribe Grimoire to write it down and allow others to cast it.

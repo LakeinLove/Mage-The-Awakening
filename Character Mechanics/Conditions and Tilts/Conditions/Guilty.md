@@ -11,6 +11,6 @@ _Your character is experiencing deep-seated feelings of guilt and remorse._
 
 ---
 
-This Condition is commonly applied after a successful [[Breaking Point]] roll.
+This [[Conditions|Condition]] is commonly applied after a successful [[Breaking Point]] roll.
 
-While the character is under the effects of this Condition, he receives a –2 to any [[Resolve]] or [[Composure]] rolls to defend against [[Subterfuge]], [[Empathy]], or [[Intimidation]] rolls.
+While the character is under the effects of this [[Conditions|Condition]], he receives a –2 to any [[Resolve]] or [[Composure]] rolls to defend against [[Subterfuge]], [[Empathy]], or [[Intimidation]] rolls.

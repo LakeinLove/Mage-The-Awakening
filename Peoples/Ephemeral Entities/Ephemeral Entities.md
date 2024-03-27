@@ -62,7 +62,7 @@ Entities can use [[Mana]] or Essence in the following ways:
 - Entities can sense sources of Essence or [[Mana]] appropriate for their needs from up to a mile away. The “Seek” Numen increases this range.
 - Ephemeral entities regain one point of Essence per day they are in proximity to any Condition relating to them — ghosts are sustained by staying near their Anchors and spirits in [[The Shadow]] feed upon Resonance.
 - Ephemeral entities can attempt to steal Essence or [[Mana]] from beings of the same type — ghosts from ghosts, spirits from spirits, etc. The attacking entity rolls Power + Finesse, contested by the victim’s Power + Resistance. If the attacker succeeds, it steals up to the successes in Essence or [[Mana]], as long as the victim has Essence or [[Mana]] remaining to lose.
-- Spirits may attempt to gorge themselves on a source of appropriate Essence. Once per day, when in proximity (even if it’s on the other side of [[the Gauntlet]]) to a suitable Condition, a spirit can roll Power + Finesse, regaining successes in Essence. If the spirit is still in [[The Shadow]], the dice pool is penalized according to [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].
+- Spirits may attempt to gorge themselves on a source of appropriate Essence. Once per day, when in proximity (even if it’s on the other side of [[The Gauntlet]]) to a suitable Condition, a spirit can roll Power + Finesse, regaining successes in Essence. If the spirit is still in [[The Shadow]], the dice pool is penalized according to [[The Gauntlet#Gauntlet Strength|Gauntlet Strength]].
 
 ### Attributes and Skills
 

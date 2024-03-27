@@ -11,6 +11,6 @@ _Something has severely frightened your character._
 
 ---
 
-Any time your character is taking an action where that fear might hinder her, you may opt to fail the roll and resolve this Condition.
+Any time your character is taking an action where that fear might hinder her, you may opt to fail the roll and resolve this [[Conditions|Condition]].
 
-This Condition can be imposed by undergoing a [[Breaking Point]] roll.
+This [[Conditions|Condition]] can be imposed by undergoing a [[Breaking Point]] roll.

@@ -11,7 +11,7 @@ _The benefits of initiation are many, from a connection to other Legacy members 
 
 Initiates learn the Legacy’s [[Yantra|Yantras]].
 
-Most require one turn to deploy and add +1 to spellcasting rolls. A few add +2 but either impose a disadvantageous Condition or require rare materials, extra time, or special care.\
+Most require one turn to deploy and add +1 to spellcasting rolls. A few add +2 but either impose a disadvantageous [[Conditions|Condition]] or require rare materials, extra time, or special care.\
 The required effort is part of the [[Yantra]], so sidestepping its disadvantages (by eliminating the stupor created by a sacred drug, for example) reduces its bonus accordingly.
 
 ### Oblations

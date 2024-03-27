@@ -14,4 +14,4 @@ Persistent [[Conditions|Condition]]\
 
 Some addictions are more dangerous than others, but the nature of addiction is that it slowly takes over your life, impeding functionality. If you are addicted, you need to indulge your addiction regularly to keep it under control.
 
-A specific addiction should be chosen upon taking this Condition; characters can take this Condition multiple times for different addictions. Being unable to feed your addiction can result in the [[Deprived]] Condition.
+A specific addiction should be chosen upon taking this [[Conditions|Condition]]; characters can take this [[Conditions|Condition]] multiple times for different addictions. Being unable to feed your addiction can result in the [[Deprived]] Condition.

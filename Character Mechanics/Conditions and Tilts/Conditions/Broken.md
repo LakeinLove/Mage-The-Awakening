@@ -8,7 +8,7 @@ _Whatever you did or saw, something inside you snapped._
 
 Persistent [[Conditions|Condition]]\
 **Resolution:** Regain a dot of Integrity or Wisdom, lose another dot of Integrity or Wisdom, or achieve an exceptional success on a [[Breaking Point]] or [[Act of Hubris]].\
-**[[Beats|Beat]]:** You back down from a confrontation or fail a roll due to this Condition.
+**[[Beats|Beat]]:** You back down from a confrontation or fail a roll due to this [[Conditions|Condition]].
 
 ---
 

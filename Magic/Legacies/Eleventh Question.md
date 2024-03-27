@@ -44,7 +44,7 @@ Ruling [[Arcanum]]: [[Time]]
 - Succeeding on an [[Investigation]] roll relevant to the spell (+2)
 - Verbally explaining a mysterious phenomenon to a trusted associate (+1)
 - Collecting samples or recording information (images, sounds, writings) relevant to the spell — note that the act of collection is the [[Yantra]] in this case, separate from possessing an item that might be used for sympathetic magic (+2)
-- Using stimulants to stay focused (+1, or +2 if this creates an adverse Condition).
+- Using stimulants to stay focused (+1, or +2 if this creates an adverse [[Conditions|Condition]]).
 
 Oblations:
 - Solving a riddle or puzzle

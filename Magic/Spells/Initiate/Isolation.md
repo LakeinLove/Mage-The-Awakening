@@ -20,4 +20,4 @@ _Boundaries and barriers are a lie, but it is sometimes useful to lie. This spel
 Crowds of people seem tightly packed together, an impenetrable wall of humanity.
 
 Any attempt the subject makes to interact with other people costs 1 [[Willpower]].\
-Even then, any dice pools are penalized by the spell’s Potency. Prolonged exposure to this spell (roughly a day per dot of the subject’s [[Composure]]) may provoke [[Breaking Point|breaking points]] or adverse Conditions like [[Shaken]] or [[Spooked]].
+Even then, any dice pools are penalized by the spell’s Potency. Prolonged exposure to this spell (roughly a day per dot of the subject’s [[Composure]]) may provoke [[Breaking Point|breaking points]] or adverse [[Conditions]] like [[Shaken]] or [[Spooked]].

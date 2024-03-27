@@ -12,4 +12,4 @@ _Your character has a secret from his past that could come back to haunt him._
 ---
 
 If this secret gets out, he could be ostracized or maybe even arrested.\
-If it becomes known, this Condition is exchanged for [[Notoriety]].
+If it becomes known, this [[Conditions|Condition]] is exchanged for [[Notoriety]].

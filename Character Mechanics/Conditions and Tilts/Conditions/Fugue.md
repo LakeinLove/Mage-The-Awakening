@@ -14,5 +14,5 @@ Persistent [[Conditions|Condition]]\
 
 You are prone to blackouts and lost time.
 
-Whenever circumstances become too similar to the situation that led to your gaining this Condition, the player rolls [[Resolve]] + [[Composure]].\
+Whenever circumstances become too similar to the situation that led to your gaining this [[Conditions|Condition]], the player rolls [[Resolve]] + [[Composure]].\
 If you fail the roll, the Storyteller controls your character for the next scene; your character, left to his own devices, will seek to avoid the conflict and get away from the area.

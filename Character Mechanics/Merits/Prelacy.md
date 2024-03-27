@@ -20,7 +20,7 @@ She gains the following effects, at each rank of this Merit:
 
 ### Chosen Vessel (•)
 
-Your character gains the Persistent Mystery Commands Condition.
+Your character gains the Persistent Mystery Commands [[Conditions|Condition]].
 
 ### Sword (••)
 
