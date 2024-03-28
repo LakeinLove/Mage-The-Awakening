@@ -5,7 +5,7 @@ _High Speech is the symbolic language of the [[Supernal Realms]] that all mages 
 
 Because it consists entirely of the symbols of the [[Supernal Realms]], the [[Lie]] conceals its true nature from [[Sleepers]]. The un-Awakened perceive it an unfamiliar language, glossolalia, or meaningless gibberish.
 
-High Speech is not a real language, but the [[Supernal]] platonic ideal of “language.” It sounds like gibberish to mages, too, but their [[Peripheral Mage Sight]] responds to it and they know the information being imparted despite the sounds themselves being nonsense. A minor key has a different emotional effect than a major key, for example, and red evokes different memories and sensations than blue, but neither expresses something that can be directly translated into ordinary language.\
+High Speech is not a real language, but the Supernal platonic ideal of “language.” It sounds like gibberish to mages, too, but their [[Peripheral Mage Sight]] responds to it and they know the information being imparted despite the sounds themselves being nonsense. A minor key has a different emotional effect than a major key, for example, and red evokes different memories and sensations than blue, but neither expresses something that can be directly translated into ordinary language.\
 High Speech is similarly useless for conveying long messages but very effective at evoking intent or mood. Lies cannot be spoken in High Speech, but it is the only means of fully describing spells.
 
 Magical runes are derived from the shapes [[Mana]] makes when mages release it while using [[Mage Sight]]. They work in spellcasting like drawing a blueprint works in construction. High Speech as a communication method doesn’t have to be written in runes. A mage can use any alphabet to write High Speech down, safe in the knowledge that only Awakened mages will be able to read it.
@@ -17,7 +17,7 @@ Are they the makers’ marks of the [[Lexicon/Exarchs]], as so many [[Seers of t
 
 ---
 
-From the instant of [[Awakening]], all mages can comprehend High Speech, the [[Supernal]] symbol of “language” that serves as the platonic ur-tongue. The [[Orders]] all teach their students to use High Speech as a [[Yantra]] in Spellcasting but it is useable in spoken and written form as a crude form of communication. 
+From the instant of [[Awakening]], all mages can comprehend High Speech, the Supernal symbol of “language” that serves as the platonic ur-tongue. The [[Orders]] all teach their students to use High Speech as a [[Yantra]] in Spellcasting but it is useable in spoken and written form as a crude form of communication. 
 
 Because it’s more the symbol of a language than a real language, though, High Speech has some restrictions — it is very good at communicating facts, but can’t be used to deliberately lie (it’s possible to be mistaken). It also contains no metaphors or symbols, as it is its own Supernal concept. High Speech may be used for [[Persuasion]] and [[Intimidation]] rolls, but reduces all [[Expression]] and [[Subterfuge]] rolls to chance dice
 

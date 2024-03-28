@@ -7,10 +7,10 @@ _Focused Mage Sight allows a mage to scrutinize a subject through the lens of th
 
 ---
 
-Instead of seeing the subject in the context of the Supernal, she sees the [[Supernal]] as filtered through the subject. Magic pours through the subject, shaped by its [[The Fallen World|Fallen World]] constraints and correspondences; and by examining that interaction, the mage can learn much about it.\
+Instead of seeing the subject in the context of the Supernal, she sees the Supernal as filtered through the subject. Magic pours through the subject, shaped by its [[The Fallen World|Fallen World]] constraints and correspondences; and by examining that interaction, the mage can learn much about it.\
 Using this principle, a mage can release [[Mana]] into the world and watch the [[Patterns]] it forms, gleaning additional information from them.
 
-Focused Mage Sight has its dangers, however. Looking so deeply into the [[Supernal]] isn’t a passive, casual observation. The mage is undertaking the magical equivalent of a thorough, persistent, and even invasive investigation, pouring magical energy into the area, and anything with the ability to sense magic (including other mages in the area) can notice this.\
+Focused Mage Sight has its dangers, however. Looking so deeply into the Supernal isn’t a passive, casual observation. The mage is undertaking the magical equivalent of a thorough, persistent, and even invasive investigation, pouring magical energy into the area, and anything with the ability to sense magic (including other mages in the area) can notice this.\
 Otherworldly beings might observe her inquiry, and some of them would prefer to remain unseen.
 
 A mage must be using [[Active Mage Sight]] already to Focus. Focused Mage Sight has two stages: [[Scrutiny]] and [[Revelation]]. Both pit the perceptive power of the mage against the complexity of the [[Mystery]] she is trying to illuminate.\

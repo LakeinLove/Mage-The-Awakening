@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character Mechanics/Conditions and Tilts/Conditions.md",
+                "file": "Magic/Magic Concepts/High Speech.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character Mechanics/Conditions and Tilts/Conditions.md",
+                "file": "Magic/Magic Concepts/High Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character Mechanics/Conditions and Tilts/Conditions.md",
+                "file": "Magic/Magic Concepts/High Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character Mechanics/Conditions and Tilts/Conditions.md"
+                "file": "Magic/Magic Concepts/High Speech.md"
               }
             }
           }
@@ -150,9 +150,12 @@
   },
   "active": "27a40e19b2764623",
   "lastOpenFiles": [
+    "Magic/Magic Concepts/Mage Sight/Focused Mage Sight.md",
+    "Magic/Magic Concepts/Mystery/Mystery.md",
+    "Magic/Practices/Initiate/Practice of Unveiling.md",
+    "Character Mechanics/Conditions and Tilts/Conditions.md",
     "The Worlds/The Gauntlet.md",
     "Magic/Arcana/Spirit.md",
-    "Magic/Practices/Initiate/Practice of Unveiling.md",
     "Magic/Spellcasting/Spellcasting.md",
     "Magic/Spells/Adept/Psychic Projection.md",
     "Magic/Spells/Adept/Shadow Scream.md",
@@ -173,9 +176,6 @@
     "Magic/Spells/Adept/Terrorize.md",
     "Magic/Spells/Adept/Shapechanging.md",
     "Magic/Spells/Adept/Supernal Dispellation.md",
-    "Magic/Spells/Adept/Teleportation.md",
-    "Magic/Spells/Adept/Strings of Fate.md",
-    "Magic/Spells/Adept/Gain Skill.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",
