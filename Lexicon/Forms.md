@@ -3,7 +3,7 @@ aliases:
   - Form
 ---
 
-_A Form is the most granular symbol that makes up a [[Patter]], it is the atomic form of reality._
+_A Form is the most granular symbol that makes up a [[Patterns|Pattern]], it is the atomic form of reality._
 
 ---
 

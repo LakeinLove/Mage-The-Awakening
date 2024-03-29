@@ -9,8 +9,8 @@ _When making your character, you choose three Aspirations. These are goals you w
 
 ---
 
-Primarily, they exist as a way to measure and express advancement. Any time you fulfil an Aspiration, you take a [[Beat]].\
-Any time you make major headway into or change the direction of a long-term Aspiration, you take a [[Beat]].
+Primarily, they exist as a way to measure and express advancement. Any time you fulfil an Aspiration, you take a [[Beats|Beat]].\
+Any time you make major headway into or change the direction of a long-term Aspiration, you take a [[Beats|Beat]].
 
 For this reason, Aspirations should stay general and somewhat vague whenever possible.\
 The more specific they are, the less likely you are to actually fulfil them.

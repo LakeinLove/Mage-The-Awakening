@@ -25,6 +25,6 @@ You can expend Experiences at any time to increase your character traits. A sing
 | Rote                        | 1           |
 | Legacy Attainment (Tutored) | 1           |
 | Skill Speciality            | 1           |
-| Rebuy [[Willpower]]             | 1 per Dot   |
+| Rebuy [[Willpower]] *dot*            | 1 per Dot   |
 
 [[Arcanum]], [[Gnosis]], and [[Legacy Attainments]] (tutored) can all be bought with a combination of Experience and [[Arcane Experience]].

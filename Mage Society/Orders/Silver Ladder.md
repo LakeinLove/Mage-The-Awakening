@@ -76,7 +76,7 @@ As befits a global outlook, théarchs claim symbols of authority from many cultu
 
 ## Hubris
 
-[[Act of Hubris|Hubris]] is a coward’s word; magic is the right of every human being. Destiny lies in [[Ascension]], in forcing reality to bend the knee. [[Paradox]] is a curse imposed by the [[Abyss]], and the [[Abyss]] is the creation of the Enemy. Rhetoric aside, Ladder mages go too far when they overestimate their abilities and ignore advice when it advises them against acting boldly or in accordance with their pronouncements. 
+[[Act of Hubris|Hubris]] is a coward’s word; magic is the right of every human being. Destiny lies in [[Ascension]], in forcing reality to bend the knee. [[Paradox]] is a curse imposed by [[The Abyss]], and [[The Abyss]] is the creation of the Enemy. Rhetoric aside, Ladder mages go too far when they overestimate their abilities and ignore advice when it advises them against acting boldly or in accordance with their pronouncements. 
 
 They also succumb to [[Act of Hubris|Hubris]] when they mistake the role of a leader for the role of a sovereign, or when they spin Cryptopolies and [[Consilium]] politics into temporal power, neglecting the eternal truth and grand vision their tenets stem from. Lastly, they commit unwise acts when, ironically, they believe their [[Wisdom]] to be paramount above all others, especially [[Sleepers]].
 

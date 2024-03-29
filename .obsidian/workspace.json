@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27a40e19b2764623",
+            "id": "a9bc2aec70437f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Magic Concepts/High Speech.md",
+                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Magic Concepts/High Speech.md",
+                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Magic Concepts/High Speech.md",
+                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Magic Concepts/High Speech.md"
+                "file": "Magic/Practices/Apprentice/Practice of Veiling.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,34 +147,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27a40e19b2764623",
+  "active": "a9bc2aec70437f37",
   "lastOpenFiles": [
-    "Magic/Magic Concepts/Mage Sight/Focused Mage Sight.md",
-    "Magic/Magic Concepts/Mystery/Mystery.md",
-    "Magic/Practices/Initiate/Practice of Unveiling.md",
-    "Character Mechanics/Conditions and Tilts/Conditions.md",
-    "The Worlds/The Gauntlet.md",
-    "Magic/Arcana/Spirit.md",
-    "Magic/Spellcasting/Spellcasting.md",
-    "Magic/Spells/Adept/Psychic Projection.md",
-    "Magic/Spells/Adept/Shadow Scream.md",
-    "Magic/Spells/Adept/World Walker.md",
-    "Magic/Spells/Disciple/Howl From Beyond.md",
-    "Magic/Spells/Disciple/Place of Power.md",
-    "Magic/Spells/Disciple/Reaching.md",
-    "Magic/Spells/Disciple/Spirit Summons.md",
-    "Magic/Spells/Initiate/Exorcist's Eye.md",
-    "Magic/Spells/Master/Create Locus.md",
-    "Magic/The Paths/Thyrsus.md",
-    "Peoples/Ephemeral Entities/Ephemeral Entities.md",
-    "Peoples/Exarchs.md",
-    "The Worlds/Realms of Earth and Flesh/Irises.md",
-    "The Worlds/The Realms Invisible/The Shadow.md",
-    "Magic/Spells/Adept/Withering.md",
-    "Magic/Spells/Adept/Transubstantiation.md",
-    "Magic/Spells/Adept/Terrorize.md",
-    "Magic/Spells/Adept/Shapechanging.md",
-    "Magic/Spells/Adept/Supernal Dispellation.md",
+    "Mysteries.md",
+    "Character Mechanics/Skills/Physical/Brawl.md",
+    "Magic/Magic Concepts/Nimbus/Nimbus.md",
+    "Magic/Magic Concepts/Nimbus/Immediate Nimbus.md",
+    "Magic/Spells/Adept/Alter Direction.md",
+    "Magic/Legacies/Legacy Attainments.md",
+    "Magic/Legacies/Legacy Advantages.md",
+    "Magic/Legacies/Eleventh Question.md",
+    "Magic/Magic Concepts/Quiescence.md",
+    "Magic/Magic Concepts/High Speech.md",
+    "Magic/Magic Concepts/Gnosis/Gnosis.md",
+    "Magic/Magic Concepts/Gnosis/Effects of Gnosis.md",
+    "Magic/Spells/Adept/Accelerate Growth.md",
+    "Magic/Spells/Adept/Animal Minion.md",
+    "Magic/Magic Concepts/Nimbus/Interactions with Other Auras.md",
+    "Magic/Magic Concepts/Nimbus/Signature Nimbus.md",
+    "Templates/Skills Template.md",
+    "Character Mechanics/Merits/Contacts.md",
+    "Character Mechanics/Skills/Untrained Skill.md",
+    "Lexicon/Combat/Fire.md",
+    "Lexicon/Forms.md",
+    "Magic/Magic Concepts/Wisdom/Inuring.md",
+    "Lexicon/Oblation.md",
+    "Mage Society/Orders/Silver Ladder.md",
+    "Mage Society/Orders/Guardians of the Veil.md",
+    "Mage Society/Orders/Adamantine Arrow.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

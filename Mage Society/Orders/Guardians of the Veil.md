@@ -11,7 +11,7 @@ _The Guardians of the Veil, a network of Awakened spies who preach the careful, 
 
 ## Magic is Fragile
 
-The [[The Fallen World|Fallen World]] continues to fall. The [[Abyss]] grows stronger whenever a mage inflicts [[Paradox]] upon the world. The universe frays with every vulgarity, while the Supernal resounds with the laughter of Tyrants. Humanity is inherently damaged by [[Lie|the Lie]], and [[Sleepers]] snuff magic out in their ignorance, if they escape being driven mad by witnessing Supernal truth. Knowledge is both power and fire — left unchecked, it consumes and destroys. The hand whose reach exceeds its grasp must be slapped down.
+The [[The Fallen World|Fallen World]] continues to fall. [[The Abyss]] grows stronger whenever a mage inflicts [[Paradox]] upon the world. The universe frays with every vulgarity, while the Supernal resounds with the laughter of Tyrants. Humanity is inherently damaged by [[Lie|the Lie]], and [[Sleepers]] snuff magic out in their ignorance, if they escape being driven mad by witnessing Supernal truth. Knowledge is both power and fire — left unchecked, it consumes and destroys. The hand whose reach exceeds its grasp must be slapped down.
 
 The Guardians of the Veil defend the [[Awakened]] from strife and treachery by employing those tools themselves, serving the Pentacle as recruiters and espionage agents keeping watch for threats from without and within. They plot to maintain the Labyrinth, a world-spanning society of conspiracy cells and contradictory mystery cults secretly under Guardian control, designed to weed out the weak, distract the unworthy, and attract those close to [[Awakening]].\
 A newly [[Awakened]] mage attempting to understand what’s happening around him will likely stumble across the Labyrinth; in fact, the system works so well that Guardians actually detect the majority of Awakenings and pass suitable solitaries to other Orders.
@@ -29,8 +29,8 @@ Guardians cleave to Diamond symbolism with a concept they call the Diamond Wheel
 
 ### Paradox Strengthens the Abyss; Punishment Answers Pride
 
-The [[Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and [[Act of Hubris|Hubris]]. Humanity has the slim capacity for [[Awakening]] and Ascension, but even Awakened societies are corrupted by the [[The Fallen World|Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to the [[Abyss]].\
-Guardians will help mages with their own Paradoxes when Abyssal taint threatens innocent bystanders. They encourage mages to examine the root causes of [[Paradox]], and the flawed reasoning behind allowing the [[Abyss]] another foothold within the faltering world.
+[[The Abyss]] is inimical to existence. Every [[Paradox]] pushes the universe a little bit closer to final dissolution. [[Paradox]] is not an inherently spiritual failing, but a moral one made magical, caused by an individual’s choices and [[Act of Hubris|Hubris]]. Humanity has the slim capacity for [[Awakening]] and Ascension, but even Awakened societies are corrupted by the [[The Fallen World|Fallen World]], and every [[Paradox]] exposes a mage’s fragile soul to [[The Abyss]].\
+Guardians will help mages with their own Paradoxes when Abyssal taint threatens innocent bystanders. They encourage mages to examine the root causes of [[Paradox]], and the flawed reasoning behind allowing [[The Abyss]] another foothold within the faltering world.
 
 ### Merit must guide the Fallen World
 
@@ -56,7 +56,7 @@ Religious Guardians believe in reincarnation, and moreover, that some souls have
 
 ### The Hieromagus will fulfil the Diamond Wheel
 
-Many souls have similar features; by cultivating them, mages work towards the creation of the Hieromagus, who will heal the [[Abyss]], restore utopia, and judge the Order for the evils made in the protection of magic. Her soul shall be an indestructible bridge between Above and Below, perfect and free of [[Paradox]].\
+Many souls have similar features; by cultivating them, mages work towards the creation of the Hieromagus, who will heal [[The Abyss]], restore utopia, and judge the Order for the evils made in the protection of magic. Her soul shall be an indestructible bridge between Above and Below, perfect and free of [[Paradox]].\
 She will come not from the Order but from without. There have been a number of false Hieromagi throughout history, and other Orders are aware that a messianic, deeply eschatological faction holds some purchase over the Guardians, if not the specifics.
 
 ## Origins
