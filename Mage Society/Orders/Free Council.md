@@ -7,7 +7,14 @@ aliases:
   - Libertine
   - Libertines
 ---
+
 _The Free Council, a young organization of mages who espouse democratic ideals and seek magic in human culture and science._
+
+---
+
+Order Rote [[Skill|Skills]]: [[Crafts]], [[Persuasion]], [[Science]]
+
+---
 
 ## Humanity is Magical
 

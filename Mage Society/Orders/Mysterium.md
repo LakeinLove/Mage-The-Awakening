@@ -9,6 +9,12 @@ aliases:
 ---
 _The Mysterium, a religion dedicated to magic itself whose adherents aggressively seek out [[Mystery|Mysteries]] for their own enlightenment before storing them for safekeeping from the world._
 
+---
+
+Order Rote [[Skill|Skills]]: [[Investigation]], [[Occult]], [[Survival]]
+
+---
+
 ## Magic is alive
 
 The world is Fallen, but wondrous. Pure truth from the Supernal drifts downward, fragmenting from exposure to [[The Abyss]]. The driven and elect must track down this knowledge to glean true [[Wisdom]], separating Supernal wheat from Fallen chaff. Contemporary mages piece together the past, and in doing so forge a future.\

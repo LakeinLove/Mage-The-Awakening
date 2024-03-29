@@ -66,7 +66,7 @@ In any case, the Storyteller controls how to parcel out deep information for Mys
 ---
 
 _Deep Information may include the following:_
-- If [[Awakened]] magic cast using a [[Rote]], or the effects of an [[Attainment]], the [[Signature Nimbus]] of the mage involved.
+- If [[Awakened]] magic cast using a [[Rotes|Rote]], or the effects of an [[Attainments|Attainment]], the [[Signature Nimbus]] of the mage involved.
 - For [[Awakened]] spells, the [[Spell Factors]] involved (including the remaining duration), whether the spell caused a [[Paradox]] (and if so whether that [[Paradox]] was released or contained), and whether the spell has been relinquished.
 - Identification of a phenomenon as being linked to one the mage has Scrutinized before.
 - If not [[Awakened]] magic, the power level of the creator relative to the mage’s [[Gnosis]] (if applicable).

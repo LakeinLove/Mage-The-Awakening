@@ -8,13 +8,19 @@ aliases:
 ---
 _The Adamantine Arrow, who see existence as a crucible, prize challenge and conflict for its use in honing the self, and teach students honour and ideals of service._
 
+---
+
+Order Rote [[Skill|Skills]]: [[Athletics]], [[Intimidation]], [[Medicine]]
+
+---
+
 ## Challenge is Magical
 
 Virtue untested is worthless. This truth is hidden by a Fallen World designed to aggressively and insidiously destroy enlightenment. The [[Lie]] oppresses souls, crushing them under somnolent burdens.\
 Beyond [[The Abyss]] lies the ideal perfected self, a concept that can only be embodied by struggling against the [[Lie]]. Everyone is involved in this struggle, leaving the Awakened as the only ones aware they’re embroiled in a universal conflict.
 
 Every Order practices offensive and defensive occult techniques, but the Adamantine Arrow internalizes the metaphor of eternal war as principle. More than that, they seek to serve as soldiers and generals in this war, fighting to maintain their magic. Arrows are the guardians and wardens of the Pentacle, warriors of the Diamond, fighting against stagnation and complacency.\
-They typically hold a majority of non-leadership roles in [[Consilia]] and [[Convocations]] (and no few Assemblies), as community-oriented duties find fulfillment within their philosophy. Above all else, their magic calls for dedication: striving for a chosen goal against meaningful opposition.
+They typically hold a majority of non-leadership roles in [[Consilium|Consilia]] and [[Convocation|Convocations]] (and no few Assemblies), as community-oriented duties find fulfillment within their philosophy. Above all else, their magic calls for dedication: striving for a chosen goal against meaningful opposition.
 
 **Mages join the Arrow** when they want to define themselves by supporting others, learn self-discipline and control over their magic, come from a martial or regimented background and want to keep that ethos, or believe magic should be wielded with honour and responsibility.
 
@@ -57,7 +63,7 @@ Rather than celebrating them or manipulating them, the Arrow allowed its members
 
 The Order last reorganized itself in 1945. The strife of internal warfare from two World Wars sundered the Order, as Arrows fought one another from opposing sides of a battlefield. This wasn’t unprecedented — the American Civil War, the Napoleonic Wars, and sengoku jidai are actually considered healthy exercises by contemporary Arrow theorists — but it was inconceivable in terms of scale and lack of purpose.  
 
-The Order emerged with the conclusion that war itself had changed. Never again would the Arrow bind itself to temporal ideals. At the same time, their true enemies — [[Seers of the Throne|Seers]], Banishers, and [[The Abyss]] — were timeless. The Order abandoned the millennia-long practice of championing [[Sleepers|Sleeper]] societies to focus on individual [[Consilia]], [[Sleepwalkers]], or sites connected with magic.
+The Order emerged with the conclusion that war itself had changed. Never again would the Arrow bind itself to temporal ideals. At the same time, their true enemies — [[Seers of the Throne|Seers]], Banishers, and [[The Abyss]] — were timeless. The Order abandoned the millennia-long practice of championing [[Sleepers|Sleeper]] societies to focus on individual [[Consilium|Consilia]], [[Sleepwalkers]], or sites connected with magic.
 
 ## Mysteries
 

@@ -7,7 +7,14 @@ tags:
   - Pentacle
   - Diamond
 ---
+
 _The Guardians of the Veil, a network of Awakened spies who preach the careful, subtle use of magic, police mages for worsening [[Lie|the Lie]], and test [[Sleepers]] close to [[Awakening]] with a labyrinth of occult societies._
+
+---
+
+Order Rote [[Skill|Skills]]: [[Investigation]], [[Stealth]], [[Subterfuge]]
+
+---
 
 ## Magic is Fragile
 

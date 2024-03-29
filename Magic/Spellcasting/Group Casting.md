@@ -7,7 +7,7 @@ _Mages may work together towards a common goal for spellcasting._
 
 ---
 
-This is handled like any other action where characters combine their efforts ([[Teamwork]]).
+This is handled like any other action where characters combine their efforts.
 
 The mages involved in the spellcasting must all have at least one dot in the [[Arcanum]] required to cast the spell, while the leader must have the required [[Arcanum]] rating to cast it himself.\
 If the leader knows the spell as a [[Praxes|Praxis]] or Rote, the spell gains the benefits of those methods.\

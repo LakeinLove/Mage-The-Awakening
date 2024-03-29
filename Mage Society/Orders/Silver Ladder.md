@@ -8,6 +8,12 @@ aliases:
 ---
 _The Silver Ladder, a humanist Order dedicated to the ideal of lifting every human soul to its natural level of enlightenment, healing the Fallen World of the [[Exarchs]]’ influence._
 
+---
+
+Order Rote [[Skill|Skills]]: [[Expression]], [[Persuasion]], [[Subterfuge]]
+
+---
+
 ## Magic is Humanity’s Birthright
 
 All souls reach for enlightenment. Traitor-Gods have chained humanity’s souls with a grand [[Lie]], yet humanity still strives for truth and divinity. The dream of Awakened destiny will endure, even in a ruined realm of Tyrannical rule.\
@@ -17,7 +23,7 @@ The Silver Ladder is invested in the Diamond and Pentacle as a whole, not just t
 
 The Order defies those efforts by dreaming big, spreading the flame of [[Awakening]] and sundering the chains of [[Lie|the Lie]]. They create Cryptopolies, mystery cults that encourage [[Sleepers]] towards enlightened behaviour, continually working to counter the [[Seers of the Throne|Seers]]’ influence over humanity. More than any other Order, they seek out and shelter families of [[Proximi]] in the hopes of fostering an enlightened class of human.
 
-Ladder mages (who call themselves théarchs) settle disputes between Awakened, believing in a unified mage-nation. The Ladder is the glue holding Awakened society together, including the [[Seers of the Throne|Seers]] (if only by opposition). Their ethos of personal rights and mediation of conflict form the backbone of the Pentacle, the [[Consilia]], and especially [[Convocations]]. 
+Ladder mages (who call themselves théarchs) settle disputes between Awakened, believing in a unified mage-nation. The Ladder is the glue holding Awakened society together, including the [[Seers of the Throne|Seers]] (if only by opposition). Their ethos of personal rights and mediation of conflict form the backbone of the Pentacle, the [[Consilium|Consilia]], and especially [[Convocation|Convocations]]. 
 
 The Ladder is even responsible for the Diamond’s legal system, Lex Magica. It was they who pronounced the sovereignty of the individual mage, citing commandments from the unseen Supernal Oracles. It was they who linked magic to an unknowable past of wonder and supremacy. It was they who created the Diamond, and then the Pentacle, by holding the other Orders from interfering with the formation of the [[Free Council]].
 
@@ -70,7 +76,7 @@ Despite the dangerous, oddly contradictory, and often [[Paradox]]-ridden nature 
 
 ### Magical Symbolism: Authority
 
-The Ladder is responsible for the Diamond’s claim to wisdom from an ancient ur-culture, and it strives ever to maintain that magical symbolism in the form of the Diamond and Pentacle. They are Vox Draconis: Voice of the Dragon, priests of Atlantis, granted primacy not because of conferred authority or divine right but recognition of wise leadership. Théarchs often use the trappings of priests and other authority figures as [[Yantras]], but they’re a humanist priesthood, exalting the potential of humanity rather than gods. 
+The Ladder is responsible for the Diamond’s claim to wisdom from an ancient ur-culture, and it strives ever to maintain that magical symbolism in the form of the Diamond and Pentacle. They are Vox Draconis: Voice of the Dragon, priests of Atlantis, granted primacy not because of conferred authority or divine right but recognition of wise leadership. Théarchs often use the trappings of priests and other authority figures as [[Yantra|Yantras]], but they’re a humanist priesthood, exalting the potential of humanity rather than gods. 
 
 As befits a global outlook, théarchs claim symbols of authority from many cultures as tools. Their symbolism incorporates badges of law and judges’ robes. Théarchs also tend to adopt the personal trappings of the strongest member of their Order within a given [[Consilium]]. The modern Order doesn’t use crowns or royal regalia. Besides being too ostentatious for good taste, it’s a reminder that a théarch’s purpose isn’t to rule, but to lead.
 

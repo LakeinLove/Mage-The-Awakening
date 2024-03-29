@@ -3,7 +3,7 @@ tags:
 - Nimbus
 ---
 
-_It is an identifier your character leaves on the things her [[Awakened]] [[Awakened Will|Will]] has touched. When she uses a spell, [[Praxis]], [[Rote]], or [[Attainment]], she leaves little wisps of her identity on that magic_
+_It is an identifier your character leaves on the things her [[Awakened]] [[Awakened Will|Will]] has touched. When she uses a spell, [[Praxes|Praxis]], [[Rotes|Rote]], or [[Attainments|Attainment]], she leaves little wisps of her identity on that magic_
 
 ---
 

@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Summary Pages/Character Creation.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Summary Pages/Character Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/Practices/Apprentice/Practice of Veiling.md",
+                "file": "Summary Pages/Character Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/Practices/Apprentice/Practice of Veiling.md"
+                "file": "Summary Pages/Character Creation.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "a9bc2aec70437f37",
   "lastOpenFiles": [
+    "Mage Society/Orders/Silver Ladder.md",
+    "Summary Pages/Character Creation.md",
+    "Mage Society/Orders/Mysterium.md",
+    "Mage Society/Orders/Guardians of the Veil.md",
+    "Mage Society/Orders/Free Council.md",
+    "Mage Society/Orders/Adamantine Arrow.md",
+    "Lexicon/Skill.md",
+    "Peoples/Awakened.md",
+    "Peoples/Sleepwalkers.md",
+    "Peoples/Sleepers.md",
+    "Peoples/Exarchs.md",
+    "Magic/Spellcasting/Group Casting.md",
+    "Magic/Magic Concepts/Mystery/Mystery.md",
+    "Magic/Magic Concepts/Mage Sight/Active Mage Sight.md",
+    "Magic/Magic Concepts/Nimbus/Signature Nimbus.md",
+    "Magic/Practices/Initiate/Practice of Knowing.md",
+    "Magic/Practices/Apprentice/Practice of Shielding.md",
+    "Magic/Magic Concepts/Mana/Gaining Mana.md",
+    "Magic/Practices/Initiate/Practice of Unveiling.md",
+    "Supernal World.md",
+    "Magic/Magic Concepts/High Speech.md",
+    "Magic/Practices/Apprentice/Practice of Veiling.md",
     "Mysteries.md",
     "Character Mechanics/Skills/Physical/Brawl.md",
     "Magic/Magic Concepts/Nimbus/Nimbus.md",
     "Magic/Magic Concepts/Nimbus/Immediate Nimbus.md",
-    "Magic/Spells/Adept/Alter Direction.md",
-    "Magic/Legacies/Legacy Attainments.md",
-    "Magic/Legacies/Legacy Advantages.md",
-    "Magic/Legacies/Eleventh Question.md",
-    "Magic/Magic Concepts/Quiescence.md",
-    "Magic/Magic Concepts/High Speech.md",
-    "Magic/Magic Concepts/Gnosis/Gnosis.md",
-    "Magic/Magic Concepts/Gnosis/Effects of Gnosis.md",
-    "Magic/Spells/Adept/Accelerate Growth.md",
-    "Magic/Spells/Adept/Animal Minion.md",
-    "Magic/Magic Concepts/Nimbus/Interactions with Other Auras.md",
-    "Magic/Magic Concepts/Nimbus/Signature Nimbus.md",
-    "Templates/Skills Template.md",
-    "Character Mechanics/Merits/Contacts.md",
-    "Character Mechanics/Skills/Untrained Skill.md",
-    "Lexicon/Combat/Fire.md",
-    "Lexicon/Forms.md",
-    "Magic/Magic Concepts/Wisdom/Inuring.md",
-    "Lexicon/Oblation.md",
-    "Mage Society/Orders/Silver Ladder.md",
-    "Mage Society/Orders/Guardians of the Veil.md",
-    "Mage Society/Orders/Adamantine Arrow.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

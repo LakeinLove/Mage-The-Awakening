@@ -19,7 +19,7 @@ Each [[Arcanum]] has a minor mechanical effect, relating to the base level of pe
 Allows a mage to detect the presence of the Anchor [[Conditions|Condition]] or manifested ghosts and related phenomena. With a glance, a mage using [[Mage Sight]] can tell if someone has a soul, or if a body is, in fact, dead.
 
 [[Fate]] Sight:\
-Highlights anyone the mage watches who experiences a dramatic failure or exceptional success. It reveals the presence and use of a [[Destiny Merit|Destiny]] a [[Merit]], but not the details of that destiny.
+Highlights anyone the mage watches who experiences a dramatic failure or exceptional success. It reveals the presence and use of a [[Destiny Merit|Destiny]] a [[Merits|Merit]], but not the details of that destiny.
 
 [[Forces]] Sight:\
 Detects motion and highlights the presence of environmental [[Tilts]], fire, electricity, and other hazards. With a glance, a mage can tell if a device is powered.
@@ -34,13 +34,13 @@ Allows the mage to determine the Structure and Durability of anything she looks 
 Detects the presence of thinking beings and allows the mage to tell with a glance if someone is asleep, comatose, awake, meditating, or projecting out of his body or into the Astral. The mage is also aware when a character she observes gains or spends [[Willpower]].
 
 [[Prime]] Sight:\
-Highlights anything the mage can use as a [[Yantra]], and the presence (if not the composition) of any [[Awakened]] spell or [[Attainment]] effect. Mages using [[Prime]] Sight can recognize tass with a glance, and tell when they are in a [[Hallow]] or [[Node]].
+Highlights anything the mage can use as a [[Yantra]], and the presence (if not the composition) of any [[Awakened]] spell or [[Attainments|Attainment]] effect. Mages using [[Prime]] Sight can recognize tass with a glance, and tell when they are in a [[Hallow]] or [[Ley Lines and Nodes|Node]].
 
 [[Space]] Sight:\
-Allows the user to instantly judge distances, range bands, and cover, allowing the player to know what bonuses or penalties would be in effect before the character acts. It also detects spatial warps, scrying windows, and the presence of [[Iris|Irises]].
+Allows the user to instantly judge distances, range bands, and cover, allowing the player to know what bonuses or penalties would be in effect before the character acts. It also detects spatial warps, scrying windows, and the presence of [[Irises]].
 
 [[Spirit]] Sight:\
-Reveals the strength of the local [[Gauntlet]], detects the presence and nature of the Resonance [[Conditions|Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
+Reveals the strength of the local [[The Gauntlet|Gauntlet]], detects the presence and nature of the Resonance [[Conditions|Condition]] and other sources of [[Essence]], and highlights manifested spirits and related phenomena.
 
 [[Time]] Sight:\
 Reveals the split-second adjustments of time, allowing the player to know the [[Initiative]] ratings of all participants in combat. When a character is about to act, even with a [[Reflexive Action]], a mage watching with [[Time]] Sight is aware of it (if not what that action will be), and may pre-empt it if he is able. [[Time]] Sight also detects temporal warps, and the tell-tale signs that someone has come back into the past.
@@ -49,7 +49,7 @@ Reveals the split-second adjustments of time, allowing the player to know the [[
 
 In addition to the above, any supernatural effect falling under the purview of the [[Arcanum]] that the mage can see is highlighted if she is using the correct Sight. Note that [[Peripheral Mage Sight]] is triggered by all supernatural events regardless of [[Arcanum|Arcana]], but unless the mage uses an applicable Active Sight she gains no information about the phenomenon — only that it must be related to an [[Arcanum]] she didn’t use.
 
-Active Mage Sight of any [[Arcanum]] also reveals all [[Awakened]] spells as they are being cast. The mage can see another willworker’s [[Nimbus]] flare as he forms the Imago and casts the spell (which, in turn, gives the observant mage a chance to use the [[Counterspell]] [[Attainment]] if she knows the [[Arcanum]] involved).
+Active Mage Sight of any [[Arcanum]] also reveals all [[Awakened]] spells as they are being cast. The mage can see another willworker’s [[Nimbus]] flare as he forms the Imago and casts the spell (which, in turn, gives the observant mage a chance to use the [[Counterspell]] [[Attainments|Attainment]] if she knows the [[Arcanum]] involved).
 
 Concealment magic, of whatever type, can hide a target from Active Mage Sight, but only if the concealment would logically mask the target from the purview of the [[Arcanum]] in question. Even then, if the concealment power uses the same magical principles as the detecting [[Arcanum]], the mage still has a chance to see through it. 
 
