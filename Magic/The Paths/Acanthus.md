@@ -18,6 +18,8 @@ Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 
 ---
 
+To see examples and get an idea of the Acanthus, read the [[Acanthus#Acanthus Stories|stories]] below.
+
 ## Ruling Arcana
 
 [[Fate]] and [[Time]].\
@@ -63,3 +65,61 @@ Religions live and die by their prophets. The [[Silver Ladder|Ladder]] is a fait
 
 [[Seers of the Throne]]:\
 Masterminds, manipulators, and decadents, Seer Acanthus hone their senses of entitlement into unshakable articles of faith. Foresight trumps force, and Seer Visionaries possess more of the former than anyone else. They honour the Ruin, [[Peoples/Exarchs|Exarch]] of [[Fate]], who tells them lesser people might as well serve a purpose while they march to doom. They’re favourites of the Prophet of [[Time]]: anointed Great Men who make history.
+
+---
+
+## Acanthus Stories
+
+Magic is a twisting tale where Fools walk Fortune’s Wheel.
+
+We Awakened to the power of choices, jewels of possible fates — and beheld in every jewel its flaw, its consequence, its doom. We climbed the Watchtower of the Lunargent Thorn and beheld Arcadia. We screamed iron words to the Fae and mutilated our destinies.
+
+It’s never just once upon a time. You wanted revenge, like the oldest man with his sharpened stone, like your ancestor with the bronze knife, and your unborn daughter with a ceramic pistol, someday. Cut on the same thorns, their footsteps join yours along a common trail of blood: the path heroes walk. But I’m not a hero. I’ve stepped off the path. I leave no bloody footprints but those I choose, or paint new, twisted ways for others to follow.\
+Take my hand and I’ll drag you into mists unseen by Fate — or like witches in the stories, end your red journey with the old curses. That’s freedom’s danger.
+
+### Who Are They
+
+Acanthus wield Time and Fate to tell the stories of other lives.\
+In great and monstrous myths they appear as mist-shrouded figures, the tricksters and foreshadowing poets who guide events with subtle gestures.\
+When we witness benign influence we might call them Enchanters, and thank them for overcoming obstacles with strange ease, but we more often call them Witches: cunning ones who step outside the laws that bind everyone else to spin new rules from the Wheel of Fortune.
+
+You don’t know them but you’ve seen their work — lived it, even.
+
+That woman who hounded you for spare change didn’t exactly jump from the bushes, but still defeated the usual alertness you exercised when you couldn’t make it to the campus lot until after dark. You nearly dropped the book when she appeared out of nowhere.\
+That would’ve been the worst — you’d snuck it out of Special Collections, where it languished under a layer of dust and a dull name: SPEC 0045-3 BRI, Cryptic Text with Illustrations of Weapons c. 1600.\
+You were going to decode it.\
+You dropped your purse instead and quarters bounced, silver fairies in the dark. The panhandler didn’t pick them up. You kept one eye on the book and another on her as you stooped, gathered nine quarters, and handed them off with a mutter. It was an awkward, infuriating five-minute process.
+
+Five more minutes took you to the freeway, where you passed a burning car that looked just like yours. You drove through its skid marks before the fire trucks arrived. You’d only be five minutes late for your date, but you cancelled anyway and made it home five minutes later than usual, instead. The woman from the parking lot flashed into view under a streetlight and walked to your door. She smelled of smoke.\
+She pulled nine quarters from a ragged pocket; you gave her the book. She tucked it under her arm and you knew you were the one making the greater payment, the book for five minutes of her time — enough to keep you from becoming smoking wreckage on the road. The quarters were a medium for the encounter, a significant accident. They bit into your hand.
+
+That’s what Witches do: Seize the Norns’ skein to spin, weave, and cut our days.
+
+### Three Witches
+
+The Acanthus Path seized Lucy Sulphate on an ordinary day and left her raving for days while she explored [[Arcadia]] as a cityscape in twisted steel and broken glass.\
+When Lucy performs, the audience enters its frenzy willingly; but when she uses magic, she imposes, coerces — assaults. Other Acanthus manipulate lives in ways she abhors, so she finds herself stumbling between her respect for autonomy and her sense of justice.
+
+To Lucy, the Wheel of Fortune generates an intricate rhythm she can harness through music. Lucy’s moved behind the scenes now, nurturing musicians capable of worldwide influence.\
+She uses magic to bring out that greatness instead of burying herself in petty, violent Awakened disputes. Naturally, she joined the [[Free Council]].
+
+---
+
+Movran’s the best-known Merlin of the Walkers in Mists, a Legacy that travels through the realm of unrevealed destiny.
+
+His mother and sisters were [[Awakened]], so even as a [[Sleepers|Sleeper]], he knew magic was treacherous; but none of it prepared him for the Thorns, where he learned that a childhood steeped in occult traditions had merely made him a brittle young man, too filled with preconceptions to learn the intuitive side of the Art.
+
+He [[Awakening|Awakened]] a youth, but descended the Watchtower with the soul of an old man. Now in middle age, he feels he’s finally starting to resemble his true self, the Fool divested of foolishness.
+
+Now he’s Movran the Mentor, Movran the Meddler: a man who fits the mould of a traditional wizard, staff and all, but aches with helplessness because he knows the important things can’t be taught.\
+Nevertheless, his occult knowledge makes him a valuable member of the [[Mysterium]].
+
+---
+
+Is Sunjata the Fool personified?\
+He remembers cannons, swords, and sharks attacking fallen sailors before meeting foreign mages in Jamaica 13 years ago. Nobody had noticed Sunjata before, and he didn’t seem to recognize any form of modern technology.
+
+He knows his [[Shadow Name]], bareknuckle boxing, archaic sailing skills, and how to speak half a dozen languages, but not his home (he appears to have African and South Asian roots) or how he arrived. His magic is intuitive, based on the principle that oaths sealed in blood grease the Wheel of Destiny.
+
+Sunjata’s world is made of wishes and earnest promises. He fell in with a cabal connected to Boston’s [[Free Council]] and even approached the [[Silver Ladder]] in search of answers, but it was only when he duelled an [[Adamantine Arrow]] that he recognized certain techniques and initiation mysteries.\
+He’s the warrior with no past, and now suspects he’d rather not know about the bargains he struck in a time he only knows through dreams of blood-spattered sails.

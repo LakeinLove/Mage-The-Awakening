@@ -16,7 +16,7 @@ Is your character a Puckish Rogue?\
 Is she an Itinerant Researcher?\
 Is she a Celebrant Technoshaman?
 
-As you’ve read through the previous sections, perhaps the [[Path]], Order, or other setting snippets sparked a basic character idea. That idea is a concept.
+Perhaps the [[Path]], Order, or other setting snippets sparked a basic character idea. That idea is a concept.
 
 Next, you’ll need three [[Aspirations]]. [[Aspirations]] are your goals for your character. Note that they might not be goals your character personally holds, but they’re goals you have for your character. For example, you might want to see your character lose a friend in the scope of the story. No reasonable person would want to lose a friend, but it’s a valid [[Aspirations|Aspiration]] because it’s something you want to see happen in your character’s story.
 
@@ -192,7 +192,7 @@ You can now play a game!
 ### Step Six
 
 - Start play with 10 dots of [[Merits]]
-- Can sacrifice 5 for Gnosis 2
+- Can sacrifice 5 for [[Gnosis]] 2
 
 ### Step Seven
 

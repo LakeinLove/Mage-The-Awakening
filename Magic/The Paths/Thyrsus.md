@@ -16,6 +16,8 @@ Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 
 ---
 
+To see examples and get an idea of the Thyrsus, read the [[Thyrsus#Thyrsus Stories|stories]] below.
+
 ## Ruling Arcana
 
 [[Life]] and [[Spirit]].\
@@ -65,3 +67,72 @@ Don’t cower in the knowledge that you’re an animal. Don’t despair in a wor
 
 [[Seers of the Throne]]:\
 If the [[Lie]]’s a prison (such a biased term — call it a habitat) then it ought to be a controlled environment. The [[Seers of the Throne|Seers]]’ Stewards keep [[Sleepers]] semi-domesticated. It’s a complex job utilizing a thousand delicate tactics. Make the environment too safe, and [[Sleepers]] unite, share their knowledge, and replace the survival urge with the drive for enlightenment. Threaten them to excess, and they might [[Awakening|Awaken]] out of pure desperation. They need a little hunger and fear of the dark to keep them home, safe, and confined to little dreams. Two [[Peoples/Exarchs|Exarchs]] help them preserve the balance of fear and comfort: the Nemesis of [[Spirit]], which maintains fear of the unknown, and the Raptor of Life who tempts [[Sleepers]] to trust instinct over free will.
+
+---
+
+## Thyrsus Stories
+
+Magic’s the flesh of the universe. We eat its meat, drink its blood, and caress it under the Moon. We are Hermits, but never alone.
+
+We Awaken between gods and beasts and, peering into their realms, see that they’re masks on the same face, rooms in a common lodge. We walk the Singing Stone between; we’re the singers and the song.
+
+We don’t matter to them except as prey, or because we bring cars that hit them and cats they snatch. That’s where it ends, usually. Look into my eyes. You’re thinking of a little man lurking in there, wondering if he wants to fuck, if he’s lying to you, if he’s happy or sad.\
+My thoughts matter to you.
+
+But they don’t give a shit about our thoughts; they operate according to older laws.\
+Ecologies.\
+Hungers.\
+Basic fears.\
+Those work just fine.
+
+Before they took your partner you assumed they can’t think at all, but you know better now, don’t you? They just don’t bother with our motives, the little people inside, unless somebody gives them the idea.\
+Unless I give them the idea.
+
+That’s the difference between a hunter and a murderer. That’s the difference between you having an accident and me getting revenge.
+
+### Who Are They
+
+He’s a Shaman who crawls the World Tree, climbs Kunlun and follows a song from world to world. Lonely but never isolated, he’s set apart by his duty: to speak to humans and spirits; tell each side what the other wants; and, when necessary, bring angry gods to heel.\
+The last part breaks his life’s symmetry. He’s from a world of flesh, not ephemera, and that’s where his final loyalties lie. Nevertheless, he sees the shared pulse of mortal and ephemeral life.\
+He sings its music.\
+He could even get lost in it to be reborn an Ecstatic, a living example of simple, forgotten truths. Followers of the Path often tread between these extremes along the living axis mundi that binds diverse realms and states of being.
+
+His soul erases the divisions that cut others in two. Others aren’t so lucky. The border makes them bleed. A Thyrsus heals or buries them as his conscience demands.
+
+They say all kinds of nonsense about stone circles, but you never cared. Farmers drag rocks from their fields, pile them in one place and leave a spot to build a fire. Everything else is superstitious bullshit.
+
+You had one of them out near the soybeans, with eight pretty black stones and the fire pit you’d use for parties. You found a ninth when you bought the adjoining plot — it made sense to add them to the rest.\
+Then your crops died.\
+Your cattle vanished.\
+Insurance wouldn’t cover it because, like you, they didn’t know what the hell was going on.
+
+But farmers help each other. They knew a woman who’d find the best spots for wells and warn them when a bad batch of feed came in.
+
+You paid cash; she went right to the stones.\
+After that it got hazy for you.\
+You woke from dreams of teeth and screaming cattle in your own bed, but she was there. Her first words were “Get a wheelbarrow,” and she told you where to put the stones back.
+
+That’s the terror of only knowing half the world, but when you see the rest your fear turns to ecstasy, even though it never gets any less dangerous.
+
+### Three Thyrsus
+
+Born Amy Wu, Nine Fox Thunder Awakened within the Heavenly Masters Taoist sect. After training as an exorcist, ascetic, and martial artist at Wudang, she joined the Guardians of the Veil, but only completed its immoral initiations out of respect for a grandfather who’d served that Order.
+
+She never forgot that she had Awakened to serve Xi Wangmu, Queen of the West: a goddess of vitality who ancient oracle bones also called the tiger-fanged spirit of pestilence. She’s left that Order behind to concentrate on Taoist sorcery: a so-called “Nameless Order".\
+Two pupils study under her, and her fox familiar serves as Xi Wangmu’s emissary.
+
+---
+
+Despite exercising Guardian subtlety in other arenas, Marple indulges a bit of Anglophilia in her appearance and Shadow Name while she investigates murders for her Order and her Legacy, the Eleventh Question.
+
+The thirty-something Marple was born to Chinese immigrants in Seattle, but dresses like a spinster aunt from the 1930s. She visualizes the Primal Wild through the lens of antique British Imperialism: polite relationships that hide vicious predation.\
+Marple is especially good at rousing the spirits of manufactured things to bear witness. To honour her ephemeral allies she takes her tea with them, sharing fine conversation and occasionally, very rare meat.
+
+---
+
+He implied he was a cannibal, but most of Boston’s Awakened were content to think of the Nemean as the son of a bitch who held Boston’s Hierarchy, and bullied unity out of that city of rivals.\
+His own [[Silver Ladder]] imprisoned him in Astral dreams for unspecified “moral crimes,” but he escaped before they could pry his motives and secrets from him.
+
+The Nemean Awakened after being beaten half to death by outlaw bikers. The Primal Wild taught him he was an apex predator in the making. He’s the lion who eats his rivals’ cubs, the king with the bloody sceptre. But a lion needs his pride, and he finds himself a fugitive from those he ruled.
+
+He forms and abandons cults around himself as something in him whispers of a need to evolve further, and at last synthesize his humanity with his pure, Ecstatic desire to dominate.

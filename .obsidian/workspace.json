@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary Pages/Character Creation.md",
+                "file": "Magic/The Paths/Thyrsus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary Pages/Character Creation.md",
+                "file": "Magic/The Paths/Thyrsus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary Pages/Character Creation.md",
+                "file": "Magic/The Paths/Thyrsus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary Pages/Character Creation.md"
+                "file": "Magic/The Paths/Thyrsus.md"
               }
             }
           }
@@ -149,8 +149,12 @@
   },
   "active": "a9bc2aec70437f37",
   "lastOpenFiles": [
-    "Mage Society/Orders/Silver Ladder.md",
+    "Magic/The Paths/Obrimos.md",
+    "Magic/The Paths/Moros.md",
+    "Magic/The Paths/Acanthus.md",
+    "Magic/The Paths/Mastigos.md",
     "Summary Pages/Character Creation.md",
+    "Mage Society/Orders/Silver Ladder.md",
     "Mage Society/Orders/Mysterium.md",
     "Mage Society/Orders/Guardians of the Veil.md",
     "Mage Society/Orders/Free Council.md",
@@ -171,10 +175,6 @@
     "Supernal World.md",
     "Magic/Magic Concepts/High Speech.md",
     "Magic/Practices/Apprentice/Practice of Veiling.md",
-    "Mysteries.md",
-    "Character Mechanics/Skills/Physical/Brawl.md",
-    "Magic/Magic Concepts/Nimbus/Nimbus.md",
-    "Magic/Magic Concepts/Nimbus/Immediate Nimbus.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",

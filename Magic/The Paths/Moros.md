@@ -16,6 +16,8 @@ Favoured [[Resistance]] [[Attribute]]: [[Composure]]
 
 ---
 
+To see examples and get an idea of the Moros, read the [[Moros#Moros Stories|stories]] below.
+
 ## Ruling Arcana
 
 [[Death]] and [[Matter]].\
@@ -63,3 +65,79 @@ How do you foster human potential when you know that every prodigy will die, and
 
 [[Seers of the Throne]]:\
 Seer Executors use the [[Path]]’s insights to perfect the materialism that counterparts in other Orders avoid. The doctrines of the Chancellor, [[Peoples/Exarchs|Exarch]] of [[Matter]], tell them that wealth is a god ever-devoured by scarcity. Executors balance deity and devil, setting the fortunes of individuals and nations. As [[Peoples/Exarchs|Exarch]] of Death, the Psychopomp condemns souls to Fallen incarnations or teases anguished ghosts from them. Seer Moros trade in souls and ghosts as commodities like any other. By keeping them from the Supernal Realms, the Psychopomp intends them to be used thus.
+
+## Moros Stories
+
+Magic is a secret transformation. Death is not still, and gold flowers from the World’s corruption.
+
+We Awaken to this secret: Within adamantine permanence lies change, and within change, permanence. For the price of the Leaden Coin, we see that nothing ends.
+
+This is not your husband.\
+He’s dead.\
+He’s changing.\
+His body rots in the grave.
+
+They’re going to shut down his social media. One day, you’ll see a face he never had, changed by the flavours of memory. This ghost was part of your husband, once. He thinks he’s the essential part, but he’s a component.\
+He’s a fragment that loves you too much and doesn’t care enough.\
+He’s the frustration that smashes glasses and screams in the night.\
+He’s the only part that isn’t changing, nourishing the future, or making space for new life.\
+I mean to reunite this ghost with the rest of his soul, leaving you with the man as you’re meant to remember him, softening with time. 
+
+Only memories live forever, if you pass them on — and they’ll change, as they were meant to.
+
+### Who Are They
+
+She’s an Alchemist: a scientist of change who sees atoms hum, ready to transform at her urging. She can command the slain to rise again by harnessing a body’s remaining mystic potential.\
+She can even adjust the motion of a soul, luring it away from the cycle of life and death. People believe the dead must cross into some great below or heaven above when their bodies fall, the puppet’s strings cut; but Moros reach across the gulf and speak to the dead, or correct a malfunctioning demise where part of the soul stays behind.\
+Moros who concentrate on misplaced souls, ghosts, and corpses are better known as Necromancers.
+
+They can make you rich but never happy.\
+They can bring him back, but he’ll never return to who he was.
+
+You loved that car: a 1970 Chevelle 454 SS.\
+Like new wasn’t good enough; you made it better than new, machining the parts yourself until you could practically see a Detroit line worker’s handprint fading in the door.
+
+But you loved to drink too, and killed a twelve-pack and took your baby for a spin.\
+Horns.\
+Lights.\
+Something tore your car apart and they put it back together wrong. You can’t get out. You won’t get out, even when that asshole brother of yours drives it like he owns it, and refuses to even acknowledge your goddamn presence. You kicked his ass right out of the driver’s seat.
+
+That’s when he got the new mechanic. You were going to toss this fucker too but he nodded at you and said, “Don’t worry. I’ll fix it up just right".\
+Every time you try to help him he slaps your hand out of the way. But you’ve got to admit that he brings perfect parts every time.
+
+When he finishes, maybe it’ll be time to let your brother drive and move on to something new.\
+Maybe that’s why your brother’s crying.\
+You’ll have to ask the mechanic.\
+He listens.
+
+The Styx never stops flowing, and its black waters will carry everything you value away
+
+### Three Moros
+
+Brother Owl combines the roles of alchemist, necromancer, and priest to serve those in need.\
+As an alchemist, he rebuilds and renews broken things in run-down communities.\
+As a necromancer, he pacifies angry ghosts and relays whatever they never got a chance to tell the living.
+
+These all fulfil a basic commitment to the priesthood even if, after abandoning his church, it’s a priesthood of one.\
+He still wears the old Episcopal “dog collar” along with the rugged clothes he needs for a traveller’s life. He still believes in God, but has no taste for any particular faith.
+
+He’s loosely associated with the Silver Ladder, but believes that humanity can’t return to glory without getting its collective house in order first.
+
+---
+
+The [[Guardians of the Veil|Guardian]] killer called Mayfly paid the Leaden Coin in middle age, after founding a family and helping his kids get a good start.\
+He thought that for all practical purposes his life was over and Death obliged, for a time.
+
+He Awakened during a stroke and returned from [[Stygia]] with a new purpose: to take life, after years of helping it grow. He’s good at making quiet killings look accidental, not only to cover his tracks, but to minimize the trauma his victims’ families might feel — and his family might, if they discovered he was an assassin.
+
+His wife has passed on, but he has grown children who check on their father and worry that he spends too much time alone.
+
+---
+
+Iosis has been one of the richest women in the world, sold drugs on a cracked Milwaukee street corner, and worked the line building ICBMs.\
+Each time, the woman they call “Mammon’s sister” walked in with a goal, met it, and moved on.
+
+She believes that no servant of the Exarchs should develop strong personal preferences, so she finds it easy to adopt and abandon identities. Her connections span all walks of life, giving her a more accurate window to the world than her elitist comrades.\
+Her colourless life hides the fact that no matter how often she changes herself, she can’t deny her accumulated experience of human kindness and suffering.
+
+She is starting to use her subtlety to cover reluctance, inefficiency, and a fear of being found out by other Seers.
