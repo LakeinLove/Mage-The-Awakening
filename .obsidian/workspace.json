@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic/The Paths/Thyrsus.md",
+                "file": "Summary Pages/What is Mage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic/The Paths/Thyrsus.md",
+                "file": "Summary Pages/What is Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic/The Paths/Thyrsus.md",
+                "file": "Summary Pages/What is Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic/The Paths/Thyrsus.md"
+                "file": "Summary Pages/What is Mage.md"
               }
             }
           }
@@ -149,11 +149,13 @@
   },
   "active": "a9bc2aec70437f37",
   "lastOpenFiles": [
+    "Summary Pages/Character Creation.md",
+    "Summary Pages/What is Mage.md",
+    "Magic/The Paths/Thyrsus.md",
     "Magic/The Paths/Obrimos.md",
     "Magic/The Paths/Moros.md",
     "Magic/The Paths/Acanthus.md",
     "Magic/The Paths/Mastigos.md",
-    "Summary Pages/Character Creation.md",
     "Mage Society/Orders/Silver Ladder.md",
     "Mage Society/Orders/Mysterium.md",
     "Mage Society/Orders/Guardians of the Veil.md",
@@ -173,8 +175,6 @@
     "Magic/Magic Concepts/Mana/Gaining Mana.md",
     "Magic/Practices/Initiate/Practice of Unveiling.md",
     "Supernal World.md",
-    "Magic/Magic Concepts/High Speech.md",
-    "Magic/Practices/Apprentice/Practice of Veiling.md",
     "Peoples/Ephemeral Entities",
     "The Worlds/The Realms Invisible",
     "The Worlds/Realms of Earth and Flesh",
